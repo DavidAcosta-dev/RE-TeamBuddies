@@ -1,0 +1,11 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+# analysis artifacts
+exports/*.jsonl
+exports/*.csv
+exports/*.log
+# ghidra temp/projects
+*.ghidra
+*.rep
