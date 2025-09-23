@@ -6,6 +6,8 @@ __pycache__/
 exports/*.jsonl
 exports/*.csv
 exports/*.log
+# extracted assets
+assets/extracted/
 # ghidra temp/projects
 *.ghidra
 *.rep

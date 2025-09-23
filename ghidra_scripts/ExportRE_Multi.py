@@ -1,6 +1,6 @@
 #@category Export
-# Exports functions (+callers/callees/strings/decompilation) to ~/tb-re/exports/bundle_ghidra.jsonl
-import json, os, codecs
+# Export functions (+callers/callees/strings/decompilation) to ~/tb-re/exports/bundle_<program>.jsonl
+import json, os, re, codecs
 from ghidra.app.decompiler import DecompInterface
 
 OUT_DIR = os.path.expanduser("~" + "/tb-re/exports")
@@ -8,11 +8,19 @@ try:
     os.makedirs(OUT_DIR)
 except Exception:
     pass
-OUT = os.path.join(OUT_DIR, "bundle_ghidra.jsonl")
 
 prog = currentProgram
 listing = prog.getListing()
 fm = prog.getFunctionManager()
+
+# sanitize program name for file output
+def sanitize(name):
+    name = re.sub(r"\s+", "_", name)
+    name = re.sub(r"[^A-Za-z0-9._-]", "_", name)
+    return name
+
+out_name = "bundle_" + sanitize(prog.getName()) + ".jsonl"
+OUT = os.path.join(OUT_DIR, out_name)
 
 iface = DecompInterface()
 iface.openProgram(prog)
@@ -57,14 +65,16 @@ try:
         for ref in getReferencesFrom(fn.getEntryPoint()):
             if ref.getReferenceType().isCall():
                 tf = getFunctionAt(ref.getToAddress())
-                if tf: callees.append(tf.getName())
+                if tf:
+                    callees.append(tf.getName())
 
         # callers from xrefs to entry
         callers = []
         for ref in getReferencesTo(fn.getEntryPoint()):
             if ref.getReferenceType().isCall():
                 sf = getFunctionContaining(ref.getFromAddress())
-                if sf: callers.append(sf.getName())
+                if sf:
+                    callers.append(sf.getName())
 
         rec = {
             "tool": "ghidra",
@@ -75,7 +85,7 @@ try:
             "strings_used": strings_used_in_body(fn),
             "decompilation": decompile(fn)
         }
-        f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+    f.write(json.dumps(rec, ensure_ascii=False) + "\n")
 finally:
     f.close()
 print("Wrote " + OUT)
