@@ -1,0 +1,6 @@
+bin,addr,name,pretty,dist,hdr_hits,state_hits,memcpy,loops,tag_hits,tags,helper_hits,callers,callees,score
+MAIN.EXE,0x1dd04,FUN_0001dd04,FUN_0001dd04,1,0,0,0,0,0,,0,6,1,21
+MAIN.EXE,0x1a100,FUN_0001a100,cdstream_noop,1,0,0,0,0,0,,0,3,0,19
+MAIN.EXE,0x1dd78,FUN_0001dd78,FUN_0001dd78,1,0,0,0,0,0,,0,3,1,19
+MAIN.EXE,0x1a440,FUN_0001a440,FUN_0001a440,2,0,0,0,0,0,,0,5,0,17
+MAIN.EXE,0x30a98,FUN_00030a98,FUN_00030a98,2,0,0,0,0,0,,0,1,0,13

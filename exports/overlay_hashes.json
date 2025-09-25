@@ -1,0 +1,146 @@
+[
+  {
+    "file": "BUDDIES.DAT",
+    "size": 182161408,
+    "sha1": "9fd8b43501e81741c2cac0584af21d423cad9e53",
+    "class": "container"
+  },
+  {
+    "file": "ENG.BIN",
+    "size": 469228,
+    "sha1": "7a0044c6e30ddba071dbcb7e79c02e7b225f76ee",
+    "class": "overlay"
+  },
+  {
+    "file": "GAME.BIN",
+    "size": 353700,
+    "sha1": "ed9e792eaef715c1d28c73db929a312cf505b3d9",
+    "class": "core"
+  },
+  {
+    "file": "LNG.BIN",
+    "size": 4408,
+    "sha1": "f043c36e67149c8aff61c35f903ef67f8a098a22",
+    "class": "overlay"
+  },
+  {
+    "file": "MNU.BIN",
+    "size": 54904,
+    "sha1": "6eaefbfb271bf6e502fcd90f111b9874a0d04b01",
+    "class": "overlay"
+  },
+  {
+    "file": "MPLR.BIN",
+    "size": 4152,
+    "sha1": "01b63f7af47b89a40646e28f0aec1bbf569e1cd9",
+    "class": "overlay"
+  },
+  {
+    "file": "MPW.XA",
+    "size": 3687980,
+    "sha1": "798766389daecee9a687f44e2e8eb689fa22ab2e",
+    "class": "audio_xa"
+  },
+  {
+    "file": "MPW_L1.XA",
+    "size": 3687980,
+    "sha1": "48b528f37c0fe22021cc5136c27f335142f01ae2",
+    "class": "audio_xa"
+  },
+  {
+    "file": "MPW_L2.XA",
+    "size": 3687980,
+    "sha1": "53de87852b08d3975f38ed94ed2e101d9894559a",
+    "class": "audio_xa"
+  },
+  {
+    "file": "OVERLAY.DAT",
+    "size": 512,
+    "sha1": "f4a56723c39abe1745adddbf5e6af760e3d70c62",
+    "class": "container"
+  },
+  {
+    "file": "ROT.BIN",
+    "size": 48244,
+    "sha1": "88177fc97e5ddbbba369284d5ff3ed470919e3a9",
+    "class": "overlay"
+  },
+  {
+    "file": "SCES_019.23",
+    "size": 151552,
+    "sha1": "92fbbd3692027102ff23948577b747b2be01c5a9",
+    "class": "boot"
+  },
+  {
+    "file": "SPL.XA",
+    "size": 3687980,
+    "sha1": "2a35ebd646e5d2577afc4edba1be95f0b2e046cc",
+    "class": "audio_xa"
+  },
+  {
+    "file": "SPL_L1.XA",
+    "size": 3687980,
+    "sha1": "b8c7745f8d680ca83c31ef7579d38de77aedcbc9",
+    "class": "audio_xa"
+  },
+  {
+    "file": "SPL_L2.XA",
+    "size": 3687980,
+    "sha1": "33274c970e4ad9f85583ca37cdbbcbe05494094c",
+    "class": "audio_xa"
+  },
+  {
+    "file": "SPW.XA",
+    "size": 3687980,
+    "sha1": "6c6efcb1f5e6cf9b927a562474785fc6444caaf8",
+    "class": "audio_xa"
+  },
+  {
+    "file": "SPW_L1.XA",
+    "size": 3687980,
+    "sha1": "b6826e989dbe0800cc0b3676586e0f6525370c2f",
+    "class": "audio_xa"
+  },
+  {
+    "file": "SPW_L2.XA",
+    "size": 3687980,
+    "sha1": "f1f9440e65c0038f0e33e542a908f2cef0f41517",
+    "class": "audio_xa"
+  },
+  {
+    "file": "SYS.BIN",
+    "size": 100340,
+    "sha1": "8c8281a52c7839668f9de74979eae37ef921945f",
+    "class": "core"
+  },
+  {
+    "file": "SYSTEM.CNF",
+    "size": 60,
+    "sha1": "b73fa5a965652107324abb4bc8a73a14dc083622",
+    "class": "config"
+  },
+  {
+    "file": "Team Buddies (E) [SCES-01923].bin",
+    "size": 747952464,
+    "sha1": "6d41db41c1eeaf9aa65a733c2fbc0e5ad32ba5b6",
+    "class": "other"
+  },
+  {
+    "file": "TEAMBUDG.XA",
+    "size": 141684524,
+    "sha1": "10e5c6913fab14d1dfac638d66d2c1f5f85814b3",
+    "class": "audio_xa"
+  },
+  {
+    "file": "TEAMBUDM.XA",
+    "size": 109076396,
+    "sha1": "ae68ddacd7dcd6b87e34a11d9125e52d7b057588",
+    "class": "audio_xa"
+  },
+  {
+    "file": "TUTO.BIN",
+    "size": 15504,
+    "sha1": "b82717d28d5a9eb189d6b2974ca48c5274ca6b18",
+    "class": "overlay"
+  }
+]

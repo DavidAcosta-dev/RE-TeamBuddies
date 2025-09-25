@@ -1,0 +1,602 @@
+# Paired state togglers (pickup/drop/throw suspects)
+
+- field=+0x14 | type=assign_nonzero_vs_zero | score=2
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=2
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=2
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=2
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x20 | type=assign_nonzero_vs_zero | score=2
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0xba | type=assign_nonzero_vs_zero | score=2
+  - A: MAIN.EXE:FUN_0002233c @ 0x2233c d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_000235d4 @ 0x235d4 d=0 ->=0 m4=0 tok=0
+- field=+0x10 | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_000083ac @ 0x83ac d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+- field=+0x10 | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00023390 @ 0x23390 d=2 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_000011d0 @ 0x11d0 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_000011d0 @ 0x11d0 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_00003454 @ 0x3454 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_00003454 @ 0x3454 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001dd68 @ 0x1dd68 d=2 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001dd68 @ 0x1dd68 d=2 ->=0 m4=0 tok=0
+- field=+0x18 | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_000011d0 @ 0x11d0 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_00003454 @ 0x3454 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a734 @ 0x1a734 d=2 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x20 | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_000011d0 @ 0x11d0 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x20 | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_00003454 @ 0x3454 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x20 | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x24 | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_000011d0 @ 0x11d0 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x24 | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_00003454 @ 0x3454 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x44 | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021ef4 @ 0x21ef4 d=2 ->=0 m4=0 tok=0
+- field=+0x44 | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_0001a804 @ 0x1a804 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021ef4 @ 0x21ef4 d=2 ->=0 m4=0 tok=0
+- field=+0x34 | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x3c | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x40 | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x38 | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0xba | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_00022234 @ 0x22234 d=3 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_000235d4 @ 0x235d4 d=0 ->=0 m4=0 tok=0
+- field=+0xba | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_0002230c @ 0x2230c d=3 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_000235d4 @ 0x235d4 d=0 ->=0 m4=0 tok=0
+- field=+0xba | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_000235d4 @ 0x235d4 d=0 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00023d74 @ 0x23d74 d=3 ->=0 m4=0 tok=0
+- field=+0xba | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_000235d4 @ 0x235d4 d=0 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00023f50 @ 0x23f50 d=3 ->=0 m4=0 tok=0
+- field=+0xba | type=assign_nonzero_vs_zero | score=1
+  - A: MAIN.EXE:FUN_000235d4 @ 0x235d4 d=0 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_000240a0 @ 0x240a0 d=3 ->=0 m4=0 tok=0
+- field=+0x10 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_000011d0 @ 0x11d0 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_000083ac @ 0x83ac d=2 ->=0 m4=0 tok=0
+- field=+0x10 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_000011d0 @ 0x11d0 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00023390 @ 0x23390 d=2 ->=0 m4=0 tok=0
+- field=+0x10 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00003454 @ 0x3454 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_000083ac @ 0x83ac d=2 ->=0 m4=0 tok=0
+- field=+0x10 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00003454 @ 0x3454 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00023390 @ 0x23390 d=2 ->=0 m4=0 tok=0
+- field=+0x10 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_000083ac @ 0x83ac d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00023390 @ 0x23390 d=2 ->=0 m4=0 tok=0
+- field=+0x10 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_000233dc @ 0x233dc d=3 ->=0 m4=0 tok=0
+- field=+0x10 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00023410 @ 0x23410 d=3 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0000a070 @ 0xa070 d=3 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00018c40 @ 0x18c40 d=3 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a28c @ 0x1a28c d=3 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001db9c @ 0x1db9c d=3 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001dcb0 @ 0x1dcb0 d=3 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001deb4 @ 0x1deb4 d=3 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0000a070 @ 0xa070 d=3 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00018c40 @ 0x18c40 d=3 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a28c @ 0x1a28c d=3 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001db9c @ 0x1db9c d=3 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001deb4 @ 0x1deb4 d=3 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_0001dcb0 @ 0x1dcb0 d=3 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x18 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_000011d0 @ 0x11d0 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x18 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00003454 @ 0x3454 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x18 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001dcb0 @ 0x1dcb0 d=3 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_000011d0 @ 0x11d0 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00003454 @ 0x3454 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00003cf0 @ 0x3cf0 d=3 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a734 @ 0x1a734 d=2 ->=0 m4=0 tok=0
+- field=+0x20 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_000011d0 @ 0x11d0 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x20 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00003454 @ 0x3454 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x20 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0000cc00 @ 0xcc00 d=3 ->=0 m4=0 tok=0
+- field=+0x20 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0000d058 @ 0xd058 d=3 ->=0 m4=0 tok=0
+- field=+0x24 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_000011d0 @ 0x11d0 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x24 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00003454 @ 0x3454 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x24 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00009f08 @ 0x9f08 d=3 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x24 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_0001a558 @ 0x1a558 d=3 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x1 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_0000a4f0 @ 0xa4f0 d=3 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a804 @ 0x1a804 d=1 ->=0 m4=0 tok=0
+- field=+0x44 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021ef4 @ 0x21ef4 d=2 ->=0 m4=0 tok=0
+- field=+0x8c | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_000083ac @ 0x83ac d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00008528 @ 0x8528 d=2 ->=0 m4=0 tok=0
+- field=+0x8c | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_000083ac @ 0x83ac d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x8c | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_000083ac @ 0x83ac d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0002273c @ 0x2273c d=2 ->=0 m4=0 tok=0
+- field=+0x8c | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00008528 @ 0x8528 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x8c | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00008528 @ 0x8528 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0002273c @ 0x2273c d=2 ->=0 m4=0 tok=0
+- field=+0x90 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_000083ac @ 0x83ac d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00008528 @ 0x8528 d=2 ->=0 m4=0 tok=0
+- field=+0x90 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_000083ac @ 0x83ac d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00008ce4 @ 0x8ce4 d=2 ->=0 m4=0 tok=0
+- field=+0x90 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_000083ac @ 0x83ac d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x90 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_000083ac @ 0x83ac d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0002273c @ 0x2273c d=2 ->=0 m4=0 tok=0
+- field=+0x90 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00008528 @ 0x8528 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x90 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00008ce4 @ 0x8ce4 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x90 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0002273c @ 0x2273c d=2 ->=0 m4=0 tok=0
+- field=+0x88 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_000083ac @ 0x83ac d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00008ce4 @ 0x8ce4 d=2 ->=0 m4=0 tok=0
+- field=+0x88 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_000083ac @ 0x83ac d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0002273c @ 0x2273c d=2 ->=0 m4=0 tok=0
+- field=+0x88 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_00008ce4 @ 0x8ce4 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x88 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0002273c @ 0x2273c d=2 ->=0 m4=0 tok=0
+- field=+0x34 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a734 @ 0x1a734 d=2 ->=0 m4=0 tok=0
+- field=+0x34 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0002273c @ 0x2273c d=2 ->=0 m4=0 tok=0
+- field=+0x4a | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_0001d5f0 @ 0x1d5f0 d=4 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001d600 @ 0x1d600 d=0 ->=0 m4=0 tok=0
+- field=+0xb8 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_0001fdb4 @ 0x1fdb4 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00023588 @ 0x23588 d=2 ->=0 m4=0 tok=0
+- field=+0xb9 | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_0002273c @ 0x2273c d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00023390 @ 0x23390 d=2 ->=0 m4=0 tok=0
+- field=+0xba | type=assign_nonzero_vs_zero | score=0
+  - A: MAIN.EXE:FUN_0002233c @ 0x2233c d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00023588 @ 0x23588 d=2 ->=0 m4=0 tok=0
+- field=+0xc | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001ea04 @ 0x1ea04 d=4 ->=0 m4=0 tok=0
+- field=+0xc | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001ec44 @ 0x1ec44 d=4 ->=0 m4=0 tok=0
+- field=+0xc | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001ec64 @ 0x1ec64 d=4 ->=0 m4=0 tok=0
+- field=+0x10 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000011d0 @ 0x11d0 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_000233dc @ 0x233dc d=3 ->=0 m4=0 tok=0
+- field=+0x10 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000011d0 @ 0x11d0 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00023410 @ 0x23410 d=3 ->=0 m4=0 tok=0
+- field=+0x10 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00003454 @ 0x3454 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_000233dc @ 0x233dc d=3 ->=0 m4=0 tok=0
+- field=+0x10 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00003454 @ 0x3454 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00023410 @ 0x23410 d=3 ->=0 m4=0 tok=0
+- field=+0x10 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000080e8 @ 0x80e8 d=3 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_000083ac @ 0x83ac d=2 ->=0 m4=0 tok=0
+- field=+0x10 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000080e8 @ 0x80e8 d=3 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00023390 @ 0x23390 d=2 ->=0 m4=0 tok=0
+- field=+0x10 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000083ac @ 0x83ac d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0000a070 @ 0xa070 d=3 ->=0 m4=0 tok=0
+- field=+0x10 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000083ac @ 0x83ac d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00018f7c @ 0x18f7c d=3 ->=0 m4=0 tok=0
+- field=+0x10 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000083ac @ 0x83ac d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_000233dc @ 0x233dc d=3 ->=0 m4=0 tok=0
+- field=+0x10 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000083ac @ 0x83ac d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00023410 @ 0x23410 d=3 ->=0 m4=0 tok=0
+- field=+0x10 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_000233a0 @ 0x233a0 d=4 ->=0 m4=0 tok=0
+- field=+0x10 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0000a070 @ 0xa070 d=3 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00023390 @ 0x23390 d=2 ->=0 m4=0 tok=0
+- field=+0x10 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00018f7c @ 0x18f7c d=3 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00023390 @ 0x23390 d=2 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000011d0 @ 0x11d0 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001dcb0 @ 0x1dcb0 d=3 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00003454 @ 0x3454 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001dcb0 @ 0x1dcb0 d=3 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00005f78 @ 0x5f78 d=4 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00005f78 @ 0x5f78 d=4 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0000d438 @ 0xd438 d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a2a0 @ 0x1a2a0 d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001db60 @ 0x1db60 d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001dcd4 @ 0x1dcd4 d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001e000 @ 0x1e000 d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001e674 @ 0x1e674 d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001ea04 @ 0x1ea04 d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001ec44 @ 0x1ec44 d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001ec64 @ 0x1ec64 d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001ed30 @ 0x1ed30 d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_000215ec @ 0x215ec d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021644 @ 0x21644 d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000090e0 @ 0x90e0 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021708 @ 0x21708 d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0000d438 @ 0xd438 d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a2a0 @ 0x1a2a0 d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001e000 @ 0x1e000 d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001e674 @ 0x1e674 d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001ea04 @ 0x1ea04 d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001ec44 @ 0x1ec44 d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001ec64 @ 0x1ec64 d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001ed30 @ 0x1ed30 d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_000215ec @ 0x215ec d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021644 @ 0x21644 d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021708 @ 0x21708 d=4 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001db60 @ 0x1db60 d=4 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001dcb0 @ 0x1dcb0 d=3 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001dd68 @ 0x1dd68 d=2 ->=0 m4=0 tok=0
+- field=+0x14 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001dcd4 @ 0x1dcd4 d=4 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x18 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000011d0 @ 0x11d0 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001dcb0 @ 0x1dcb0 d=3 ->=0 m4=0 tok=0
+- field=+0x18 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00003454 @ 0x3454 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001dcb0 @ 0x1dcb0 d=3 ->=0 m4=0 tok=0
+- field=+0x18 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001db60 @ 0x1db60 d=4 ->=0 m4=0 tok=0
+- field=+0x18 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001dcd4 @ 0x1dcd4 d=4 ->=0 m4=0 tok=0
+- field=+0x18 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001db9c @ 0x1db9c d=3 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00002e74 @ 0x2e74 d=4 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00003cf0 @ 0x3cf0 d=3 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a674 @ 0x1a674 d=4 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001e674 @ 0x1e674 d=4 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001ea04 @ 0x1ea04 d=4 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001ec44 @ 0x1ec44 d=4 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001ec64 @ 0x1ec64 d=4 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001ed30 @ 0x1ed30 d=4 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021974 @ 0x21974 d=4 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021cf0 @ 0x21cf0 d=4 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001ea04 @ 0x1ea04 d=4 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001ec44 @ 0x1ec44 d=4 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001ec64 @ 0x1ec64 d=4 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001ed30 @ 0x1ed30 d=4 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021974 @ 0x21974 d=4 ->=0 m4=0 tok=0
+- field=+0x1c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021cf0 @ 0x21cf0 d=4 ->=0 m4=0 tok=0
+- field=+0x20 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000011d0 @ 0x11d0 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0000cc00 @ 0xcc00 d=3 ->=0 m4=0 tok=0
+- field=+0x20 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000011d0 @ 0x11d0 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0000d058 @ 0xd058 d=3 ->=0 m4=0 tok=0
+- field=+0x20 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00003454 @ 0x3454 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0000cc00 @ 0xcc00 d=3 ->=0 m4=0 tok=0
+- field=+0x20 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00003454 @ 0x3454 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0000d058 @ 0xd058 d=3 ->=0 m4=0 tok=0
+- field=+0x20 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a3b0 @ 0x1a3b0 d=4 ->=0 m4=0 tok=0
+- field=+0x20 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021974 @ 0x21974 d=4 ->=0 m4=0 tok=0
+- field=+0x20 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009708 @ 0x9708 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021cf0 @ 0x21cf0 d=4 ->=0 m4=0 tok=0
+- field=+0x20 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001a674 @ 0x1a674 d=4 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x20 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001e674 @ 0x1e674 d=4 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x20 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001ea04 @ 0x1ea04 d=4 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x20 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001ec44 @ 0x1ec44 d=4 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x20 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001ec64 @ 0x1ec64 d=4 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x20 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021644 @ 0x21644 d=4 ->=0 m4=0 tok=0
+- field=+0x24 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00009f08 @ 0x9f08 d=3 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x24 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a558 @ 0x1a558 d=3 ->=0 m4=0 tok=0
+- field=+0x24 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001e674 @ 0x1e674 d=4 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x24 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001ea04 @ 0x1ea04 d=4 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x24 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001ec44 @ 0x1ec44 d=4 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x24 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001ec64 @ 0x1ec64 d=4 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x24 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001ed30 @ 0x1ed30 d=4 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+- field=+0x24 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_000215ec @ 0x215ec d=4 ->=0 m4=0 tok=0
+- field=+0x24 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021644 @ 0x21644 d=4 ->=0 m4=0 tok=0
+- field=+0x24 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021974 @ 0x21974 d=4 ->=0 m4=0 tok=0
+- field=+0x24 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00021424 @ 0x21424 d=1 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021cf0 @ 0x21cf0 d=4 ->=0 m4=0 tok=0
+- field=+0x44 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001c7fc @ 0x1c7fc d=3 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021ef4 @ 0x21ef4 d=2 ->=0 m4=0 tok=0
+- field=+0x44 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001c83c @ 0x1c83c d=3 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00021ef4 @ 0x21ef4 d=2 ->=0 m4=0 tok=0
+- field=+0x8c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000080e8 @ 0x80e8 d=3 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00008528 @ 0x8528 d=2 ->=0 m4=0 tok=0
+- field=+0x8c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000080e8 @ 0x80e8 d=3 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+- field=+0x8c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000080e8 @ 0x80e8 d=3 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0002273c @ 0x2273c d=2 ->=0 m4=0 tok=0
+- field=+0x8c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00008158 @ 0x8158 d=3 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_000083ac @ 0x83ac d=2 ->=0 m4=0 tok=0
+- field=+0x8c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00008158 @ 0x8158 d=3 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_00008528 @ 0x8528 d=2 ->=0 m4=0 tok=0
+- field=+0x8c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000083ac @ 0x83ac d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a440 @ 0x1a440 d=3 ->=0 m4=0 tok=0
+- field=+0x8c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00008528 @ 0x8528 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a440 @ 0x1a440 d=3 ->=0 m4=0 tok=0
+- field=+0x8c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_00008528 @ 0x8528 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001f734 @ 0x1f734 d=3 ->=0 m4=0 tok=0
+- field=+0x8c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001a348 @ 0x1a348 d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001f734 @ 0x1f734 d=3 ->=0 m4=0 tok=0
+- field=+0x8c | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_0001f734 @ 0x1f734 d=3 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0002273c @ 0x2273c d=2 ->=0 m4=0 tok=0
+- field=+0x90 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000083ac @ 0x83ac d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001a440 @ 0x1a440 d=3 ->=0 m4=0 tok=0
+- field=+0x90 | type=assign_nonzero_vs_zero | score=-1
+  - A: MAIN.EXE:FUN_000083ac @ 0x83ac d=2 ->=0 m4=0 tok=0
+  - B: MAIN.EXE:FUN_0001f734 @ 0x1f734 d=3 ->=0 m4=0 tok=0

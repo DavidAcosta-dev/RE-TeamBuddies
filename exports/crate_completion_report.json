@@ -1,0 +1,83 @@
+{
+  "stats": {
+    "pairs": 0,
+    "pairs_csv_rows": 8615,
+    "cand_rows": 0,
+    "crate_cands": 0,
+    "crate_edges": 102,
+    "tokens_hits": 2,
+    "string_hits": 1,
+    "indirect_slots": 2,
+    "neg_mut": 3,
+    "has_state_machine": 1
+  },
+  "score_items": [
+    {
+      "item": "State machine documented",
+      "present": true,
+      "weight": 20,
+      "note": "notes/crate_state_machine.md present"
+    },
+    {
+      "item": "Pickup/Drop pairs identified",
+      "present": true,
+      "weight": 20,
+      "note": "pickup_drop_pairs.* contains rows"
+    },
+    {
+      "item": "Crate system candidates enumerated",
+      "present": false,
+      "weight": 10,
+      "note": "crate_system_candidates.* present with rows"
+    },
+    {
+      "item": "Crate candidate edges",
+      "present": true,
+      "weight": 10,
+      "note": "crate_candidate_edges.md table populated"
+    },
+    {
+      "item": "Indirect slots analysis",
+      "present": true,
+      "weight": 10,
+      "note": "indirect_slots.md has content"
+    },
+    {
+      "item": "Negative mutation scan",
+      "present": true,
+      "weight": 10,
+      "note": "cratepath_neg_mutations.md has content"
+    },
+    {
+      "item": "Pickup/Drop candidates",
+      "present": false,
+      "weight": 5,
+      "note": "pickup_drop_candidates.* present with rows"
+    },
+    {
+      "item": "Crate tokens scan",
+      "present": true,
+      "weight": 5,
+      "note": "crate_tokens_binary_scan.md present"
+    },
+    {
+      "item": "Crate strings scan",
+      "present": true,
+      "weight": 5,
+      "note": "crate_string_hits.md present"
+    },
+    {
+      "item": "Timing constants captured",
+      "present": true,
+      "weight": 5,
+      "note": "placeholder until a dedicated timing extractor is added"
+    }
+  ],
+  "completion_pct": 85,
+  "next_steps": [
+    "Extract and normalize timing constants (pickup wind-up, throw cooldown, carry decay)",
+    "Link input bits to pickup/drop transitions across all relevant hubs",
+    "Enumerate edge cases: interrupted pickup, damage drop, multi-carry conflicts",
+    "Confirm resource refs (animations/sounds) and callback ordering guarantees"
+  ]
+}

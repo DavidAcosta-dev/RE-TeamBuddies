@@ -1,0 +1,17 @@
+function,score,role,mask,trig_table,cop_usage,angle_normalize,shift,table_index_math,dual_trig_pair
+FUN_00001ad4,2.0,angle_normalization_update,True,True,False,True,True,True,False
+FUN_00005c9c,2.0,angle_wrap_only,True,False,False,False,False,False,False
+FUN_00007420,2.0,angle_wrap_only,True,False,False,False,False,False,False
+FUN_00022e5c,2.0,angle_wrap_only,True,False,False,True,False,True,False
+FUN_00023000,2.0,angle_normalization_update,True,True,False,True,False,True,False
+FUN_00023110,2.0,angle_normalization_update,True,True,False,True,True,True,True
+FUN_00023180,2.0,angle_normalization_update,True,True,False,True,True,True,False
+FUN_00031b38,2.0,angle_normalization_update,True,True,False,True,False,True,False
+FUN_0003e494,2.0,angle_wrap_only,True,False,False,False,False,False,False
+FUN_0003e4b4,2.0,angle_wrap_only,True,False,True,False,False,False,False
+FUN_000402e0,2.0,angle_wrap_only,True,False,False,False,False,False,False
+FUN_0004033c,2.0,angle_wrap_only,True,False,False,False,False,False,False
+FUN_00040a98,2.0,angle_normalization_update,True,True,False,True,True,True,False
+FUN_000475dc,2.0,matrix_apply_or_camera_setup,True,True,True,True,False,True,True
+FUN_00048150,2.0,angle_wrap_only,True,False,False,False,False,False,False
+FUN_000431e4,1.5,angle_wrap_only,True,False,False,False,False,False,False

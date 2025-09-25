@@ -60,13 +60,19 @@ try:
         ea   = int(fn.getEntryPoint().getOffset())
         size = int(fn.getBody().getNumAddresses())
 
-        # shallow callees from entry xrefs
+        # Shallow callees: scan all instructions within body for call references
         callees = []
-        for ref in getReferencesFrom(fn.getEntryPoint()):
-            if ref.getReferenceType().isCall():
-                tf = getFunctionAt(ref.getToAddress())
-                if tf:
-                    callees.append(tf.getName())
+        try:
+            inst_it = listing.getInstructions(fn.getBody(), True)
+            while inst_it.hasNext():
+                ins = inst_it.next()
+                for ref in ins.getReferencesFrom():
+                    if ref.getReferenceType().isCall():
+                        tf = getFunctionAt(ref.getToAddress())
+                        if tf:
+                            callees.append(tf.getName())
+        except Exception:
+            pass
 
         # callers from xrefs to entry
         callers = []
@@ -85,7 +91,8 @@ try:
             "strings_used": strings_used_in_body(fn),
             "decompilation": decompile(fn)
         }
-    f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+        # Write one JSON record per function
+        f.write(json.dumps(rec, ensure_ascii=False) + "\n")
 finally:
     f.close()
 print("Wrote " + OUT)

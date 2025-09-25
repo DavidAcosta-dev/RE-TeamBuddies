@@ -1,0 +1,48 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "MAIN.C": "cpp"
+  },
+
+    // A. Stop “Allow?” popups for tools in THIS workspace
+  // (experimental but documented)
+  "chat.tools.autoApprove": true,
+
+  // B. Fine-grained auto-approval for terminal commands
+  //    – allow the common, block destructive ones
+  "chat.tools.terminal.autoApprove": {
+    // allowlists (add your own)
+    "/^git\\s+(status|diff|show|log|branch)\\b/": true,
+    "/^npm\\s+(test|run\\s+\\w+)/": true,
+    "/^pnpm\\s+(test|run\\s+\\w+)/": true,
+    "/^yarn\\s+(test|\\w+)/": true,
+    "/^make(\\b|\\s)/": true,
+    "/^(python|python3)\\b/": true,
+    "/^(pytest)\\b/": true,
+    "/^(mips|mipsel|mips64)\\S*-(objdump|objcopy|gcc|ld)\\b/": true,
+    "/^(ghidra|ghidraHeadless)\\b/": true,
+    "/^(wsl|wine)\\b/": true,
+
+    // denylists (keep these!)
+    "/\\brm\\b/": false,
+    "/\\b(del|rd)\\b/": false,
+    "/^git\\s+(push|commit|reset|revert|clean)\\b/": false
+  },
+
+  // C. Let Agent mode run workspace tasks without prompting
+  "github.copilot.chat.agent.runTasks": "on",
+
+  // D. Kill the “just say proceed” pauses by letting it iterate a lot
+  "chat.agent.maxRequests": 500,
+
+  // E. (Optional) Auto-accept edits after 2s; hover the overlay to cancel
+  "chat.editing.autoAcceptDelay": 0,
+
+  // F. (Optional) Auto-approve edits to most files but protect secrets/config
+  "chat.tools.edits.autoApprove": {
+    "**/*": true,
+    "**/.vscode/*.json": true,
+    "**/.env*": true,
+    "**/secrets/**": true
+  }
+}

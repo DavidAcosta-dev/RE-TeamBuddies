@@ -1,0 +1,11 @@
+function,score,direct_integrators,callee_overlap,callee_overlap2,vertical_refs,shifts,overlap_vert_refs,overlap_shifts,reasons,overlap_names,overlap2_names
+FUN_0003b264,17.8,0,3,0,22,0,10,6,overlap>=3,FUN_000209dc;FUN_00022e5c;FUN_00023180,
+FUN_00022dc8,14.0,0,3,1,8,3,18,8,overlap>=3+vertical+shifts,FUN_00022e5c;FUN_00023000;FUN_00023180,FUN_00022bac
+FUN_00035cc0,11.8,0,2,0,12,2,13,3,vertical+shifts,FUN_00022e5c;FUN_000402e0,
+FUN_00022e5c,11.5,0,2,1,8,3,10,6,vertical+shifts,FUN_00022e5c;FUN_00023180,FUN_00022bac
+FUN_00023000,9.75,0,2,0,8,2,10,5,vertical+shifts,FUN_00023000;FUN_00023180,
+FUN_0004a058,8.0,0,1,0,9,3,0,0,vertical+shifts,FUN_000209dc,
+FUN_00042518,6.7,0,3,0,0,0,12,2,overlap>=3,FUN_00023000;FUN_0003e4b4;FUN_0004033c,
+FUN_0001f218,6.5,1,0,0,3,0,0,0,direct_integrator_call,,
+FUN_00035088,4.5,0,0,0,6,3,0,0,vertical+shifts,,
+FUN_00023110,3.5,0,0,0,4,3,0,0,vertical+shifts,,

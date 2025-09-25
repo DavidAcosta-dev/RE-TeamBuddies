@@ -1,0 +1,63 @@
+===== OFFSET 0x0000024c =====
+r_fingers_bone
+
+===== OFFSET 0x00000268 =====
+l_fingers_bone
+
+===== OFFSET 0x00000e20 =====
+r_front_hoof_bone
+
+===== OFFSET 0x00000e34 =====
+l_front_hoof_bone
+
+===== OFFSET 0x00000e6c =====
+r_rear_hoof_bone
+
+===== OFFSET 0x00000e80 =====
+l_rear_hoof_bone
+
+===== OFFSET 0x00001da8 =====
+SPEECH02.TIM
+
+===== OFFSET 0x00001e08 =====
+ATTITUDE.BIN
+
+===== OFFSET 0x00001e58 =====
+Sprite array
+
+===== OFFSET 0x00001e68 =====
+Effect factories
+
+===== OFFSET 0x00002498 =====
+FROZEN_SCIENTIST
+
+===== OFFSET 0x000024b4 =====
+MECH_CHARGER
+
+===== OFFSET 0x000024f0 =====
+attach_turret
+
+===== OFFSET 0x0000268c =====
+\TEAMBUDM.XA;1
+
+===== OFFSET 0x0000269c =====
+\TEAMBUDG.XA;1
+
+===== OFFSET 0x000026ac =====
+\TEAMBUD2.XA;1
+
+===== OFFSET 0x000028f8 =====
+Animating tile textures
+
+===== OFFSET 0x00002910 =====
+Animating tile descriptions
+
+===== OFFSET 0x00002938 =====
+MODELREF (duplicate)
+
+===== OFFSET 0x00002950 =====
+Model Lookup
+
+===== OFFSET 0x00002988 =====
+_CRETURN TO SENDER OPENED
+

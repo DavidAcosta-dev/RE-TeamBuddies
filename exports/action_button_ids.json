@@ -1,0 +1,12 @@
+{
+  "2": "pickup/drop",
+  "1": "fire",
+  "3": "strafe",
+  "9": "accel",
+  "0": "jump",
+  "8": "binocs",
+  "5": "order1",
+  "6": "order2",
+  "7": "swap",
+  "12": "kicking/entering vehicle"
+}

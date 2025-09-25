@@ -1,0 +1,6024 @@
+{
+  "GAME.BIN": [
+    {
+      "name": "FUN_000402e0",
+      "ea": 262880,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 20,
+      "new_name": "phys_FUN_000402e0"
+    },
+    {
+      "name": "FUN_000402e0",
+      "ea": 262880,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 20,
+      "new_name": "phys_FUN_000402e0"
+    },
+    {
+      "name": "FUN_0004033c",
+      "ea": 262972,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 21,
+      "new_name": "phys_FUN_0004033c"
+    },
+    {
+      "name": "FUN_0004033c",
+      "ea": 262972,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 21,
+      "new_name": "phys_FUN_0004033c"
+    },
+    {
+      "name": "FUN_00040a98",
+      "ea": 264856,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 43,
+      "new_name": "phys_FUN_00040a98"
+    },
+    {
+      "name": "FUN_00040a98",
+      "ea": 264856,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 43,
+      "new_name": "phys_FUN_00040a98"
+    },
+    {
+      "name": "FUN_000406ac",
+      "ea": 263852,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 16,
+      "new_name": "phys_FUN_000406ac"
+    },
+    {
+      "name": "FUN_000406ac",
+      "ea": 263852,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 16,
+      "new_name": "phys_FUN_000406ac"
+    },
+    {
+      "name": "FUN_00031b38",
+      "ea": 203576,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 49,
+      "new_name": "phys_FUN_00031b38"
+    },
+    {
+      "name": "FUN_00031b38",
+      "ea": 203576,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 49,
+      "new_name": "phys_FUN_00031b38"
+    },
+    {
+      "name": "FUN_000475dc",
+      "ea": 292316,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 46,
+      "new_name": "phys_FUN_000475dc"
+    },
+    {
+      "name": "FUN_000475dc",
+      "ea": 292316,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 46,
+      "new_name": "phys_FUN_000475dc"
+    },
+    {
+      "name": "FUN_00048150",
+      "ea": 295248,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 33,
+      "new_name": "phys_FUN_00048150"
+    },
+    {
+      "name": "FUN_00048150",
+      "ea": 295248,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 33,
+      "new_name": "phys_FUN_00048150"
+    },
+    {
+      "name": "FUN_0000f8e4",
+      "ea": 63716,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 33,
+      "new_name": "phys_FUN_0000f8e4"
+    },
+    {
+      "name": "FUN_0000f8e4",
+      "ea": 63716,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 33,
+      "new_name": "phys_FUN_0000f8e4"
+    },
+    {
+      "name": "FUN_00032c18",
+      "ea": 207896,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 32,
+      "new_name": "phys_FUN_00032c18"
+    },
+    {
+      "name": "FUN_00032c18",
+      "ea": 207896,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 32,
+      "new_name": "phys_FUN_00032c18"
+    },
+    {
+      "name": "FUN_0001ec7c",
+      "ea": 126076,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 24,
+      "new_name": "phys_FUN_0001ec7c"
+    },
+    {
+      "name": "FUN_0001ec7c",
+      "ea": 126076,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 24,
+      "new_name": "phys_FUN_0001ec7c"
+    },
+    {
+      "name": "FUN_000496b8",
+      "ea": 300728,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 24,
+      "new_name": "phys_FUN_000496b8"
+    },
+    {
+      "name": "FUN_000496b8",
+      "ea": 300728,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 24,
+      "new_name": "phys_FUN_000496b8"
+    },
+    {
+      "name": "FUN_0001867c",
+      "ea": 99964,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 22,
+      "new_name": "phys_FUN_0001867c"
+    },
+    {
+      "name": "FUN_0001867c",
+      "ea": 99964,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 22,
+      "new_name": "phys_FUN_0001867c"
+    },
+    {
+      "name": "FUN_0001dc38",
+      "ea": 121912,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 22,
+      "new_name": "phys_FUN_0001dc38"
+    },
+    {
+      "name": "FUN_0001dc38",
+      "ea": 121912,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 22,
+      "new_name": "phys_FUN_0001dc38"
+    },
+    {
+      "name": "FUN_00043348",
+      "ea": 275272,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 20,
+      "new_name": "phys_FUN_00043348"
+    },
+    {
+      "name": "FUN_00043348",
+      "ea": 275272,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 20,
+      "new_name": "phys_FUN_00043348"
+    },
+    {
+      "name": "FUN_000220b4",
+      "ea": 139444,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 18,
+      "new_name": "phys_FUN_000220b4"
+    },
+    {
+      "name": "FUN_000220b4",
+      "ea": 139444,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 18,
+      "new_name": "phys_FUN_000220b4"
+    },
+    {
+      "name": "FUN_000180b0",
+      "ea": 98480,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 18,
+      "new_name": "phys_FUN_000180b0"
+    },
+    {
+      "name": "FUN_000180b0",
+      "ea": 98480,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 18,
+      "new_name": "phys_FUN_000180b0"
+    },
+    {
+      "name": "FUN_0004083c",
+      "ea": 264252,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 17,
+      "new_name": "phys_FUN_0004083c"
+    },
+    {
+      "name": "FUN_0004083c",
+      "ea": 264252,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 17,
+      "new_name": "phys_FUN_0004083c"
+    },
+    {
+      "name": "FUN_0002c7a0",
+      "ea": 182176,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 17,
+      "new_name": "phys_FUN_0002c7a0"
+    },
+    {
+      "name": "FUN_0002c7a0",
+      "ea": 182176,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 17,
+      "new_name": "phys_FUN_0002c7a0"
+    },
+    {
+      "name": "FUN_0003f1dc",
+      "ea": 258524,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 16,
+      "new_name": "phys_FUN_0003f1dc"
+    },
+    {
+      "name": "FUN_0003f1dc",
+      "ea": 258524,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 16,
+      "new_name": "phys_FUN_0003f1dc"
+    },
+    {
+      "name": "FUN_00036900",
+      "ea": 223488,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 15,
+      "new_name": "phys_FUN_00036900"
+    },
+    {
+      "name": "FUN_00036900",
+      "ea": 223488,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 15,
+      "new_name": "phys_FUN_00036900"
+    },
+    {
+      "name": "FUN_00024c9c",
+      "ea": 150684,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 15,
+      "new_name": "phys_FUN_00024c9c"
+    },
+    {
+      "name": "FUN_00024c9c",
+      "ea": 150684,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 15,
+      "new_name": "phys_FUN_00024c9c"
+    },
+    {
+      "name": "FUN_0002a5f4",
+      "ea": 173556,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 14,
+      "new_name": "phys_FUN_0002a5f4"
+    },
+    {
+      "name": "FUN_0002a5f4",
+      "ea": 173556,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 14,
+      "new_name": "phys_FUN_0002a5f4"
+    },
+    {
+      "name": "FUN_0000b09c",
+      "ea": 45212,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 14,
+      "new_name": "phys_FUN_0000b09c"
+    },
+    {
+      "name": "FUN_0000b09c",
+      "ea": 45212,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 14,
+      "new_name": "phys_FUN_0000b09c"
+    },
+    {
+      "name": "FUN_0000d1f4",
+      "ea": 53748,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 14,
+      "new_name": "phys_FUN_0000d1f4"
+    },
+    {
+      "name": "FUN_0000d1f4",
+      "ea": 53748,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 14,
+      "new_name": "phys_FUN_0000d1f4"
+    },
+    {
+      "name": "FUN_0002e1b4",
+      "ea": 188852,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 13,
+      "new_name": "phys_FUN_0002e1b4"
+    },
+    {
+      "name": "FUN_0002e1b4",
+      "ea": 188852,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 13,
+      "new_name": "phys_FUN_0002e1b4"
+    },
+    {
+      "name": "FUN_00009afc",
+      "ea": 39676,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 13,
+      "new_name": "phys_FUN_00009afc"
+    },
+    {
+      "name": "FUN_00009afc",
+      "ea": 39676,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 13,
+      "new_name": "phys_FUN_00009afc"
+    },
+    {
+      "name": "FUN_0000d9a0",
+      "ea": 55712,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 13,
+      "new_name": "phys_FUN_0000d9a0"
+    },
+    {
+      "name": "FUN_0000d9a0",
+      "ea": 55712,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 13,
+      "new_name": "phys_FUN_0000d9a0"
+    },
+    {
+      "name": "FUN_00006860",
+      "ea": 26720,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 13,
+      "new_name": "phys_FUN_00006860"
+    },
+    {
+      "name": "FUN_00006958",
+      "ea": 26968,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 13,
+      "new_name": "phys_FUN_00006958"
+    },
+    {
+      "name": "FUN_00006a50",
+      "ea": 27216,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 13,
+      "new_name": "phys_FUN_00006a50"
+    },
+    {
+      "name": "FUN_00006860",
+      "ea": 26720,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 13,
+      "new_name": "phys_FUN_00006860"
+    },
+    {
+      "name": "FUN_00006958",
+      "ea": 26968,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 13,
+      "new_name": "phys_FUN_00006958"
+    },
+    {
+      "name": "FUN_00006a50",
+      "ea": 27216,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 13,
+      "new_name": "phys_FUN_00006a50"
+    },
+    {
+      "name": "FUN_0000e9cc",
+      "ea": 59852,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 12,
+      "new_name": "phys_FUN_0000e9cc"
+    },
+    {
+      "name": "FUN_00040630",
+      "ea": 263728,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 12,
+      "new_name": "phys_FUN_00040630"
+    },
+    {
+      "name": "FUN_0000e9cc",
+      "ea": 59852,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 12,
+      "new_name": "phys_FUN_0000e9cc"
+    },
+    {
+      "name": "FUN_00040630",
+      "ea": 263728,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 12,
+      "new_name": "phys_FUN_00040630"
+    },
+    {
+      "name": "FUN_000111c8",
+      "ea": 70088,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 11,
+      "new_name": "phys_FUN_000111c8"
+    },
+    {
+      "name": "FUN_000111c8",
+      "ea": 70088,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 11,
+      "new_name": "phys_FUN_000111c8"
+    },
+    {
+      "name": "FUN_00040a4c",
+      "ea": 264780,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 11,
+      "new_name": "phys_FUN_00040a4c"
+    },
+    {
+      "name": "FUN_00040a4c",
+      "ea": 264780,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 11,
+      "new_name": "phys_FUN_00040a4c"
+    },
+    {
+      "name": "FUN_000209dc",
+      "ea": 133596,
+      "category": null,
+      "tags": [],
+      "score": 27,
+      "new_name": "suspect_FUN_000209dc"
+    },
+    {
+      "name": "FUN_000209dc",
+      "ea": 133596,
+      "category": null,
+      "tags": [],
+      "score": 27,
+      "new_name": "suspect_FUN_000209dc"
+    },
+    {
+      "name": "FUN_00022e5c",
+      "ea": 142940,
+      "category": null,
+      "tags": [],
+      "score": 27,
+      "new_name": "suspect_FUN_00022e5c"
+    },
+    {
+      "name": "FUN_00022e5c",
+      "ea": 142940,
+      "category": null,
+      "tags": [],
+      "score": 27,
+      "new_name": "suspect_FUN_00022e5c"
+    },
+    {
+      "name": "FUN_0003d44c",
+      "ea": 250956,
+      "category": null,
+      "tags": [],
+      "score": 29,
+      "new_name": "suspect_FUN_0003d44c"
+    },
+    {
+      "name": "FUN_0003d44c",
+      "ea": 250956,
+      "category": null,
+      "tags": [],
+      "score": 29,
+      "new_name": "suspect_FUN_0003d44c"
+    },
+    {
+      "name": "FUN_00023000",
+      "ea": 143360,
+      "category": null,
+      "tags": [],
+      "score": 20,
+      "new_name": "suspect_FUN_00023000"
+    },
+    {
+      "name": "FUN_00023000",
+      "ea": 143360,
+      "category": null,
+      "tags": [],
+      "score": 20,
+      "new_name": "suspect_FUN_00023000"
+    },
+    {
+      "name": "FUN_00023180",
+      "ea": 143744,
+      "category": null,
+      "tags": [],
+      "score": 17,
+      "new_name": "suspect_FUN_00023180"
+    },
+    {
+      "name": "FUN_00023180",
+      "ea": 143744,
+      "category": null,
+      "tags": [],
+      "score": 17,
+      "new_name": "suspect_FUN_00023180"
+    },
+    {
+      "name": "FUN_0003e4b4",
+      "ea": 255156,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_0003e4b4"
+    },
+    {
+      "name": "FUN_0003e4b4",
+      "ea": 255156,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_0003e4b4"
+    },
+    {
+      "name": "FUN_00054518",
+      "ea": 345368,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_00054518"
+    },
+    {
+      "name": "FUN_00054518",
+      "ea": 345368,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_00054518"
+    },
+    {
+      "name": "FUN_000401ec",
+      "ea": 262636,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_000401ec"
+    },
+    {
+      "name": "FUN_000401ec",
+      "ea": 262636,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_000401ec"
+    },
+    {
+      "name": "FUN_00023110",
+      "ea": 143632,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_00023110"
+    },
+    {
+      "name": "FUN_00023110",
+      "ea": 143632,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_00023110"
+    },
+    {
+      "name": "FUN_00022c7c",
+      "ea": 142460,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00022c7c"
+    },
+    {
+      "name": "FUN_00022c7c",
+      "ea": 142460,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00022c7c"
+    },
+    {
+      "name": "FUN_0003e494",
+      "ea": 255124,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_0003e494"
+    },
+    {
+      "name": "FUN_0003e494",
+      "ea": 255124,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_0003e494"
+    },
+    {
+      "name": "FUN_000431e4",
+      "ea": 274916,
+      "category": null,
+      "tags": [],
+      "score": 11,
+      "new_name": "suspect_FUN_000431e4"
+    },
+    {
+      "name": "FUN_000431e4",
+      "ea": 274916,
+      "category": null,
+      "tags": [],
+      "score": 11,
+      "new_name": "suspect_FUN_000431e4"
+    },
+    {
+      "name": "FUN_00023210",
+      "ea": 143888,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00023210"
+    },
+    {
+      "name": "FUN_00023210",
+      "ea": 143888,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00023210"
+    },
+    {
+      "name": "FUN_000232e8",
+      "ea": 144104,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_000232e8"
+    },
+    {
+      "name": "FUN_000232e8",
+      "ea": 144104,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_000232e8"
+    },
+    {
+      "name": "FUN_0003d920",
+      "ea": 252192,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_0003d920"
+    },
+    {
+      "name": "FUN_0003d920",
+      "ea": 252192,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_0003d920"
+    },
+    {
+      "name": "FUN_00022d6c",
+      "ea": 142700,
+      "category": null,
+      "tags": [],
+      "score": 3,
+      "new_name": "suspect_FUN_00022d6c"
+    },
+    {
+      "name": "FUN_00022d6c",
+      "ea": 142700,
+      "category": null,
+      "tags": [],
+      "score": 3,
+      "new_name": "suspect_FUN_00022d6c"
+    }
+  ],
+  "LEGGIT.EXE": [
+    {
+      "name": "FUN_000145c8",
+      "ea": 83400,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 36,
+      "new_name": "phys_FUN_000145c8"
+    },
+    {
+      "name": "FUN_000145c8",
+      "ea": 83400,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 36,
+      "new_name": "phys_FUN_000145c8"
+    },
+    {
+      "name": "FUN_00009e3c",
+      "ea": 40508,
+      "category": null,
+      "tags": [],
+      "score": 46,
+      "new_name": "suspect_FUN_00009e3c"
+    },
+    {
+      "name": "FUN_00009e3c",
+      "ea": 40508,
+      "category": null,
+      "tags": [],
+      "score": 46,
+      "new_name": "suspect_FUN_00009e3c"
+    },
+    {
+      "name": "FUN_00016a1c",
+      "ea": 92700,
+      "category": null,
+      "tags": [],
+      "score": 29,
+      "new_name": "suspect_FUN_00016a1c"
+    },
+    {
+      "name": "FUN_00016a1c",
+      "ea": 92700,
+      "category": null,
+      "tags": [],
+      "score": 29,
+      "new_name": "suspect_FUN_00016a1c"
+    },
+    {
+      "name": "FUN_0000552c",
+      "ea": 21804,
+      "category": null,
+      "tags": [],
+      "score": 26,
+      "new_name": "suspect_FUN_0000552c"
+    },
+    {
+      "name": "FUN_0000552c",
+      "ea": 21804,
+      "category": null,
+      "tags": [],
+      "score": 26,
+      "new_name": "suspect_FUN_0000552c"
+    },
+    {
+      "name": "FUN_00007ae8",
+      "ea": 31464,
+      "category": null,
+      "tags": [],
+      "score": 25,
+      "new_name": "suspect_FUN_00007ae8"
+    },
+    {
+      "name": "FUN_00007ae8",
+      "ea": 31464,
+      "category": null,
+      "tags": [],
+      "score": 25,
+      "new_name": "suspect_FUN_00007ae8"
+    },
+    {
+      "name": "FUN_0000dfb8",
+      "ea": 57272,
+      "category": null,
+      "tags": [],
+      "score": 24,
+      "new_name": "suspect_FUN_0000dfb8"
+    },
+    {
+      "name": "FUN_0000dfb8",
+      "ea": 57272,
+      "category": null,
+      "tags": [],
+      "score": 24,
+      "new_name": "suspect_FUN_0000dfb8"
+    },
+    {
+      "name": "FUN_00010b14",
+      "ea": 68372,
+      "category": null,
+      "tags": [],
+      "score": 20,
+      "new_name": "suspect_FUN_00010b14"
+    },
+    {
+      "name": "FUN_00010b14",
+      "ea": 68372,
+      "category": null,
+      "tags": [],
+      "score": 20,
+      "new_name": "suspect_FUN_00010b14"
+    },
+    {
+      "name": "FUN_00017a6c",
+      "ea": 96876,
+      "category": null,
+      "tags": [],
+      "score": 18,
+      "new_name": "suspect_FUN_00017a6c"
+    },
+    {
+      "name": "FUN_00017a6c",
+      "ea": 96876,
+      "category": null,
+      "tags": [],
+      "score": 18,
+      "new_name": "suspect_FUN_00017a6c"
+    },
+    {
+      "name": "FUN_00017e54",
+      "ea": 97876,
+      "category": null,
+      "tags": [],
+      "score": 16,
+      "new_name": "suspect_FUN_00017e54"
+    },
+    {
+      "name": "FUN_00017e54",
+      "ea": 97876,
+      "category": null,
+      "tags": [],
+      "score": 16,
+      "new_name": "suspect_FUN_00017e54"
+    },
+    {
+      "name": "FUN_0001084c",
+      "ea": 67660,
+      "category": null,
+      "tags": [],
+      "score": 14,
+      "new_name": "suspect_FUN_0001084c"
+    },
+    {
+      "name": "FUN_0001084c",
+      "ea": 67660,
+      "category": null,
+      "tags": [],
+      "score": 14,
+      "new_name": "suspect_FUN_0001084c"
+    },
+    {
+      "name": "FUN_00006778",
+      "ea": 26488,
+      "category": null,
+      "tags": [],
+      "score": 14,
+      "new_name": "suspect_FUN_00006778"
+    },
+    {
+      "name": "FUN_0000ead8",
+      "ea": 60120,
+      "category": null,
+      "tags": [],
+      "score": 14,
+      "new_name": "suspect_FUN_0000ead8"
+    },
+    {
+      "name": "FUN_00006778",
+      "ea": 26488,
+      "category": null,
+      "tags": [],
+      "score": 14,
+      "new_name": "suspect_FUN_00006778"
+    },
+    {
+      "name": "FUN_0000ead8",
+      "ea": 60120,
+      "category": null,
+      "tags": [],
+      "score": 14,
+      "new_name": "suspect_FUN_0000ead8"
+    },
+    {
+      "name": "FUN_00008cbc",
+      "ea": 36028,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00008cbc"
+    },
+    {
+      "name": "FUN_000105cc",
+      "ea": 67020,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_000105cc"
+    },
+    {
+      "name": "FUN_00012e88",
+      "ea": 77448,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00012e88"
+    },
+    {
+      "name": "FUN_00008cbc",
+      "ea": 36028,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00008cbc"
+    },
+    {
+      "name": "FUN_000105cc",
+      "ea": 67020,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_000105cc"
+    },
+    {
+      "name": "FUN_00012e88",
+      "ea": 77448,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00012e88"
+    },
+    {
+      "name": "FUN_000159e8",
+      "ea": 88552,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_000159e8"
+    },
+    {
+      "name": "FUN_00017510",
+      "ea": 95504,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00017510"
+    },
+    {
+      "name": "FUN_000159e8",
+      "ea": 88552,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_000159e8"
+    },
+    {
+      "name": "FUN_00017510",
+      "ea": 95504,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00017510"
+    },
+    {
+      "name": "FUN_0001161c",
+      "ea": 71196,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_0001161c"
+    },
+    {
+      "name": "FUN_0001161c",
+      "ea": 71196,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_0001161c"
+    },
+    {
+      "name": "FUN_000082fc",
+      "ea": 33532,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_000082fc"
+    },
+    {
+      "name": "FUN_000082fc",
+      "ea": 33532,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_000082fc"
+    },
+    {
+      "name": "FUN_00015db0",
+      "ea": 89520,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00015db0"
+    },
+    {
+      "name": "FUN_00015db0",
+      "ea": 89520,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00015db0"
+    },
+    {
+      "name": "FUN_000092e4",
+      "ea": 37604,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_000092e4"
+    },
+    {
+      "name": "FUN_000092e4",
+      "ea": 37604,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_000092e4"
+    },
+    {
+      "name": "FUN_000177fc",
+      "ea": 96252,
+      "category": null,
+      "tags": [],
+      "score": 11,
+      "new_name": "suspect_FUN_000177fc"
+    },
+    {
+      "name": "FUN_000177fc",
+      "ea": 96252,
+      "category": null,
+      "tags": [],
+      "score": 11,
+      "new_name": "suspect_FUN_000177fc"
+    },
+    {
+      "name": "FUN_000153a0",
+      "ea": 86944,
+      "category": null,
+      "tags": [],
+      "score": 11,
+      "new_name": "suspect_FUN_000153a0"
+    },
+    {
+      "name": "FUN_000153a0",
+      "ea": 86944,
+      "category": null,
+      "tags": [],
+      "score": 11,
+      "new_name": "suspect_FUN_000153a0"
+    },
+    {
+      "name": "FUN_00008a80",
+      "ea": 35456,
+      "category": null,
+      "tags": [],
+      "score": 11,
+      "new_name": "suspect_FUN_00008a80"
+    },
+    {
+      "name": "FUN_00008a80",
+      "ea": 35456,
+      "category": null,
+      "tags": [],
+      "score": 11,
+      "new_name": "suspect_FUN_00008a80"
+    },
+    {
+      "name": "FUN_00008850",
+      "ea": 34896,
+      "category": null,
+      "tags": [],
+      "score": 11,
+      "new_name": "suspect_FUN_00008850"
+    },
+    {
+      "name": "FUN_00008850",
+      "ea": 34896,
+      "category": null,
+      "tags": [],
+      "score": 11,
+      "new_name": "suspect_FUN_00008850"
+    },
+    {
+      "name": "FUN_000157c4",
+      "ea": 88004,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_000157c4"
+    },
+    {
+      "name": "FUN_000157c4",
+      "ea": 88004,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_000157c4"
+    },
+    {
+      "name": "FUN_00008104",
+      "ea": 33028,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_00008104"
+    },
+    {
+      "name": "FUN_00008104",
+      "ea": 33028,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_00008104"
+    },
+    {
+      "name": "FUN_00006ae0",
+      "ea": 27360,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_00006ae0"
+    },
+    {
+      "name": "FUN_00006ae0",
+      "ea": 27360,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_00006ae0"
+    },
+    {
+      "name": "FUN_00011960",
+      "ea": 72032,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_00011960"
+    },
+    {
+      "name": "FUN_00011960",
+      "ea": 72032,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_00011960"
+    },
+    {
+      "name": "FUN_000111b8",
+      "ea": 70072,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_000111b8"
+    },
+    {
+      "name": "FUN_000111b8",
+      "ea": 70072,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_000111b8"
+    },
+    {
+      "name": "FUN_0000d564",
+      "ea": 54628,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_0000d564"
+    },
+    {
+      "name": "FUN_0000d564",
+      "ea": 54628,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_0000d564"
+    },
+    {
+      "name": "FUN_0000a784",
+      "ea": 42884,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_0000a784"
+    },
+    {
+      "name": "FUN_0000a784",
+      "ea": 42884,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_0000a784"
+    },
+    {
+      "name": "FUN_00011b48",
+      "ea": 72520,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_00011b48"
+    },
+    {
+      "name": "FUN_00011b48",
+      "ea": 72520,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_00011b48"
+    },
+    {
+      "name": "FUN_0000edf8",
+      "ea": 60920,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_0000edf8"
+    },
+    {
+      "name": "FUN_0000edf8",
+      "ea": 60920,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_0000edf8"
+    },
+    {
+      "name": "FUN_00015210",
+      "ea": 86544,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_00015210"
+    },
+    {
+      "name": "FUN_00015210",
+      "ea": 86544,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_00015210"
+    },
+    {
+      "name": "FUN_00013b14",
+      "ea": 80660,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00013b14"
+    },
+    {
+      "name": "FUN_00013b14",
+      "ea": 80660,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00013b14"
+    },
+    {
+      "name": "FUN_00011398",
+      "ea": 70552,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00011398"
+    },
+    {
+      "name": "FUN_00011398",
+      "ea": 70552,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00011398"
+    },
+    {
+      "name": "FUN_00005dac",
+      "ea": 23980,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00005dac"
+    },
+    {
+      "name": "FUN_00005dac",
+      "ea": 23980,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00005dac"
+    },
+    {
+      "name": "FUN_00005f10",
+      "ea": 24336,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00005f10"
+    },
+    {
+      "name": "FUN_00005f10",
+      "ea": 24336,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00005f10"
+    },
+    {
+      "name": "FUN_0000f548",
+      "ea": 62792,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_0000f548"
+    },
+    {
+      "name": "FUN_0000f548",
+      "ea": 62792,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_0000f548"
+    },
+    {
+      "name": "FUN_0000ba4c",
+      "ea": 47692,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_0000ba4c"
+    },
+    {
+      "name": "FUN_0000ba4c",
+      "ea": 47692,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_0000ba4c"
+    },
+    {
+      "name": "FUN_0000d734",
+      "ea": 55092,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_0000d734"
+    },
+    {
+      "name": "FUN_0000d734",
+      "ea": 55092,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_0000d734"
+    },
+    {
+      "name": "FUN_000097f0",
+      "ea": 38896,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_000097f0"
+    },
+    {
+      "name": "FUN_000097f0",
+      "ea": 38896,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_000097f0"
+    },
+    {
+      "name": "FUN_00009544",
+      "ea": 38212,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_00009544"
+    },
+    {
+      "name": "FUN_0000b7dc",
+      "ea": 47068,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_0000b7dc"
+    },
+    {
+      "name": "FUN_00009544",
+      "ea": 38212,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_00009544"
+    },
+    {
+      "name": "FUN_0000b7dc",
+      "ea": 47068,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_0000b7dc"
+    },
+    {
+      "name": "FUN_00005bbc",
+      "ea": 23484,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_00005bbc"
+    },
+    {
+      "name": "FUN_0000b918",
+      "ea": 47384,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_0000b918"
+    },
+    {
+      "name": "FUN_00005bbc",
+      "ea": 23484,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_00005bbc"
+    },
+    {
+      "name": "FUN_0000b918",
+      "ea": 47384,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_0000b918"
+    },
+    {
+      "name": "FUN_0000d0f8",
+      "ea": 53496,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_0000d0f8"
+    },
+    {
+      "name": "FUN_0000d0f8",
+      "ea": 53496,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_0000d0f8"
+    },
+    {
+      "name": "FUN_00018550",
+      "ea": 99664,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_00018550"
+    },
+    {
+      "name": "FUN_00018550",
+      "ea": 99664,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_00018550"
+    },
+    {
+      "name": "FUN_00007320",
+      "ea": 29472,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_00007320"
+    },
+    {
+      "name": "FUN_00016900",
+      "ea": 92416,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_00016900"
+    }
+  ],
+  "MAIN.EXE": [
+    {
+      "name": "FUN_0001cc08",
+      "ea": 117768,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 18,
+      "new_name": "phys_FUN_0001cc08"
+    },
+    {
+      "name": "FUN_0001cc08",
+      "ea": 117768,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 18,
+      "new_name": "phys_FUN_0001cc08"
+    },
+    {
+      "name": "FUN_00014f80",
+      "ea": 85888,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 41,
+      "new_name": "phys_FUN_00014f80"
+    },
+    {
+      "name": "FUN_00021c64",
+      "ea": 138340,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 16,
+      "new_name": "phys_FUN_00021c64"
+    },
+    {
+      "name": "FUN_00021b4c",
+      "ea": 138060,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 15,
+      "new_name": "phys_FUN_00021b4c"
+    },
+    {
+      "name": "FUN_0001cba8",
+      "ea": 117672,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 14,
+      "new_name": "phys_FUN_0001cba8"
+    },
+    {
+      "name": "FUN_0001cba8",
+      "ea": 117672,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 14,
+      "new_name": "phys_FUN_0001cba8"
+    },
+    {
+      "name": "FUN_00021c64",
+      "ea": 138340,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 15,
+      "new_name": "phys_FUN_00021c64"
+    },
+    {
+      "name": "FUN_00021b4c",
+      "ea": 138060,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 14,
+      "new_name": "phys_FUN_00021b4c"
+    },
+    {
+      "name": "FUN_0001cbb8",
+      "ea": 117688,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 13,
+      "new_name": "phys_FUN_0001cbb8"
+    },
+    {
+      "name": "FUN_0001f340",
+      "ea": 127808,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 13,
+      "new_name": "phys_FUN_0001f340"
+    },
+    {
+      "name": "FUN_0001f340",
+      "ea": 127808,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 13,
+      "new_name": "phys_FUN_0001f340"
+    },
+    {
+      "name": "FUN_0001ef54",
+      "ea": 126804,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 14,
+      "new_name": "phys_FUN_0001ef54"
+    },
+    {
+      "name": "FUN_000219ac",
+      "ea": 137644,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 12,
+      "new_name": "phys_FUN_000219ac"
+    },
+    {
+      "name": "FUN_0001cbd8",
+      "ea": 117720,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 12,
+      "new_name": "phys_FUN_0001cbd8"
+    },
+    {
+      "name": "FUN_0001cbb8",
+      "ea": 117688,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 12,
+      "new_name": "phys_FUN_0001cbb8"
+    },
+    {
+      "name": "FUN_0001cbd8",
+      "ea": 117720,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 12,
+      "new_name": "phys_FUN_0001cbd8"
+    },
+    {
+      "name": "FUN_0001cbf8",
+      "ea": 117752,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 12,
+      "new_name": "phys_FUN_0001cbf8"
+    },
+    {
+      "name": "FUN_0001cbf8",
+      "ea": 117752,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 12,
+      "new_name": "phys_FUN_0001cbf8"
+    },
+    {
+      "name": "FUN_0001cc18",
+      "ea": 117784,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 12,
+      "new_name": "phys_FUN_0001cc18"
+    },
+    {
+      "name": "FUN_0001cc18",
+      "ea": 117784,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 12,
+      "new_name": "phys_FUN_0001cc18"
+    },
+    {
+      "name": "FUN_0000edc8",
+      "ea": 60872,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 14,
+      "new_name": "phys_FUN_0000edc8"
+    },
+    {
+      "name": "FUN_0001f344",
+      "ea": 127812,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 14,
+      "new_name": "phys_FUN_0001f344"
+    },
+    {
+      "name": "FUN_00021974",
+      "ea": 137588,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 11,
+      "new_name": "phys_FUN_00021974"
+    },
+    {
+      "name": "FUN_00021974",
+      "ea": 137588,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 11,
+      "new_name": "phys_FUN_00021974"
+    },
+    {
+      "name": "FUN_000219ac",
+      "ea": 137644,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 11,
+      "new_name": "phys_FUN_000219ac"
+    },
+    {
+      "name": "FUN_0002193c",
+      "ea": 137532,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 11,
+      "new_name": "phys_FUN_0002193c"
+    },
+    {
+      "name": "FUN_0002193c",
+      "ea": 137532,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 11,
+      "new_name": "phys_FUN_0002193c"
+    },
+    {
+      "name": "FUN_00021a34",
+      "ea": 137780,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 11,
+      "new_name": "phys_FUN_00021a34"
+    },
+    {
+      "name": "FUN_00021a34",
+      "ea": 137780,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 11,
+      "new_name": "phys_FUN_00021a34"
+    },
+    {
+      "name": "FUN_00014f80",
+      "ea": 85888,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 36,
+      "new_name": "phys_FUN_00014f80"
+    },
+    {
+      "name": "FUN_00021878",
+      "ea": 137336,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 13,
+      "new_name": "phys_FUN_00021878"
+    },
+    {
+      "name": "FUN_00021878",
+      "ea": 137336,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 13,
+      "new_name": "phys_FUN_00021878"
+    },
+    {
+      "name": "FUN_0000edc8",
+      "ea": 60872,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 13,
+      "new_name": "phys_FUN_0000edc8"
+    },
+    {
+      "name": "FUN_0001f344",
+      "ea": 127812,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 13,
+      "new_name": "phys_FUN_0001f344"
+    },
+    {
+      "name": "FUN_0001ef54",
+      "ea": 126804,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 12,
+      "new_name": "phys_FUN_0001ef54"
+    },
+    {
+      "name": "FUN_00021694",
+      "ea": 136852,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 11,
+      "new_name": "phys_FUN_00021694"
+    },
+    {
+      "name": "FUN_00021694",
+      "ea": 136852,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 11,
+      "new_name": "phys_FUN_00021694"
+    },
+    {
+      "name": "FUN_0001cba0",
+      "ea": 117664,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 10,
+      "new_name": "phys_FUN_0001cba0"
+    },
+    {
+      "name": "FUN_0001cba0",
+      "ea": 117664,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 10,
+      "new_name": "phys_FUN_0001cba0"
+    },
+    {
+      "name": "FUN_0001cc58",
+      "ea": 117848,
+      "category": null,
+      "tags": [],
+      "score": 51,
+      "new_name": "suspect_FUN_0001cc58"
+    },
+    {
+      "name": "FUN_0001cc58",
+      "ea": 117848,
+      "category": null,
+      "tags": [],
+      "score": 51,
+      "new_name": "suspect_FUN_0001cc58"
+    },
+    {
+      "name": "thunk_FUN_0001f5d4",
+      "ea": 128448,
+      "category": null,
+      "tags": [],
+      "score": 32,
+      "new_name": "suspect_thunk_FUN_0001f5d4"
+    },
+    {
+      "name": "thunk_FUN_0001f5d4",
+      "ea": 128448,
+      "category": null,
+      "tags": [],
+      "score": 32,
+      "new_name": "suspect_thunk_FUN_0001f5d4"
+    },
+    {
+      "name": "FUN_000090e0",
+      "ea": 37088,
+      "category": null,
+      "tags": [],
+      "score": 53,
+      "new_name": "suspect_FUN_000090e0"
+    },
+    {
+      "name": "FUN_0001f5e8",
+      "ea": 128488,
+      "category": null,
+      "tags": [],
+      "score": 22,
+      "new_name": "suspect_FUN_0001f5e8"
+    },
+    {
+      "name": "FUN_0001f5e8",
+      "ea": 128488,
+      "category": null,
+      "tags": [],
+      "score": 22,
+      "new_name": "suspect_FUN_0001f5e8"
+    },
+    {
+      "name": "FUN_0001d600",
+      "ea": 120320,
+      "category": null,
+      "tags": [],
+      "score": 25,
+      "new_name": "suspect_FUN_0001d600"
+    },
+    {
+      "name": "FUN_00008528",
+      "ea": 34088,
+      "category": null,
+      "tags": [],
+      "score": 55,
+      "new_name": "suspect_FUN_00008528"
+    },
+    {
+      "name": "FUN_0001d600",
+      "ea": 120320,
+      "category": null,
+      "tags": [],
+      "score": 23,
+      "new_name": "suspect_FUN_0001d600"
+    },
+    {
+      "name": "FUN_0002273c",
+      "ea": 141116,
+      "category": null,
+      "tags": [],
+      "score": 64,
+      "new_name": "suspect_FUN_0002273c"
+    },
+    {
+      "name": "FUN_0000a944",
+      "ea": 43332,
+      "category": null,
+      "tags": [],
+      "score": 23,
+      "new_name": "suspect_FUN_0000a944"
+    },
+    {
+      "name": "FUN_0000af3c",
+      "ea": 44860,
+      "category": null,
+      "tags": [],
+      "score": 74,
+      "new_name": "suspect_FUN_0000af3c"
+    },
+    {
+      "name": "FUN_00018a0c",
+      "ea": 100876,
+      "category": null,
+      "tags": [],
+      "score": 24,
+      "new_name": "suspect_FUN_00018a0c"
+    },
+    {
+      "name": "FUN_00018dac",
+      "ea": 101804,
+      "category": null,
+      "tags": [],
+      "score": 21,
+      "new_name": "suspect_FUN_00018dac"
+    },
+    {
+      "name": "FUN_00035554",
+      "ea": 218452,
+      "category": null,
+      "tags": [],
+      "score": 13,
+      "new_name": "suspect_FUN_00035554"
+    },
+    {
+      "name": "FUN_00035554",
+      "ea": 218452,
+      "category": null,
+      "tags": [],
+      "score": 13,
+      "new_name": "suspect_FUN_00035554"
+    },
+    {
+      "name": "FUN_000235d4",
+      "ea": 144852,
+      "category": null,
+      "tags": [],
+      "score": 27,
+      "new_name": "suspect_FUN_000235d4"
+    },
+    {
+      "name": "FUN_0001a804",
+      "ea": 108548,
+      "category": null,
+      "tags": [],
+      "score": 23,
+      "new_name": "suspect_FUN_0001a804"
+    },
+    {
+      "name": "FUN_00008ce4",
+      "ea": 36068,
+      "category": null,
+      "tags": [],
+      "score": 18,
+      "new_name": "suspect_FUN_00008ce4"
+    },
+    {
+      "name": "FUN_0000c1b0",
+      "ea": 49584,
+      "category": null,
+      "tags": [],
+      "score": 17,
+      "new_name": "suspect_FUN_0000c1b0"
+    },
+    {
+      "name": "FUN_000099ac",
+      "ea": 39340,
+      "category": null,
+      "tags": [],
+      "score": 15,
+      "new_name": "suspect_FUN_000099ac"
+    },
+    {
+      "name": "FUN_00009708",
+      "ea": 38664,
+      "category": null,
+      "tags": [],
+      "score": 22,
+      "new_name": "suspect_FUN_00009708"
+    },
+    {
+      "name": "FUN_00019ec0",
+      "ea": 106176,
+      "category": null,
+      "tags": [],
+      "score": 19,
+      "new_name": "suspect_FUN_00019ec0"
+    },
+    {
+      "name": "FUN_0000d208",
+      "ea": 53768,
+      "category": null,
+      "tags": [],
+      "score": 17,
+      "new_name": "suspect_FUN_0000d208"
+    },
+    {
+      "name": "FUN_0002db70",
+      "ea": 187248,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_0002db70"
+    },
+    {
+      "name": "FUN_0002db70",
+      "ea": 187248,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_0002db70"
+    },
+    {
+      "name": "FUN_00023390",
+      "ea": 144272,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_00023390"
+    },
+    {
+      "name": "FUN_000246d8",
+      "ea": 149208,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_000246d8"
+    },
+    {
+      "name": "FUN_000246d8",
+      "ea": 149208,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_000246d8"
+    },
+    {
+      "name": "FUN_0001003c",
+      "ea": 65596,
+      "category": null,
+      "tags": [],
+      "score": 36,
+      "new_name": "suspect_FUN_0001003c"
+    },
+    {
+      "name": "FUN_0001fab8",
+      "ea": 129720,
+      "category": null,
+      "tags": [],
+      "score": 24,
+      "new_name": "suspect_FUN_0001fab8"
+    },
+    {
+      "name": "FUN_000171fc",
+      "ea": 94716,
+      "category": null,
+      "tags": [],
+      "score": 23,
+      "new_name": "suspect_FUN_000171fc"
+    },
+    {
+      "name": "FUN_0000c490",
+      "ea": 50320,
+      "category": null,
+      "tags": [],
+      "score": 23,
+      "new_name": "suspect_FUN_0000c490"
+    },
+    {
+      "name": "FUN_0000e820",
+      "ea": 59424,
+      "category": null,
+      "tags": [],
+      "score": 16,
+      "new_name": "suspect_FUN_0000e820"
+    },
+    {
+      "name": "FUN_000083ac",
+      "ea": 33708,
+      "category": null,
+      "tags": [],
+      "score": 15,
+      "new_name": "suspect_FUN_000083ac"
+    },
+    {
+      "name": "FUN_00008ff0",
+      "ea": 36848,
+      "category": null,
+      "tags": [],
+      "score": 13,
+      "new_name": "suspect_FUN_00008ff0"
+    },
+    {
+      "name": "FUN_0000cd04",
+      "ea": 52484,
+      "category": null,
+      "tags": [],
+      "score": 11,
+      "new_name": "suspect_FUN_0000cd04"
+    },
+    {
+      "name": "FUN_0002db84",
+      "ea": 187268,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_0002db84"
+    },
+    {
+      "name": "FUN_0002db84",
+      "ea": 187268,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_0002db84"
+    },
+    {
+      "name": "FUN_00023390",
+      "ea": 144272,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_00023390"
+    },
+    {
+      "name": "FUN_000174c4",
+      "ea": 95428,
+      "category": null,
+      "tags": [],
+      "score": 28,
+      "new_name": "suspect_FUN_000174c4"
+    },
+    {
+      "name": "FUN_00016f7c",
+      "ea": 94076,
+      "category": null,
+      "tags": [],
+      "score": 20,
+      "new_name": "suspect_FUN_00016f7c"
+    },
+    {
+      "name": "FUN_00005f78",
+      "ea": 24440,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00005f78"
+    },
+    {
+      "name": "FUN_00018fbc",
+      "ea": 102332,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_00018fbc"
+    },
+    {
+      "name": "FUN_0001cb60",
+      "ea": 117600,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_0001cb60"
+    },
+    {
+      "name": "FUN_0001cb60",
+      "ea": 117600,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_0001cb60"
+    },
+    {
+      "name": "FUN_0001dca4",
+      "ea": 122020,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_0001dca4"
+    },
+    {
+      "name": "FUN_0001dca4",
+      "ea": 122020,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_0001dca4"
+    },
+    {
+      "name": "FUN_000139a0",
+      "ea": 80288,
+      "category": null,
+      "tags": [],
+      "score": 31,
+      "new_name": "suspect_FUN_000139a0"
+    },
+    {
+      "name": "FUN_0000e1a8",
+      "ea": 57768,
+      "category": null,
+      "tags": [],
+      "score": 19,
+      "new_name": "suspect_FUN_0000e1a8"
+    },
+    {
+      "name": "FUN_00020c14",
+      "ea": 134164,
+      "category": null,
+      "tags": [],
+      "score": 16,
+      "new_name": "suspect_FUN_00020c14"
+    },
+    {
+      "name": "FUN_00017b68",
+      "ea": 97128,
+      "category": null,
+      "tags": [],
+      "score": 16,
+      "new_name": "suspect_FUN_00017b68"
+    },
+    {
+      "name": "FUN_0001deb4",
+      "ea": 122548,
+      "category": null,
+      "tags": [],
+      "score": 13,
+      "new_name": "suspect_FUN_0001deb4"
+    },
+    {
+      "name": "FUN_0000a34c",
+      "ea": 41804,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_0000a34c"
+    },
+    {
+      "name": "FUN_00008ebc",
+      "ea": 36540,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00008ebc"
+    },
+    {
+      "name": "FUN_0002233c",
+      "ea": 140092,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_0002233c"
+    },
+    {
+      "name": "FUN_0001fdb4",
+      "ea": 130484,
+      "category": null,
+      "tags": [],
+      "score": 11,
+      "new_name": "suspect_FUN_0001fdb4"
+    },
+    {
+      "name": "FUN_0002f158",
+      "ea": 192856,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_0002f158"
+    },
+    {
+      "name": "FUN_00019218",
+      "ea": 102936,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_00019218"
+    }
+  ],
+  "MNU.BIN": [
+    {
+      "name": "FUN_00007420",
+      "ea": 29728,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 83,
+      "new_name": "phys_FUN_00007420"
+    },
+    {
+      "name": "FUN_00007420",
+      "ea": 29728,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 83,
+      "new_name": "phys_FUN_00007420"
+    },
+    {
+      "name": "FUN_000031d8",
+      "ea": 12760,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 59,
+      "new_name": "phys_FUN_000031d8"
+    },
+    {
+      "name": "FUN_000031d8",
+      "ea": 12760,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 59,
+      "new_name": "phys_FUN_000031d8"
+    },
+    {
+      "name": "FUN_00001948",
+      "ea": 6472,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 16,
+      "new_name": "phys_FUN_00001948"
+    },
+    {
+      "name": "FUN_00001948",
+      "ea": 6472,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 16,
+      "new_name": "phys_FUN_00001948"
+    },
+    {
+      "name": "FUN_00001868",
+      "ea": 6248,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 11,
+      "new_name": "phys_FUN_00001868"
+    },
+    {
+      "name": "FUN_00001868",
+      "ea": 6248,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 11,
+      "new_name": "phys_FUN_00001868"
+    },
+    {
+      "name": "FUN_00004328",
+      "ea": 17192,
+      "category": null,
+      "tags": [],
+      "score": 83,
+      "new_name": "suspect_FUN_00004328"
+    },
+    {
+      "name": "FUN_00004328",
+      "ea": 17192,
+      "category": null,
+      "tags": [],
+      "score": 83,
+      "new_name": "suspect_FUN_00004328"
+    },
+    {
+      "name": "FUN_00005954",
+      "ea": 22868,
+      "category": null,
+      "tags": [],
+      "score": 78,
+      "new_name": "suspect_FUN_00005954"
+    },
+    {
+      "name": "FUN_00005954",
+      "ea": 22868,
+      "category": null,
+      "tags": [],
+      "score": 78,
+      "new_name": "suspect_FUN_00005954"
+    },
+    {
+      "name": "FUN_0000976c",
+      "ea": 38764,
+      "category": null,
+      "tags": [],
+      "score": 44,
+      "new_name": "suspect_FUN_0000976c"
+    },
+    {
+      "name": "FUN_0000976c",
+      "ea": 38764,
+      "category": null,
+      "tags": [],
+      "score": 44,
+      "new_name": "suspect_FUN_0000976c"
+    },
+    {
+      "name": "FUN_00002160",
+      "ea": 8544,
+      "category": null,
+      "tags": [],
+      "score": 38,
+      "new_name": "suspect_FUN_00002160"
+    },
+    {
+      "name": "FUN_00002160",
+      "ea": 8544,
+      "category": null,
+      "tags": [],
+      "score": 38,
+      "new_name": "suspect_FUN_00002160"
+    },
+    {
+      "name": "FUN_0000a654",
+      "ea": 42580,
+      "category": null,
+      "tags": [],
+      "score": 31,
+      "new_name": "suspect_FUN_0000a654"
+    },
+    {
+      "name": "FUN_0000a654",
+      "ea": 42580,
+      "category": null,
+      "tags": [],
+      "score": 31,
+      "new_name": "suspect_FUN_0000a654"
+    },
+    {
+      "name": "FUN_0000293c",
+      "ea": 10556,
+      "category": null,
+      "tags": [],
+      "score": 28,
+      "new_name": "suspect_FUN_0000293c"
+    },
+    {
+      "name": "FUN_0000293c",
+      "ea": 10556,
+      "category": null,
+      "tags": [],
+      "score": 28,
+      "new_name": "suspect_FUN_0000293c"
+    },
+    {
+      "name": "FUN_00003dc0",
+      "ea": 15808,
+      "category": null,
+      "tags": [],
+      "score": 27,
+      "new_name": "suspect_FUN_00003dc0"
+    },
+    {
+      "name": "FUN_00003dc0",
+      "ea": 15808,
+      "category": null,
+      "tags": [],
+      "score": 27,
+      "new_name": "suspect_FUN_00003dc0"
+    },
+    {
+      "name": "FUN_00001b68",
+      "ea": 7016,
+      "category": null,
+      "tags": [],
+      "score": 19,
+      "new_name": "suspect_FUN_00001b68"
+    },
+    {
+      "name": "FUN_00001b68",
+      "ea": 7016,
+      "category": null,
+      "tags": [],
+      "score": 19,
+      "new_name": "suspect_FUN_00001b68"
+    },
+    {
+      "name": "FUN_00001430",
+      "ea": 5168,
+      "category": null,
+      "tags": [],
+      "score": 19,
+      "new_name": "suspect_FUN_00001430"
+    },
+    {
+      "name": "FUN_00001430",
+      "ea": 5168,
+      "category": null,
+      "tags": [],
+      "score": 19,
+      "new_name": "suspect_FUN_00001430"
+    },
+    {
+      "name": "FUN_00000428",
+      "ea": 1064,
+      "category": null,
+      "tags": [],
+      "score": 16,
+      "new_name": "suspect_FUN_00000428"
+    },
+    {
+      "name": "FUN_00000428",
+      "ea": 1064,
+      "category": null,
+      "tags": [],
+      "score": 16,
+      "new_name": "suspect_FUN_00000428"
+    },
+    {
+      "name": "FUN_00005448",
+      "ea": 21576,
+      "category": null,
+      "tags": [],
+      "score": 13,
+      "new_name": "suspect_FUN_00005448"
+    },
+    {
+      "name": "FUN_00005448",
+      "ea": 21576,
+      "category": null,
+      "tags": [],
+      "score": 13,
+      "new_name": "suspect_FUN_00005448"
+    },
+    {
+      "name": "FUN_00008a1c",
+      "ea": 35356,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00008a1c"
+    },
+    {
+      "name": "FUN_00008a1c",
+      "ea": 35356,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00008a1c"
+    },
+    {
+      "name": "FUN_00000a2c",
+      "ea": 2604,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00000a2c"
+    },
+    {
+      "name": "FUN_00000a2c",
+      "ea": 2604,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00000a2c"
+    },
+    {
+      "name": "FUN_0000a110",
+      "ea": 41232,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_0000a110"
+    },
+    {
+      "name": "FUN_0000a110",
+      "ea": 41232,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_0000a110"
+    },
+    {
+      "name": "FUN_000056f8",
+      "ea": 22264,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_000056f8"
+    },
+    {
+      "name": "FUN_00007054",
+      "ea": 28756,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00007054"
+    },
+    {
+      "name": "FUN_000056f8",
+      "ea": 22264,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_000056f8"
+    },
+    {
+      "name": "FUN_00007054",
+      "ea": 28756,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00007054"
+    },
+    {
+      "name": "FUN_00008804",
+      "ea": 34820,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_00008804"
+    },
+    {
+      "name": "FUN_00008804",
+      "ea": 34820,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_00008804"
+    },
+    {
+      "name": "FUN_00001f4c",
+      "ea": 8012,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_00001f4c"
+    },
+    {
+      "name": "FUN_00001f4c",
+      "ea": 8012,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_00001f4c"
+    },
+    {
+      "name": "FUN_000010cc",
+      "ea": 4300,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_000010cc"
+    },
+    {
+      "name": "FUN_000090a0",
+      "ea": 37024,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_000090a0"
+    },
+    {
+      "name": "FUN_000010cc",
+      "ea": 4300,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_000010cc"
+    },
+    {
+      "name": "FUN_000090a0",
+      "ea": 37024,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_000090a0"
+    },
+    {
+      "name": "FUN_00000f30",
+      "ea": 3888,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_00000f30"
+    },
+    {
+      "name": "FUN_00000f30",
+      "ea": 3888,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_00000f30"
+    },
+    {
+      "name": "FUN_00008f20",
+      "ea": 36640,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00008f20"
+    },
+    {
+      "name": "FUN_00008f20",
+      "ea": 36640,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00008f20"
+    },
+    {
+      "name": "FUN_0000b258",
+      "ea": 45656,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_0000b258"
+    },
+    {
+      "name": "FUN_0000b258",
+      "ea": 45656,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_0000b258"
+    },
+    {
+      "name": "FUN_00006dc8",
+      "ea": 28104,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00006dc8"
+    },
+    {
+      "name": "FUN_00006dc8",
+      "ea": 28104,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00006dc8"
+    },
+    {
+      "name": "FUN_000092d8",
+      "ea": 37592,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_000092d8"
+    },
+    {
+      "name": "FUN_000092d8",
+      "ea": 37592,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_000092d8"
+    },
+    {
+      "name": "FUN_000094c0",
+      "ea": 38080,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_000094c0"
+    },
+    {
+      "name": "FUN_000094c0",
+      "ea": 38080,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_000094c0"
+    },
+    {
+      "name": "FUN_000012fc",
+      "ea": 4860,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_000012fc"
+    },
+    {
+      "name": "FUN_000012fc",
+      "ea": 4860,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_000012fc"
+    },
+    {
+      "name": "FUN_0000a40c",
+      "ea": 41996,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_0000a40c"
+    },
+    {
+      "name": "FUN_0000a40c",
+      "ea": 41996,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_0000a40c"
+    },
+    {
+      "name": "FUN_0000a534",
+      "ea": 42292,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_0000a534"
+    },
+    {
+      "name": "FUN_0000a534",
+      "ea": 42292,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_0000a534"
+    },
+    {
+      "name": "FUN_00000ca4",
+      "ea": 3236,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_00000ca4"
+    },
+    {
+      "name": "FUN_00000ca4",
+      "ea": 3236,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_00000ca4"
+    },
+    {
+      "name": "FUN_00006f28",
+      "ea": 28456,
+      "category": null,
+      "tags": [],
+      "score": 3,
+      "new_name": "suspect_FUN_00006f28"
+    },
+    {
+      "name": "FUN_00009668",
+      "ea": 38504,
+      "category": null,
+      "tags": [],
+      "score": 3,
+      "new_name": "suspect_FUN_00009668"
+    },
+    {
+      "name": "FUN_00006f28",
+      "ea": 28456,
+      "category": null,
+      "tags": [],
+      "score": 3,
+      "new_name": "suspect_FUN_00006f28"
+    },
+    {
+      "name": "FUN_00009668",
+      "ea": 38504,
+      "category": null,
+      "tags": [],
+      "score": 3,
+      "new_name": "suspect_FUN_00009668"
+    },
+    {
+      "name": "FUN_0000737c",
+      "ea": 29564,
+      "category": null,
+      "tags": [],
+      "score": 3,
+      "new_name": "suspect_FUN_0000737c"
+    },
+    {
+      "name": "FUN_0000737c",
+      "ea": 29564,
+      "category": null,
+      "tags": [],
+      "score": 3,
+      "new_name": "suspect_FUN_0000737c"
+    },
+    {
+      "name": "FUN_00003074",
+      "ea": 12404,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_00003074"
+    },
+    {
+      "name": "FUN_00003074",
+      "ea": 12404,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_00003074"
+    },
+    {
+      "name": "FUN_00003160",
+      "ea": 12640,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_00003160"
+    },
+    {
+      "name": "FUN_00003160",
+      "ea": 12640,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_00003160"
+    },
+    {
+      "name": "FUN_00009420",
+      "ea": 37920,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_00009420"
+    },
+    {
+      "name": "FUN_00009420",
+      "ea": 37920,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_00009420"
+    },
+    {
+      "name": "FUN_000095f8",
+      "ea": 38392,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_000095f8"
+    },
+    {
+      "name": "FUN_000095f8",
+      "ea": 38392,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_000095f8"
+    },
+    {
+      "name": "FUN_00001804",
+      "ea": 6148,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_00001804"
+    },
+    {
+      "name": "FUN_00001804",
+      "ea": 6148,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_00001804"
+    },
+    {
+      "name": "FUN_00009724",
+      "ea": 38692,
+      "category": null,
+      "tags": [],
+      "score": 1,
+      "new_name": "suspect_FUN_00009724"
+    },
+    {
+      "name": "FUN_00009724",
+      "ea": 38692,
+      "category": null,
+      "tags": [],
+      "score": 1,
+      "new_name": "suspect_FUN_00009724"
+    },
+    {
+      "name": "FUN_0000a374",
+      "ea": 41844,
+      "category": null,
+      "tags": [],
+      "score": 1,
+      "new_name": "suspect_FUN_0000a374"
+    },
+    {
+      "name": "FUN_0000a374",
+      "ea": 41844,
+      "category": null,
+      "tags": [],
+      "score": 1,
+      "new_name": "suspect_FUN_0000a374"
+    },
+    {
+      "name": "FUN_00009494",
+      "ea": 38036,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_00009494"
+    },
+    {
+      "name": "FUN_00009494",
+      "ea": 38036,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_00009494"
+    },
+    {
+      "name": "FUN_0000ad3c",
+      "ea": 44348,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_0000ad3c"
+    },
+    {
+      "name": "FUN_0000ad3c",
+      "ea": 44348,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_0000ad3c"
+    }
+  ],
+  "MPLR.BIN": [
+    {
+      "name": "FUN_00000574",
+      "ea": 1396,
+      "category": null,
+      "tags": [],
+      "score": 18,
+      "new_name": "suspect_FUN_00000574"
+    },
+    {
+      "name": "FUN_00000574",
+      "ea": 1396,
+      "category": null,
+      "tags": [],
+      "score": 18,
+      "new_name": "suspect_FUN_00000574"
+    },
+    {
+      "name": "FUN_00000914",
+      "ea": 2324,
+      "category": null,
+      "tags": [],
+      "score": 3,
+      "new_name": "suspect_FUN_00000914"
+    },
+    {
+      "name": "FUN_00000914",
+      "ea": 2324,
+      "category": null,
+      "tags": [],
+      "score": 3,
+      "new_name": "suspect_FUN_00000914"
+    },
+    {
+      "name": "FUN_000009d0",
+      "ea": 2512,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_000009d0"
+    },
+    {
+      "name": "FUN_000009d0",
+      "ea": 2512,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_000009d0"
+    },
+    {
+      "name": "FUN_00000bd4",
+      "ea": 3028,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_00000bd4"
+    },
+    {
+      "name": "FUN_00000bd4",
+      "ea": 3028,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_00000bd4"
+    },
+    {
+      "name": "FUN_00000ca8",
+      "ea": 3240,
+      "category": null,
+      "tags": [],
+      "score": 1,
+      "new_name": "suspect_FUN_00000ca8"
+    },
+    {
+      "name": "FUN_00000ca8",
+      "ea": 3240,
+      "category": null,
+      "tags": [],
+      "score": 1,
+      "new_name": "suspect_FUN_00000ca8"
+    },
+    {
+      "name": "FUN_00000a3c",
+      "ea": 2620,
+      "category": null,
+      "tags": [],
+      "score": 1,
+      "new_name": "suspect_FUN_00000a3c"
+    },
+    {
+      "name": "FUN_00000a3c",
+      "ea": 2620,
+      "category": null,
+      "tags": [],
+      "score": 1,
+      "new_name": "suspect_FUN_00000a3c"
+    },
+    {
+      "name": "FUN_00000af8",
+      "ea": 2808,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_00000af8"
+    },
+    {
+      "name": "FUN_00000af8",
+      "ea": 2808,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_00000af8"
+    }
+  ],
+  "PSX.EXE": [
+    {
+      "name": "FUN_000018c8",
+      "ea": 6344,
+      "category": null,
+      "tags": [],
+      "score": 20,
+      "new_name": "suspect_FUN_000018c8"
+    },
+    {
+      "name": "FUN_000018c8",
+      "ea": 6344,
+      "category": null,
+      "tags": [],
+      "score": 20,
+      "new_name": "suspect_FUN_000018c8"
+    },
+    {
+      "name": "FUN_0000327c",
+      "ea": 12924,
+      "category": null,
+      "tags": [],
+      "score": 20,
+      "new_name": "suspect_FUN_0000327c"
+    },
+    {
+      "name": "FUN_0000327c",
+      "ea": 12924,
+      "category": null,
+      "tags": [],
+      "score": 20,
+      "new_name": "suspect_FUN_0000327c"
+    },
+    {
+      "name": "FUN_00002fb4",
+      "ea": 12212,
+      "category": null,
+      "tags": [],
+      "score": 14,
+      "new_name": "suspect_FUN_00002fb4"
+    },
+    {
+      "name": "FUN_00002fb4",
+      "ea": 12212,
+      "category": null,
+      "tags": [],
+      "score": 14,
+      "new_name": "suspect_FUN_00002fb4"
+    },
+    {
+      "name": "FUN_00001640",
+      "ea": 5696,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00001640"
+    },
+    {
+      "name": "FUN_00001640",
+      "ea": 5696,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00001640"
+    },
+    {
+      "name": "FUN_00002d34",
+      "ea": 11572,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00002d34"
+    },
+    {
+      "name": "FUN_00002d34",
+      "ea": 11572,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00002d34"
+    },
+    {
+      "name": "FUN_00003e54",
+      "ea": 15956,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00003e54"
+    },
+    {
+      "name": "FUN_00003e54",
+      "ea": 15956,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00003e54"
+    },
+    {
+      "name": "FUN_000041a0",
+      "ea": 16800,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_000041a0"
+    },
+    {
+      "name": "FUN_000041a0",
+      "ea": 16800,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_000041a0"
+    },
+    {
+      "name": "FUN_00003920",
+      "ea": 14624,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_00003920"
+    },
+    {
+      "name": "FUN_00003920",
+      "ea": 14624,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_00003920"
+    },
+    {
+      "name": "FUN_00000c08",
+      "ea": 3080,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_00000c08"
+    },
+    {
+      "name": "FUN_00000c08",
+      "ea": 3080,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_00000c08"
+    },
+    {
+      "name": "FUN_00001280",
+      "ea": 4736,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00001280"
+    },
+    {
+      "name": "FUN_00001280",
+      "ea": 4736,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00001280"
+    },
+    {
+      "name": "FUN_00001cf4",
+      "ea": 7412,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00001cf4"
+    },
+    {
+      "name": "FUN_00001cf4",
+      "ea": 7412,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00001cf4"
+    },
+    {
+      "name": "FUN_00003b00",
+      "ea": 15104,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00003b00"
+    },
+    {
+      "name": "FUN_00003b00",
+      "ea": 15104,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00003b00"
+    },
+    {
+      "name": "FUN_000023ac",
+      "ea": 9132,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_000023ac"
+    },
+    {
+      "name": "FUN_000023ac",
+      "ea": 9132,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_000023ac"
+    },
+    {
+      "name": "FUN_00000dd8",
+      "ea": 3544,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_00000dd8"
+    },
+    {
+      "name": "FUN_00000dd8",
+      "ea": 3544,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_00000dd8"
+    },
+    {
+      "name": "FUN_0000213c",
+      "ea": 8508,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_0000213c"
+    },
+    {
+      "name": "FUN_0000213c",
+      "ea": 8508,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_0000213c"
+    },
+    {
+      "name": "FUN_00002278",
+      "ea": 8824,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_00002278"
+    },
+    {
+      "name": "FUN_00002278",
+      "ea": 8824,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_00002278"
+    },
+    {
+      "name": "FUN_00000b30",
+      "ea": 2864,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00000b30"
+    },
+    {
+      "name": "FUN_00002c5c",
+      "ea": 11356,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00002c5c"
+    },
+    {
+      "name": "FUN_00000b30",
+      "ea": 2864,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00000b30"
+    },
+    {
+      "name": "FUN_00002c5c",
+      "ea": 11356,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00002c5c"
+    },
+    {
+      "name": "FUN_000040cc",
+      "ea": 16588,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_000040cc"
+    },
+    {
+      "name": "FUN_000040cc",
+      "ea": 16588,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_000040cc"
+    },
+    {
+      "name": "FUN_00004488",
+      "ea": 17544,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00004488"
+    },
+    {
+      "name": "FUN_00004488",
+      "ea": 17544,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00004488"
+    },
+    {
+      "name": "FUN_00000f20",
+      "ea": 3872,
+      "category": null,
+      "tags": [],
+      "score": 3,
+      "new_name": "suspect_FUN_00000f20"
+    },
+    {
+      "name": "FUN_00000f20",
+      "ea": 3872,
+      "category": null,
+      "tags": [],
+      "score": 3,
+      "new_name": "suspect_FUN_00000f20"
+    },
+    {
+      "name": "FUN_00001f24",
+      "ea": 7972,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_00001f24"
+    },
+    {
+      "name": "FUN_00001f24",
+      "ea": 7972,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_00001f24"
+    },
+    {
+      "name": "FUN_00000fc0",
+      "ea": 4032,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_00000fc0"
+    },
+    {
+      "name": "FUN_00000fc0",
+      "ea": 4032,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_00000fc0"
+    },
+    {
+      "name": "FUN_00001160",
+      "ea": 4448,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_00001160"
+    },
+    {
+      "name": "FUN_00001fe0",
+      "ea": 8160,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_00001fe0"
+    },
+    {
+      "name": "FUN_00002700",
+      "ea": 9984,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_00002700"
+    },
+    {
+      "name": "FUN_00001160",
+      "ea": 4448,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_00001160"
+    },
+    {
+      "name": "FUN_00001fe0",
+      "ea": 8160,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_00001fe0"
+    },
+    {
+      "name": "FUN_00002700",
+      "ea": 9984,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_00002700"
+    },
+    {
+      "name": "FUN_00001228",
+      "ea": 4648,
+      "category": null,
+      "tags": [],
+      "score": 1,
+      "new_name": "suspect_FUN_00001228"
+    },
+    {
+      "name": "FUN_00004388",
+      "ea": 17288,
+      "category": null,
+      "tags": [],
+      "score": 1,
+      "new_name": "suspect_FUN_00004388"
+    },
+    {
+      "name": "FUN_00001228",
+      "ea": 4648,
+      "category": null,
+      "tags": [],
+      "score": 1,
+      "new_name": "suspect_FUN_00001228"
+    },
+    {
+      "name": "FUN_00004388",
+      "ea": 17288,
+      "category": null,
+      "tags": [],
+      "score": 1,
+      "new_name": "suspect_FUN_00004388"
+    },
+    {
+      "name": "FUN_000014d4",
+      "ea": 5332,
+      "category": null,
+      "tags": [],
+      "score": 1,
+      "new_name": "suspect_FUN_000014d4"
+    },
+    {
+      "name": "FUN_000038d4",
+      "ea": 14548,
+      "category": null,
+      "tags": [],
+      "score": 1,
+      "new_name": "suspect_FUN_000038d4"
+    },
+    {
+      "name": "FUN_000014d4",
+      "ea": 5332,
+      "category": null,
+      "tags": [],
+      "score": 1,
+      "new_name": "suspect_FUN_000014d4"
+    },
+    {
+      "name": "FUN_000038d4",
+      "ea": 14548,
+      "category": null,
+      "tags": [],
+      "score": 1,
+      "new_name": "suspect_FUN_000038d4"
+    },
+    {
+      "name": "FUN_000010ec",
+      "ea": 4332,
+      "category": null,
+      "tags": [],
+      "score": 1,
+      "new_name": "suspect_FUN_000010ec"
+    },
+    {
+      "name": "FUN_000010ec",
+      "ea": 4332,
+      "category": null,
+      "tags": [],
+      "score": 1,
+      "new_name": "suspect_FUN_000010ec"
+    },
+    {
+      "name": "FUN_0000105c",
+      "ea": 4188,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_0000105c"
+    },
+    {
+      "name": "FUN_0000108c",
+      "ea": 4236,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_0000108c"
+    },
+    {
+      "name": "FUN_000010bc",
+      "ea": 4284,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_000010bc"
+    },
+    {
+      "name": "FUN_00001120",
+      "ea": 4384,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_00001120"
+    },
+    {
+      "name": "FUN_0000105c",
+      "ea": 4188,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_0000105c"
+    },
+    {
+      "name": "FUN_0000108c",
+      "ea": 4236,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_0000108c"
+    },
+    {
+      "name": "FUN_000010bc",
+      "ea": 4284,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_000010bc"
+    },
+    {
+      "name": "FUN_00001120",
+      "ea": 4384,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_00001120"
+    },
+    {
+      "name": "FUN_00001ea0",
+      "ea": 7840,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_00001ea0"
+    },
+    {
+      "name": "FUN_00001ec8",
+      "ea": 7880,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_00001ec8"
+    },
+    {
+      "name": "FUN_00001ef0",
+      "ea": 7920,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_00001ef0"
+    },
+    {
+      "name": "FUN_00001ea0",
+      "ea": 7840,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_00001ea0"
+    },
+    {
+      "name": "FUN_00001ec8",
+      "ea": 7880,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_00001ec8"
+    },
+    {
+      "name": "FUN_00001ef0",
+      "ea": 7920,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_00001ef0"
+    },
+    {
+      "name": "FUN_00002538",
+      "ea": 9528,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_00002538"
+    },
+    {
+      "name": "FUN_00002538",
+      "ea": 9528,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_00002538"
+    },
+    {
+      "name": "FUN_0000204c",
+      "ea": 8268,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_0000204c"
+    },
+    {
+      "name": "FUN_000020d4",
+      "ea": 8404,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_000020d4"
+    },
+    {
+      "name": "FUN_000020f4",
+      "ea": 8436,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_000020f4"
+    },
+    {
+      "name": "FUN_000024f8",
+      "ea": 9464,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_000024f8"
+    },
+    {
+      "name": "FUN_00002518",
+      "ea": 9496,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_00002518"
+    },
+    {
+      "name": "FUN_0000255c",
+      "ea": 9564,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_0000255c"
+    },
+    {
+      "name": "FUN_0000204c",
+      "ea": 8268,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_0000204c"
+    },
+    {
+      "name": "FUN_000020d4",
+      "ea": 8404,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_000020d4"
+    },
+    {
+      "name": "FUN_000020f4",
+      "ea": 8436,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_000020f4"
+    },
+    {
+      "name": "FUN_000024f8",
+      "ea": 9464,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_000024f8"
+    },
+    {
+      "name": "FUN_00002518",
+      "ea": 9496,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_00002518"
+    },
+    {
+      "name": "FUN_0000255c",
+      "ea": 9564,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_0000255c"
+    }
+  ],
+  "ROT.BIN": [
+    {
+      "name": "FUN_000006dc",
+      "ea": 1756,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 19,
+      "new_name": "phys_FUN_000006dc"
+    },
+    {
+      "name": "FUN_000006dc",
+      "ea": 1756,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 19,
+      "new_name": "phys_FUN_000006dc"
+    },
+    {
+      "name": "FUN_00001ad4",
+      "ea": 6868,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 19,
+      "new_name": "phys_FUN_00001ad4"
+    },
+    {
+      "name": "FUN_00001ad4",
+      "ea": 6868,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 19,
+      "new_name": "phys_FUN_00001ad4"
+    },
+    {
+      "name": "FUN_00007034",
+      "ea": 28724,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 18,
+      "new_name": "phys_FUN_00007034"
+    },
+    {
+      "name": "FUN_00007034",
+      "ea": 28724,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 18,
+      "new_name": "phys_FUN_00007034"
+    },
+    {
+      "name": "FUN_0000652c",
+      "ea": 25900,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 17,
+      "new_name": "phys_FUN_0000652c"
+    },
+    {
+      "name": "FUN_0000652c",
+      "ea": 25900,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 17,
+      "new_name": "phys_FUN_0000652c"
+    },
+    {
+      "name": "FUN_000053dc",
+      "ea": 21468,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 13,
+      "new_name": "phys_FUN_000053dc"
+    },
+    {
+      "name": "FUN_000053dc",
+      "ea": 21468,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 13,
+      "new_name": "phys_FUN_000053dc"
+    },
+    {
+      "name": "FUN_00000900",
+      "ea": 2304,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 11,
+      "new_name": "phys_FUN_00000900"
+    },
+    {
+      "name": "FUN_00000900",
+      "ea": 2304,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 11,
+      "new_name": "phys_FUN_00000900"
+    },
+    {
+      "name": "FUN_00002724",
+      "ea": 10020,
+      "category": null,
+      "tags": [],
+      "score": 64,
+      "new_name": "suspect_FUN_00002724"
+    },
+    {
+      "name": "FUN_00002724",
+      "ea": 10020,
+      "category": null,
+      "tags": [],
+      "score": 64,
+      "new_name": "suspect_FUN_00002724"
+    },
+    {
+      "name": "FUN_00001650",
+      "ea": 5712,
+      "category": null,
+      "tags": [],
+      "score": 23,
+      "new_name": "suspect_FUN_00001650"
+    },
+    {
+      "name": "FUN_00001650",
+      "ea": 5712,
+      "category": null,
+      "tags": [],
+      "score": 23,
+      "new_name": "suspect_FUN_00001650"
+    },
+    {
+      "name": "FUN_00008198",
+      "ea": 33176,
+      "category": null,
+      "tags": [],
+      "score": 20,
+      "new_name": "suspect_FUN_00008198"
+    },
+    {
+      "name": "FUN_00008198",
+      "ea": 33176,
+      "category": null,
+      "tags": [],
+      "score": 20,
+      "new_name": "suspect_FUN_00008198"
+    },
+    {
+      "name": "FUN_00000e04",
+      "ea": 3588,
+      "category": null,
+      "tags": [],
+      "score": 20,
+      "new_name": "suspect_FUN_00000e04"
+    },
+    {
+      "name": "FUN_00000e04",
+      "ea": 3588,
+      "category": null,
+      "tags": [],
+      "score": 20,
+      "new_name": "suspect_FUN_00000e04"
+    },
+    {
+      "name": "FUN_00007bb8",
+      "ea": 31672,
+      "category": null,
+      "tags": [],
+      "score": 19,
+      "new_name": "suspect_FUN_00007bb8"
+    },
+    {
+      "name": "FUN_00007bb8",
+      "ea": 31672,
+      "category": null,
+      "tags": [],
+      "score": 19,
+      "new_name": "suspect_FUN_00007bb8"
+    },
+    {
+      "name": "FUN_000002f4",
+      "ea": 756,
+      "category": null,
+      "tags": [],
+      "score": 18,
+      "new_name": "suspect_FUN_000002f4"
+    },
+    {
+      "name": "FUN_000002f4",
+      "ea": 756,
+      "category": null,
+      "tags": [],
+      "score": 18,
+      "new_name": "suspect_FUN_000002f4"
+    },
+    {
+      "name": "FUN_00001ff4",
+      "ea": 8180,
+      "category": null,
+      "tags": [],
+      "score": 17,
+      "new_name": "suspect_FUN_00001ff4"
+    },
+    {
+      "name": "FUN_00001ff4",
+      "ea": 8180,
+      "category": null,
+      "tags": [],
+      "score": 17,
+      "new_name": "suspect_FUN_00001ff4"
+    },
+    {
+      "name": "FUN_000097f8",
+      "ea": 38904,
+      "category": null,
+      "tags": [],
+      "score": 16,
+      "new_name": "suspect_FUN_000097f8"
+    },
+    {
+      "name": "FUN_000097f8",
+      "ea": 38904,
+      "category": null,
+      "tags": [],
+      "score": 16,
+      "new_name": "suspect_FUN_000097f8"
+    },
+    {
+      "name": "FUN_00008824",
+      "ea": 34852,
+      "category": null,
+      "tags": [],
+      "score": 14,
+      "new_name": "suspect_FUN_00008824"
+    },
+    {
+      "name": "FUN_00008824",
+      "ea": 34852,
+      "category": null,
+      "tags": [],
+      "score": 14,
+      "new_name": "suspect_FUN_00008824"
+    },
+    {
+      "name": "FUN_00007818",
+      "ea": 30744,
+      "category": null,
+      "tags": [],
+      "score": 13,
+      "new_name": "suspect_FUN_00007818"
+    },
+    {
+      "name": "FUN_00007818",
+      "ea": 30744,
+      "category": null,
+      "tags": [],
+      "score": 13,
+      "new_name": "suspect_FUN_00007818"
+    },
+    {
+      "name": "FUN_00002360",
+      "ea": 9056,
+      "category": null,
+      "tags": [],
+      "score": 13,
+      "new_name": "suspect_FUN_00002360"
+    },
+    {
+      "name": "FUN_00002360",
+      "ea": 9056,
+      "category": null,
+      "tags": [],
+      "score": 13,
+      "new_name": "suspect_FUN_00002360"
+    },
+    {
+      "name": "FUN_00009dfc",
+      "ea": 40444,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00009dfc"
+    },
+    {
+      "name": "FUN_00009dfc",
+      "ea": 40444,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00009dfc"
+    },
+    {
+      "name": "FUN_00005e70",
+      "ea": 24176,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00005e70"
+    },
+    {
+      "name": "FUN_00005e70",
+      "ea": 24176,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00005e70"
+    },
+    {
+      "name": "FUN_00004a70",
+      "ea": 19056,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00004a70"
+    },
+    {
+      "name": "FUN_00004a70",
+      "ea": 19056,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00004a70"
+    },
+    {
+      "name": "FUN_0000451c",
+      "ea": 17692,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_0000451c"
+    },
+    {
+      "name": "FUN_0000451c",
+      "ea": 17692,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_0000451c"
+    },
+    {
+      "name": "FUN_00008ed4",
+      "ea": 36564,
+      "category": null,
+      "tags": [],
+      "score": 11,
+      "new_name": "suspect_FUN_00008ed4"
+    },
+    {
+      "name": "FUN_00008ed4",
+      "ea": 36564,
+      "category": null,
+      "tags": [],
+      "score": 11,
+      "new_name": "suspect_FUN_00008ed4"
+    },
+    {
+      "name": "FUN_00001288",
+      "ea": 4744,
+      "category": null,
+      "tags": [],
+      "score": 11,
+      "new_name": "suspect_FUN_00001288"
+    },
+    {
+      "name": "FUN_00001288",
+      "ea": 4744,
+      "category": null,
+      "tags": [],
+      "score": 11,
+      "new_name": "suspect_FUN_00001288"
+    },
+    {
+      "name": "FUN_000034dc",
+      "ea": 13532,
+      "category": null,
+      "tags": [],
+      "score": 11,
+      "new_name": "suspect_FUN_000034dc"
+    },
+    {
+      "name": "FUN_000034dc",
+      "ea": 13532,
+      "category": null,
+      "tags": [],
+      "score": 11,
+      "new_name": "suspect_FUN_000034dc"
+    },
+    {
+      "name": "FUN_000095d8",
+      "ea": 38360,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_000095d8"
+    },
+    {
+      "name": "FUN_000095d8",
+      "ea": 38360,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_000095d8"
+    },
+    {
+      "name": "FUN_000042f8",
+      "ea": 17144,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_000042f8"
+    },
+    {
+      "name": "FUN_000042f8",
+      "ea": 17144,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_000042f8"
+    },
+    {
+      "name": "FUN_00007f90",
+      "ea": 32656,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_00007f90"
+    },
+    {
+      "name": "FUN_00007f90",
+      "ea": 32656,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_00007f90"
+    },
+    {
+      "name": "FUN_0000745c",
+      "ea": 29788,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_0000745c"
+    },
+    {
+      "name": "FUN_0000745c",
+      "ea": 29788,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_0000745c"
+    },
+    {
+      "name": "FUN_000057cc",
+      "ea": 22476,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_000057cc"
+    },
+    {
+      "name": "FUN_000057cc",
+      "ea": 22476,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_000057cc"
+    },
+    {
+      "name": "FUN_000093fc",
+      "ea": 37884,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_000093fc"
+    },
+    {
+      "name": "FUN_000093fc",
+      "ea": 37884,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_000093fc"
+    },
+    {
+      "name": "FUN_0000a300",
+      "ea": 41728,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_0000a300"
+    },
+    {
+      "name": "FUN_0000a300",
+      "ea": 41728,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_0000a300"
+    },
+    {
+      "name": "FUN_0000a4c8",
+      "ea": 42184,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_0000a4c8"
+    },
+    {
+      "name": "FUN_0000a4c8",
+      "ea": 42184,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_0000a4c8"
+    },
+    {
+      "name": "FUN_000048c8",
+      "ea": 18632,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_000048c8"
+    },
+    {
+      "name": "FUN_000072b4",
+      "ea": 29364,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_000072b4"
+    },
+    {
+      "name": "FUN_000048c8",
+      "ea": 18632,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_000048c8"
+    },
+    {
+      "name": "FUN_000072b4",
+      "ea": 29364,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_000072b4"
+    },
+    {
+      "name": "FUN_000014b8",
+      "ea": 5304,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_000014b8"
+    },
+    {
+      "name": "FUN_00003da8",
+      "ea": 15784,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_00003da8"
+    },
+    {
+      "name": "FUN_000014b8",
+      "ea": 5304,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_000014b8"
+    },
+    {
+      "name": "FUN_00003da8",
+      "ea": 15784,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_00003da8"
+    },
+    {
+      "name": "FUN_00004168",
+      "ea": 16744,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_00004168"
+    },
+    {
+      "name": "FUN_00004168",
+      "ea": 16744,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_00004168"
+    },
+    {
+      "name": "FUN_00000b00",
+      "ea": 2816,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00000b00"
+    },
+    {
+      "name": "FUN_00000b00",
+      "ea": 2816,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00000b00"
+    },
+    {
+      "name": "FUN_00000c84",
+      "ea": 3204,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00000c84"
+    },
+    {
+      "name": "FUN_00000c84",
+      "ea": 3204,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00000c84"
+    },
+    {
+      "name": "FUN_00004fcc",
+      "ea": 20428,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00004fcc"
+    },
+    {
+      "name": "FUN_00004fcc",
+      "ea": 20428,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00004fcc"
+    },
+    {
+      "name": "FUN_00005b2c",
+      "ea": 23340,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00005b2c"
+    },
+    {
+      "name": "FUN_00005b2c",
+      "ea": 23340,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00005b2c"
+    },
+    {
+      "name": "FUN_000063c4",
+      "ea": 25540,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_000063c4"
+    },
+    {
+      "name": "FUN_000063c4",
+      "ea": 25540,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_000063c4"
+    },
+    {
+      "name": "FUN_00004ccc",
+      "ea": 19660,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_00004ccc"
+    },
+    {
+      "name": "FUN_00004ccc",
+      "ea": 19660,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_00004ccc"
+    },
+    {
+      "name": "FUN_0000867c",
+      "ea": 34428,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_0000867c"
+    },
+    {
+      "name": "FUN_0000867c",
+      "ea": 34428,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_0000867c"
+    },
+    {
+      "name": "FUN_000025ec",
+      "ea": 9708,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_000025ec"
+    },
+    {
+      "name": "FUN_00005c9c",
+      "ea": 23708,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_00005c9c"
+    },
+    {
+      "name": "FUN_00008b0c",
+      "ea": 35596,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_00008b0c"
+    },
+    {
+      "name": "FUN_000025ec",
+      "ea": 9708,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_000025ec"
+    },
+    {
+      "name": "FUN_00005c9c",
+      "ea": 23708,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_00005c9c"
+    },
+    {
+      "name": "FUN_00008b0c",
+      "ea": 35596,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_00008b0c"
+    },
+    {
+      "name": "FUN_0000a074",
+      "ea": 41076,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_0000a074"
+    },
+    {
+      "name": "FUN_0000a074",
+      "ea": 41076,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_0000a074"
+    },
+    {
+      "name": "FUN_00007ab4",
+      "ea": 31412,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_00007ab4"
+    },
+    {
+      "name": "FUN_00007ab4",
+      "ea": 31412,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_00007ab4"
+    },
+    {
+      "name": "FUN_00003964",
+      "ea": 14692,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_00003964"
+    },
+    {
+      "name": "FUN_00003964",
+      "ea": 14692,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_00003964"
+    }
+  ],
+  "SYS.BIN": [
+    {
+      "name": "FUN_00005c9c",
+      "ea": 23708,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 45,
+      "new_name": "phys_FUN_00005c9c"
+    },
+    {
+      "name": "FUN_00005c9c",
+      "ea": 23708,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 45,
+      "new_name": "phys_FUN_00005c9c"
+    },
+    {
+      "name": "FUN_00002b10",
+      "ea": 11024,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 30,
+      "new_name": "phys_FUN_00002b10"
+    },
+    {
+      "name": "FUN_00002b10",
+      "ea": 11024,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 30,
+      "new_name": "phys_FUN_00002b10"
+    },
+    {
+      "name": "FUN_0000377c",
+      "ea": 14204,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 22,
+      "new_name": "phys_FUN_0000377c"
+    },
+    {
+      "name": "FUN_0000377c",
+      "ea": 14204,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 22,
+      "new_name": "phys_FUN_0000377c"
+    },
+    {
+      "name": "FUN_0000276c",
+      "ea": 10092,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 18,
+      "new_name": "phys_FUN_0000276c"
+    },
+    {
+      "name": "FUN_0000276c",
+      "ea": 10092,
+      "category": "physics",
+      "tags": [
+        "physics"
+      ],
+      "score": 18,
+      "new_name": "phys_FUN_0000276c"
+    },
+    {
+      "name": "FUN_00009510",
+      "ea": 38160,
+      "category": null,
+      "tags": [],
+      "score": 38,
+      "new_name": "suspect_FUN_00009510"
+    },
+    {
+      "name": "FUN_00009510",
+      "ea": 38160,
+      "category": null,
+      "tags": [],
+      "score": 38,
+      "new_name": "suspect_FUN_00009510"
+    },
+    {
+      "name": "FUN_00007c64",
+      "ea": 31844,
+      "category": null,
+      "tags": [],
+      "score": 29,
+      "new_name": "suspect_FUN_00007c64"
+    },
+    {
+      "name": "FUN_00007c64",
+      "ea": 31844,
+      "category": null,
+      "tags": [],
+      "score": 29,
+      "new_name": "suspect_FUN_00007c64"
+    },
+    {
+      "name": "FUN_000030b0",
+      "ea": 12464,
+      "category": null,
+      "tags": [],
+      "score": 25,
+      "new_name": "suspect_FUN_000030b0"
+    },
+    {
+      "name": "FUN_000030b0",
+      "ea": 12464,
+      "category": null,
+      "tags": [],
+      "score": 25,
+      "new_name": "suspect_FUN_000030b0"
+    },
+    {
+      "name": "FUN_00006a04",
+      "ea": 27140,
+      "category": null,
+      "tags": [],
+      "score": 21,
+      "new_name": "suspect_FUN_00006a04"
+    },
+    {
+      "name": "FUN_00006a04",
+      "ea": 27140,
+      "category": null,
+      "tags": [],
+      "score": 21,
+      "new_name": "suspect_FUN_00006a04"
+    },
+    {
+      "name": "FUN_0000a2b8",
+      "ea": 41656,
+      "category": null,
+      "tags": [],
+      "score": 18,
+      "new_name": "suspect_FUN_0000a2b8"
+    },
+    {
+      "name": "FUN_0000a2b8",
+      "ea": 41656,
+      "category": null,
+      "tags": [],
+      "score": 18,
+      "new_name": "suspect_FUN_0000a2b8"
+    },
+    {
+      "name": "FUN_00008d48",
+      "ea": 36168,
+      "category": null,
+      "tags": [],
+      "score": 15,
+      "new_name": "suspect_FUN_00008d48"
+    },
+    {
+      "name": "FUN_00008d48",
+      "ea": 36168,
+      "category": null,
+      "tags": [],
+      "score": 15,
+      "new_name": "suspect_FUN_00008d48"
+    },
+    {
+      "name": "FUN_00002258",
+      "ea": 8792,
+      "category": null,
+      "tags": [],
+      "score": 15,
+      "new_name": "suspect_FUN_00002258"
+    },
+    {
+      "name": "FUN_00006f74",
+      "ea": 28532,
+      "category": null,
+      "tags": [],
+      "score": 15,
+      "new_name": "suspect_FUN_00006f74"
+    },
+    {
+      "name": "FUN_00002258",
+      "ea": 8792,
+      "category": null,
+      "tags": [],
+      "score": 15,
+      "new_name": "suspect_FUN_00002258"
+    },
+    {
+      "name": "FUN_00006f74",
+      "ea": 28532,
+      "category": null,
+      "tags": [],
+      "score": 15,
+      "new_name": "suspect_FUN_00006f74"
+    },
+    {
+      "name": "FUN_000088b8",
+      "ea": 35000,
+      "category": null,
+      "tags": [],
+      "score": 14,
+      "new_name": "suspect_FUN_000088b8"
+    },
+    {
+      "name": "FUN_000088b8",
+      "ea": 35000,
+      "category": null,
+      "tags": [],
+      "score": 14,
+      "new_name": "suspect_FUN_000088b8"
+    },
+    {
+      "name": "FUN_00001998",
+      "ea": 6552,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00001998"
+    },
+    {
+      "name": "FUN_00001998",
+      "ea": 6552,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_00001998"
+    },
+    {
+      "name": "FUN_000055e8",
+      "ea": 21992,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_000055e8"
+    },
+    {
+      "name": "FUN_000055e8",
+      "ea": 21992,
+      "category": null,
+      "tags": [],
+      "score": 12,
+      "new_name": "suspect_FUN_000055e8"
+    },
+    {
+      "name": "FUN_0000a8e0",
+      "ea": 43232,
+      "category": null,
+      "tags": [],
+      "score": 11,
+      "new_name": "suspect_FUN_0000a8e0"
+    },
+    {
+      "name": "FUN_0000a8e0",
+      "ea": 43232,
+      "category": null,
+      "tags": [],
+      "score": 11,
+      "new_name": "suspect_FUN_0000a8e0"
+    },
+    {
+      "name": "FUN_00008694",
+      "ea": 34452,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_00008694"
+    },
+    {
+      "name": "FUN_00008694",
+      "ea": 34452,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_00008694"
+    },
+    {
+      "name": "FUN_0000772c",
+      "ea": 30508,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_0000772c"
+    },
+    {
+      "name": "FUN_0000772c",
+      "ea": 30508,
+      "category": null,
+      "tags": [],
+      "score": 10,
+      "new_name": "suspect_FUN_0000772c"
+    },
+    {
+      "name": "FUN_00004d74",
+      "ea": 19828,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_00004d74"
+    },
+    {
+      "name": "FUN_00004d74",
+      "ea": 19828,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_00004d74"
+    },
+    {
+      "name": "FUN_00006570",
+      "ea": 25968,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_00006570"
+    },
+    {
+      "name": "FUN_00006570",
+      "ea": 25968,
+      "category": null,
+      "tags": [],
+      "score": 9,
+      "new_name": "suspect_FUN_00006570"
+    },
+    {
+      "name": "FUN_00009c84",
+      "ea": 40068,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_00009c84"
+    },
+    {
+      "name": "FUN_00009c84",
+      "ea": 40068,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_00009c84"
+    },
+    {
+      "name": "FUN_000073bc",
+      "ea": 29628,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_000073bc"
+    },
+    {
+      "name": "FUN_000073bc",
+      "ea": 29628,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_000073bc"
+    },
+    {
+      "name": "FUN_00009e44",
+      "ea": 40516,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_00009e44"
+    },
+    {
+      "name": "FUN_00009e44",
+      "ea": 40516,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_00009e44"
+    },
+    {
+      "name": "FUN_00001c38",
+      "ea": 7224,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_00001c38"
+    },
+    {
+      "name": "FUN_00001c38",
+      "ea": 7224,
+      "category": null,
+      "tags": [],
+      "score": 8,
+      "new_name": "suspect_FUN_00001c38"
+    },
+    {
+      "name": "FUN_0000673c",
+      "ea": 26428,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_0000673c"
+    },
+    {
+      "name": "FUN_0000673c",
+      "ea": 26428,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_0000673c"
+    },
+    {
+      "name": "FUN_000075cc",
+      "ea": 30156,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_000075cc"
+    },
+    {
+      "name": "FUN_000075cc",
+      "ea": 30156,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_000075cc"
+    },
+    {
+      "name": "FUN_00001f9c",
+      "ea": 8092,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_00001f9c"
+    },
+    {
+      "name": "FUN_00001f9c",
+      "ea": 8092,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_00001f9c"
+    },
+    {
+      "name": "FUN_000058b8",
+      "ea": 22712,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_000058b8"
+    },
+    {
+      "name": "FUN_000058b8",
+      "ea": 22712,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_000058b8"
+    },
+    {
+      "name": "FUN_00001604",
+      "ea": 5636,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_00001604"
+    },
+    {
+      "name": "FUN_00001604",
+      "ea": 5636,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_00001604"
+    },
+    {
+      "name": "FUN_00008464",
+      "ea": 33892,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_00008464"
+    },
+    {
+      "name": "FUN_00008464",
+      "ea": 33892,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_00008464"
+    },
+    {
+      "name": "FUN_000068c4",
+      "ea": 26820,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_000068c4"
+    },
+    {
+      "name": "FUN_000068c4",
+      "ea": 26820,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_000068c4"
+    },
+    {
+      "name": "FUN_0000a768",
+      "ea": 42856,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_0000a768"
+    },
+    {
+      "name": "FUN_0000a768",
+      "ea": 42856,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_0000a768"
+    },
+    {
+      "name": "FUN_00003e94",
+      "ea": 16020,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_00003e94"
+    },
+    {
+      "name": "FUN_00003e94",
+      "ea": 16020,
+      "category": null,
+      "tags": [],
+      "score": 6,
+      "new_name": "suspect_FUN_00003e94"
+    },
+    {
+      "name": "FUN_000020fc",
+      "ea": 8444,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_000020fc"
+    },
+    {
+      "name": "FUN_000020fc",
+      "ea": 8444,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_000020fc"
+    },
+    {
+      "name": "FUN_0000174c",
+      "ea": 5964,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_0000174c"
+    },
+    {
+      "name": "FUN_0000174c",
+      "ea": 5964,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_0000174c"
+    },
+    {
+      "name": "FUN_000049c0",
+      "ea": 18880,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_000049c0"
+    },
+    {
+      "name": "FUN_000049c0",
+      "ea": 18880,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_000049c0"
+    },
+    {
+      "name": "FUN_0000921c",
+      "ea": 37404,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_0000921c"
+    },
+    {
+      "name": "FUN_00009324",
+      "ea": 37668,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_00009324"
+    },
+    {
+      "name": "FUN_0000921c",
+      "ea": 37404,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_0000921c"
+    },
+    {
+      "name": "FUN_00009324",
+      "ea": 37668,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_00009324"
+    },
+    {
+      "name": "FUN_00002550",
+      "ea": 9552,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_00002550"
+    },
+    {
+      "name": "FUN_00002550",
+      "ea": 9552,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_00002550"
+    },
+    {
+      "name": "FUN_00003cd0",
+      "ea": 15568,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00003cd0"
+    },
+    {
+      "name": "FUN_00003cd0",
+      "ea": 15568,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00003cd0"
+    },
+    {
+      "name": "FUN_00003688",
+      "ea": 13960,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00003688"
+    },
+    {
+      "name": "FUN_00009088",
+      "ea": 37000,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00009088"
+    },
+    {
+      "name": "FUN_00003688",
+      "ea": 13960,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00003688"
+    },
+    {
+      "name": "FUN_00009088",
+      "ea": 37000,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00009088"
+    },
+    {
+      "name": "FUN_000041c8",
+      "ea": 16840,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_000041c8"
+    },
+    {
+      "name": "FUN_000041c8",
+      "ea": 16840,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_000041c8"
+    },
+    {
+      "name": "FUN_00002fcc",
+      "ea": 12236,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00002fcc"
+    },
+    {
+      "name": "FUN_00008c64",
+      "ea": 35940,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00008c64"
+    },
+    {
+      "name": "FUN_00002fcc",
+      "ea": 12236,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00002fcc"
+    },
+    {
+      "name": "FUN_00008c64",
+      "ea": 35940,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00008c64"
+    },
+    {
+      "name": "FUN_000042b4",
+      "ea": 17076,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_000042b4"
+    },
+    {
+      "name": "FUN_000042b4",
+      "ea": 17076,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_000042b4"
+    },
+    {
+      "name": "FUN_00005b24",
+      "ea": 23332,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00005b24"
+    },
+    {
+      "name": "FUN_00005b24",
+      "ea": 23332,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00005b24"
+    },
+    {
+      "name": "FUN_00004af4",
+      "ea": 19188,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00004af4"
+    },
+    {
+      "name": "FUN_00004af4",
+      "ea": 19188,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00004af4"
+    },
+    {
+      "name": "FUN_000085a8",
+      "ea": 34216,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_000085a8"
+    },
+    {
+      "name": "FUN_000085a8",
+      "ea": 34216,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_000085a8"
+    },
+    {
+      "name": "FUN_00007b9c",
+      "ea": 31644,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00007b9c"
+    },
+    {
+      "name": "FUN_00007b9c",
+      "ea": 31644,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00007b9c"
+    }
+  ],
+  "TUTO.BIN": [
+    {
+      "name": "FUN_00001c84",
+      "ea": 7300,
+      "category": null,
+      "tags": [],
+      "score": 136,
+      "new_name": "suspect_FUN_00001c84"
+    },
+    {
+      "name": "FUN_00001c84",
+      "ea": 7300,
+      "category": null,
+      "tags": [],
+      "score": 136,
+      "new_name": "suspect_FUN_00001c84"
+    },
+    {
+      "name": "FUN_000010b8",
+      "ea": 4280,
+      "category": null,
+      "tags": [],
+      "score": 60,
+      "new_name": "suspect_FUN_000010b8"
+    },
+    {
+      "name": "FUN_000010b8",
+      "ea": 4280,
+      "category": null,
+      "tags": [],
+      "score": 60,
+      "new_name": "suspect_FUN_000010b8"
+    },
+    {
+      "name": "FUN_00003770",
+      "ea": 14192,
+      "category": null,
+      "tags": [],
+      "score": 22,
+      "new_name": "suspect_FUN_00003770"
+    },
+    {
+      "name": "FUN_00003770",
+      "ea": 14192,
+      "category": null,
+      "tags": [],
+      "score": 22,
+      "new_name": "suspect_FUN_00003770"
+    },
+    {
+      "name": "FUN_00000c60",
+      "ea": 3168,
+      "category": null,
+      "tags": [],
+      "score": 13,
+      "new_name": "suspect_FUN_00000c60"
+    },
+    {
+      "name": "FUN_00000c60",
+      "ea": 3168,
+      "category": null,
+      "tags": [],
+      "score": 13,
+      "new_name": "suspect_FUN_00000c60"
+    },
+    {
+      "name": "FUN_00000408",
+      "ea": 1032,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00000408"
+    },
+    {
+      "name": "FUN_00000408",
+      "ea": 1032,
+      "category": null,
+      "tags": [],
+      "score": 7,
+      "new_name": "suspect_FUN_00000408"
+    },
+    {
+      "name": "FUN_00000804",
+      "ea": 2052,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_00000804"
+    },
+    {
+      "name": "FUN_00000804",
+      "ea": 2052,
+      "category": null,
+      "tags": [],
+      "score": 5,
+      "new_name": "suspect_FUN_00000804"
+    },
+    {
+      "name": "FUN_00000910",
+      "ea": 2320,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00000910"
+    },
+    {
+      "name": "FUN_00000910",
+      "ea": 2320,
+      "category": null,
+      "tags": [],
+      "score": 4,
+      "new_name": "suspect_FUN_00000910"
+    },
+    {
+      "name": "FUN_00000a48",
+      "ea": 2632,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_00000a48"
+    },
+    {
+      "name": "FUN_00000a48",
+      "ea": 2632,
+      "category": null,
+      "tags": [],
+      "score": 2,
+      "new_name": "suspect_FUN_00000a48"
+    },
+    {
+      "name": "FUN_000009d8",
+      "ea": 2520,
+      "category": null,
+      "tags": [],
+      "score": 1,
+      "new_name": "suspect_FUN_000009d8"
+    },
+    {
+      "name": "FUN_000009d8",
+      "ea": 2520,
+      "category": null,
+      "tags": [],
+      "score": 1,
+      "new_name": "suspect_FUN_000009d8"
+    },
+    {
+      "name": "FUN_00000a18",
+      "ea": 2584,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_00000a18"
+    },
+    {
+      "name": "FUN_00000a18",
+      "ea": 2584,
+      "category": null,
+      "tags": [],
+      "score": 0,
+      "new_name": "suspect_FUN_00000a18"
+    }
+  ]
+}

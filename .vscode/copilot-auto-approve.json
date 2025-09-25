@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "autoApprove": {
+    "fileEdits": true,
+    "terminalCommands": true,
+    "ghidraHeadless": true,
+    "pythonScripts": true,
+    "riskGuard": "off"
+  },
+  "notes": "This file is a local opt-in for GitHub Copilot to auto-approve suggested changes and commands in this workspace. Remove or set flags to false to disable."
+}

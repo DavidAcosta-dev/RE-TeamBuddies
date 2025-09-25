@@ -1,0 +1,9 @@
+{
+  "w": 2048,
+  "h": 57344,
+  "bpp_code": 0,
+  "has_clut": false,
+  "warning": "Pillow not installed",
+  "source": "C:\\Users\\Acost\\tb-re\\assets\\TeamBuddiesGameFiles\\MNU.BIN",
+  "offset": 41091
+}

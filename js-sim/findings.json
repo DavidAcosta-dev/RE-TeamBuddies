@@ -1,0 +1,305 @@
+{
+  "GAME.BIN": [
+    {
+      "ea": 203576,
+      "name": "FUN_00031b38",
+      "alias": "phys_FUN_00031b38",
+      "score": 49
+    },
+    {
+      "ea": 203576,
+      "name": "FUN_00031b38",
+      "alias": "phys_FUN_00031b38",
+      "score": 49
+    },
+    {
+      "ea": 292316,
+      "name": "FUN_000475dc",
+      "alias": "phys_FUN_000475dc",
+      "score": 46
+    },
+    {
+      "ea": 292316,
+      "name": "FUN_000475dc",
+      "alias": "phys_FUN_000475dc",
+      "score": 46
+    },
+    {
+      "ea": 264856,
+      "name": "FUN_00040a98",
+      "alias": "phys_FUN_00040a98",
+      "score": 43
+    },
+    {
+      "ea": 264856,
+      "name": "FUN_00040a98",
+      "alias": "phys_FUN_00040a98",
+      "score": 43
+    },
+    {
+      "ea": 295248,
+      "name": "FUN_00048150",
+      "alias": "phys_FUN_00048150",
+      "score": 33
+    },
+    {
+      "ea": 295248,
+      "name": "FUN_00048150",
+      "alias": "phys_FUN_00048150",
+      "score": 33
+    },
+    {
+      "ea": 63716,
+      "name": "FUN_0000f8e4",
+      "alias": "phys_FUN_0000f8e4",
+      "score": 33
+    },
+    {
+      "ea": 63716,
+      "name": "FUN_0000f8e4",
+      "alias": "phys_FUN_0000f8e4",
+      "score": 33
+    }
+  ],
+  "LEGGIT.EXE": [
+    {
+      "ea": 83400,
+      "name": "FUN_000145c8",
+      "alias": "phys_FUN_000145c8",
+      "score": 36
+    },
+    {
+      "ea": 83400,
+      "name": "FUN_000145c8",
+      "alias": "phys_FUN_000145c8",
+      "score": 36
+    }
+  ],
+  "MAIN.EXE": [
+    {
+      "ea": 85888,
+      "name": "FUN_00014f80",
+      "alias": "phys_FUN_00014f80",
+      "score": 41
+    },
+    {
+      "ea": 85888,
+      "name": "FUN_00014f80",
+      "alias": "phys_FUN_00014f80",
+      "score": 36
+    },
+    {
+      "ea": 117768,
+      "name": "FUN_0001cc08",
+      "alias": "phys_FUN_0001cc08",
+      "score": 18
+    },
+    {
+      "ea": 117768,
+      "name": "FUN_0001cc08",
+      "alias": "phys_FUN_0001cc08",
+      "score": 18
+    },
+    {
+      "ea": 138340,
+      "name": "FUN_00021c64",
+      "alias": "phys_FUN_00021c64",
+      "score": 16
+    },
+    {
+      "ea": 138060,
+      "name": "FUN_00021b4c",
+      "alias": "phys_FUN_00021b4c",
+      "score": 15
+    },
+    {
+      "ea": 138340,
+      "name": "FUN_00021c64",
+      "alias": "phys_FUN_00021c64",
+      "score": 15
+    },
+    {
+      "ea": 117672,
+      "name": "FUN_0001cba8",
+      "alias": "phys_FUN_0001cba8",
+      "score": 14
+    },
+    {
+      "ea": 117672,
+      "name": "FUN_0001cba8",
+      "alias": "phys_FUN_0001cba8",
+      "score": 14
+    },
+    {
+      "ea": 138060,
+      "name": "FUN_00021b4c",
+      "alias": "phys_FUN_00021b4c",
+      "score": 14
+    }
+  ],
+  "MNU.BIN": [
+    {
+      "ea": 29728,
+      "name": "FUN_00007420",
+      "alias": "phys_FUN_00007420",
+      "score": 83
+    },
+    {
+      "ea": 29728,
+      "name": "FUN_00007420",
+      "alias": "phys_FUN_00007420",
+      "score": 83
+    },
+    {
+      "ea": 12760,
+      "name": "FUN_000031d8",
+      "alias": "phys_FUN_000031d8",
+      "score": 59
+    },
+    {
+      "ea": 12760,
+      "name": "FUN_000031d8",
+      "alias": "phys_FUN_000031d8",
+      "score": 59
+    },
+    {
+      "ea": 6472,
+      "name": "FUN_00001948",
+      "alias": "phys_FUN_00001948",
+      "score": 16
+    },
+    {
+      "ea": 6472,
+      "name": "FUN_00001948",
+      "alias": "phys_FUN_00001948",
+      "score": 16
+    },
+    {
+      "ea": 6248,
+      "name": "FUN_00001868",
+      "alias": "phys_FUN_00001868",
+      "score": 11
+    },
+    {
+      "ea": 6248,
+      "name": "FUN_00001868",
+      "alias": "phys_FUN_00001868",
+      "score": 11
+    }
+  ],
+  "MPLR.BIN": [],
+  "PSX.EXE": [],
+  "ROT.BIN": [
+    {
+      "ea": 1756,
+      "name": "FUN_000006dc",
+      "alias": "phys_FUN_000006dc",
+      "score": 19
+    },
+    {
+      "ea": 1756,
+      "name": "FUN_000006dc",
+      "alias": "phys_FUN_000006dc",
+      "score": 19
+    },
+    {
+      "ea": 6868,
+      "name": "FUN_00001ad4",
+      "alias": "phys_FUN_00001ad4",
+      "score": 19
+    },
+    {
+      "ea": 6868,
+      "name": "FUN_00001ad4",
+      "alias": "phys_FUN_00001ad4",
+      "score": 19
+    },
+    {
+      "ea": 28724,
+      "name": "FUN_00007034",
+      "alias": "phys_FUN_00007034",
+      "score": 18
+    },
+    {
+      "ea": 28724,
+      "name": "FUN_00007034",
+      "alias": "phys_FUN_00007034",
+      "score": 18
+    },
+    {
+      "ea": 25900,
+      "name": "FUN_0000652c",
+      "alias": "phys_FUN_0000652c",
+      "score": 17
+    },
+    {
+      "ea": 25900,
+      "name": "FUN_0000652c",
+      "alias": "phys_FUN_0000652c",
+      "score": 17
+    },
+    {
+      "ea": 21468,
+      "name": "FUN_000053dc",
+      "alias": "phys_FUN_000053dc",
+      "score": 13
+    },
+    {
+      "ea": 21468,
+      "name": "FUN_000053dc",
+      "alias": "phys_FUN_000053dc",
+      "score": 13
+    }
+  ],
+  "SYS.BIN": [
+    {
+      "ea": 23708,
+      "name": "FUN_00005c9c",
+      "alias": "phys_FUN_00005c9c",
+      "score": 45
+    },
+    {
+      "ea": 23708,
+      "name": "FUN_00005c9c",
+      "alias": "phys_FUN_00005c9c",
+      "score": 45
+    },
+    {
+      "ea": 11024,
+      "name": "FUN_00002b10",
+      "alias": "phys_FUN_00002b10",
+      "score": 30
+    },
+    {
+      "ea": 11024,
+      "name": "FUN_00002b10",
+      "alias": "phys_FUN_00002b10",
+      "score": 30
+    },
+    {
+      "ea": 14204,
+      "name": "FUN_0000377c",
+      "alias": "phys_FUN_0000377c",
+      "score": 22
+    },
+    {
+      "ea": 14204,
+      "name": "FUN_0000377c",
+      "alias": "phys_FUN_0000377c",
+      "score": 22
+    },
+    {
+      "ea": 10092,
+      "name": "FUN_0000276c",
+      "alias": "phys_FUN_0000276c",
+      "score": 18
+    },
+    {
+      "ea": 10092,
+      "name": "FUN_0000276c",
+      "alias": "phys_FUN_0000276c",
+      "score": 18
+    }
+  ],
+  "TUTO.BIN": []
+}

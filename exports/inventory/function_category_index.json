@@ -1,0 +1,8556 @@
+{
+  "FUN_00000408": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00000574": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000009d8": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00000a2c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00000ad4": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00000b30": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00000b38": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00000e04": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00000edc": {
+    "categories": [
+      "cdstream",
+      "naming_suggestions"
+    ],
+    "sources": [
+      "mapping_coverage_report.md"
+    ]
+  },
+  "FUN_000010b4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000010b8": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000010cc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000011d0": {
+    "categories": [
+      "crate",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000011fc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000014b8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00001650": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00001724": {
+    "categories": [
+      "crate",
+      "naming_suggestions",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_000018c8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00001954": {
+    "categories": [
+      "cdstream",
+      "naming_suggestions"
+    ],
+    "sources": [
+      "mapping_coverage_report.md"
+    ]
+  },
+  "FUN_00001998": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00001ad4": {
+    "categories": [
+      "cdstream",
+      "orientation"
+    ],
+    "sources": [
+      "mapping_coverage_report.md"
+    ]
+  },
+  "FUN_00001c84": {
+    "categories": [
+      "cdstream",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00001f24": {
+    "categories": [
+      "cdstream",
+      "naming_suggestions"
+    ],
+    "sources": [
+      "mapping_coverage_report.md"
+    ]
+  },
+  "FUN_00001f4c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00001f9c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00001ff4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000020fc": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00002360": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000026c0": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_000026f4": {
+    "categories": [
+      "cdstream",
+      "naming_suggestions"
+    ],
+    "sources": [
+      "mapping_coverage_report.md"
+    ]
+  },
+  "FUN_00002724": {
+    "categories": [
+      "cdstream",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000292c": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00002bb0": {
+    "categories": [
+      "pickup_drop"
+    ],
+    "sources": [
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00002c40": {
+    "categories": [
+      "pickup_drop"
+    ],
+    "sources": [
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00002ca0": {
+    "categories": [
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00002d34": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00002f34": {
+    "categories": [
+      "input",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "input_candidates_MAIN.EXE.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00002fb4": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000030b0": {
+    "categories": [
+      "cdstream",
+      "naming_suggestions"
+    ],
+    "sources": [
+      "mapping_coverage_report.md"
+    ]
+  },
+  "FUN_0000327c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00003454": {
+    "categories": [
+      "crate",
+      "naming_suggestions",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000364c": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "naming_suggestions",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00003738": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00003770": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00003824": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00003a64": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "naming_suggestions",
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00003af0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00003b00": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00003b7c": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00003b90": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00003be8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00003cd0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00003cf0": {
+    "categories": [
+      "cdstream",
+      "naming_suggestions",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00003f60": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00004080": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00004168": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00004298": {
+    "categories": [
+      "input",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000042f8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00004328": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000444c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00004488": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000046bc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000048c8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00004a70": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00004ccc": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00004f54": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00004fcc": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000053dc": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000056dc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00005710": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000057cc": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00005954": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000059f4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00005b24": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00005b2c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00005c20": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00005c9c": {
+    "categories": [
+      "cdstream",
+      "orientation",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00005ca0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00005d14": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00005d68": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00005db0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00005de4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00005e14": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00005e50": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00005e70": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00005f78": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00005f84": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00006050": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0000606c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000060fc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00006170": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000061c0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00006240": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00006274": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000063c4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00006428": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00006464": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00006508": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000652c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000065c8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000066b0": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00006730": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000673c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00006800": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00006860": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00006958": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00006a50": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00006b48": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00006cb8": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00006dd0": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00006ec4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00006f08": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00006f28": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00006f90": {
+    "categories": [
+      "vertical_core"
+    ],
+    "sources": [
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_00006fbc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00007024": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00007034": {
+    "categories": [
+      "cdstream",
+      "orientation",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00007054": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00007084": {
+    "categories": [
+      "vertical_core"
+    ],
+    "sources": [
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_000071ec": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000072b4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00007310": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000074d4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00007518": {
+    "categories": [
+      "input"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md"
+    ]
+  },
+  "FUN_00007624": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00007680": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00007710": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00007784": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00007828": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00007850": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00007898": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000793c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00007a74": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00007ab0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00007ab4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00007ae8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00007b44": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00007c18": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00007cc4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00007da4": {
+    "categories": [
+      "input"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md"
+    ]
+  },
+  "FUN_00007e40": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00007e90": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00007f10": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00007fc4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00007fcc": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00008014": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00008040": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00008044": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00008084": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000080c4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000080e8": {
+    "categories": [
+      "crate",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00008104": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00008158": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "input",
+      "naming_suggestions",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "input_candidates_MAIN.EXE.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00008198": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00008230": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000082fc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000083ac": {
+    "categories": [
+      "crate",
+      "naming_suggestions",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000846c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000084f8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00008528": {
+    "categories": [
+      "crate",
+      "gravity",
+      "input",
+      "naming_suggestions",
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "input_candidates_MAIN.EXE.md",
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000852c": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_core"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_00008610": {
+    "categories": [
+      "vertical_core"
+    ],
+    "sources": [
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_00008704": {
+    "categories": [
+      "vertical_core"
+    ],
+    "sources": [
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_0000880c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00008824": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00008838": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000888c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000089a4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00008b0c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00008b78": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00008c00": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00008c84": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00008c98": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00008ce4": {
+    "categories": [
+      "crate",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00008d5c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00008de4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00008e54": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00008ebc": {
+    "categories": [
+      "crate",
+      "naming_suggestions",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00008f20": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00008fb0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00008ff0": {
+    "categories": [
+      "crate",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00009088": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000090e0": {
+    "categories": [
+      "crate",
+      "input",
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "input_candidates_MAIN.EXE.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000090ec": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00009178": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000917c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000921c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00009274": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000092cc": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000092d8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000935c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00009364": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000093fc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000094c0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00009510": {
+    "categories": [
+      "cdstream",
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000095f8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00009638": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00009708": {
+    "categories": [
+      "crate",
+      "input",
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000976c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000099a8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000099ac": {
+    "categories": [
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00009afc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00009b18": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00009cd4": {
+    "categories": [
+      "crate",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00009d20": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00009d8c": {
+    "categories": [
+      "pickup_drop"
+    ],
+    "sources": [
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00009dec": {
+    "categories": [
+      "crate",
+      "naming_suggestions",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00009dfc": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00009e80": {
+    "categories": [
+      "pickup_drop"
+    ],
+    "sources": [
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00009f08": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00009f6c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000a070": {
+    "categories": [
+      "naming_suggestions",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000a174": {
+    "categories": [
+      "crate",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000a1ac": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000a210": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000a234": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000a34c": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0000a40c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000a4c8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000a4f0": {
+    "categories": [
+      "naming_suggestions",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000a534": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000a5ec": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0000a654": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000a6f4": {
+    "categories": [
+      "crate",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000a770": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000a7d4": {
+    "categories": [
+      "crate",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000a8c0": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0000a8d4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000a944": {
+    "categories": [
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000ac34": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000ac5c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000ac74": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000acdc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000ace0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000ad2c": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0000ad70": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000ad78": {
+    "categories": [
+      "crate",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000ae1c": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000ae54": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000af3c": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000b09c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000bbdc": {
+    "categories": [
+      "pickup_drop"
+    ],
+    "sources": [
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0000bd88": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0000bdd4": {
+    "categories": [
+      "input"
+    ],
+    "sources": [
+      "input_candidates_MAIN.EXE.md"
+    ]
+  },
+  "FUN_0000c020": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000c10c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000c1b0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000c26c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000c2e8": {
+    "categories": [
+      "input",
+      "naming_suggestions",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md",
+      "mapping_coverage_report.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000c490": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0000c710": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000c8bc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000c910": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000c9f0": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0000c9fc": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000ca30": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0000ca6c": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0000cac8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000caf8": {
+    "categories": [
+      "crate",
+      "naming_suggestions",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0000cb7c": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0000cc00": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0000cc3c": {
+    "categories": [
+      "crate",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000cce0": {
+    "categories": [
+      "input",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000cd04": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000cf48": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000d058": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0000d088": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000d090": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000d1c0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000d208": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0000d318": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000d398": {
+    "categories": [
+      "input",
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md",
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000d3bc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000d438": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000d48c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000d5c8": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000d5cc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000d774": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000d7a0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000d7d8": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000d8d4": {
+    "categories": [
+      "input",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "input_candidates_MAIN.EXE.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000d9a0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000db64": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000dbb4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000dc64": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000dcd4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000ddd4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000df30": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000e1a8": {
+    "categories": [
+      "input"
+    ],
+    "sources": [
+      "input_candidates_MAIN.EXE.md"
+    ]
+  },
+  "FUN_0000e418": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000e5f0": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000e90c": {
+    "categories": [
+      "input",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0000eb10": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000ebe8": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000ef68": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000eff8": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000f060": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000f464": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000f478": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000f548": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0000f85c": {
+    "categories": [
+      "input"
+    ],
+    "sources": [
+      "input_candidates_MAIN.EXE.md"
+    ]
+  },
+  "FUN_0000f8e4": {
+    "categories": [
+      "input"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md"
+    ]
+  },
+  "FUN_0001003c": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000103a8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000104c8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000105cc": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000106cc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000107d8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001084c": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000108bc": {
+    "categories": [
+      "input",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00010944": {
+    "categories": [
+      "input",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "input_candidates_MAIN.EXE.md",
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00010b14": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00010c1c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00010ef4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000110c4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001132c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00011398": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00011420": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000114a4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000114bc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001150c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000116a4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00011714": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000119cc": {
+    "categories": [
+      "input",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md",
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00011e84": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00011f18": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00012024": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00012130": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00012198": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00012224": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001228c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000122ec": {
+    "categories": [
+      "input",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md",
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001245c": {
+    "categories": [
+      "cdstream",
+      "naming_suggestions"
+    ],
+    "sources": [
+      "mapping_coverage_report.md"
+    ]
+  },
+  "FUN_00012804": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00012cc0": {
+    "categories": [
+      "input",
+      "naming_suggestions",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md",
+      "mapping_coverage_report.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00012db8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00012f28": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00012f90": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001301c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000132d0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000133e4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00013510": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00013728": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00013834": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000138c4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00013a84": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00013c80": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00013d4c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00013d9c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00013dec": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00013f08": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00013fe0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000140d4": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00014438": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00014520": {
+    "categories": [
+      "cdstream",
+      "input"
+    ],
+    "sources": [
+      "input_candidates_MAIN.EXE.md",
+      "mapping_coverage_report.md"
+    ]
+  },
+  "FUN_000145a4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000145c8": {
+    "categories": [
+      "cdstream",
+      "orientation",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000145f4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000146c0": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00014ad4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00014c68": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00014f08": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00014f80": {
+    "categories": [
+      "input",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "input_candidates_MAIN.EXE.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00014fa4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00015064": {
+    "categories": [
+      "input",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001523c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001528c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000153a0": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000153ec": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001543c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000154b8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00015508": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00015544": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00015618": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00015668": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000156d4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000156ec": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001573c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000157c4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000158ec": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "naming_suggestions",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_000158f0": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00015940": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00015990": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000159e0": {
+    "categories": [
+      "vertical_core"
+    ],
+    "sources": [
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_000159e8": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00015b54": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00015ba4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00015bfc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00015c4c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00015c64": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00015c94": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00015db0": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00015dd8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00015e80": {
+    "categories": [
+      "cdstream",
+      "naming_suggestions"
+    ],
+    "sources": [
+      "mapping_coverage_report.md"
+    ]
+  },
+  "FUN_00015f0c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001616c": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "naming_suggestions",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0001655c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000165f4": {
+    "categories": [
+      "naming_suggestions",
+      "pickup_drop"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00016734": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00016900": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001691c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00016a1c": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00016cbc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00016f7c": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00017010": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000171a0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000171fc": {
+    "categories": [
+      "crate",
+      "naming_suggestions",
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00017378": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000174c4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00017510": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000177fc": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000179d4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00017a6c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00017b68": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00017c08": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00017cb0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00017d48": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00017d70": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00017e54": {
+    "categories": [
+      "gravity",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00017fa4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00018014": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000180b0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000180bc": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_000182d4": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0001831c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00018338": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_000184f8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001867c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000186c0": {
+    "categories": [
+      "pickup_drop"
+    ],
+    "sources": [
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_000187c4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00018878": {
+    "categories": [
+      "crate",
+      "naming_suggestions",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000188b4": {
+    "categories": [
+      "crate",
+      "naming_suggestions"
+    ],
+    "sources": [
+      "mapping_coverage_report.md"
+    ]
+  },
+  "FUN_000189d0": {
+    "categories": [
+      "crate",
+      "naming_suggestions",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00018a0c": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00018aa4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00018c84": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00018cf8": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00018d1c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00018d58": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00018dac": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00018e44": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00018e98": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00018f7c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00018fbc": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00018ff4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00019040": {
+    "categories": [
+      "cdstream",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001912c": {
+    "categories": [
+      "crate",
+      "input"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "input_candidates_MAIN.EXE.md",
+      "mapping_coverage_report.md"
+    ]
+  },
+  "FUN_00019134": {
+    "categories": [
+      "crate",
+      "input",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "input_candidates_MAIN.EXE.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00019218": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00019324": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_000193a0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000196d0": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0001987c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00019978": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000199e8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00019a88": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00019eac": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001a064": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001a100": {
+    "categories": [
+      "cdstream"
+    ],
+    "sources": [
+      "cdstream_consumer_candidates.md"
+    ]
+  },
+  "FUN_0001a178": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001a1c0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001a248": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001a28c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001a2a0": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "mapping_coverage_report.md"
+    ]
+  },
+  "FUN_0001a2b0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001a320": {
+    "categories": [
+      "vertical_core"
+    ],
+    "sources": [
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_0001a348": {
+    "categories": [
+      "crate",
+      "pickup_drop",
+      "vertical_core"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_0001a3b0": {
+    "categories": [
+      "pickup_drop",
+      "vertical_core"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_0001a440": {
+    "categories": [
+      "cdstream",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "cdstream_consumer_candidates.md",
+      "mapping_coverage_report.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001a4a0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001a4d0": {
+    "categories": [
+      "crate",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001a528": {
+    "categories": [
+      "vertical_core"
+    ],
+    "sources": [
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_0001a558": {
+    "categories": [
+      "pickup_drop",
+      "vertical_core"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_0001a614": {
+    "categories": [
+      "gravity",
+      "naming_suggestions",
+      "vertical_core"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_0001a638": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001a674": {
+    "categories": [
+      "gravity",
+      "pickup_drop",
+      "vertical_core"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_0001a688": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001a704": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001a734": {
+    "categories": [
+      "crate",
+      "gravity",
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001a754": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001a7d0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001a804": {
+    "categories": [
+      "crate",
+      "input",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "input_candidates_MAIN.EXE.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001a834": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001a958": {
+    "categories": [
+      "vertical_core"
+    ],
+    "sources": [
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_0001aa28": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001aa78": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001aac0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001aaec": {
+    "categories": [
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001ab10": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001ab58": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001ab7c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001ab94": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001aba8": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001abf0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001abfc": {
+    "categories": [
+      "cdstream",
+      "vertical_core"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_0001ac40": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001ac88": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001acd8": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001ad20": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001ad70": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001adb8": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001aea4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001af84": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001b148": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001b198": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001b220": {
+    "categories": [
+      "input",
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "input_candidates_MAIN.EXE.md",
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001b264": {
+    "categories": [
+      "input",
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "input_candidates_MAIN.EXE.md",
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001b364": {
+    "categories": [
+      "crate",
+      "input",
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "input_candidates_MAIN.EXE.md",
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001b454": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001b4f4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001b544": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001b554": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001b72c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001b934": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001b964": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001b9e4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001ba34": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001bba8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001bd1c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001bd6c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001bde8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001bf94": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001bff4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001c2b4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001c36c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001c370": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001c3ec": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001c460": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001c4b0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001c54c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001c5c4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001c5d8": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001c774": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001c788": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001c7c4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001c7ec": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001c7fc": {
+    "categories": [
+      "naming_suggestions",
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001c814": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001c83c": {
+    "categories": [
+      "naming_suggestions",
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001c85c": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001c888": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001c89c": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001c8cc": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001c8d8": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001c8ec": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001c928": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001c97c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001c9cc": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001c9e4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001c9e8": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001c9f4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001ca04": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001ca14": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001ca1c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001ca24": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001ca70": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001cac0": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001caf0": {
+    "categories": [
+      "input"
+    ],
+    "sources": [
+      "input_candidates_MAIN.EXE.md"
+    ]
+  },
+  "FUN_0001cb10": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001cb64": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001cb78": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001cba8": {
+    "categories": [
+      "crate",
+      "naming_suggestions"
+    ],
+    "sources": [
+      "mapping_coverage_report.md"
+    ]
+  },
+  "FUN_0001cbb4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001cbb8": {
+    "categories": [
+      "input",
+      "naming_suggestions"
+    ],
+    "sources": [
+      "input_candidates_MAIN.EXE.md",
+      "mapping_coverage_report.md"
+    ]
+  },
+  "FUN_0001cc38": {
+    "categories": [
+      "input",
+      "naming_suggestions"
+    ],
+    "sources": [
+      "input_candidates_MAIN.EXE.md",
+      "mapping_coverage_report.md"
+    ]
+  },
+  "FUN_0001cc58": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "input",
+      "naming_suggestions"
+    ],
+    "sources": [
+      "input_candidates_MAIN.EXE.md",
+      "mapping_coverage_report.md"
+    ]
+  },
+  "FUN_0001cd38": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001cd88": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001ce00": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001cf74": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001cfcc": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001cff0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001d0d4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001d100": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001d1b0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001d200": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001d254": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001d2a4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001d3a4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001d404": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001d504": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001d5f0": {
+    "categories": [
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001d600": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "input",
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001d604": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001d688": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001d7b8": {
+    "categories": [
+      "gravity",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001d850": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001d9b8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001d9f4": {
+    "categories": [
+      "crate",
+      "naming_suggestions",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0001dc38": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001dd04": {
+    "categories": [
+      "cdstream"
+    ],
+    "sources": [
+      "cdstream_consumer_candidates.md"
+    ]
+  },
+  "FUN_0001dd54": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001dd68": {
+    "categories": [
+      "crate",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001dd78": {
+    "categories": [
+      "cdstream",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "cdstream_consumer_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001de28": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001deb4": {
+    "categories": [
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001dfdc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001e0dc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001e150": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001e1f4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001e2d4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001e314": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001e404": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001e560": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001e674": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001e750": {
+    "categories": [
+      "cdstream",
+      "naming_suggestions",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001e7b4": {
+    "categories": [
+      "cdstream",
+      "naming_suggestions",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001e7bc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001e80c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001e88c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001e8dc": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001e978": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001ea04": {
+    "categories": [
+      "cdstream",
+      "naming_suggestions",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001eb14": {
+    "categories": [
+      "cdstream",
+      "naming_suggestions",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001eb74": {
+    "categories": [
+      "cdstream",
+      "naming_suggestions",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001eba4": {
+    "categories": [
+      "cdstream",
+      "naming_suggestions",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001ebd4": {
+    "categories": [
+      "cdstream",
+      "naming_suggestions",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001ec04": {
+    "categories": [
+      "cdstream",
+      "naming_suggestions",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001ec24": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001ec44": {
+    "categories": [
+      "naming_suggestions",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001ec64": {
+    "categories": [
+      "naming_suggestions",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001ec74": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001ec7c": {
+    "categories": [
+      "cdstream",
+      "vertical_core"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_0001ec90": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001ecc0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001ed30": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001ed70": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001ee5c": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0001eec8": {
+    "categories": [
+      "crate",
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001ef54": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0001efbc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001f000": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001f1a0": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001f344": {
+    "categories": [
+      "cdstream",
+      "crate",
+      "naming_suggestions",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0001f558": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001f5e8": {
+    "categories": [
+      "crate",
+      "input",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001f5ec": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0001f610": {
+    "categories": [
+      "crate",
+      "input",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "input_candidates_MAIN.EXE.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_0001f734": {
+    "categories": [
+      "cdstream",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001f75c": {
+    "categories": [
+      "input"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md"
+    ]
+  },
+  "FUN_0001f7cc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001fab8": {
+    "categories": [
+      "crate",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001fca4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001fdb4": {
+    "categories": [
+      "crate",
+      "gravity",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001fe80": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0001fff0": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000204e4": {
+    "categories": [
+      "crate",
+      "input",
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "input_candidates_MAIN.EXE.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00020598": {
+    "categories": [
+      "input"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md"
+    ]
+  },
+  "FUN_000206cc": {
+    "categories": [
+      "input"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md"
+    ]
+  },
+  "FUN_000207a8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000209dc": {
+    "categories": [
+      "orientation",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00020b88": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00020dcc": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000211ac": {
+    "categories": [
+      "crate",
+      "input",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "input_candidates_MAIN.EXE.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_000211b0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00021318": {
+    "categories": [
+      "input"
+    ],
+    "sources": [
+      "input_candidates_MAIN.EXE.md"
+    ]
+  },
+  "FUN_00021424": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "mapping_coverage_report.md"
+    ]
+  },
+  "FUN_00021478": {
+    "categories": [
+      "input"
+    ],
+    "sources": [
+      "input_candidates_MAIN.EXE.md"
+    ]
+  },
+  "FUN_00021894": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00021974": {
+    "categories": [
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00021b4c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00021c64": {
+    "categories": [
+      "crate",
+      "input",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00021ef4": {
+    "categories": [
+      "crate",
+      "input",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "input_candidates_MAIN.EXE.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00021ff4": {
+    "categories": [
+      "pickup_drop"
+    ],
+    "sources": [
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_000220b4": {
+    "categories": [
+      "input",
+      "naming_suggestions"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md",
+      "mapping_coverage_report.md"
+    ]
+  },
+  "FUN_00022144": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00022234": {
+    "categories": [
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002230c": {
+    "categories": [
+      "crate",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002233c": {
+    "categories": [
+      "crate",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00022438": {
+    "categories": [
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002245c": {
+    "categories": [
+      "crate",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00022480": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000224c8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000224dc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000224e0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002252c": {
+    "categories": [
+      "crate",
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00022560": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00022578": {
+    "categories": [
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000225f8": {
+    "categories": [
+      "input"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md"
+    ]
+  },
+  "FUN_0002269c": {
+    "categories": [
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000226c4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0002273c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00022790": {
+    "categories": [
+      "vertical_core"
+    ],
+    "sources": [
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_00022924": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00022a18": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00022a74": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00022dc8": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00022e5c": {
+    "categories": [
+      "orientation",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00023000": {
+    "categories": [
+      "orientation",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000230a8": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00023110": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00023180": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000231ec": {
+    "categories": [
+      "pickup_drop",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "pickup_drop_candidates.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00023210": {
+    "categories": [
+      "orientation",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000232e8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00023358": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00023364": {
+    "categories": [
+      "input",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002336c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00023390": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000233a0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000233dc": {
+    "categories": [
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00023410": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00023438": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00023488": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000234b8": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00023534": {
+    "categories": [
+      "input",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "input_candidates_MAIN.EXE.md",
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00023544": {
+    "categories": [
+      "input",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "input_candidates_MAIN.EXE.md",
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00023588": {
+    "categories": [
+      "crate",
+      "input",
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "input_candidates_MAIN.EXE.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000235d4": {
+    "categories": [
+      "crate",
+      "input",
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "input_candidates_MAIN.EXE.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00023698": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0002380c": {
+    "categories": [
+      "input",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md",
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0002391c": {
+    "categories": [
+      "crate",
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000239b0": {
+    "categories": [
+      "crate",
+      "naming_suggestions",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00023aa0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00023ae4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00023af4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00023d74": {
+    "categories": [
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00023f50": {
+    "categories": [
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000240a0": {
+    "categories": [
+      "crate",
+      "pickup_drop",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000243b8": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00024454": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00024558": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000249e4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00024c9c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00025048": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00025134": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000254a4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0002566c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00025af0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00025c18": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00025eb0": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0002609c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00026344": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00026438": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002646c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00026560": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00026768": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0002685c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00026c68": {
+    "categories": [
+      "cdstream",
+      "input",
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md",
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00026e4c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00026f48": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000270a4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00027160": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00027304": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00027788": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00027a44": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00027ba8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00027d1c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000280a0": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000282b4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002835c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000283f8": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00028724": {
+    "categories": [
+      "vertical_core"
+    ],
+    "sources": [
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_00028c60": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00028d10": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00028e58": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00028ef4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00028fc4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00029190": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00029254": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000296e8": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00029910": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00029aa4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00029ad8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00029b2c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00029c24": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0002a2d0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002a498": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0002a5f4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0002a7c4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0002a8c8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002ad60": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0002b030": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002b2b8": {
+    "categories": [
+      "input",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md",
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0002b608": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002b7d0": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0002ba5c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002bed4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002c0bc": {
+    "categories": [
+      "input",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002c4b0": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0002c7a0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002c964": {
+    "categories": [
+      "input",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md",
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0002cd00": {
+    "categories": [
+      "input",
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md",
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002cf08": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002d1a4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002d220": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002d2dc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002d2e4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002d5f8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002d6b4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002d810": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002da08": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0002dbc0": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0002e3ac": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002e590": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002e668": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002e8ac": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002e8f4": {
+    "categories": [
+      "cdstream",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0002ed40": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002f158": {
+    "categories": [
+      "cdstream",
+      "crate"
+    ],
+    "sources": [
+      "mapping_coverage_report.md"
+    ]
+  },
+  "FUN_0002f200": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0002f6d4": {
+    "categories": [
+      "gravity",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0002f8b4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0002f988": {
+    "categories": [
+      "cdstream",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0002ffac": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00030850": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00030a98": {
+    "categories": [
+      "cdstream"
+    ],
+    "sources": [
+      "cdstream_consumer_candidates.md"
+    ]
+  },
+  "FUN_00030b38": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00030be8": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00030c18": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00030d08": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00030eac": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00031048": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00031480": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00031978": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00031b38": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00031cd0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00031e14": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00032278": {
+    "categories": [
+      "crate",
+      "pickup_drop"
+    ],
+    "sources": [
+      "crate_system_candidates.md",
+      "mapping_coverage_report.md",
+      "pickup_drop_candidates.md"
+    ]
+  },
+  "FUN_00032904": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00032c18": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00033368": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0003339c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000335b8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0003360c": {
+    "categories": [
+      "gravity",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000337f0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00033c20": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00033f50": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00035088": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000352ac": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0003539c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00035554": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000356b4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00035cc0": {
+    "categories": [
+      "vertical_core"
+    ],
+    "sources": [
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_00036c34": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00037054": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00037114": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000377f0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00037824": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00037888": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00037c10": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00037c44": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00037c98": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00037d1c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00037e2c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00037e60": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00037f34": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00037f88": {
+    "categories": [
+      "input",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md",
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000382e0": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000384ac": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000384e0": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000385b8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0003860c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00038748": {
+    "categories": [
+      "input",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md",
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00038fc4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000390c8": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000395a4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000395d8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00039660": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00039844": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00039878": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000398c8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0003991c": {
+    "categories": [
+      "input",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md",
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00039b90": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00039dac": {
+    "categories": [
+      "vertical_core"
+    ],
+    "sources": [
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_00039f30": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00039f6c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0003a014": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0003a25c": {
+    "categories": [
+      "vertical_core"
+    ],
+    "sources": [
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_0003a7d0": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0003ab54": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0003ae44": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0003aebc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0003aef0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0003af44": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0003b264": {
+    "categories": [
+      "cdstream",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0003b878": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0003b8ac": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0003b960": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0003b9b4": {
+    "categories": [
+      "input"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md"
+    ]
+  },
+  "FUN_0003baf8": {
+    "categories": [
+      "cdstream",
+      "input",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md",
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0003c74c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0003cc28": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0003cdbc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0003cdf0": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0003cee4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0003d0e8": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0003d6a8": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0003d920": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0003d984": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0003dd3c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0003df28": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0003e494": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0003e4b4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0003e810": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0003e838": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0003ea40": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0003f1dc": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0003f408": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0003fbb0": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000401ec": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000402e0": {
+    "categories": [
+      "orientation",
+      "vertical_core"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_0004033c": {
+    "categories": [
+      "orientation",
+      "vertical_core"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_000404ac": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0004050c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_0004057c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00040630": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000406ac": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0004083c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00040a4c": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_core"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_00040a98": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_core"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_000412d8": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000417c4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00041a48": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00041ba4": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00041edc": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00041fd8": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00042450": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00042518": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00042c60": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00042d18": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00043348": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0004355c": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000435bc": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00043628": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00043748": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000438fc": {
+    "categories": [
+      "vertical_core"
+    ],
+    "sources": [
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_00043a94": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000442ec": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000443b8": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00044754": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00044870": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00044a14": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00044f80": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00045a00": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00045a80": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00045c38": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00045f94": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00046024": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00046498": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00046a34": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00047244": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000475dc": {
+    "categories": [
+      "orientation",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00047f54": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000480a4": {
+    "categories": [
+      "input"
+    ],
+    "sources": [
+      "input_candidates_GAME.BIN.md"
+    ]
+  },
+  "FUN_00048150": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000489a8": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00048f20": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00048ff0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00049044": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00049080": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0004915c": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00049360": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_000494c4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_000496b8": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00049a50": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00049aa4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00049ae0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00049b34": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00049b68": {
+    "categories": [
+      "vertical_consumer"
+    ],
+    "sources": [
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00049cd0": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00049d24": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00049d64": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00049e0c": {
+    "categories": [
+      "naming_suggestions",
+      "vertical_consumer"
+    ],
+    "sources": [
+      "mapping_coverage_report.md",
+      "vertical_consumer_functions.md"
+    ]
+  },
+  "FUN_00049ec4": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00049f18": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_00049f60": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  },
+  "FUN_0004a058": {
+    "categories": [
+      "vertical_core"
+    ],
+    "sources": [
+      "vertical_core_functions.md"
+    ]
+  },
+  "FUN_00054518": {
+    "categories": [
+      "vertical_legacy_only"
+    ],
+    "sources": [
+      "vertical_legacy_consumer_diff.md"
+    ]
+  }
+}

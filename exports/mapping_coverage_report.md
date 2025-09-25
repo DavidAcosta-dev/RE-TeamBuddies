@@ -1,0 +1,461 @@
+# Mapping Coverage Report
+
+Total unique functions (bundled): 2257
+
+## Category Coverage (Refined)
+
+| Category | Functions | Percent |
+|----------|----------:|--------:|
+| vertical_consumer | 329 | 14.58% |
+| naming_suggestions | 211 | 9.35% |
+| crate | 166 | 7.35% |
+| pickup_drop | 162 | 7.18% |
+| cdstream | 125 | 5.54% |
+| input | 69 | 3.06% |
+| vertical_core | 27 | 1.20% |
+| orientation | 13 | 0.58% |
+| gravity | 9 | 0.40% |
+
+### Legacy Broad Vertical (for comparison, not counted above)
+
+Legacy vertical unique functions (broad glob): 786
+
+
+## Multi-Category Function Candidates (possible orchestrators / hubs)
+
+- FUN_000009d8: cdstream/crate/pickup_drop
+- FUN_00000ad4: cdstream/crate/pickup_drop
+- FUN_00000b38: cdstream/crate/pickup_drop
+- FUN_00000edc: cdstream/naming_suggestions
+- FUN_000011d0: crate/pickup_drop
+- FUN_00001724: crate/naming_suggestions/pickup_drop
+- FUN_00001954: cdstream/naming_suggestions
+- FUN_00001ad4: cdstream/orientation
+- FUN_00001c84: cdstream/vertical_consumer
+- FUN_00001f24: cdstream/naming_suggestions
+- FUN_000026c0: cdstream/crate/pickup_drop
+- FUN_000026f4: cdstream/naming_suggestions
+- FUN_00002724: cdstream/vertical_consumer
+- FUN_0000292c: cdstream/crate/pickup_drop
+- FUN_00002ca0: pickup_drop/vertical_consumer
+- FUN_00002d34: naming_suggestions/vertical_consumer
+- FUN_00002fb4: naming_suggestions/vertical_consumer
+- FUN_000030b0: cdstream/naming_suggestions
+- FUN_00003454: crate/naming_suggestions/pickup_drop
+- FUN_0000364c: cdstream/crate/naming_suggestions/pickup_drop
+- FUN_00003738: cdstream/crate/pickup_drop
+- FUN_00003824: cdstream/crate/pickup_drop
+- FUN_00003a64: cdstream/crate/naming_suggestions/pickup_drop/vertical_consumer
+- FUN_00003b7c: cdstream/crate/pickup_drop
+- FUN_00003cf0: cdstream/naming_suggestions/pickup_drop
+- FUN_00005c9c: cdstream/orientation
+- FUN_00005d68: crate/pickup_drop
+- FUN_00006050: cdstream/crate/pickup_drop
+- FUN_000066b0: cdstream/crate/pickup_drop
+- FUN_00007034: cdstream/orientation
+- FUN_00007fcc: crate/pickup_drop
+- FUN_000080e8: crate/pickup_drop
+- FUN_00008158: cdstream/crate/input/naming_suggestions/pickup_drop
+- FUN_000083ac: crate/naming_suggestions/pickup_drop
+- FUN_00008528: crate/gravity/input/naming_suggestions/pickup_drop/vertical_consumer
+- FUN_0000852c: naming_suggestions/vertical_core
+- FUN_00008c84: crate/pickup_drop
+- FUN_00008ce4: crate/pickup_drop
+- FUN_00008e54: crate/pickup_drop
+- FUN_00008ebc: crate/naming_suggestions/pickup_drop
+- FUN_00008ff0: crate/pickup_drop
+- FUN_000090e0: crate/input/pickup_drop/vertical_consumer
+- FUN_00009510: cdstream/naming_suggestions/vertical_consumer
+- FUN_00009708: crate/input/pickup_drop/vertical_consumer
+- FUN_00009b18: cdstream/crate/pickup_drop/vertical_consumer
+- FUN_00009cd4: crate/pickup_drop
+- FUN_00009dec: crate/naming_suggestions/pickup_drop
+- FUN_00009f08: cdstream/crate/pickup_drop
+- FUN_0000a070: naming_suggestions/pickup_drop
+- FUN_0000a174: crate/pickup_drop
+- FUN_0000a234: cdstream/crate/pickup_drop
+- FUN_0000a34c: crate/pickup_drop
+- FUN_0000a4f0: naming_suggestions/pickup_drop
+- FUN_0000a5ec: crate/pickup_drop
+- FUN_0000a6f4: crate/pickup_drop
+- FUN_0000a7d4: crate/pickup_drop
+- FUN_0000a8c0: crate/pickup_drop
+- FUN_0000ad2c: crate/pickup_drop
+- FUN_0000ad78: crate/pickup_drop
+- FUN_0000ae1c: cdstream/crate/pickup_drop
+- FUN_0000af3c: naming_suggestions/vertical_consumer
+- FUN_0000bd88: crate/pickup_drop
+- FUN_0000c2e8: input/naming_suggestions
+- FUN_0000c490: crate/pickup_drop
+- FUN_0000c9f0: crate/pickup_drop
+- FUN_0000ca30: crate/pickup_drop
+- FUN_0000ca6c: crate/pickup_drop
+- FUN_0000caf8: crate/naming_suggestions/pickup_drop
+- FUN_0000cb7c: crate/pickup_drop
+- FUN_0000cc00: cdstream/crate/pickup_drop
+- FUN_0000cc3c: crate/pickup_drop
+- FUN_0000d058: crate/pickup_drop
+- FUN_0000d090: naming_suggestions/vertical_consumer
+- FUN_0000d208: crate/pickup_drop
+- FUN_0000d398: input/naming_suggestions/vertical_consumer
+- FUN_0000ebe8: naming_suggestions/vertical_consumer
+- FUN_0000f464: naming_suggestions/vertical_consumer
+- FUN_0001003c: naming_suggestions/vertical_consumer
+- FUN_000105cc: naming_suggestions/vertical_consumer
+- FUN_0001084c: naming_suggestions/vertical_consumer
+- FUN_00010944: input/vertical_consumer
+- FUN_000119cc: input/vertical_consumer
+- FUN_000122ec: input/vertical_consumer
+- FUN_0001245c: cdstream/naming_suggestions
+- FUN_00012cc0: input/naming_suggestions
+- FUN_000140d4: naming_suggestions/vertical_consumer
+- FUN_00014520: cdstream/input
+- FUN_000145c8: cdstream/orientation
+- FUN_00014c68: naming_suggestions/vertical_consumer
+- FUN_000153a0: naming_suggestions/vertical_consumer
+- FUN_000158ec: cdstream/crate/naming_suggestions/pickup_drop
+- FUN_00015db0: naming_suggestions/vertical_consumer
+- FUN_00015e80: cdstream/naming_suggestions
+- FUN_0001616c: cdstream/crate/naming_suggestions/pickup_drop
+- FUN_000165f4: naming_suggestions/pickup_drop
+- FUN_00016a1c: naming_suggestions/vertical_consumer
+- FUN_00016f7c: naming_suggestions/vertical_consumer
+- FUN_000171fc: crate/naming_suggestions/pickup_drop/vertical_consumer
+- FUN_00017378: naming_suggestions/vertical_consumer
+- FUN_000177fc: naming_suggestions/vertical_consumer
+- FUN_00017b68: cdstream/crate/pickup_drop
+- FUN_00017e54: gravity/vertical_consumer
+- FUN_000180bc: crate/pickup_drop
+- FUN_000182d4: crate/pickup_drop
+- FUN_00018338: crate/pickup_drop
+- FUN_00018878: crate/naming_suggestions
+- FUN_000188b4: crate/naming_suggestions
+- FUN_000189d0: crate/naming_suggestions/pickup_drop
+- FUN_00018a0c: crate/pickup_drop
+- FUN_00018c84: crate/pickup_drop
+- FUN_00018cf8: crate/pickup_drop
+- FUN_00018d58: crate/pickup_drop
+- FUN_00018dac: crate/pickup_drop
+- FUN_00018fbc: crate/pickup_drop
+- FUN_00019040: cdstream/vertical_consumer
+- FUN_0001912c: crate/input
+- FUN_00019134: crate/input/pickup_drop
+- FUN_00019218: crate/pickup_drop
+- FUN_00019324: crate/pickup_drop
+- FUN_000196d0: crate/pickup_drop
+- FUN_0001a2a0: crate/pickup_drop
+- FUN_0001a348: crate/pickup_drop/vertical_core
+- FUN_0001a3b0: pickup_drop/vertical_core
+- FUN_0001a440: cdstream/pickup_drop
+- FUN_0001a4d0: crate/pickup_drop
+- FUN_0001a558: pickup_drop/vertical_core
+- FUN_0001a614: gravity/naming_suggestions/vertical_core
+- FUN_0001a674: gravity/pickup_drop/vertical_core
+- FUN_0001a734: crate/gravity/pickup_drop/vertical_consumer
+- FUN_0001a804: crate/input/pickup_drop
+- FUN_0001aaec: pickup_drop/vertical_consumer
+- FUN_0001abfc: cdstream/vertical_core
+- FUN_0001b220: input/naming_suggestions/vertical_consumer
+- FUN_0001b264: input/naming_suggestions/vertical_consumer
+- FUN_0001b364: crate/input/naming_suggestions/vertical_consumer
+- FUN_0001b544: naming_suggestions/vertical_consumer
+- FUN_0001c5d8: naming_suggestions/vertical_consumer
+- FUN_0001c788: naming_suggestions/vertical_consumer
+- FUN_0001c7ec: naming_suggestions/vertical_consumer
+- FUN_0001c7fc: naming_suggestions/pickup_drop/vertical_consumer
+- FUN_0001c83c: naming_suggestions/pickup_drop/vertical_consumer
+- FUN_0001c85c: naming_suggestions/vertical_consumer
+- FUN_0001c89c: naming_suggestions/vertical_consumer
+- FUN_0001c8cc: naming_suggestions/vertical_consumer
+- FUN_0001c8ec: naming_suggestions/vertical_consumer
+- FUN_0001cba8: crate/naming_suggestions
+- FUN_0001cbb8: input/naming_suggestions
+- FUN_0001cc38: input/naming_suggestions
+- FUN_0001cc58: cdstream/crate/input/naming_suggestions
+- FUN_0001d100: naming_suggestions/vertical_consumer
+- FUN_0001d404: naming_suggestions/vertical_consumer
+- FUN_0001d5f0: pickup_drop/vertical_consumer
+- FUN_0001d600: cdstream/crate/input/pickup_drop/vertical_consumer
+- FUN_0001d7b8: gravity/vertical_consumer
+- FUN_0001d9f4: crate/naming_suggestions/pickup_drop
+- FUN_0001dd68: crate/pickup_drop
+- FUN_0001e750: cdstream/naming_suggestions
+- FUN_0001e7b4: cdstream/naming_suggestions
+- FUN_0001ea04: cdstream/naming_suggestions/pickup_drop
+- FUN_0001eb14: cdstream/naming_suggestions
+- FUN_0001eb74: cdstream/naming_suggestions
+- FUN_0001eba4: cdstream/naming_suggestions
+- FUN_0001ebd4: cdstream/naming_suggestions
+- FUN_0001ec04: cdstream/naming_suggestions
+- FUN_0001ec44: naming_suggestions/pickup_drop
+- FUN_0001ec64: naming_suggestions/pickup_drop
+- FUN_0001ec7c: cdstream/vertical_core
+- FUN_0001ee5c: crate/pickup_drop
+- FUN_0001eec8: crate/pickup_drop/vertical_consumer
+- FUN_0001ef54: cdstream/crate/pickup_drop
+- FUN_0001f344: cdstream/crate/naming_suggestions/pickup_drop
+- FUN_0001f5e8: crate/input
+- FUN_0001f610: crate/input/pickup_drop
+- FUN_0001f734: cdstream/pickup_drop
+- FUN_0001fab8: crate/pickup_drop
+- FUN_0001fdb4: crate/gravity/pickup_drop
+- FUN_000204e4: crate/input/pickup_drop/vertical_consumer
+- FUN_000209dc: orientation/vertical_consumer
+- FUN_00020dcc: naming_suggestions/vertical_consumer
+- FUN_000211ac: crate/input/pickup_drop
+- FUN_00021424: crate/pickup_drop
+- FUN_00021974: pickup_drop/vertical_consumer
+- FUN_00021c64: crate/input/pickup_drop
+- FUN_00021ef4: crate/input/pickup_drop
+- FUN_000220b4: input/naming_suggestions
+- FUN_00022144: crate/pickup_drop
+- FUN_0002230c: crate/pickup_drop
+- FUN_0002233c: crate/pickup_drop
+- FUN_0002245c: crate/pickup_drop
+- FUN_0002252c: crate/pickup_drop
+- FUN_00022e5c: orientation/vertical_consumer
+- FUN_00023000: orientation/vertical_consumer
+- FUN_000230a8: crate/pickup_drop
+- FUN_00023210: orientation/vertical_consumer
+- FUN_000233dc: pickup_drop/vertical_consumer
+- FUN_00023438: crate/pickup_drop
+- FUN_000234b8: crate/pickup_drop
+- FUN_00023534: input/vertical_consumer
+- FUN_00023544: input/vertical_consumer
+- FUN_00023588: crate/input/pickup_drop/vertical_consumer
+- FUN_000235d4: crate/input/pickup_drop/vertical_consumer
+- FUN_0002380c: input/vertical_consumer
+- FUN_0002391c: crate/pickup_drop/vertical_consumer
+- FUN_000239b0: crate/naming_suggestions/pickup_drop
+- FUN_00023d74: pickup_drop/vertical_consumer
+- FUN_00023f50: pickup_drop/vertical_consumer
+- FUN_000240a0: crate/pickup_drop/vertical_consumer
+- FUN_00026c68: cdstream/input/naming_suggestions/vertical_consumer
+- FUN_0002b2b8: input/vertical_consumer
+- FUN_0002c964: input/vertical_consumer
+- FUN_0002e8f4: cdstream/vertical_consumer
+- FUN_0002f158: cdstream/crate
+- FUN_0002f6d4: gravity/vertical_consumer
+- FUN_0002f988: cdstream/vertical_consumer
+- FUN_00031480: naming_suggestions/vertical_consumer
+- FUN_00032278: crate/pickup_drop
+- FUN_0003360c: gravity/vertical_consumer
+- FUN_00037f88: input/vertical_consumer
+- FUN_00038748: input/vertical_consumer
+- FUN_0003991c: input/vertical_consumer
+- FUN_0003b264: cdstream/vertical_consumer
+- FUN_0003baf8: cdstream/input/vertical_consumer
+- FUN_000402e0: orientation/vertical_core
+- FUN_0004033c: orientation/vertical_core
+- FUN_00040a4c: naming_suggestions/vertical_core
+- FUN_00040a98: naming_suggestions/vertical_core
+- FUN_00046a34: naming_suggestions/vertical_consumer
+- FUN_00047244: naming_suggestions/vertical_consumer
+- FUN_000475dc: orientation/vertical_consumer
+- FUN_000496b8: naming_suggestions/vertical_consumer
+- FUN_00049e0c: naming_suggestions/vertical_consumer
+
+## Uncategorized Functions Sample
+
+- FUN_0000029c
+- FUN_00000428
+- FUN_00000574
+- FUN_00000678
+- FUN_000006dc
+- FUN_00000804
+- FUN_00000910
+- FUN_00000914
+- FUN_000009d0
+- FUN_00000a18
+- FUN_00000a30
+- FUN_00000a3c
+- FUN_00000a48
+- FUN_00000a64
+- FUN_00000af8
+- FUN_00000b00
+- FUN_00000b30
+- FUN_00000bd4
+- FUN_00000c60
+- FUN_00000c84
+- FUN_00000ca4
+- FUN_00000ca8
+- FUN_00000dd8
+- FUN_00000e04
+- FUN_00000f20
+- FUN_00000f30
+- FUN_00000fc4
+- FUN_0000105c
+- FUN_0000108c
+- FUN_000010bc
+- FUN_000010ec
+- FUN_00001120
+- FUN_00001160
+- FUN_000011fc
+- FUN_00001228
+- FUN_00001280
+- FUN_000012fc
+- FUN_00001484
+- FUN_000014d0
+- FUN_000014d4
+- FUN_0000153c
+- FUN_000015ac
+- FUN_0000174c
+- FUN_00001804
+- FUN_00001864
+- FUN_000018c8
+- FUN_0000191c
+- FUN_00001948
+- FUN_00001b68
+- FUN_00001b90
+- FUN_00001c08
+- FUN_00001c38
+- FUN_00001cf4
+- FUN_00001dec
+- FUN_00001e1c
+- FUN_00001ea0
+- FUN_00001ec8
+- FUN_00001ef0
+- FUN_00001f00
+- FUN_00001f58
+- FUN_00001f9c
+- FUN_00001fe0
+- FUN_00001ff4
+- FUN_0000204c
+- FUN_000020d4
+- FUN_000020f4
+- FUN_00002160
+- FUN_00002258
+- FUN_000024f8
+- FUN_00002518
+- FUN_00002538
+- FUN_00002550
+- FUN_0000255c
+- FUN_00002650
+- FUN_00002734
+- FUN_0000293c
+- FUN_000029f8
+- FUN_00002a88
+- FUN_00002b10
+- FUN_00002c5c
+- FUN_00002fcc
+- FUN_00003074
+- FUN_00003160
+- FUN_000034dc
+- FUN_000035a0
+- FUN_00003604
+- FUN_00003658
+- FUN_00003688
+- FUN_00003770
+- FUN_0000377c
+- FUN_00003784
+- FUN_00003874
+- FUN_000038d4
+- FUN_00003a08
+- FUN_00003a4c
+- FUN_00003ab8
+- FUN_00003af0
+- FUN_00003b0c
+- FUN_00003b84
+- FUN_00003c80
+- FUN_00003cd0
+- FUN_00003da8
+- FUN_00003dc0
+- FUN_00003df4
+- FUN_00003e54
+- FUN_00003e94
+- FUN_00003f40
+- FUN_00003fc0
+- FUN_000040cc
+- FUN_0000414c
+- FUN_00004168
+- FUN_000041a0
+- FUN_000041c8
+- FUN_000042b4
+- FUN_000042f8
+- FUN_00004388
+- FUN_00004390
+- FUN_00004434
+- FUN_0000444c
+- FUN_000044cc
+- FUN_0000451c
+- FUN_000046bc
+- FUN_0000477c
+- FUN_0000485c
+- FUN_000048c8
+- FUN_00004af4
+- FUN_00004bc4
+- FUN_00004ca4
+- FUN_00004d0c
+- FUN_00004d74
+- FUN_00004e20
+- FUN_00004f04
+- FUN_00004f28
+- FUN_00004f54
+- FUN_0000505c
+- FUN_00005140
+- FUN_0000518c
+- FUN_000051f0
+- FUN_0000520c
+- FUN_00005264
+- FUN_0000528c
+- FUN_000052b8
+- FUN_0000534c
+- FUN_00005464
+- FUN_0000549c
+- FUN_000054d4
+- FUN_00005534
+- FUN_000056dc
+- FUN_00005710
+- FUN_0000583c
+- FUN_00005840
+- FUN_000058a8
+- FUN_000058b8
+- FUN_00005a08
+- FUN_00005a3c
+- FUN_00005a4c
+- FUN_00005aa4
+- FUN_00005abc
+- FUN_00005ac8
+- FUN_00005ae8
+- FUN_00005b04
+- FUN_00005b24
+- FUN_00005b2c
+- FUN_00005bbc
+- FUN_00005bfc
+- FUN_00005ca0
+- FUN_00005d14
+- FUN_00005db0
+- FUN_00005ee4
+- FUN_00005f1c
+- FUN_00005f48
+- FUN_0000606c
+- FUN_00006070
+- FUN_000060b0
+- FUN_000060d8
+- FUN_000060f0
+- FUN_000060fc
+- FUN_00006124
+- FUN_00006128
+- FUN_00006170
+- FUN_00006188
+- FUN_000061c0
+- FUN_000061fc
+- FUN_0000620c
+- FUN_00006220
+- FUN_00006224
+- FUN_00006274
+- FUN_000062c8
+- FUN_000062e4
+- FUN_0000631c
+- FUN_00006364
+- FUN_00006368
+- FUN_000063ac
+- FUN_000063dc
+- FUN_000063f4
+- FUN_00006408
+- FUN_00006428
+- FUN_00006434
+- FUN_00006464
+- FUN_000064a4
+
+(End of report)

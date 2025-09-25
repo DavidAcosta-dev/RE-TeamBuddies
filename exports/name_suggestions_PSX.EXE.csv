@@ -1,0 +1,10 @@
+name,ea,size,in,out,proposed,confidence,reason
+FUN_00000fc0,0x00000fc0,120,0,0,ReturnZero,0.9,decomp returns constant 0; many callers=0
+FUN_00001640,0x00001640,648,0,0,ReturnZero,0.9,decomp returns constant 0; many callers=0
+FUN_00001f24,0x00001f24,144,0,0,ReturnZero,0.9,decomp returns constant 0; many callers=0
+FUN_0000213c,0x0000213c,316,0,0,ReturnZero,0.9,decomp returns constant 0; many callers=0
+FUN_00002278,0x00002278,308,0,0,ReturnZero,0.9,decomp returns constant 0; many callers=0
+FUN_000023ac,0x000023ac,332,0,0,ReturnZero,0.9,decomp returns constant 0; many callers=0
+FUN_00002700,0x00002700,108,0,0,ReturnZero,0.9,decomp returns constant 0; many callers=0
+FUN_00002d34,0x00002d34,640,0,0,ReturnZero,0.9,decomp returns constant 0; many callers=0
+FUN_00002fb4,0x00002fb4,712,0,0,ReturnZero,0.9,decomp returns constant 0; many callers=0

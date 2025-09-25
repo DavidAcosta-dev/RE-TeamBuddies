@@ -1,0 +1,459 @@
+{
+  "MAIN.EXE": [
+    {
+      "name": "FUN_000090e0",
+      "ea": 37152,
+      "new_name": "main_update",
+      "category": "core",
+      "comment": "Main per-frame update loop"
+    },
+    {
+      "name": "FUN_00021974",
+      "ea": 137588,
+      "new_name": "crate_state_reset_init",
+      "category": "input",
+      "comment": "Initialization/reset writer: sets +0x24 = 0x1000; clears +0x1c/+0x20 and +0x48/+0x4c/+0x50; seeds state -0x7dee = 1; resets -0x7de4 = 0. Called from init (FUN_000099ac). Not reached via +0x40 scheduling.",
+      "tags": [
+        "crate",
+        "init",
+        "state"
+      ]
+    },
+    {
+      "name": "FUN_00021cf0",
+      "ea": 138480,
+      "new_name": "crate_throw_start",
+      "category": "input",
+      "comment": "Throw entry: sets +0x24 = 0xfffff000; clears +0x1c/+0x20; increments -0x7dee; used by slot management (FUN_0000a464/FUN_0000a6f4) when +0x40 pipeline triggers. Reached via input mask 0x10 scheduling.",
+      "tags": [
+        "crate",
+        "throw",
+        "release"
+      ]
+    },
+    {
+      "name": "FUN_000197bc",
+      "new_name": "cdstream_device_pump",
+      "category": "io",
+      "comment": "Pump CD device/IRQ; reads subheader, manages ring progression"
+    },
+    {
+      "name": "FUN_00019ec0",
+      "new_name": "cdstream_stage_payload",
+      "category": "io",
+      "comment": "Stage 0x7E0 payload (skip 0x20 header); 0x1F8 copy/DMA and ring advance"
+    },
+    {
+      "name": "FUN_000199d4",
+      "new_name": "cdstream_memcpy_sector",
+      "category": "io",
+      "comment": "Memcpy/DMA sector-sized chunk using index * 0x800"
+    },
+    {
+      "name": "FUN_0001cc38",
+      "ea": 117816,
+      "new_name": "sync_wait",
+      "category": "engine",
+      "comment": "Wait for vsync/draw sync"
+    },
+    {
+      "name": "FUN_0001f5c0",
+      "ea": 128704,
+      "new_name": "alloc_mem_thunk",
+      "category": "engine",
+      "comment": "Memory alloc thunk / hub"
+    },
+    {
+      "name": "FUN_0001d600",
+      "ea": 120320,
+      "new_name": "update_state_dispatch",
+      "category": "core",
+      "comment": "State/update dispatcher (suspect)"
+    },
+    {
+      "name": "FUN_0001fab8",
+      "ea": 130872,
+      "new_name": "render_tick",
+      "category": "render",
+      "comment": "Render tick coordination (suspect)"
+    },
+    {
+      "name": "FUN_00023534",
+      "ea": 144692,
+      "new_name": "suspect_input_bits_a",
+      "category": "input",
+      "comment": "Input helper: handles UI left/right (0x8000/0x2000), pickup (0x40 via +0x3c), and release (0x10 via +0x40). Note: 0x2 is checked but does not schedule release here."
+    },
+    {
+      "name": "FUN_00023544",
+      "ea": 144708,
+      "new_name": "suspect_input_bits_b",
+      "category": "input",
+      "comment": "Input helper: mirrors 23534; pickup on 0x40 schedules +0x3c; release on 0x10 schedules +0x40. Mask 0x2 is handled separately (no release scheduling)."
+    },
+    {
+      "name": "FUN_00023588",
+      "new_name": "action_order2",
+      "tags": [
+        "action",
+        "suspect"
+      ]
+    },
+    {
+      "name": "FUN_000235d4",
+      "ea": 144852,
+        "new_name": "input_decode_dispatch",
+        "category": "input",
+        "comment": "Pad input decode/dispatch; checks pad masks (0x8000,0x2000,0x40,0x2,0x10). 0x40 → FUN_00021424 (pickup) and schedules +0x3c; 0x10 → schedules +0x40 (release/throw); 0x2 is checked but does not schedule release here.",
+      "tags": [
+          "suspect",
+          "action",
+          "input"
+      ]
+    },
+    {
+      "name": "FUN_000099ac",
+      "ea": 39340,
+      "new_name": "suspect_input_init_or_poll",
+      "category": "input",
+      "comment": "Calls small bit helpers; init or poll hub"
+    },
+    {
+      "name": "FUN_00009708",
+        "new_name": "suspect_carry_clear_or_context_init",
+        "comment": "Clears +0x14; populates context pointers (+0x10/+0x18/+0x1c/+0x20/+0x28) from selection; disables some subsystems; pairs with FUN_00021424 on +0x14/+0x1c/+0x20/+0x24.",
+      "tags": [
+        "action",
+        "suspect"
+      ]
+    },
+    {
+      "name": "FUN_00021424",
+      "ea": 136228,
+      "new_name": "crate_pickup_start",
+      "category": "input",
+      "comment": "State writer: *(+0x14)=6; *(+0x1c)=0x1000; clears +0x20/+0x24. Called from input_decode_dispatch on 0x40 press.",
+      "tags": [
+        "crate",
+        "suspect"
+      ]
+    },
+    {
+      "name": "FUN_0001a804",
+      "ea": 108292,
+      "new_name": "suspect_crate_crate_03",
+      "category": "input",
+      "comment": "Mode/menu input handler calling update_state_dispatch",
+      "tags": [
+        "crate",
+        "suspect"
+      ]
+    },
+    {
+      "name": "FUN_00034f08",
+      "new_name": "suspect_action_handler_01_lvl1",
+      "tags": [
+        "suspect",
+        "action"
+      ]
+    },
+    {
+      "name": "FUN_00034f40",
+      "new_name": "suspect_action_handler_02_lvl1",
+      "tags": [
+        "suspect",
+        "action"
+      ]
+    },
+    {
+      "name": "FUN_0001f5e8",
+      "new_name": "suspect_action_move_02_lvl1",
+      "tags": [
+        "action",
+        "suspect"
+      ]
+    },
+    {
+      "name": "FUN_00021c64",
+      "new_name": "suspect_action_move_03_lvl1",
+      "tags": [
+        "action",
+        "suspect"
+      ]
+    },
+    {
+      "name": "FUN_00003a64",
+      "new_name": "action_accel",
+      "tags": [
+        "action",
+        "curated"
+      ]
+    },
+    {
+      "name": "FUN_00002434",
+      "ea": 9268,
+      "new_name": "cdstream_init_or_start",
+      "category": "io",
+      "comment": "Initialize/start CD streaming ring and device state"
+    },
+    {
+      "name": "FUN_000021d4",
+      "ea": 8660,
+      "new_name": "cdstream_process_queue",
+      "category": "io",
+      "comment": "Process CD streaming queue entries (ring/callback pump)"
+    },
+    {
+      "name": "FUN_00002584",
+      "ea": 9604,
+      "new_name": "cdstream_poll_idle",
+      "category": "io",
+      "comment": "Poll for idle/ready state of CD stream subsystem"
+    },
+    {
+      "name": "FUN_000026f4",
+      "ea": 9972,
+      "new_name": "cdstream_reset",
+      "category": "io",
+      "comment": "Reset CD streaming, reinitialize control flags and buffers"
+    },
+    {
+      "name": "FUN_000028d8",
+      "ea": 10456,
+      "new_name": "cdstream_register_callback2",
+      "category": "io",
+      "comment": "Register secondary callback/IRQ for streaming channel"
+    },
+    {
+      "name": "FUN_0003186c",
+      "new_name": "cd_cmd_dispatch",
+      "category": "io",
+      "comment": "Suspect: dispatch/kick HW command sequence",
+      "tags": [
+        "suspect"
+      ]
+    },
+    {
+      "name": "FUN_00031734",
+      "new_name": "cd_cmd_finalize_a",
+      "category": "io",
+      "comment": "Suspect: finalize path A (post-transfer)",
+      "tags": [
+        "suspect"
+      ]
+    },
+    {
+      "name": "FUN_000317d0",
+      "new_name": "cd_cmd_finalize_b",
+      "category": "io",
+      "comment": "Suspect: finalize path B (end-of-pack)",
+      "tags": [
+        "suspect"
+      ]
+    },
+    {
+      "name": "FUN_00030de8",
+      "new_name": "cd_dma_copy_partial",
+      "category": "io",
+      "comment": "Suspect: DMA/memcpy wrapper used for 0x1F8 payload slices",
+      "tags": [
+        "suspect"
+      ]
+    },
+    {
+      "name": "FUN_00030cc8",
+      "new_name": "cd_ring_rewind",
+      "category": "io",
+      "comment": "Suspect: rewind ring counters to saved start",
+      "tags": [
+        "suspect"
+      ]
+    },
+    {
+      "name": "FUN_00031368",
+      "new_name": "cd_reset_ptrs",
+      "category": "io",
+      "comment": "Suspect: reset internal pointers on error/flush",
+      "tags": [
+        "suspect"
+      ]
+    },
+    {
+      "name": "FUN_0002db3c",
+      "new_name": "cd_poll_ready",
+      "category": "io",
+      "comment": "Suspect: poll CdReady/CdSync-like state",
+      "tags": [
+        "suspect"
+      ]
+    },
+    {
+      "name": "FUN_00040020",
+      "new_name": "cd_cmd_issue",
+      "category": "io",
+      "comment": "Suspect: issue CdControl-like command with args",
+      "tags": [
+        "suspect"
+      ]
+    },
+    {
+      "name": "FUN_0001a028",
+      "new_name": "cdstream_advance_and_dispatch",
+      "category": "io",
+      "comment": "+1 sector index; dispatch with +0x20 header skip"
+    },
+    {
+      "name": "FUN_0001a038",
+      "new_name": "cdstream_advance_and_dispatch2",
+      "category": "io",
+      "comment": "Variant: _DAT_80057a1c = v0+1; dispatch"
+    },
+    {
+      "name": "FUN_0001a100",
+      "new_name": "cdstream_noop",
+      "category": "io",
+      "comment": "No-op placeholder in streaming chain"
+    },
+    {
+      "name": "FUN_0001dd04",
+      "new_name": "cdstream_alloc_and_init_queue",
+      "category": "io",
+      "tags": [
+        "suspect"
+      ],
+      "comment": "Allocates ~0x20000 buffer and initializes queue/jumptable with &DAT_00028000"
+    },
+    {
+      "name": "FUN_0001dd78",
+      "new_name": "cdstream_maybe_enqueue_pair",
+      "category": "io",
+      "tags": [
+        "suspect"
+      ],
+      "comment": "On flag==1, enqueues/configures one or two entries via FUN_0001a440"
+    },
+    {
+      "name": "FUN_0001a440",
+      "new_name": "cdstream_setup_entry",
+      "category": "io",
+      "tags": [
+        "suspect"
+      ],
+      "comment": "Sets entry fields (len>>1, 0xf0, flags) used by cdstream_maybe_enqueue_pair"
+    },
+    {
+      "name": "FUN_0003b468",
+      "new_name": "suspect_crate_crate_handler_03",
+      "tags": [
+        "crate",
+        "suspect"
+      ]
+    },
+    {
+      "name": "FUN_00039078",
+      "new_name": "suspect_crate_crate_handler_04",
+      "tags": [
+        "crate",
+        "suspect"
+      ]
+    },
+    {
+      "name": "FUN_0003b9a4",
+      "new_name": "suspect_crate_crate_handler_05",
+      "tags": [
+        "crate",
+        "suspect"
+      ]
+    },
+    {
+      "name": "FUN_00019134",
+      "new_name": "suspect_crate_crate_01",
+      "tags": [
+        "crate",
+        "suspect"
+      ]
+    },
+    {
+      "name": "FUN_000204e4",
+      "new_name": "suspect_crate_crate_05",
+      "tags": [
+        "crate",
+        "suspect"
+      ]
+    },
+    {
+      "name": "FUN_00008158",
+      "new_name": "suspect_crate_crate_06",
+      "tags": [
+        "crate",
+        "suspect"
+      ]
+    },
+    {
+      "name": "FUN_0001912c",
+      "new_name": "suspect_crate_crate_07",
+      "tags": [
+        "crate",
+        "suspect"
+      ]
+    },
+    {
+      "name": "FUN_00008528",
+      "new_name": "suspect_crate_crate_08",
+      "tags": [
+        "crate",
+        "suspect"
+      ],
+      "comment": "Caller of crate_stateframe_cb_secondary (FUN_000240a0); retained suspect status pending deeper semantic review."
+    },
+    {
+      "name": "FUN_00009cd4",
+      "new_name": "suspect_crate_crate_10",
+      "tags": [
+        "crate",
+        "suspect"
+      ]
+    }
+    ,
+    {
+      "name": "FUN_00023f50",
+      "new_name": "crate_stateframe_cb_primary",
+      "tags": [
+        "crate",
+        "scheduler",
+        "callback"
+      ],
+      "comment": "One half of the paired per-frame state callbacks used with slot pointers (+0x38/+0x3c/+0x40). Calls sync_wait and a trivial ret0 stub; likely handles timing or basic state pump without side-effects."
+    },
+    {
+      "name": "FUN_000240a0",
+      "new_name": "crate_stateframe_cb_secondary",
+      "tags": [
+        "crate",
+        "scheduler",
+        "callback"
+      ],
+      "comment": "Second half of paired callbacks; additionally calls FUN_00035cc0 unlike primary; probable visual/animation or effect advancement layer. Both are passed together to scheduler (FUN_00035324)."
+    }
+    ,
+    {
+      "name": "FUN_00035324",
+      "new_name": "crate_state_scheduler_enqueue",
+      "tags": [
+        "crate",
+        "scheduler"
+      ],
+      "comment": "Enqueue/activate a crate state slot: signature observed FUN_00035324(context, *(context+offsetSlot), crate_stateframe_cb_primary, crate_stateframe_cb_secondary). Size=1 suggests it writes to a queue/flag only (likely a jump table/inline stub)."
+    },
+    {
+      "name": "FUN_00035cc0",
+      "new_name": "crate_anim_fx_step",
+      "tags": [
+        "crate",
+        "animation",
+        "fx"
+      ],
+      "comment": "Called by crate_stateframe_cb_secondary and a broader multi-callee function (FUN_00023d74). Large size (1792) implies animation/effect or complex state progression routine. Pending deeper pattern classification (search for ordering of matrix/vector ops or GPU command writes)."
+    }
+  ]
+}

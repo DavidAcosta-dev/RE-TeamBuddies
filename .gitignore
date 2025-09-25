@@ -1,13 +1,13 @@
-# python
-__pycache__/
-*.pyc
-.venv/
-# analysis artifacts
-exports/*.jsonl
-exports/*.csv
-exports/*.log
-# extracted assets
-assets/extracted/
-# ghidra temp/projects
-*.ghidra
-*.rep
+# # python
+# __pycache__/
+# *.pyc
+# .venv/
+# # analysis artifacts
+# exports/*.jsonl
+# exports/*.csv
+# exports/*.log
+# # extracted assets
+# assets/extracted/
+# # ghidra temp/projects
+# *.ghidra
+# *.rep

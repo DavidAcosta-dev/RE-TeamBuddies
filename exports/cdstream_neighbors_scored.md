@@ -1,0 +1,61 @@
+# CD stream neighbor candidates (scored)
+
+Seeds:
+- MAIN.EXE:cdstream_init_or_start (FUN_00002434)
+- MAIN.EXE:cdstream_process_queue (FUN_000021d4)
+- MAIN.EXE:cdstream_poll_idle (FUN_00002584)
+- MAIN.EXE:cdstream_reset (FUN_000026f4)
+- MAIN.EXE:cdstream_register_callback2 (FUN_000028d8)
+
+Top candidates by score (top 50):
+
+- MAIN.EXE:cdstream_init_or_start (FUN_00002434) @ 0x2434 | d=0 | in=0 out=3 | score=7 | {'num:0x800': 4}
+- MAIN.EXE:cdstream_reset (FUN_000026f4) @ 0x26f4 | d=0 | in=0 out=4 | score=4 | {'num:0x800': 1}
+- MAIN.EXE:cdstream_stage_payload (FUN_00019ec0) @ 0x19ec0 | d=1 | in=5 out=5 | score=4 | {'num:0x800': 2}
+- MAIN.EXE:cdstream_register_callback2 (FUN_000028d8) @ 0x28d8 | d=0 | in=0 out=1 | score=3 | {}
+- MAIN.EXE:cdstream_process_queue (FUN_000021d4) @ 0x21d4 | d=0 | in=0 out=2 | score=3 | {}
+- MAIN.EXE:cdstream_poll_idle (FUN_00002584) @ 0x2584 | d=0 | in=0 out=2 | score=3 | {}
+- MAIN.EXE:cdstream_device_pump (FUN_000197bc) @ 0x197bc | d=3 | in=0 out=4 | score=3 | {'num:0x800': 3}
+- MAIN.EXE:cdstream_memcpy_sector (FUN_000199d4) @ 0x199d4 | d=1 | in=1 out=1 | score=3 | {'num:0x800': 1}
+- MAIN.EXE:FUN_00006050 (FUN_00006050) @ 0x6050 | d=2 | in=0 out=3 | score=2 | {'num:0x800': 1}
+- MAIN.EXE:FUN_0000a234 (FUN_0000a234) @ 0xa234 | d=2 | in=0 out=5 | score=2 | {'num:0x800': 1}
+- MAIN.EXE:FUN_00009f08 (FUN_00009f08) @ 0x9f08 | d=3 | in=0 out=6 | score=2 | {'num:0x800': 2}
+- MAIN.EXE:cdstream_advance_and_dispatch (FUN_0001a028) @ 0x1a028 | d=1 | in=1 out=0 | score=2 | {}
+- MAIN.EXE:cdstream_advance_and_dispatch2 (FUN_0001a038) @ 0x1a038 | d=1 | in=1 out=1 | score=2 | {}
+- MAIN.EXE:cdstream_noop (FUN_0001a100) @ 0x1a100 | d=1 | in=3 out=0 | score=2 | {}
+- MAIN.EXE:FUN_0001dd78 (FUN_0001dd78) @ 0x1dd78 | d=1 | in=3 out=1 | score=2 | {}
+- MAIN.EXE:FUN_0001dd04 (FUN_0001dd04) @ 0x1dd04 | d=1 | in=6 out=1 | score=2 | {}
+- MAIN.EXE:update_state_dispatch (FUN_0001d600) @ 0x1d600 | d=1 | in=18 out=2 | score=2 | {}
+- MAIN.EXE:FUN_0001cc58 (FUN_0001cc58) @ 0x1cc58 | d=1 | in=51 out=0 | score=2 | {}
+- MAIN.EXE:FUN_00002ab0 (FUN_00002ab0) @ 0x2ab0 | d=2 | in=0 out=1 | score=1 | {}
+- MAIN.EXE:FUN_0001a0ec (FUN_0001a0ec) @ 0x1a0ec | d=2 | in=0 out=1 | score=1 | {}
+- MAIN.EXE:FUN_00015ab8 (FUN_00015ab8) @ 0x15ab8 | d=2 | in=0 out=1 | score=1 | {}
+- MAIN.EXE:FUN_00016780 (FUN_00016780) @ 0x16780 | d=2 | in=0 out=1 | score=1 | {}
+- MAIN.EXE:FUN_00012c80 (FUN_00012c80) @ 0x12c80 | d=2 | in=0 out=1 | score=1 | {}
+- MAIN.EXE:FUN_00001f24 (FUN_00001f24) @ 0x1f24 | d=2 | in=0 out=1 | score=1 | {}
+- MAIN.EXE:FUN_000009d8 (FUN_000009d8) @ 0x9d8 | d=2 | in=0 out=1 | score=1 | {}
+- MAIN.EXE:FUN_00000b38 (FUN_00000b38) @ 0xb38 | d=2 | in=0 out=1 | score=1 | {}
+- MAIN.EXE:FUN_000066b0 (FUN_000066b0) @ 0x66b0 | d=2 | in=0 out=1 | score=1 | {}
+- MAIN.EXE:FUN_0001f344 (FUN_0001f344) @ 0x1f344 | d=2 | in=0 out=1 | score=1 | {}
+- MAIN.EXE:FUN_00014520 (FUN_00014520) @ 0x14520 | d=2 | in=0 out=1 | score=1 | {}
+- MAIN.EXE:FUN_000158ec (FUN_000158ec) @ 0x158ec | d=2 | in=0 out=1 | score=1 | {}
+- MAIN.EXE:FUN_00019614 (FUN_00019614) @ 0x19614 | d=2 | in=0 out=1 | score=1 | {}
+- MAIN.EXE:FUN_000026c0 (FUN_000026c0) @ 0x26c0 | d=2 | in=0 out=1 | score=1 | {}
+- MAIN.EXE:FUN_00001954 (FUN_00001954) @ 0x1954 | d=2 | in=0 out=2 | score=1 | {}
+- MAIN.EXE:FUN_00001644 (FUN_00001644) @ 0x1644 | d=2 | in=0 out=2 | score=1 | {}
+- MAIN.EXE:FUN_00003b7c (FUN_00003b7c) @ 0x3b7c | d=2 | in=0 out=2 | score=1 | {}
+- MAIN.EXE:FUN_0001ef54 (FUN_0001ef54) @ 0x1ef54 | d=2 | in=0 out=2 | score=1 | {}
+- MAIN.EXE:FUN_00009b18 (FUN_00009b18) @ 0x9b18 | d=2 | in=0 out=2 | score=1 | {}
+- MAIN.EXE:FUN_00000ad4 (FUN_00000ad4) @ 0xad4 | d=2 | in=0 out=2 | score=1 | {}
+- MAIN.EXE:FUN_0000cc00 (FUN_0000cc00) @ 0xcc00 | d=2 | in=0 out=2 | score=1 | {}
+- MAIN.EXE:FUN_0000364c (FUN_0000364c) @ 0x364c | d=2 | in=0 out=2 | score=1 | {}
+- MAIN.EXE:FUN_00003824 (FUN_00003824) @ 0x3824 | d=2 | in=0 out=2 | score=1 | {}
+- MAIN.EXE:FUN_00008158 (FUN_00008158) @ 0x8158 | d=2 | in=0 out=3 | score=1 | {}
+- MAIN.EXE:FUN_0000ae1c (FUN_0000ae1c) @ 0xae1c | d=2 | in=0 out=3 | score=1 | {}
+- MAIN.EXE:FUN_0001245c (FUN_0001245c) @ 0x1245c | d=2 | in=0 out=3 | score=1 | {}
+- MAIN.EXE:action_accel (FUN_00003a64) @ 0x3a64 | d=2 | in=0 out=3 | score=1 | {}
+- MAIN.EXE:FUN_00003cf0 (FUN_00003cf0) @ 0x3cf0 | d=2 | in=0 out=3 | score=1 | {}
+- MAIN.EXE:FUN_0001616c (FUN_0001616c) @ 0x1616c | d=2 | in=0 out=3 | score=1 | {}
+- MAIN.EXE:FUN_00015e80 (FUN_00015e80) @ 0x15e80 | d=2 | in=0 out=3 | score=1 | {}
+- MAIN.EXE:FUN_00003738 (FUN_00003738) @ 0x3738 | d=2 | in=0 out=3 | score=1 | {}
+- MAIN.EXE:FUN_00019040 (FUN_00019040) @ 0x19040 | d=2 | in=0 out=3 | score=1 | {}

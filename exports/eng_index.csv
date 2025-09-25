@@ -1,0 +1,1253 @@
+offset,category,string
+,other,===== OFFSET 0x000001db =====
+,other,bone_palm_l
+,other,===== OFFSET 0x000001e8 =====
+,label,l_palm_bone
+,other,===== OFFSET 0x000001fc =====
+,label,bone_palm_r
+,other,===== OFFSET 0x00000208 =====
+,label,r_palm_bone
+,other,===== OFFSET 0x0000021c =====
+,label,bone_back
+,other,===== OFFSET 0x00000228 =====
+,label,backbone
+,other,===== OFFSET 0x00000234 =====
+,label,back_bone
+,other,===== OFFSET 0x00000240 =====
+,label,bone_fing_r
+,other,===== OFFSET 0x0000024c =====
+,label,r_fingers_bone
+,other,===== OFFSET 0x0000025c =====
+,label,bone_fing_l
+,other,===== OFFSET 0x00000268 =====
+,label,l_fingers_bone
+,other,===== OFFSET 0x00000278 =====
+,label,bone_toes_l
+,other,===== OFFSET 0x00000284 =====
+,label,bone_toes_r
+,other,===== OFFSET 0x00000e20 =====
+,label,r_front_hoof_bone
+,other,===== OFFSET 0x00000e34 =====
+,label,l_front_hoof_bone
+,other,===== OFFSET 0x00000e48 =====
+,label,bone_back
+,other,===== OFFSET 0x00000e54 =====
+,label,backbone
+,other,===== OFFSET 0x00000e60 =====
+,label,back_bone
+,other,===== OFFSET 0x00000e6c =====
+,label,r_rear_hoof_bone
+,other,===== OFFSET 0x00000e80 =====
+,label,l_rear_hoof_bone
+,other,===== OFFSET 0x00001bcf =====
+,other,Toy Array
+,other,===== OFFSET 0x00001c58 =====
+,label,SlotSystem
+,other,===== OFFSET 0x00001d9c =====
+,other,SPEECH.TIM
+,other,===== OFFSET 0x00001da8 =====
+,other,SPEECH02.TIM
+,other,===== OFFSET 0x00001db8 =====
+,label,Bound Array
+,other,===== OFFSET 0x00001de4 =====
+,other,TOYS.BIN
+,other,===== OFFSET 0x00001df0 =====
+,other,POWERUP.BIN
+,other,===== OFFSET 0x00001dfc =====
+,other,PERCEPT.BIN
+,other,===== OFFSET 0x00001e08 =====
+,other,ATTITUDE.BIN
+,other,===== OFFSET 0x00001e18 =====
+,other,ACTION.BIN
+,other,===== OFFSET 0x00001e24 =====
+,other,STATICS.BIN
+,other,===== OFFSET 0x00001e58 =====
+,label,Sprite array
+,other,===== OFFSET 0x00001e68 =====
+,label,Effect factories
+,other,===== OFFSET 0x00002438 =====
+,label,DEMOMODE
+,other,===== OFFSET 0x00002478 =====
+,label,FOOTBALL_
+,other,===== OFFSET 0x00002484 =====
+,game_terms,BASE_FLAG
+,other,===== OFFSET 0x00002498 =====
+,label,FROZEN_SCIENTIST
+,other,===== OFFSET 0x000024b4 =====
+,label,MECH_CHARGER
+,other,===== OFFSET 0x000024c4 =====
+,label,GENERATOR
+,other,===== OFFSET 0x000024f0 =====
+,label,attach_turret
+,other,===== OFFSET 0x00002584 =====
+,game_terms,UNICRATE
+,other,===== OFFSET 0x00002590 =====
+,label,ICE_PROF
+,other,===== OFFSET 0x000025ec =====
+,label,MODELREF
+,other,===== OFFSET 0x00002600 =====
+,label,OrderTar
+,other,===== OFFSET 0x00002642 =====
+,other,  
+,other,$'
+,other,4
+,other,===== OFFSET 0x0000264e =====
+,other, '
+,other,'
+,other,`'
+,other,'
+,other,4
+,other,===== OFFSET 0x00002674 =====
+,other,SPEECH.TIM
+,other,===== OFFSET 0x00002680 =====
+,label,TOY_BINOS
+,other,===== OFFSET 0x0000268c =====
+,game_terms,\TEAMBUDM.XA;1
+,other,===== OFFSET 0x0000269c =====
+,game_terms,\TEAMBUDG.XA;1
+,other,===== OFFSET 0x000026ac =====
+,game_terms,\TEAMBUD2.XA;1
+,other,===== OFFSET 0x000026c4 =====
+,label,LANT_ICO
+,other,===== OFFSET 0x000026dc =====
+,other,\J
+,other,dJ
+,other,dJ
+,other,dJ
+,other,dJ
+,other,dJ
+,other,dJ
+,other,dJ
+,other,dJ
+,other,dJ
+,other,\J
+,other,dJ
+,other,dJ
+,other,dJ
+,other,dJ
+,other,dJ
+,other,dJ
+,other,dJ
+,other,\J
+,other,dJ
+,other,dJ
+,other,dJ
+,other,dJ
+,other,dJ
+,other,dJ
+,other,\J
+,other,\J
+,other,\SPW
+,other,===== OFFSET 0x00002770 =====
+,other,_L1.XA;1
+,other,===== OFFSET 0x0000277c =====
+,other,_L2.XA;1
+,other,===== OFFSET 0x0000278c =====
+,other,èQ
+,other,ðQ
+,other,$R
+,other,øQ
+,short,
+,other,===== OFFSET 0x000027a1 =====
+,short,R
+,other,$R
+,other,$R
+,other,$R
+,other,$R
+,other,$R
+,other,$R
+,other,$R
+,other,$R
+,other,$R
+,other,$R
+,other,$R
+,other,$R
+,other,$R
+,other,$R
+,other,$R
+,other,$R
+,other,$R
+,other,$R
+,other,$R
+,other,$R
+,other,$R
+,other,$R
+,other,$R
+,other,$R
+,other,$R
+,short,
+,other,===== OFFSET 0x00002809 =====
+,short,R
+,other,$R
+,other, R
+,other,$R
+,other,$R
+,other,èQ
+,other, R
+,short,
+,other,===== OFFSET 0x0000282d =====
+,short,R
+,other,øQ
+,other,ðQ
+,other,ReadyX
+,other,===== OFFSET 0x00002844 =====
+,label,ExclaimX
+,other,===== OFFSET 0x00002860 =====
+,label,youLoseX
+,other,===== OFFSET 0x0000287c =====
+,other,Äf
+,other,8]
+,short,
+,other,===== OFFSET 0x00002885 =====
+,short,^
+,other,4^
+,other,`^
+,other,p^
+,other,^
+,other,^
+,other,PADCLUTS
+,other,===== OFFSET 0x000028c8 =====
+,label,MAXHEIGHTS
+,other,===== OFFSET 0x000028d4 =====
+,label,MINHEIGHTS
+,other,===== OFFSET 0x000028e0 =====
+,label,TILEDATA
+,other,===== OFFSET 0x000028ec =====
+,game_terms,MAP VNORMS
+,other,===== OFFSET 0x000028f8 =====
+,label,Animating tile textures
+,other,===== OFFSET 0x00002910 =====
+,other,Animating tile descriptions
+,other,===== OFFSET 0x0000292c =====
+,label,Sediment
+,other,===== OFFSET 0x00002938 =====
+,other,MODELREF (duplicate)
+,other,===== OFFSET 0x00002950 =====
+,label,Model Lookup
+,other,===== OFFSET 0x00002988 =====
+,other,_CRETURN TO SENDER OPENED
+,other,===== OFFSET 0x000029cc =====
+,label,HGFEHGFE
+,other,===== OFFSET 0x00002a38 =====
+,label,NFHFHGGEE
+,other,===== OFFSET 0x00002a4d =====
+,short,ð
+,other,`ñ
+,other,°ó
+,short,
+,other,===== OFFSET 0x00002a59 =====
+,short,õ
+,other,Øö
+,other,¬ú
+,other,lù
+,other,hý
+,other,Ôþ
+,other, ï
+,other,Xï
+,other,pï
+,other,¬ï
+,other,Äï
+,other,ìï
+,other,ð
+,other,===== OFFSET 0x00002ab3 =====
+,other,te	 k	8
+,other, q
+,short,
+,other,===== OFFSET 0x00002ac5 =====
+,short,Ú
+,other,äÞ
+,other,@ç
+,other,===== OFFSET 0x00002adb =====
+,other,e	Dk	Pq
+,other,8Ú
+,short,
+,other,===== OFFSET 0x000030a6 =====
+,other,½'Ðÿ½'!P
+,other,===== OFFSET 0x00003a4a =====
+,other,¢$ÿÿE0! $
+,other,===== OFFSET 0x00003d12 =====
+,other,¢H¡$ÿÿB$
+,other,===== OFFSET 0x000042b6 =====
+,other,'¦ÿÿR0ÿÿs0t
+,other,===== OFFSET 0x00004629 =====
+,other,8B2ûÿ¢0 
+,other,===== OFFSET 0x00004a9e =====
+,other,#®ÿÿ$ÿÿb0
+,other,===== OFFSET 0x00004fc8 =====
+,other,ÿÿB$ÿÿP0ÿÿ
+,other,===== OFFSET 0x00005a8f =====
+,other, B C*
+,other,===== OFFSET 0x00005af3 =====
+,other,$'$#*
+,other,===== OFFSET 0x00005ce0 =====
+,other,×D$x×D$
+,other,===== OFFSET 0x0000b71e =====
+,other,¢ ÿÿ&²ÿ
+,other,===== OFFSET 0x0000c060 =====
+,other,ÿÿJ0ÿ@$
+,other,===== OFFSET 0x0000c08c =====
+,other,ÿÿE0ÿ@ã$
+,other,===== OFFSET 0x0000c0b4 =====
+,other,ÿÿF0ÿ@$
+,other,===== OFFSET 0x0000cf4f =====
+,other,<èUExÿ½'
+,other,===== OFFSET 0x0000d177 =====
+,other,<¤EØÿ½'
+,other,===== OFFSET 0x0000d26c =====
+,other,ÿÿ¢0ÿÿÂ$
+,other,===== OFFSET 0x0000d290 =====
+,other,ÿÿ¢0èÖ$@
+,other,===== OFFSET 0x0000d423 =====
+,other,<¤®¤C¤$
+,other,===== OFFSET 0x0000d82b =====
+,other,<ÿÿç4ÿû	<ÿÿ)5! 
+,other,===== OFFSET 0x0000e153 =====
+,other,<ÿÿÆ4! À
+,other,===== OFFSET 0x0000fdeb =====
+,other,<¤EÐÿ½'
+,other,===== OFFSET 0x0000fe56 =====
+,other,ÿÿq0#0
+,other,===== OFFSET 0x0001006b =====
+,other,<¤¥®¤C¤(
+,other,===== OFFSET 0x000101ca =====
+,other,½'èÿ½'!0
+,other,===== OFFSET 0x000115d2 =====
+,other,'¦ûÿb$ÿÿB0
+,other,===== OFFSET 0x00013456 =====
+,other,¢ ÿÿ&¦ÿ
+,other,===== OFFSET 0x000137cf =====
+,other,<ÿÿB4!0Å
+,other,===== OFFSET 0x000159ae =====
+,other,#NQ$ýÿ
+,other,===== OFFSET 0x00016a63 =====
+,other,$ÿÿd2ÿÿb&
+,other,===== OFFSET 0x00016ab6 =====
+,other,W¦¨%$D
+,other,===== OFFSET 0x00016ad6 =====
+,other,T¦¼%$!(
+,other,===== OFFSET 0x00016b26 =====
+,other,U¦à%$D
+,other,===== OFFSET 0x00016b42 =====
+,other,Q®ô%$D
+,other,===== OFFSET 0x000193b2 =====
+,other,½'èÿ½'!(
+,other,===== OFFSET 0x0001aa24 =====
+,other, CB& C@®
+,other,===== OFFSET 0x0001aa2e =====
+,other,@¬ CD& Ñ
+,other,===== OFFSET 0x0001aa8c =====
+,other,ÿÿG0ÿO$C
+,other,===== OFFSET 0x0001b008 =====
+,other,ÿÿF0ÿÿb$ä±
+,other,===== OFFSET 0x0001b03c =====
+,other,ÿÿK0ÿÿÂ$ñ±
+,other,===== OFFSET 0x0001c925 =====
+,other,æB$üå`¬ÿ
+,other,===== OFFSET 0x0001c9fe =====
+,other,¤'ÿÿ'&ÿÿQ0
+,other,===== OFFSET 0x0001ce4e =====
+,other,½'Øÿ½'ÿÿ
+,other,===== OFFSET 0x0001ceca =====
+,other,`¬ÿÿ$úÿ
+,other,===== OFFSET 0x0001cfca =====
+,other,½'èÿ½'! 
+,other,===== OFFSET 0x0001d032 =====
+,other,°¯ C C$
+,other,===== OFFSET 0x0001d4d6 =====
+,other,½'ÿ½'!@ 
+,other,===== OFFSET 0x0001da36 =====
+,other,½'øÿ½'!`
+,other,===== OFFSET 0x0001de03 =====
+,other,<Î¥$! 
+,other,===== OFFSET 0x0001de1a =====
+,other,Ä&ÿÿw&p½
+,other,===== OFFSET 0x0001de93 =====
+,other,<üÒs$püt&! S
+,other,===== OFFSET 0x0001df06 =====
+,other,±ÿÿó2ÿÿ
+,other,===== OFFSET 0x0001e177 =====
+,other,<lÏ1&Tý3&Ø
+,other,===== OFFSET 0x0001e20e =====
+,other,b8þ2&À 
+,other,===== OFFSET 0x0001e7ba =====
+,other,¤'ÿÿR&ÿÿ
+,other,===== OFFSET 0x0001e89a =====
+,other,C¡b@ 
+,other,===== OFFSET 0x0001e9ae =====
+,other,±¯ÿÿ0! 
+,other,===== OFFSET 0x0001eacb =====
+,other,<HYÿÿ
+,short,$
+,other,===== OFFSET 0x0001ed36 =====
+,other,b¤Hb!(g
+,other,===== OFFSET 0x0001ef6a =====
+,other,ÆèÖG+0&
+,other,===== OFFSET 0x0001f1d7 =====
+,other,<xÊB$!b
+,other,===== OFFSET 0x0001f6c2 =====
+,other,@¤d Ã
+,other,===== OFFSET 0x0001f6de =====
+,other,¤C Ã
+,other,===== OFFSET 0x0001f7e3 =====
+,other,< Vc$!¨C
+,other,===== OFFSET 0x0001faf2 =====
+,other,²¯ÿÿ0ùÿC&3
+,other,===== OFFSET 0x0001fe16 =====
+,other,1&ÿÿR&ÿÿ
+,other,===== OFFSET 0x0002038a =====
+,other,ãÿÿÂ&!°C
+,other,===== OFFSET 0x000205a6 =====
+,other,½'àÿ½'!(
+,other,===== OFFSET 0x0002108f =====
+,other,<VbØÿ½'
+,other,===== OFFSET 0x000211a3 =====
+,other,<¬VT$!
+,other,===== OFFSET 0x000212c2 =====
+,other,½'ðÿ½'ÿÿ
+,other,===== OFFSET 0x00021406 =====
+,other,½'øÿ½'ÿÿ
+,other,===== OFFSET 0x00021656 =====
+,other,&ÿÿR&B¸
+,other,===== OFFSET 0x00021a82 =====
+,other,½'àÿ½'ÿÿ
+,other,===== OFFSET 0x00021b66 =====
+,other,½'èÿ½'! 
+,other,===== OFFSET 0x00022518 =====
+,other,ÿÿC$ÿÿd0K
+,other,===== OFFSET 0x000227ef =====
+,other,<H¡F$ýÿ¢$
+,other,===== OFFSET 0x00022999 =====
+,other,×CÐÿ½'(
+,other,===== OFFSET 0x00022a68 =====
+,other,ÿÿB$ÿÿC0ÿÿ
+,other,===== OFFSET 0x00022a9e =====
+,other, ¢ÿÿb$ÿÿC0÷ÿd
+,other,===== OFFSET 0x00022b52 =====
+,other,s&<æ¢ÿÿ2+
+,other,===== OFFSET 0x00022c4a =====
+,other,°¯<æPÿÿ
+,other,===== OFFSET 0x00022f87 =====
+,other,<DæCPæÄèÿ½'
+,other,===== OFFSET 0x00023007 =====
+,other,<LæDæ£#
+,other,===== OFFSET 0x000231b6 =====
+,other,½'èÿ½'ÿÿ
+,other,===== OFFSET 0x0002353f =====
+,other,<t ¥$#(%
+,other,===== OFFSET 0x00023603 =====
+,other,<t ¥$#(%
+,other,===== OFFSET 0x0002381e =====
+,other,½'Ðÿ½'!@
+,other,===== OFFSET 0x000239e2 =====
+,other,½'àÿ½'!0
+,other,===== OFFSET 0x00023a5e =====
+,other,½'àÿ½'!0
+,other,===== OFFSET 0x00023c4e =====
+,other,½'Ðÿ½'ÿÿ
+,other,===== OFFSET 0x00023cca =====
+,other,`¬ÿÿ$ùÿ
+,other,===== OFFSET 0x00023e0e =====
+,other,½'èÿ½'! 
+,other,===== OFFSET 0x000245c6 =====
+,other,½'àÿ½'ó
+,other,===== OFFSET 0x00024c46 =====
+,other,B$ÿÿB0~8
+,other,===== OFFSET 0x000251eb =====
+,other,¦ÿÿs&äÿa
+,other,===== OFFSET 0x00025427 =====
+,other,¦ÿÿs&Îÿa
+,other,===== OFFSET 0x00025b37 =====
+,other,¦ÿÿs&äÿa
+,other,===== OFFSET 0x00025c5f =====
+,other,¦ÿÿs&Îÿa
+,other,===== OFFSET 0x000261f0 =====
+,other,ÿÿB0èÿ½'
+,other,===== OFFSET 0x00026282 =====
+,other,ÿÿ¥0!(¢
+,other,===== OFFSET 0x000263ec =====
+,other,øÂ'øÄ
+,other,===== OFFSET 0x000268ac =====
+,other,ÿÿD0ÿ@e$
+,other,===== OFFSET 0x00026a28 =====
+,other,ÿÿD0ÿ@e$
+,other,===== OFFSET 0x00026c4f =====
+,other,<îÖdÿB$*
+,other,===== OFFSET 0x000271a2 =====
+,other,½'èÿ½'!0
+,other,===== OFFSET 0x0002750f =====
+,other,<lÏQ$!  
+,other,===== OFFSET 0x0002796e =====
+,other,¢ÿÿo0ÿÿL$Àp
+,other,===== OFFSET 0x00028317 =====
+,other,<c4! @
+,other,===== OFFSET 0x000283c3 =====
+,other,<ç4! @
+,other,===== OFFSET 0x000287f7 =====
+,other,<xÊB$!b
+,other,===== OFFSET 0x0002892a =====
+,other,½'¸ÿ½'ÿÿ
+,other,===== OFFSET 0x00028e3b =====
+,other,<lÏc$! C
+,other,===== OFFSET 0x0002923e =====
+,other,½' ÿ½'!h
+,other,===== OFFSET 0x000292c6 =====
+,other,F¤ÿÿ$ýÿ
+,other,===== OFFSET 0x000297f3 =====
+,other,<¾B$!0Â
+,other,===== OFFSET 0x0002983b =====
+,other,$ÿÿ
+,other,$ÿÿ	$!0
+,other,===== OFFSET 0x00029953 =====
+,other,<¾I$!@ 
+,other,===== OFFSET 0x00029986 =====
+,other,@¤ÿÿc$ýÿa
+,other,===== OFFSET 0x000299b2 =====
+,other,@¤ÿÿc$ýÿa
+,other,===== OFFSET 0x000299e2 =====
+,other,F¤ÿÿc$ýÿa
+,other,===== OFFSET 0x0002a094 =====
+,other,øÿd$àÿd$
+,other,===== OFFSET 0x0002a1eb =====
+,other,<èÖ£$!¸ 
+,other,===== OFFSET 0x0002a494 =====
+,other,äÿ$òÿ$
+,other,===== OFFSET 0x0002a4df =====
+,other,<H¡¥$ÿÿB$
+,other,===== OFFSET 0x0002a590 =====
+,other,äÿ$òÿ$
+,other,===== OFFSET 0x0002a69b =====
+,other,<èÖ$)5
+,other,===== OFFSET 0x0002a7e4 =====
+,other,áÿ$ñÿ$
+,other,===== OFFSET 0x0002a84c =====
+,other,|×D$×D$
+,other,===== OFFSET 0x0002a890 =====
+,other,áÿ$ñÿ$
+,other,===== OFFSET 0x0002a947 =====
+,other,<ü<E% 
+,other,===== OFFSET 0x0002a9fc =====
+,other,áÿ$ñÿ$
+,other,===== OFFSET 0x0002aa64 =====
+,other,|×D$×D$
+,other,===== OFFSET 0x0002aab4 =====
+,other,áÿ$ñÿ$
+,other,===== OFFSET 0x0002aad4 =====
+,other,ýÿ$ÿÿ$ÜüÅ$
+,other,===== OFFSET 0x0002abd8 =====
+,other,áÿ$ñÿ$
+,other,===== OFFSET 0x0002ac82 =====
+,other,½'èÿ½'!`
+,other,===== OFFSET 0x0002c562 =====
+,other,Lÿÿ¨1ÿÿÉ1ÿÿê1ÿÿ
+,other,===== OFFSET 0x0002d8b6 =====
+,other,c$ÿÿï%òÿá
+,other,===== OFFSET 0x0002f05a =====
+,other,½'øÿ½'!H
+,other,===== OFFSET 0x0002fbbb =====
+,other,<äü£èü1
+,other,===== OFFSET 0x0002fbdf =====
+,other,<äüEèüdèÿ½'
+,other,===== OFFSET 0x0002fc1b =====
+,other,<äüæèüE
+,other,===== OFFSET 0x0002fc34 =====
+,other,ÿÿÂ$äüâ¬
+,other,===== OFFSET 0x000304f6 =====
+,other,¬ÿÿc$ýÿe
+,other,===== OFFSET 0x0003067b =====
+,other,$ÿÿ$ÿÿ
+,other,===== OFFSET 0x000306bb =====
+,other,&øüìüFñ
+,other,===== OFFSET 0x00030734 =====
+,other,ðÿ½'ÿÿ
+,other,$!H
+,other,===== OFFSET 0x00030816 =====
+,other,¬ÿÿc$ýÿe
+,other,===== OFFSET 0x00030992 =====
+,other,½'èÿ½'ÿ
+,other,<ÿÿ­5!p
+,other,===== OFFSET 0x00030d76 =====
+,other,½'èÿ½'ÿ
+,other,<ÿÿ­5!È
+,other,===== OFFSET 0x000312d4 =====
+,other,ÿÿ0ÿÿ¥0ÿÿÆ0ÿÿç0!
+,other,===== OFFSET 0x000318f6 =====
+,other,s&ÿÿ1&óÿ 
+,other,===== OFFSET 0x00031b66 =====
+,other,½'Ðÿ½'ND
+,other,===== OFFSET 0x000320ba =====
+,other,`¬ÿÿ$üÿ
+,other,===== OFFSET 0x0003225f =====
+,other,<DÀÃÿÿÒ3!
+,other,===== OFFSET 0x000322ef =====
+,other,<\ÀCØÿ½'$
+,other,===== OFFSET 0x00032599 =====
+,other,	<Ï{Æ4èÆ$
+,other,===== OFFSET 0x0003262f =====
+,other,<N^$!(¨
+,other,===== OFFSET 0x000328d3 =====
+,other,$$ý¢¬$ý¬!
+,other,===== OFFSET 0x000328ef =====
+,other,$$ý¬$ý
+,other,===== OFFSET 0x00032907 =====
+,other,$$ý¬$ý
+,other,===== OFFSET 0x00032ce3 =====
+,other,<¨ÀT$!`
+,other,===== OFFSET 0x00032ea7 =====
+,other,<¨ÀS$!`
+,other,===== OFFSET 0x0003404e =====
+,other,½'èÿ½'!(
+,other,===== OFFSET 0x0003429e =====
+,other,½'èÿ½'!0
+,other,===== OFFSET 0x0003440e =====
+,other,½'Øÿ½'ÿÿ
+,other,===== OFFSET 0x00034476 =====
+,other,b¬ÿÿ$ýÿ
+,other,===== OFFSET 0x0003452e =====
+,other,½'èÿ½'! 
+,other,===== OFFSET 0x000345ce =====
+,other,âèÆÄÏ{¥4 
+,other,===== OFFSET 0x000348db =====
+,other,<¼;B$!P 
+,other,===== OFFSET 0x000349c7 =====
+,other,<èÆãÏ{Æ4
+,other,===== OFFSET 0x00034a2b =====
+,other,1àÿB$èÆä¬ 
+,other,===== OFFSET 0x00034a93 =====
+,other,<èÆãÏ{Æ4
+,other,===== OFFSET 0x00034af7 =====
+,other,1ðÿB$èÆä¬ 
+,other,===== OFFSET 0x00034b5f =====
+,other,<èÆÄÏ{¥4
+,other,===== OFFSET 0x00034b93 =====
+,other,1øÿc$èÆÂ¬
+,other,===== OFFSET 0x00034c03 =====
+,other,<èÆãÏ{Æ4
+,other,===== OFFSET 0x00034c67 =====
+,other,1àÿB$èÆä¬ 
+,other,===== OFFSET 0x00034cc3 =====
+,other,<èÆãÏ{Æ4
+,other,===== OFFSET 0x00034d87 =====
+,other,<èÆãÏ{Æ4
+,other,===== OFFSET 0x00034e53 =====
+,other,<èÆãÏ{Æ4
+,other,===== OFFSET 0x00034f13 =====
+,other,<èÆãÏ{Æ4
+,other,===== OFFSET 0x00034fdf =====
+,other,<èÆãÏ{Æ4
+,other,===== OFFSET 0x000350cf =====
+,other,<èÆäNÆ$
+,other,===== OFFSET 0x0003510a =====
+,other,HèÆã¬àÿ
+,other,===== OFFSET 0x00035833 =====
+,other,<L:B$ÿÿÆ0
+,other,===== OFFSET 0x00035bc6 =====
+,other,B0ÿB$w
+,other,===== OFFSET 0x00035be6 =====
+,other,B0ÿB$w
+,other,===== OFFSET 0x00035dd3 =====
+,other,<¡ 4ÿÿe03
+,other,===== OFFSET 0x0003614e =====
+,other, ÿÿR&¤ÿ@
+,other,===== OFFSET 0x00036566 =====
+,other,½'¸ÿ½'!`
+,other,===== OFFSET 0x00036a42 =====
+,other,½'xÿ½'!x 
+,other,===== OFFSET 0x00036b5f =====
+,other,<ÿÿB4$¸¢
+,other,===== OFFSET 0x00036f9a =====
+,other,¥4ü<D%(Å
+,other,===== OFFSET 0x00037492 =====
+,other,þÿB$ 
+,other,===== OFFSET 0x00037876 =====
+,other,½'Øÿ½'!@
+,other,===== OFFSET 0x00038559 =====
+,other,þâ%	~B 
+,other,===== OFFSET 0x000385af =====
+,other,\Èc$ÿÿ$
+,other,===== OFFSET 0x00038842 =====
+,other,	<ÿÿ)5!8
+,other,===== OFFSET 0x0003886f =====
+,other,<È$!h¤
+,other,===== OFFSET 0x00038966 =====
+,other,4ü<E% Ä
+,other,===== OFFSET 0x000389b0 =====
+,other,ÿÿB0üÿB$N(
+,other,===== OFFSET 0x00039174 =====
+,other,ÿÿu0ðÿ¢&ð
+,other,===== OFFSET 0x000392d3 =====
+,other,<??Æ4!(à
+,other,===== OFFSET 0x00039422 =====
+,other,½'Øÿ½'!p
+,other,===== OFFSET 0x0003963e =====
+,other,Â¬ü<'%(¦
+,other,===== OFFSET 0x000397db =====
+,other,<ü<Äÿÿ¥4
+,other,===== OFFSET 0x00039806 =====
+,other,¢ÿÿc$ÿÿB$
+,other,===== OFFSET 0x00039e6e =====
+,other,Â¬ü<â$ 
+,other,===== OFFSET 0x00039f03 =====
+,other,<0ýì%ü<d
+,other,===== OFFSET 0x0003a046 =====
+,other,	<``)5À(
+,other,===== OFFSET 0x0003a27b =====
+,other,<DåW$!°`
+,other,===== OFFSET 0x0003a2d4 =====
+,other,üÿB$ÿÿB0@
+,other,===== OFFSET 0x0003a3d4 =====
+,other,üÿB$ÿÿB0@
+,other,===== OFFSET 0x0003a89f =====
+,other,<èÖb°ÿ½'<
+,other,===== OFFSET 0x0003aa1f =====
+,other,<DåT$!`
+,other,===== OFFSET 0x0003aa56 =====
+,other,cüÿB$ÿÿB0@
+,other,===== OFFSET 0x0003aade =====
+,other,cüÿB$ÿÿB0@
+,other,===== OFFSET 0x0003ad92 =====
+,other,â¬ü<â$ 
+,other,===== OFFSET 0x0003ae20 =====
+,other,8ýe¤0ý¤
+,other,===== OFFSET 0x0003b3a9 =====
+,other,þÂ&	~B +
+,other,===== OFFSET 0x0003b5ab =====
+,other,<ü<t×B$
+,other,===== OFFSET 0x0003b700 =====
+,other,ÿÿB$ÿÿB0!
+,other,===== OFFSET 0x0003b81c =====
+,other,ÿÿB$ÿÿB0!
+,other,===== OFFSET 0x0003bc03 =====
+,other,<èÆåÏ{Æ4
+,other,===== OFFSET 0x0003bcc7 =====
+,other,<Nc$èÆâ¬ÿ
+,other,===== OFFSET 0x0003c3d6 =====
+,other,½'èÿ½'!8
+,other,===== OFFSET 0x0003c8af =====
+,other,­èÆÄÏ{¥4
+,other,===== OFFSET 0x0003cebc =====
+,other,ÿÿB0ÿO$
+,other,===== OFFSET 0x0003cf65 =====
+,other,þb&	~B 8
+,other,===== OFFSET 0x0003d3e0 =====
+,other,ÿÿB$ÿÿB0!
+,other,===== OFFSET 0x0003d3ec =====
+,other,ÿÿc$ÿÿc0
+,other,===== OFFSET 0x0003d5fd =====
+,other,@k5ÿ¿
+,other,<ÿ¿J5
+,other,===== OFFSET 0x0003d7b0 =====
+,other,ÿÿB$ÿÿB0!
+,other,===== OFFSET 0x0003d7bc =====
+,other,ÿÿ$ÿÿ0
+,other,===== OFFSET 0x0003d899 =====
+,other,þ$	~B 
+,other,===== OFFSET 0x0003d8dd =====
+,other,@J5ÿ¿	<ÿ¿)5
+,other,===== OFFSET 0x0003da7c =====
+,other,ÿÿB$ÿÿB0!
+,other,===== OFFSET 0x0003da88 =====
+,other,ÿÿ$ÿÿ0
+,other,===== OFFSET 0x0003db59 =====
+,other,þ$	~B 
+,other,===== OFFSET 0x0003dba1 =====
+,other,@k5ÿ¿
+,other,<ÿ¿J5
+,other,===== OFFSET 0x0003dd3c =====
+,other,ÿÿB$ÿÿB0!
+,other,===== OFFSET 0x0003dd48 =====
+,other,ÿÿ$ÿÿ0
+,other,===== OFFSET 0x0003de1a =====
+,other,%­@ýC@ýB$
+,other,===== OFFSET 0x0003ded7 =====
+,other,<@ýâ¬@ýç$
+,other,===== OFFSET 0x0003e4b6 =====
+,other,£§ÿÿc0öÿe
+,other,===== OFFSET 0x0003e73a =====
+,other,c¦ÿÿb0!°
+,other,===== OFFSET 0x0003e923 =====
+,other,<ç4ÿÿB2
+,other,===== OFFSET 0x0003eec8 =====
+,other,¨ý`¬ÿ½'T
+,other,===== OFFSET 0x00040240 =====
+,other,¨ý@®¨ýC ×¤
+,other,===== OFFSET 0x000402df =====
+,other,¦ÿÿ1&Îÿ!
+,other,===== OFFSET 0x00040546 =====
+,other,¤»ÿÿ'&ÿÿQ0ÿÿ
+,other,===== OFFSET 0x0004062b =====
+,other,®ÿÿ'&ÿÿQ0ÿÿ
+,other,===== OFFSET 0x00040e5a =====
+,other,c4ÿÿ$+ 
+,other,===== OFFSET 0x0004102b =====
+,other,<¬ýc$ôÈG
+,other,===== OFFSET 0x00041083 =====
+,other,<ôÈCÿ½'`
+,other,===== OFFSET 0x0004120b =====
+,other,<°ý$!$
+,other,===== OFFSET 0x0004131b =====
+,other,<ôÈÿÿs0+
+,other,===== OFFSET 0x000415f6 =====
+,other,b¬ÿÿR&ÿÿ
+,other,===== OFFSET 0x000416a6 =====
+,other,b¤ÿÿR&ÿÿ
+,other,===== OFFSET 0x000416e2 =====
+,other,½'øÿ½'!`
+,other,===== OFFSET 0x00041c8a =====
+,other,D ×cÿÿ
+,other,===== OFFSET 0x00041cdc =====
+,other,ÿÿ$ÿÿ$
+,other,===== OFFSET 0x00041e50 =====
+,other,ÿÿ$ÿÿ$ÿÿ
+,other,===== OFFSET 0x00042202 =====
+,other,D&ÐýÃÿÿ0!
+,other,===== OFFSET 0x00042237 =====
+,other,&ÿÿ¥2ÌýÂ
+,other,===== OFFSET 0x00042472 =====
+,other,½'èÿ½'!(
+,other,===== OFFSET 0x0004268e =====
+,other,§¤ðÿÆ$èÖ
+,other,===== OFFSET 0x00042b9e =====
+,other,½'Ðÿ½'!@
+,other,===== OFFSET 0x00042e92 =====
+,other,$ 	<)5
+,other,===== OFFSET 0x0004339a =====
+,other,	<)5ðÿ&&!8
+,other,===== OFFSET 0x00043414 =====
+,other,ðÿ1&)5!0 
+,other,===== OFFSET 0x000434d7 =====
+,other,<Üý@¤ÜýB$`
+,other,===== OFFSET 0x00043707 =====
+,other,<|×B$! b
+,other,===== OFFSET 0x0004374b =====
+,other,<ü<Dÿÿ¥4
+,other,===== OFFSET 0x000445f6 =====
+,other,b¤ÿÿ¥0ÿÿÆ0
+,other,===== OFFSET 0x000446db =====
+,other,< G$ÿÿ	$!@`
+,other,===== OFFSET 0x000447ca =====
+,other,`¬ÿÿ$ýÿ
+,other,===== OFFSET 0x00044802 =====
+,other,@¬ÿÿc$ýÿd
+,other,===== OFFSET 0x00044843 =====
+,other,<HÉd¬Hå@¬
+,other,===== OFFSET 0x00044b2f =====
+,other,< M$<É«ÿÿ
+,other,===== OFFSET 0x00044ce2 =====
+,other,½'èÿ½'!@
+,other,===== OFFSET 0x00044d9a =====
+,other,½'èÿ½'ÿÿ
+,other,===== OFFSET 0x00044e22 =====
+,other,½'èÿ½'! 
+,other,===== OFFSET 0x00044e7e =====
+,other,½'èÿ½'!0 
+,other,===== OFFSET 0x00044f91 =====
+,other,×fÿÿç$ 
+,other,===== OFFSET 0x000452e6 =====
+,other,S$øÿr®!`
+,other,===== OFFSET 0x0004533e =====
+,other,½'èÿ½'ÿÿ0
+,other,===== OFFSET 0x00045366 =====
+,other,½'èÿ½'ÿÿ
+,other,===== OFFSET 0x000453ce =====
+,other,½'èÿ½'! 
+,other,===== OFFSET 0x00045438 =====
+,other,øþB$ ÿ½'P
+,other,===== OFFSET 0x000455ab =====
+,other,<Éc$ÿÿâ$
+,other,===== OFFSET 0x000455df =====
+,other,<Éc$ÿÿâ$
+,other,===== OFFSET 0x00046a96 =====
+,other,K$ÌÿJ&ÆÿI&!(@
+,other,===== OFFSET 0x00046aa4 =====
+,other,ÀÿH&ÔÿG&
+,other,===== OFFSET 0x000477c2 =====
+,other,&ÿÿR&ñÿU
+,other,===== OFFSET 0x000483f7 =====
+,other,<B4! @
+,other,===== OFFSET 0x0004905a =====
+,other,Î%ÿÿ­%·ÿ¡
+,other,===== OFFSET 0x0004969b =====
+,other,<èþ$!( 
+,other,===== OFFSET 0x000496cf =====
+,other,<øþ$!( 
+,other,===== OFFSET 0x000496fb =====
+,other,<ðþ$!( 
+,other,===== OFFSET 0x0004972b =====
+,other,þÿB$ÿc$
+,other,===== OFFSET 0x00049e11 =====
+,other,?c$ÿÿp0?
+,other,===== OFFSET 0x0004a5be =====
+,other,¢§ü<ÂÃ(
+,other,===== OFFSET 0x0004a80f =====
+,other,<t×Æ$! F
+,other,===== OFFSET 0x0004a9fb =====
+,other,<ÿÿB4$0Â
+,other,===== OFFSET 0x0004ad5b =====
+,other,<t×B$!(¢
+,other,===== OFFSET 0x0004b242 =====
+,other,¢§ü<bÃ0
+,other,===== OFFSET 0x0004b3fb =====
+,other,<t×¥$! E
+,other,===== OFFSET 0x0004b553 =====
+,other,<ü<E% 
+,other,===== OFFSET 0x0004b5ee =====
+,other,t×e$ÿÿB$
+,other,===== OFFSET 0x0004b9fa =====
+,other,1&ÿÿR&íÿW
+,other,===== OFFSET 0x0004bc3c =====
+,other,àÿs&ÿÿµ&
+,other,===== OFFSET 0x0004c0ff =====
+,other,<ÈÉq¤ÈÉc$
+,other,===== OFFSET 0x0004c947 =====
+,other,&ÿÿB$ÿÿ$ÿÿc$ÿÿ¥$0
+,other,===== OFFSET 0x0004d146 =====
+,other,½'pÿ½'!(
+,other,===== OFFSET 0x0004d163 =====
+,other,<¼D`=Æ$
+,other,===== OFFSET 0x0004d322 =====
+,other,½'èÿ½'!8 
+,other,===== OFFSET 0x0004e2f6 =====
+,other,£àÿB$ÿÿB0ðÿc$
+,other,===== OFFSET 0x0004e31a =====
+,other,c$ÿÿc0ðÿB$
+,other,===== OFFSET 0x0004e336 =====
+,other,£àÿB$ÿÿB0
+,other,===== OFFSET 0x0004e456 =====
+,other,Æ$ÿÿ$úÿ
+,other,===== OFFSET 0x0004f14a =====
+,other,½'èÿ½'!(
+,other,===== OFFSET 0x0004f1d2 =====
+,other,½'Ðÿ½'ÿÿ
+,other,===== OFFSET 0x0004f28e =====
+,other,®ÿÿµ&ÿÿ
+,other,===== OFFSET 0x0005027e =====
+,other,²¯ÿÿ1&÷ÿ4
+,other,===== OFFSET 0x0005039b =====
+,other,<|ç$¥4
+,other,===== OFFSET 0x000514d6 =====
+,other,Â¬ü<¢$ 
+,other,===== OFFSET 0x0005157e =====
+,other,Â¬ü<¢$ 
+,other,===== OFFSET 0x00051613 =====
+,other,<èÖC!¨@
+,other,===== OFFSET 0x00051ac2 =====
+,other,½'Øÿ½'!8 
+,other,===== OFFSET 0x00051b02 =====
+,other,ç$ÿÿç$ýÿç$! 
+,other,===== OFFSET 0x00051b2e =====
+,other,ãàÿ$¯
+,other,===== OFFSET 0x00051cdd =====
+,other,É@®üÈ ®3ô
+,other,===== OFFSET 0x00051d22 =====
+,other,s&ÿÿ&
+,other,===== OFFSET 0x00051db6 =====
+,other,½'àÿ½'! 
+,other,===== OFFSET 0x00051ee0 =====
+,other,àÖE$ÿÿÃ$À
+,other,===== OFFSET 0x00051fca =====
+,other,Æ$ÿÿÆ$ÿÿ
+,other,===== OFFSET 0x00051fd3 =====
+,other,$ýÿÃþÿÂÿÿÄ
+,other,===== OFFSET 0x00052004 =====
+,other,ûÿÃúÿÂ
+,other,===== OFFSET 0x0005201c =====
+,other,Ðÿp$úÿÃ
+,other,===== OFFSET 0x0005219e =====
+,other,¢¸¼¥$ÿÿC0@
+,other,===== OFFSET 0x00052518 =====
+,other,<É#®@ÉE<É$
+,other,===== OFFSET 0x000525aa =====
+,other,C@ÉE! 
+,other,===== OFFSET 0x000525fa =====
+,other,c$DÉ#®HÉC¬\
+,other,===== OFFSET 0x0005273f =====
+,other,&ÿÿR0<æÂ
+,other,===== OFFSET 0x00052826 =====
+,other,¬ÿÿ2ÿÿ
+,other,===== OFFSET 0x000528bb =====
+,other,<H£U$!¸ 
+,other,===== OFFSET 0x0005294e =====
+,other, ¯ÿÿ0|
+,other,===== OFFSET 0x0005296a =====
+,other,à¬<æÂÿÿp0+
+,other,===== OFFSET 0x00052ab4 =====
+,other,ÿÿ0ÿÿ2ÿÿ
+,other,===== OFFSET 0x00052c12 =====
+,other,½'°ÿ½'! 
+,other,===== OFFSET 0x00052d84 =====
+,other,@ èÖb
+,other,===== OFFSET 0x0005318f =====
+,other,<èÖp&D 
+,other,===== OFFSET 0x0005319f =====
+,other,<À¢°` 
+,other,===== OFFSET 0x0005321f =====
+,other,<ÖR$!`
+,other,===== OFFSET 0x0005342e =====
+,other,¢®ÿÿb0
+,other,===== OFFSET 0x00053632 =====
+,other,½'àÿ½'! 
+,other,===== OFFSET 0x000538fb =====
+,other,<xÊP$èÖÂ
+,other,===== OFFSET 0x000539c7 =====
+,other,< ôÖ£
+,other,===== OFFSET 0x000539fb =====
+,other,$èÖÈ& l
+,other,===== OFFSET 0x00053c5f =====
+,other,<Ô>¥$!0 
+,other,===== OFFSET 0x00053c83 =====
+,other,<Ô>¥$!0 
+,other,===== OFFSET 0x00053ca7 =====
+,other,<Ô>¥$!0 
+,other,===== OFFSET 0x00053cf8 =====
+,other, ôÖ£
+,other,===== OFFSET 0x0005454e =====
+,other,½'¸ÿ½'!8
+,other,===== OFFSET 0x000547c7 =====
+,other,<ü<D¥4
+,other,===== OFFSET 0x00054aef =====
+,other,&ÿÿ1&âÿ!
+,other,===== OFFSET 0x00054c1f =====
+,other,<ÿÿB4!0`
+,other,===== OFFSET 0x00054c3e =====
+,other,1&B4!0`
+,other,===== OFFSET 0x000554ce =====
+,other,'&ÿÿQ0! 
+,other,===== OFFSET 0x0005575b =====
+,other,<ü<D¥4
+,other,===== OFFSET 0x000558a7 =====
+,other,$||$
+,other,===== OFFSET 0x000558d6 =====
+,other,£¤àÿ½'ÿÿ
+,other,===== OFFSET 0x00055936 =====
+,other,@¬ÿÿc$ûÿd
+,other,===== OFFSET 0x000559da =====
+,other,½'èÿ½'! 
+,other,===== OFFSET 0x00055e9e =====
+,other,¦ÿÿU%!8
+,other,===== OFFSET 0x0005650b =====
+,other,<×¬!
+,other,===== OFFSET 0x00056772 =====
+,other,R&ÿÿâ&ÿÿÃ&(
+,other,===== OFFSET 0x00056827 =====
+,other,$ÿÿ1&ûÿ0
+,other,===== OFFSET 0x000569eb =====
+,other,<ÐýF$×e
+,other,===== OFFSET 0x00056b51 =====
+,other,×¤üÖEøÖf´¨
+,other,===== OFFSET 0x00056d7e =====
+,other,b¤ÿÿÆ$èÿÀ
+,other,===== OFFSET 0x00056daa =====
+,other, ×±ÿÿs&
+,other,===== OFFSET 0x00056dc6 =====
+,other,1&ÿÿs&üÿp
+,other,===== OFFSET 0x00056e31 =====
+,other,×CÀÿ½'$
+,other,===== OFFSET 0x00056ef3 =====
+,other,<lÏM$!X`
+,other,===== OFFSET 0x00056fd5 =====
+,other,×¢ÿÿ11+
+,other,===== OFFSET 0x0005707d =====
+,other,×LøÖg!(
+,other,===== OFFSET 0x00057696 =====
+,other,R&ÿÿ&Úÿ
+,other,===== OFFSET 0x00057a86 =====
+,other,0¦ÿÿ&ÿ
+,other,===== OFFSET 0x00057ace =====
+,other,´¯ÿÿô0ÿÿ¥0@
+,other,===== OFFSET 0x00057bc6 =====
+,other,R&ÿÿ&ÿÿT0Üÿ
+,other,===== OFFSET 0x00057d07 =====
+,other,&ÿÿs&Õÿ`
+,other,===== OFFSET 0x00057dc7 =====
+,other,%ÿÿk%íÿ`
+,other,===== OFFSET 0x00057e22 =====
+,other,$ÿÿc$óÿ`
+,other,===== OFFSET 0x00058726 =====
+,other,½'Xÿ½'!0 
+,other,===== OFFSET 0x00058b5a =====
+,other,½'ðÿ½'!X 
+,other,===== OFFSET 0x00058c7a =====
+,other,½'xþ½'!H
+,other,===== OFFSET 0x00058c87 =====
+,other,<üÖb!  
+,other,===== OFFSET 0x0005926b =====
+,other,<t×S$ü<$
+,other,===== OFFSET 0x00059701 =====
+,other, C&ÿÿB$`
+,other,===== OFFSET 0x00059856 =====
+,other,1&ÿÿ÷&ÿÿ
+,other,===== OFFSET 0x00059b62 =====
+,other,Lÿÿ¨1ÿÿÉ1ÿÿê1ÿÿ
+,other,===== OFFSET 0x0005a370 =====
+,other,ÿ?B$ÿÿB0ÿB 
+,other,===== OFFSET 0x0005a3cc =====
+,other,øÿ½'ÿÿ
+,short,$
+,other,===== OFFSET 0x0005a3ea =====
+,other,I ×jÿÿ'%ÿÿI0ÿÿ
+,other,===== OFFSET 0x0005a4d7 =====
+,other,%ÿÿ'%ÿÿI0Ëÿ.
+,other,===== OFFSET 0x0005a89f =====
+,other,<üÖCÿ½'d
+,other,===== OFFSET 0x0005b333 =====
+,other,<ÿÿc4!  
+,other,===== OFFSET 0x0005b82a =====
+,other,½'ðÿ½'!8
+,other,===== OFFSET 0x0005bc22 =====
+,other,~¼äÿÿÂ'
+,other,===== OFFSET 0x0005bd7e =====
+,other,@¤ÿÿ1&Úÿ 
+,other,===== OFFSET 0x0005be97 =====
+,other,4ÿÿ'&ÿÿQ0
+,other,===== OFFSET 0x0005bede =====
+,other,b&ÿÿ#&ÿÿq0ïÿ5
+,other,===== OFFSET 0x0005bf72 =====
+,other,°¯ÿÿ°0@
+,other,===== OFFSET 0x0005c032 =====
+,other,½'Øÿ½'ÿÿ¥0
+,other,===== OFFSET 0x0005c1de =====
+,other,ä¬àÿ½'ÿÿ
+,other,===== OFFSET 0x0005c222 =====
+,other,`¬ÿÿB$üÿD
+,other,===== OFFSET 0x0005c2c2 =====
+,other,½'èÿ½'! 
+,other,===== OFFSET 0x0005c2e6 =====
+,other,½'àÿ½'D0
+,other,===== OFFSET 0x0005c6a8 =====
+,other,ÿÿâ$ÿÿG0! D
+,other,===== OFFSET 0x0005c72a =====
+,other,½'èÿ½'ÿÿ
+,other,===== OFFSET 0x0005c792 =====
+,other,½'èÿ½'! 
+,other,===== OFFSET 0x0005c949 =====
+,other,f2Àå@ S¸
+,other,===== OFFSET 0x0005c982 =====
+,other,C$ÿÿbÿÿ$
+,other,===== OFFSET 0x0005cc2b =====
+,other,<Àå$!  
+,other,===== OFFSET 0x0005d197 =====
+,other,<ÀåQ$!  
+,other,===== OFFSET 0x0005d40b =====
+,other,<ÀåQ$!  
+,other,===== OFFSET 0x0005d753 =====
+,other,<ÿÿ¢$´åÂ¤
+,other,===== OFFSET 0x0005d76f =====
+,other,<ÿÿâ$´åb¤
+,other,===== OFFSET 0x0005d943 =====
+,other,<XÌQ$èÌ¢&!
+,other,===== OFFSET 0x0005da3b =====
+,other,<´åb¼å¤ÿÿB$´åb¤
+,other,===== OFFSET 0x0005da6b =====
+,other,<hÍB$! Â
+,other,===== OFFSET 0x0005dace =====
+,other,£¯´åÂ!0
+,other,===== OFFSET 0x0005dc5a =====
+,other,£¯hCÆ4
+,other,===== OFFSET 0x0005dd5b =====
+,other,$¸å ¬´åb¤
+,other,===== OFFSET 0x0005ddfb =====
+,other,<¼åÀ¤ÿÿB$´å¢¤
+,other,===== OFFSET 0x0005de5a =====
+,other,µ¯´åb!(
+,other,===== OFFSET 0x0005df37 =====
+,other,<¸å¢¬´åÀ¤
+,other,===== OFFSET 0x0005dfbb =====
+,other,<¼åÀ¤ÿÿB$´å¢¤
+,other,===== OFFSET 0x0005e216 =====
+,other,£¯hCÆ4
+,other,===== OFFSET 0x0005e25c =====
+,other,|C|Bæÿc(
+,other,===== OFFSET 0x0005e36e =====
+,other,¦´åâh
+,other,===== OFFSET 0x0005e57f =====
+,other,$ÿÿB&!@
+,other,===== OFFSET 0x0005e76f =====
+,other,<´åD$´åC´åB
+,other,===== OFFSET 0x0005e79f =====
+,other,<´åE$´åD´åC
+,other,===== OFFSET 0x0005e8ea =====
+,other,°¯´å¢!(
+,other,===== OFFSET 0x0005eaef =====
+,other,<´åb¤¸å¬
+,other,===== OFFSET 0x0005eb97 =====
+,other,<ü<$ÿÿ¥4
+,other,===== OFFSET 0x0005ebd6 =====
+,other,Bðÿc$øÿB$
+,other,===== OFFSET 0x0005ecfe =====
+,other,Â¬ü<'% 
+,other,===== OFFSET 0x0005edd6 =====
+,other,Bðÿc$øÿB$
+,other,===== OFFSET 0x0005ee2a =====
+,other,%­ü<$ 
+,other,===== OFFSET 0x0005f0f6 =====
+,other,½'Ðÿ½'ÿÿ0ìO
+,other,===== OFFSET 0x0005f114 =====
+,other,üADÿÿÆ0 
+,other,===== OFFSET 0x0005f252 =====
+,other,­ü<bÿÿ­0x
+,other,===== OFFSET 0x0005f41a =====
+,other,­ü<'$ 
+,other,===== OFFSET 0x0005f65a =====
+,other,Kÿÿ0'(©
+,other,===== OFFSET 0x0005f94a =====
+,other,Kÿÿ0'8
+,other,===== OFFSET 0x0005fa32 =====
+,other,ÿÿ¨1ÿÿÉ1ÿÿê1ÿÿ
+,other,===== OFFSET 0x0005ff7a =====
+,other,ÿÿh1ÿÿ.1ÿÿê1ÿÿ¬1&Xh
+,other,===== OFFSET 0x00060209 =====
+,other,@)5ÿ¿
+,other,<ÿ¿J5
+,other,===== OFFSET 0x0006027a =====
+,other,(Jìÿíôÿîüÿï
+,other,===== OFFSET 0x00060378 =====
+,other,ÿÿJ1ÿÿk1
+,other,===== OFFSET 0x00060592 =====
+,other,Æ$ÿÿ!$_ÿ 
+,other,===== OFFSET 0x0006059c =====
+,other,Ðÿ¡¯Èÿ¿Ìÿ¢
+,other,===== OFFSET 0x00060652 =====
+,other,¢¯üÿ¿¯øÿ°¯ôÿ±¯ðÿ²¯ìÿ³¯èÿ´¯äÿµ¯àÿ¶¯Üÿ·¯Øÿ¾¯Ôÿ¼¯
+,other,===== OFFSET 0x0006073e =====
+,other,¦¯ÿÿ!$×ÿ 
+,other,===== OFFSET 0x00060762 =====
+,other,	­üÿ¿øÿ°ôÿ±ðÿ²ìÿ³èÿ´äÿµàÿ¶Üÿ·Øÿ¾Ôÿ¼
+,other,===== OFFSET 0x00060953 =====
+,other,Høÿüÿ
+,other,===== OFFSET 0x0006096a =====
+,other,Ï¬ÿÿL0!`
+,other,===== OFFSET 0x00060a7e =====
+,other,$üÿèÿ
+,other,===== OFFSET 0x00060a9c =====
+,other,ÜÿÈàÿÈäÿÈ
+,other,===== OFFSET 0x00060d37 =====
+,other,Høÿüÿ
+,other,===== OFFSET 0x00060d4e =====
+,other,Ï¬ÿÿL0!`
+,other,===== OFFSET 0x00060e7a =====
+,other,$üÿðÿÈìÿ
+,other,===== OFFSET 0x00060eb7 =====
+,other,KèÿÜÿ
+,other,===== OFFSET 0x00060ecc =====
+,other,àÿäÿ
+,other,===== OFFSET 0x00061094 =====
+,other,ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿDOHILQPN
+,other,===== OFFSET 0x00063e78 =====
+,other,ÿÿÿÿp
+,short,p
+,short,p
+,other,===== OFFSET 0x00063e94 =====
+,other,ÿÿÿÿÿÿÿÿ 
+,other,===== OFFSET 0x00063eac =====
+,other,×ÿÿÿÿÿÿÿÿÿÿÿ
+,other,===== OFFSET 0x0006b1c8 =====
+,other,ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+,other,===== OFFSET 0x0006b1f4 =====
+,other,	´	`	$	P 	@¤	0©	¬Ì	¬Ì	@
+,other,===== OFFSET 0x0006bf58 =====
+,other,C
+,other,LO
+,other, V
+,other,¨M
+,other,¨M
+,other,Å

@@ -1,0 +1,9 @@
+{
+  "w": 512,
+  "h": 16384,
+  "bpp_code": 6,
+  "has_clut": true,
+  "warning": "Pillow not installed",
+  "source": "C:\\Users\\Acost\\tb-re\\assets\\TeamBuddiesGameFiles\\Team buddies demo\\BUDDIES\\ROT.BIN",
+  "offset": 23243
+}

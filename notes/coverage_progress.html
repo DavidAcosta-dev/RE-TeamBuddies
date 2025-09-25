@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>RE Coverage Progress</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+        :root {
+            color-scheme: light dark;
+        }
+
+        body {
+            font-family: system-ui, Arial, sans-serif;
+            margin: 1.5rem;
+            line-height: 1.35;
+        }
+
+        header {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        h1 {
+            margin: 0 0 .25rem 0;
+            font-size: 1.7rem;
+        }
+
+        #ts {
+            font-size: .8rem;
+            opacity: .7;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 1rem 0;
+            font-size: .9rem;
+        }
+
+        th,
+        td {
+            border: 1px solid #8884;
+            padding: .4rem .55rem;
+            vertical-align: top;
+        }
+
+        th {
+            background: #4442;
+            text-align: left;
+        }
+
+        tbody tr:nth-child(even) {
+            background: #8881;
+        }
+
+        code {
+            background: #5553;
+            padding: 2px 4px;
+            border-radius: 4px;
+            font-size: .85em;
+        }
+
+        .barWrap {
+            background: #0002;
+            height: 10px;
+            border-radius: 4px;
+            overflow: hidden;
+        }
+
+        .bar {
+            height: 100%;
+            background: linear-gradient(90deg, #4caf50, #8bc34a);
+        }
+
+        footer {
+            margin-top: 2rem;
+            font-size: .75rem;
+            opacity: .7;
+        }
+
+        #log {
+            white-space: pre-wrap;
+            background: #2223;
+            padding: .75rem;
+            border-radius: 6px;
+            font-size: .8rem;
+        }
+
+        .ok {
+            color: #4caf50;
+        }
+
+        .warn {
+            color: #ffc107;
+        }
+
+        .low {
+            color: #f44336;
+        }
+
+        #rawMdToggle {
+            cursor: pointer;
+            font-size: .75rem;
+            margin-left: .5rem;
+        }
+
+        #rawMd {
+            display: none;
+            white-space: pre-wrap;
+            background: #1112;
+            padding: 1rem;
+            margin-top: 1rem;
+            font-family: ui-monospace, monospace;
+            font-size: .75rem;
+        }
+
+        .toolbar {
+            margin-left: auto;
+            display: flex;
+            gap: .5rem;
+        }
+
+        .smallLabel {
+            font-size: .7rem;
+            display: flex;
+            align-items: center;
+            gap: .25rem;
+        }
+
+        .smallSelect {
+            font-size: .7rem;
+        }
+
+        .subtleSmall {
+            font-size: .7rem;
+            opacity: .7;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <div>
+            <h1>Reverse Engineering Coverage Dashboard</h1>
+            <div id="ts">Initializing…</div>
+        </div>
+        <div class="toolbar">
+            <button id="refreshBtn">Refresh Now</button>
+            <button id="rawMdToggle">Show Raw MD</button>
+            <label class="smallLabel">Auto <input id="autoChk" type="checkbox" checked></label>
+            <label class="smallLabel" for="intervalSel">Interval</label>
+            <select id="intervalSel" class="smallSelect" aria-label="Auto refresh interval">
+                <option value="3000">3s</option>
+                <option value="5000" selected>5s</option>
+                <option value="10000">10s</option>
+                <option value="30000">30s</option>
+            </select>
+        </div>
+    </header>
+
+    <section id="coverage"></section>
+    <section>
+        <h2>Gravity Chain Candidates <small class="subtleSmall">from exports/gravity_chain_intersections.md</small></h2>
+        <div id="chains"></div>
+    </section>
+    <section>
+        <h2>Recent Milestones</h2>
+        <ul id="milestones"></ul>
+    </section>
+    <section>
+        <h2>Next Immediate Targets</h2>
+        <ol id="targets"></ol>
+    </section>
+    <section>
+        <h2>Changelog</h2>
+        <div id="log"></div>
+    </section>
+    <section>
+        <h2>Raw Markdown</h2>
+        <div id="rawMd"></div>
+    </section>
+
+    <footer>Auto-refreshing view of <code>coverage_progress.md</code>. Edit the markdown; this page will reflect
+        changes. ✨</footer>
+
+    <script>
+        const MD_PATH = 'coverage_progress.md';
+        let timer = null;
+
+        function classify(p) {
+            if (p >= 85) return 'ok';
+            if (p >= 30) return 'warn';
+            return 'low';
+        }
+
+        function parseTable(md) {
+            const lines = md.split(/\r?\n/);
+            const start = lines.findIndex(l => /^\|\s*Subsystem\s*\|/i.test(l));
+            if (start === -1) return [];
+            let i = start + 2; // skip header & separator
+            const rows = [];
+            while (i < lines.length) {
+                const line = lines[i].trim();
+                if (!line.startsWith('|') || /^\|\s*-{3,}/.test(line)) break;
+                const cells = line.split('|').slice(1, -1).map(c => c.trim());
+                if (cells.length >= 4) {
+                    const pct = parseInt(cells[1].replace(/[^0-9]/g, '')) || 0;
+                    rows.push({ subsystem: cells[0], pct, notes: cells[2], artifacts: cells[3] });
+                }
+                i++;
+            }
+            return rows;
+        }
+
+        function extractList(md, heading) {
+            const rx = new RegExp('^##\\s+' + heading.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&') + '\\s*$', 'mi');
+            const m = md.match(rx); if (!m) return [];
+            const lines = md.split(/\r?\n/);
+            let idx = lines.findIndex(l => l === m[0]);
+            const out = []; idx++;
+            while (idx < lines.length) {
+                const l = lines[idx];
+                if (/^##\s+/.test(l)) break;
+                if (/^[-*]\s+/.test(l)) out.push(l.replace(/^[-*]\s+/, '').trim());
+                if (/^\d+\.\s+/.test(l)) out.push(l.replace(/^\d+\.\s+/, '').trim());
+                idx++;
+            }
+            return out.filter(Boolean);
+        }
+
+        function extractChangelog(md) {
+            const lines = md.split(/\r?\n/);
+            const start = lines.findIndex(l => /^##\s+Changelog/.test(l));
+            if (start === -1) return '';
+            let i = start + 1, block = [];
+            while (i < lines.length && !/^##\s+/.test(lines[i])) { block.push(lines[i]); i++; }
+            return block.join('\n').trim();
+        }
+
+        function render(rows) {
+            const container = document.getElementById('coverage');
+            const total = rows.reduce((a, r) => a + r.pct, 0);
+            const avg = rows.length ? (total / rows.length).toFixed(1) : '0';
+            let html = `<h2>Subsystem Coverage <small style="font-size:.7rem;opacity:.7;">Avg ${avg}%</small></h2>`;
+            html += '<table><thead><tr><th>Subsystem</th><th style="width:70px;">%</th><th>Progress</th><th>Notes</th><th>Artifacts</th></tr></thead><tbody>';
+            rows.forEach(r => {
+                html += `<tr><td>${r.subsystem}</td>` +
+                    `<td class="${classify(r.pct)}"><strong>${r.pct}</strong></td>` +
+                    `<td><div class="barWrap"><div class="bar" style="width:${r.pct}%;"></div></div></td>` +
+                    `<td>${r.notes}</td>` +
+                    `<td><code>${r.artifacts}</code></td></tr>`;
+            });
+            html += '</tbody></table>';
+            container.innerHTML = html;
+        }
+
+        async function refresh() {
+            try {
+                const [resMd, resChains] = await Promise.all([
+                    fetch(MD_PATH + '?t=' + Date.now()),
+                    fetch('../exports/gravity_chain_intersections.md?t=' + Date.now())
+                ]);
+                if (!resMd.ok) throw new Error('coverage MD ' + resMd.status + ' ' + resMd.statusText);
+                const md = await resMd.text();
+                document.getElementById('rawMd').textContent = md;
+                const rows = parseTable(md);
+                render(rows);
+                document.getElementById('milestones').innerHTML = extractList(md, 'Recent Milestones').map(li => `<li>${li}</li>`).join('');
+                document.getElementById('targets').innerHTML = extractList(md, 'Next Immediate Targets').map(li => `<li>${li}</li>`).join('');
+                document.getElementById('log').textContent = extractChangelog(md);
+
+                let chainsHtml = '<em>Intersections report not found.</em>';
+                if (resChains.ok) {
+                    const mdChains = await resChains.text();
+                    const chainRows = parseChains(mdChains).slice(0, 12);
+                    if (chainRows.length) {
+                        chainsHtml = '<table><thead><tr><th>Function</th><th style="width:70px;">Score</th><th>Overlap</th><th>Overlap2</th><th>Vert</th><th>Shifts</th><th>Reasons</th></tr></thead><tbody>' +
+                            chainRows.map(r => `<tr><td><code>${r.fn}</code></td><td>${r.score}</td><td>${r.ol}</td><td>${r.ol2}</td><td>${r.v}</td><td>${r.sh}</td><td>${r.reasons}</td></tr>`).join('') +
+                            '</tbody></table>' +
+                            '<div style="font-size:.8rem;opacity:.7;">See full report: <code>exports/gravity_chain_intersections.md</code></div>';
+                    } else {
+                        chainsHtml = '<em>No candidates parsed from intersections report.</em>';
+                    }
+                }
+                document.getElementById('chains').innerHTML = chainsHtml;
+
+                document.getElementById('ts').textContent = 'Last update: ' + new Date().toLocaleTimeString();
+            } catch (e) {
+                document.getElementById('ts').textContent = 'Error: ' + e.message;
+            }
+        }
+
+        // Parse the primary candidates table in gravity_chain_intersections.md
+        function parseChains(md) {
+            const lines = md.split(/\r?\n/);
+            // Find the candidate table header
+            const start = lines.findIndex(l => /^\|\s*Function\s*\|\s*Score\s*\|/i.test(l));
+            if (start === -1) return [];
+            const out = [];
+            for (let i = start + 2; i < lines.length; i++) {
+                const line = lines[i].trim();
+                if (!line.startsWith('|')) break;
+                if (/^\|\s*-{3,}/.test(line)) break;
+                const cells = line.split('|').slice(1, -1).map(c => c.trim());
+                if (cells.length < 10) continue;
+                // columns: Function, Score, DirInt, Overlap, Overlap2, VertRefs, Shifts, Reasons, TopOverlap, TopOverlap2
+                const [fn, score, _di, ol, ol2, v, sh, reasons] = [cells[0], cells[1], cells[2], cells[3], cells[4], cells[5], cells[6], cells[7]];
+                out.push({ fn, score, ol, ol2, v, sh, reasons });
+            }
+            return out;
+        }
+
+        function setTimer() {
+            if (timer) clearInterval(timer);
+            if (!document.getElementById('autoChk').checked) return;
+            const interval = parseInt(document.getElementById('intervalSel').value, 10);
+            timer = setInterval(refresh, interval);
+        }
+
+        // Events
+        refresh();
+        setTimer();
+
+        document.getElementById('refreshBtn').onclick = refresh;
+        ['autoChk', 'intervalSel'].forEach(id => document.getElementById(id).addEventListener('change', setTimer));
+
+        document.getElementById('rawMdToggle').onclick = () => {
+            const el = document.getElementById('rawMd');
+            el.style.display = el.style.display === 'none' ? 'block' : 'none';
+            document.getElementById('rawMdToggle').textContent = (el.style.display === 'none') ? 'Show Raw MD' : 'Hide Raw MD';
+        };
+    </script>
+</body>
+
+</html>
