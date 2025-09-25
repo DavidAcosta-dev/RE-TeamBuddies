@@ -1,5 +1,5 @@
 node_modules/
 
 # Exclude third-party copyrighted assets from version control
-TeamBuddiesGameFiles/
-assets/PSYQ_SDK/
+# TeamBuddiesGameFiles/
+# assets/PSYQ_SDK/
