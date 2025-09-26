@@ -4,6 +4,7 @@
 
 import csv
 import os
+import codecs
 
 try:
     from ghidra.program.model.symbol import SourceType  # type: ignore
@@ -69,7 +70,7 @@ def apply_name(addr, name):
 def apply_from_csv(csv_path):
     prog = currentProgram.getName()  # type: ignore
     applied = 0
-    with open(csv_path, "r", encoding="utf-8", newline="") as fh:
+    with codecs.open(csv_path, "r", "utf-8") as fh:
         rdr = csv.DictReader(fh)
         for row in rdr:
             if row.get("apply") != "1":
@@ -78,7 +79,8 @@ def apply_from_csv(csv_path):
             if not (prog and bin_name and prog.lower().endswith(bin_name.lower())):
                 continue
             addr = parse_addr_hex(row.get("ea_hex"))
-            name = (row.get("suggested_name") or row.get("new_name") or "").strip()
+            # Prefer curated placeholder in new_name (e.g., suspect_*, phys_*) over heuristic suggested_name
+            name = (row.get("new_name") or row.get("suggested_name") or "").strip()
             if apply_name(addr, name):
                 applied += 1
     print("Applied {} names from {}".format(applied, csv_path))
@@ -88,8 +90,28 @@ def run():
     if currentProgram is None:
         print("[ApplyNamesFromCSV] Skipping: not running inside Ghidra (currentProgram is None)")
         return
-    base = os.path.dirname(getSourceFile().getAbsolutePath()) if getSourceFile() else os.getcwd()
-    path = os.path.abspath(os.path.join(base, DEFAULT_REL_PATH))
+    # Allow explicit path via script args: -postScript ApplyNamesFromCSV.py <csvPath>
+    path = None
+    try:
+        args = getScriptArgs()  # type: ignore
+        if args and len(args) > 0 and args[0]:
+            a0 = str(args[0])
+            path = a0 if os.path.isabs(a0) else os.path.abspath(a0)
+    except Exception:
+        pass
+    if not path:
+        base = None
+        try:
+            sf = getSourceFile()
+            base = os.path.dirname(sf.getAbsolutePath()) if sf else None
+        except Exception:
+            base = None
+        if not base:
+            try:
+                base = os.path.dirname(__file__)  # type: ignore
+            except Exception:
+                base = os.getcwd()
+        path = os.path.abspath(os.path.join(base, DEFAULT_REL_PATH))
     if not os.path.exists(path):
         popup("CSV not found: {}".format(path))
         return

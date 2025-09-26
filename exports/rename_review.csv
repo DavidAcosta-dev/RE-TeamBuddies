@@ -1,77 +1,49 @@
 binary,function,ea_hex,new_name,suggested_name,reason,pos_hits,basis_dest_hits,basis_src_hits,speed_hits,integrator,direct_pos_write,axes,weighted_score,apply
 GAME.BIN,FUN_0001ec7c,0x1EC7C,phys_FUN_0001ec7c,q12_candidate,"WScore=28, Pxyz=8, Ang=4, BD=16, BS=4, Spd=0",8,16,4,0,0,0,,0,0
-GAME.BIN,FUN_0001ec7c,0x1EC7C,phys_FUN_0001ec7c,q12_candidate,"WScore=28, Pxyz=8, Ang=4, BD=16, BS=4, Spd=0",8,16,4,0,0,0,,0,0
-GAME.BIN,FUN_00040a4c,0x40A4C,phys_FUN_00040a4c,orientation_update_candidate,"angles+Q12 heavy; WScore=100, Ang=16",12,0,20,0,0,0,,0,0
-GAME.BIN,FUN_00040a4c,0x40A4C,phys_FUN_00040a4c,orientation_update_candidate,"angles+Q12 heavy; WScore=100, Ang=16",12,0,20,0,0,0,,0,0
-GAME.BIN,FUN_00040a98,0x40A98,phys_FUN_00040a98,orientation_update_candidate,"angles+Q12 heavy; WScore=100, Ang=16",12,0,20,0,0,0,,0,0
-GAME.BIN,FUN_00040a98,0x40A98,phys_FUN_00040a98,orientation_update_candidate,"angles+Q12 heavy; WScore=100, Ang=16",12,0,20,0,0,0,,0,0
-GAME.BIN,FUN_000475dc,0x475DC,phys_FUN_000475dc,orient_recompute_basis_candidate,"basis-src heavy; BS=96, BD=16, Spd=16",24,16,96,16,0,0,,0,0
-GAME.BIN,FUN_000475dc,0x475DC,phys_FUN_000475dc,orient_recompute_basis_candidate,"basis-src heavy; BS=96, BD=16, Spd=16",24,16,96,16,0,0,,0,0
-GAME.BIN,FUN_00048150,0x48150,phys_FUN_00048150,orient_recompute_basis_candidate,"basis-src heavy; BS=44, BD=4, Spd=0",20,4,44,0,0,0,,0,0
-GAME.BIN,FUN_00048150,0x48150,phys_FUN_00048150,orient_recompute_basis_candidate,"basis-src heavy; BS=44, BD=4, Spd=0",20,4,44,0,0,0,,0,0
-LEGGIT.EXE,FUN_00005dac,0x5DAC,suspect_FUN_00005dac,q12_candidate,"WScore=12, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
+GAME.BIN,FUN_00040a4c,0x40A4C,phys_FUN_00040a4c,orientation_update_candidate,"angles+Q12 heavy; WScore=100, Ang=16",12,0,20,0,0,0,,0,1
+GAME.BIN,FUN_00040a98,0x40A98,phys_FUN_00040a98,orientation_update_candidate,"angles+Q12 heavy; WScore=100, Ang=16",12,0,20,0,0,0,,0,1
+GAME.BIN,FUN_000475dc,0x475DC,phys_FUN_000475dc,orient_recompute_basis_candidate,"basis-src heavy; BS=96, BD=16, Spd=16",24,16,96,16,0,0,,0,1
+GAME.BIN,FUN_00048150,0x48150,phys_FUN_00048150,orient_recompute_basis_candidate,"basis-src heavy; BS=44, BD=4, Spd=0",20,4,44,0,0,0,,0,1
 LEGGIT.EXE,FUN_00005dac,0x5DAC,suspect_FUN_00005dac,q12_candidate,"WScore=12, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
 LEGGIT.EXE,FUN_00007ae8,0x7AE8,suspect_FUN_00007ae8,q12_candidate,"WScore=20, Pxyz=20, Ang=0, BD=0, BS=0, Spd=0",20,0,0,0,0,0,,0,0
-LEGGIT.EXE,FUN_00007ae8,0x7AE8,suspect_FUN_00007ae8,q12_candidate,"WScore=20, Pxyz=20, Ang=0, BD=0, BS=0, Spd=0",20,0,0,0,0,0,,0,0
-LEGGIT.EXE,FUN_00009544,0x9544,suspect_FUN_00009544,q12_candidate,"WScore=8, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
 LEGGIT.EXE,FUN_00009544,0x9544,suspect_FUN_00009544,q12_candidate,"WScore=8, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
 LEGGIT.EXE,FUN_00009e3c,0x9E3C,suspect_FUN_00009e3c,q12_candidate,"WScore=12, Pxyz=0, Ang=8, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
-LEGGIT.EXE,FUN_00009e3c,0x9E3C,suspect_FUN_00009e3c,q12_candidate,"WScore=12, Pxyz=0, Ang=8, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
 LEGGIT.EXE,FUN_000145c8,0x145C8,phys_FUN_000145c8,q12_candidate,"WScore=8, Pxyz=0, Ang=0, BD=8, BS=0, Spd=0",0,8,0,0,0,0,,0,0
-LEGGIT.EXE,FUN_000145c8,0x145C8,phys_FUN_000145c8,q12_candidate,"WScore=8, Pxyz=0, Ang=0, BD=8, BS=0, Spd=0",0,8,0,0,0,0,,0,0
-MAIN.EXE,FUN_00008528,0x8528,suspect_FUN_00008528,q12_candidate,"WScore=8, Pxyz=28, Ang=0, BD=12, BS=4, Spd=8",28,12,4,8,0,0,,0,0
-MAIN.EXE,FUN_0000a944,0xA944,suspect_FUN_0000a944,q12_candidate,"WScore=8, Pxyz=0, Ang=4, BD=8, BS=0, Spd=0",0,8,0,0,0,0,,0,0
-MAIN.EXE,FUN_0000af3c,0xAF3C,suspect_FUN_0000af3c,q12_candidate,"WScore=32, Pxyz=32, Ang=36, BD=4, BS=0, Spd=0",32,4,0,0,0,0,,0,0
-MAIN.EXE,FUN_0000c490,0xC490,suspect_FUN_0000c490,q12_candidate,"WScore=8, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
-MAIN.EXE,FUN_0000edc8,0xEDC8,phys_FUN_0000edc8,q12_candidate,"WScore=12, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
-MAIN.EXE,FUN_0000edc8,0xEDC8,phys_FUN_0000edc8,q12_candidate,"WScore=12, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
-MAIN.EXE,FUN_0001003c,0x1003C,suspect_FUN_0001003c,q12_candidate,,0,0,0,0,0,0,,0,0
-MAIN.EXE,FUN_00019ec0,0x19EC0,suspect_FUN_00019ec0,q12_candidate,"WScore=8, Pxyz=0, Ang=8, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
-MAIN.EXE,FUN_0001f5e8,0x1F5E8,suspect_FUN_0001f5e8,q12_candidate,"WScore=12, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
-MAIN.EXE,FUN_0001f5e8,0x1F5E8,suspect_FUN_0001f5e8,q12_candidate,"WScore=12, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
-MNU.BIN,FUN_00000428,0x428,suspect_FUN_00000428,q12_candidate,"WScore=32, Pxyz=4, Ang=4, BD=0, BS=0, Spd=0",4,0,0,0,0,0,,0,0
+MAIN.EXE,FUN_00008528,0x8528,phys_FUN_00008528,q12_candidate,"WScore=8, Pxyz=28, Ang=0, BD=12, BS=4, Spd=8",28,12,4,8,0,0,,0,1
+MAIN.EXE,FUN_0000a944,0xA944,phys_FUN_0000a944,q12_candidate,"WScore=8, Pxyz=0, Ang=4, BD=8, BS=0, Spd=0",0,8,0,0,0,0,,0,1
+MAIN.EXE,FUN_0000af3c,0xAF3C,phys_FUN_0000af3c,q12_candidate,"WScore=32, Pxyz=32, Ang=36, BD=4, BS=0, Spd=0",32,4,0,0,0,0,,0,1
+MAIN.EXE,FUN_0000c490,0xC490,suspect_FUN_0000c490,q12_candidate,"WScore=8, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,1
+MAIN.EXE,FUN_0000edc8,0xEDC8,phys_FUN_0000edc8,q12_candidate,"WScore=12, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,1
+MAIN.EXE,FUN_0001003c,0x1003C,suspect_FUN_0001003c,q12_candidate,,0,0,0,0,0,0,,0,1
+MAIN.EXE,FUN_00019ec0,0x19EC0,suspect_FUN_00019ec0,q12_candidate,"WScore=8, Pxyz=0, Ang=8, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,1
+MAIN.EXE,FUN_0001e150,0x1E150,phys_angle_update_reset,FUN_0001e150,"zeroes small fields; sets 0x80 saturations; called by angle setter",0,0,0,0,0,0,,0,1
+MAIN.EXE,FUN_0001f5e8,0x1F5E8,sys_release,suspect_FUN_0001f5e8,"free-like: widely used to release pointers; cleanup sites",0,0,0,0,0,0,,0,1
+MAIN.EXE,FUN_0001e11c,0x1E11C,phys_angle_state_init,FUN_0001e11c,"resets angle struct; sets 0x80 saturation; calls phys_recompute_basis",0,0,0,0,0,0,,0,1
+MAIN.EXE,FUN_00035984,0x35984,phys_recompute_basis,FUN_00035984,"rebuild orientation basis after angle changes; called by angle reset/init",0,0,0,0,0,0,,0,1
+MAIN.EXE,alloc_mem_thunk,0x1F5C0,q12_vec3_normalize,alloc_mem_thunk,"normalizes 3D vector to Q12: sqrt(sum squares) then divides components",0,0,0,0,0,0,,0,1
+MAIN.EXE,FUN_0001f5d4,0x1F5D4,q12_vec3_normalize_alt,FUN_0001f5d4,"alt Q12 normalize variant duplicating core normalize",0,0,0,0,0,0,,0,1
+MAIN.EXE,FUN_0001f610,0x1F610,q12_vec3_normalize_safe,FUN_0001f610,"Q12 normalize with extra shifting loops; uses sqrt helper",0,0,0,0,0,0,,0,1
+MAIN.EXE,FUN_00036d5c,0x36D5C,q12_vec_length,FUN_00036d5c,"length helper used by normalizers (sqrt of sum of squares)",0,0,0,0,0,0,,0,1
 MNU.BIN,FUN_00000428,0x428,suspect_FUN_00000428,q12_candidate,"WScore=32, Pxyz=4, Ang=4, BD=0, BS=0, Spd=0",4,0,0,0,0,0,,0,0
 MNU.BIN,FUN_00000ca4,0xCA4,suspect_FUN_00000ca4,q12_candidate,"WScore=16, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
-MNU.BIN,FUN_00000ca4,0xCA4,suspect_FUN_00000ca4,q12_candidate,"WScore=16, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
-MNU.BIN,FUN_00004328,0x4328,suspect_FUN_00004328,q12_candidate,"WScore=28, Pxyz=4, Ang=0, BD=0, BS=0, Spd=0",4,0,0,0,0,0,,0,0
 MNU.BIN,FUN_00004328,0x4328,suspect_FUN_00004328,q12_candidate,"WScore=28, Pxyz=4, Ang=0, BD=0, BS=0, Spd=0",4,0,0,0,0,0,,0,0
 MNU.BIN,FUN_0000a654,0xA654,suspect_FUN_0000a654,q12_candidate,"WScore=8, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
-MNU.BIN,FUN_0000a654,0xA654,suspect_FUN_0000a654,q12_candidate,"WScore=8, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
-PSX.EXE,FUN_00001cf4,0x1CF4,suspect_FUN_00001cf4,q12_candidate,"WScore=8, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
 PSX.EXE,FUN_00001cf4,0x1CF4,suspect_FUN_00001cf4,q12_candidate,"WScore=8, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
 ROT.BIN,FUN_00000e04,0xE04,suspect_FUN_00000e04,q12_candidate,"WScore=12, Pxyz=16, Ang=8, BD=0, BS=0, Spd=0",16,0,0,0,0,0,,0,0
-ROT.BIN,FUN_00000e04,0xE04,suspect_FUN_00000e04,q12_candidate,"WScore=12, Pxyz=16, Ang=8, BD=0, BS=0, Spd=0",16,0,0,0,0,0,,0,0
-ROT.BIN,FUN_00001288,0x1288,suspect_FUN_00001288,q12_candidate,"WScore=8, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
 ROT.BIN,FUN_00001288,0x1288,suspect_FUN_00001288,q12_candidate,"WScore=8, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
 ROT.BIN,FUN_00001650,0x1650,suspect_FUN_00001650,q12_candidate,"WScore=32, Pxyz=16, Ang=0, BD=0, BS=0, Spd=0",16,0,0,0,0,0,,0,0
-ROT.BIN,FUN_00001650,0x1650,suspect_FUN_00001650,q12_candidate,"WScore=32, Pxyz=16, Ang=0, BD=0, BS=0, Spd=0",16,0,0,0,0,0,,0,0
-ROT.BIN,FUN_00001ad4,0x1AD4,phys_FUN_00001ad4,q12_candidate,"WScore=88, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
 ROT.BIN,FUN_00001ad4,0x1AD4,phys_FUN_00001ad4,q12_candidate,"WScore=88, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
 ROT.BIN,FUN_000025ec,0x25EC,suspect_FUN_000025ec,q12_candidate,"WScore=8, Pxyz=0, Ang=12, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
-ROT.BIN,FUN_000025ec,0x25EC,suspect_FUN_000025ec,q12_candidate,"WScore=8, Pxyz=0, Ang=12, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
-ROT.BIN,FUN_00002724,0x2724,suspect_FUN_00002724,q12_candidate,"WScore=16, Pxyz=20, Ang=28, BD=0, BS=0, Spd=0",20,0,0,0,0,0,,0,0
 ROT.BIN,FUN_00002724,0x2724,suspect_FUN_00002724,q12_candidate,"WScore=16, Pxyz=20, Ang=28, BD=0, BS=0, Spd=0",20,0,0,0,0,0,,0,0
 ROT.BIN,FUN_000042f8,0x42F8,suspect_FUN_000042f8,q12_candidate,"WScore=12, Pxyz=8, Ang=4, BD=0, BS=0, Spd=0",8,0,0,0,0,0,,0,0
-ROT.BIN,FUN_000042f8,0x42F8,suspect_FUN_000042f8,q12_candidate,"WScore=12, Pxyz=8, Ang=4, BD=0, BS=0, Spd=0",8,0,0,0,0,0,,0,0
-ROT.BIN,FUN_000048c8,0x48C8,suspect_FUN_000048c8,q12_candidate,"WScore=24, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
 ROT.BIN,FUN_000048c8,0x48C8,suspect_FUN_000048c8,q12_candidate,"WScore=24, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
 ROT.BIN,FUN_00004a70,0x4A70,suspect_FUN_00004a70,q12_candidate,"WScore=12, Pxyz=8, Ang=0, BD=0, BS=0, Spd=0",8,0,0,0,0,0,,0,0
-ROT.BIN,FUN_00004a70,0x4A70,suspect_FUN_00004a70,q12_candidate,"WScore=12, Pxyz=8, Ang=0, BD=0, BS=0, Spd=0",8,0,0,0,0,0,,0,0
-ROT.BIN,FUN_00004ccc,0x4CCC,suspect_FUN_00004ccc,q12_candidate,"WScore=8, Pxyz=0, Ang=0, BD=4, BS=0, Spd=0",0,4,0,0,0,0,,0,0
 ROT.BIN,FUN_00004ccc,0x4CCC,suspect_FUN_00004ccc,q12_candidate,"WScore=8, Pxyz=0, Ang=0, BD=4, BS=0, Spd=0",0,4,0,0,0,0,,0,0
 ROT.BIN,FUN_000057cc,0x57CC,suspect_FUN_000057cc,q12_candidate,"WScore=12, Pxyz=0, Ang=16, BD=12, BS=8, Spd=4",0,12,8,4,0,0,,0,0
-ROT.BIN,FUN_000057cc,0x57CC,suspect_FUN_000057cc,q12_candidate,"WScore=12, Pxyz=0, Ang=16, BD=12, BS=8, Spd=4",0,12,8,4,0,0,,0,0
-ROT.BIN,FUN_000063c4,0x63C4,suspect_FUN_000063c4,q12_candidate,"WScore=8, Pxyz=0, Ang=4, BD=12, BS=4, Spd=0",0,12,4,0,0,0,,0,0
 ROT.BIN,FUN_000063c4,0x63C4,suspect_FUN_000063c4,q12_candidate,"WScore=8, Pxyz=0, Ang=4, BD=12, BS=4, Spd=0",0,12,4,0,0,0,,0,0
 ROT.BIN,FUN_000097f8,0x97F8,suspect_FUN_000097f8,q12_candidate,"WScore=32, Pxyz=4, Ang=4, BD=0, BS=0, Spd=0",4,0,0,0,0,0,,0,0
-ROT.BIN,FUN_000097f8,0x97F8,suspect_FUN_000097f8,q12_candidate,"WScore=32, Pxyz=4, Ang=4, BD=0, BS=0, Spd=0",4,0,0,0,0,0,,0,0
-ROT.BIN,FUN_0000a074,0xA074,suspect_FUN_0000a074,q12_candidate,"WScore=16, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
 ROT.BIN,FUN_0000a074,0xA074,suspect_FUN_0000a074,q12_candidate,"WScore=16, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
 SYS.BIN,FUN_00006f74,0x6F74,suspect_FUN_00006f74,q12_candidate,,0,8,0,0,0,0,,0,0
-SYS.BIN,FUN_00006f74,0x6F74,suspect_FUN_00006f74,q12_candidate,,0,8,0,0,0,0,,0,0
-SYS.BIN,FUN_00009510,0x9510,suspect_FUN_00009510,q12_candidate,"WScore=12, Pxyz=12, Ang=0, BD=0, BS=0, Spd=0",12,0,0,0,0,0,,0,0
 SYS.BIN,FUN_00009510,0x9510,suspect_FUN_00009510,q12_candidate,"WScore=12, Pxyz=12, Ang=0, BD=0, BS=0, Spd=0",12,0,0,0,0,0,,0,0
 SYS.BIN,FUN_0000a2b8,0xA2B8,suspect_FUN_0000a2b8,q12_candidate,"WScore=8, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
-SYS.BIN,FUN_0000a2b8,0xA2B8,suspect_FUN_0000a2b8,q12_candidate,"WScore=8, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
-TUTO.BIN,FUN_00001c84,0x1C84,suspect_FUN_00001c84,orientation_update_candidate,"angles+Q12 heavy; WScore=60, Ang=4",68,0,0,0,0,0,,0,0
 TUTO.BIN,FUN_00001c84,0x1C84,suspect_FUN_00001c84,orientation_update_candidate,"angles+Q12 heavy; WScore=60, Ang=4",68,0,0,0,0,0,,0,0

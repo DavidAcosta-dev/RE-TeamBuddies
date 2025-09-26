@@ -5,6 +5,7 @@
 
 import json
 import os
+import codecs
 
 # Ghidra imports (tolerate running outside Ghidra)
 try:  # type: ignore
@@ -78,7 +79,7 @@ DEFAULT_REL_PATH = os.path.join("..", "exports", "suspects_bookmarks.json")
 
 def apply_names(bookmarks_path):
     prog_name = currentProgram.getName()  # type: ignore
-    with open(bookmarks_path, "r", encoding="utf-8") as fh:
+    with codecs.open(bookmarks_path, "r", "utf-8") as fh:
         data = json.load(fh)
 
     applied = 0
@@ -109,8 +110,28 @@ def run():
     if currentProgram is None:
         print("[ApplyNamesFromBookmarks] Skipping: not running inside Ghidra (currentProgram is None)")
         return
-    base = os.path.dirname(getSourceFile().getAbsolutePath()) if getSourceFile() else os.getcwd()
-    bookmarks_path = os.path.abspath(os.path.join(base, DEFAULT_REL_PATH))
+    # Allow path via script args: -postScript ApplyNamesFromBookmarks.py <jsonPath>
+    bookmarks_path = None
+    try:
+        args = getScriptArgs()  # type: ignore
+        if args and len(args) > 0 and args[0]:
+            a0 = str(args[0])
+            bookmarks_path = a0 if os.path.isabs(a0) else os.path.abspath(a0)
+    except Exception:
+        pass
+    if not bookmarks_path:
+        base = None
+        try:
+            sf = getSourceFile()
+            base = os.path.dirname(sf.getAbsolutePath()) if sf else None
+        except Exception:
+            base = None
+        if not base:
+            try:
+                base = os.path.dirname(__file__)  # type: ignore
+            except Exception:
+                base = os.getcwd()
+        bookmarks_path = os.path.abspath(os.path.join(base, DEFAULT_REL_PATH))
     if not os.path.exists(bookmarks_path):
         popup("Bookmarks JSON not found: {}".format(bookmarks_path))
         return

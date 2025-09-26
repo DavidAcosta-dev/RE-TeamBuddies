@@ -4,6 +4,7 @@
 # Filters rows to the current program by matching the 'binary' column.
 
 import csv
+import codecs
 import os
 
 # Tolerate running outside Ghidra for linting: provide minimal stubs
@@ -63,7 +64,7 @@ def import_comments(csv_path):
     listing = currentProgram.getListing()  # type: ignore
     prog_name = currentProgram.getName()  # type: ignore
     count = 0
-    with open(csv_path, 'r', encoding='utf-8') as fh:
+    with codecs.open(csv_path, 'r', 'utf-8') as fh:
         reader = csv.DictReader(fh)
         for row in reader:
             bin_name = row.get('binary')
@@ -95,8 +96,28 @@ def run():
     if currentProgram is None:
         print("[ImportCommentsFromCSV] Skipping: not running inside Ghidra (currentProgram is None)")
         return
-    base = os.path.dirname(getSourceFile().getAbsolutePath()) if getSourceFile() else os.getcwd()
-    csv_path = os.path.abspath(os.path.join(base, DEFAULT_REL_PATH))
+    # Prefer script arg as explicit path: -postScript ImportCommentsFromCSV.py <csvPath>
+    csv_path = None
+    try:
+        args = getScriptArgs()  # type: ignore
+        if args and len(args) > 0 and args[0]:
+            a0 = str(args[0])
+            csv_path = a0 if os.path.isabs(a0) else os.path.abspath(a0)
+    except Exception:
+        pass
+    if not csv_path:
+        base = None
+        try:
+            sf = getSourceFile()
+            base = os.path.dirname(sf.getAbsolutePath()) if sf else None
+        except Exception:
+            base = None
+        if not base:
+            try:
+                base = os.path.dirname(__file__)  # type: ignore
+            except Exception:
+                base = os.getcwd()
+        csv_path = os.path.abspath(os.path.join(base, DEFAULT_REL_PATH))
     if not os.path.exists(csv_path):
         popup("CSV not found: {}".format(csv_path))
         return
