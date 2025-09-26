@@ -1,6 +1,6 @@
 # Crate Interaction Completion Report
 
-Heuristic completion: 85%
+Heuristic completion: 87% (100/115 weight)
 
 ## Artifact Summary
 
@@ -14,6 +14,9 @@ Heuristic completion: 85%
 - indirect_slots: 2
 - neg_mut: 3
 - has_state_machine: 1
+- crate_signature_rows: 9220
+- crate_signature_report_lines: 76
+- crate_signature_followup_lines: 29
 
 ## Checklist
 
@@ -26,6 +29,8 @@ Heuristic completion: 85%
 - [ ] Pickup/Drop candidates  — pickup_drop_candidates.* present with rows
 - [x] Crate tokens scan  — crate_tokens_binary_scan.md present
 - [x] Crate strings scan  — crate_string_hits.md present
+- [x] Signature candidates triaged  — crate_signature_report.md present with data
+- [x] Follow-up note drafted  — notes/crate_signature_followup.md generated
 - [x] Timing constants captured  — placeholder until a dedicated timing extractor is added
 
 ## Gaps

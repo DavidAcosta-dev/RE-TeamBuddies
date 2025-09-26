@@ -1,0 +1,2751 @@
+[
+  {
+    "symbol": "VHDATA",
+    "address_hex": "0x80010000",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80010000(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "_DATASECTION_OBJ",
+    "address_hex": "0x80010000",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80010000(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "_DATASECTION_ORG",
+    "address_hex": "0x80010000",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80010000(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "__CTORS_OBJ",
+    "address_hex": "0x80010000",
+    "observations": 4,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP",
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/GRAPHICS/FLAME/MAIN.MAP"
+    ],
+    "address_histogram": "0x80010000(4)",
+    "categories": [
+      "audio",
+      "graphics"
+    ]
+  },
+  {
+    "symbol": "__CTORS_OBJEND",
+    "address_hex": "0x80010000",
+    "observations": 4,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP",
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/GRAPHICS/FLAME/MAIN.MAP"
+    ],
+    "address_histogram": "0x80010000(4)",
+    "categories": [
+      "audio",
+      "graphics"
+    ]
+  },
+  {
+    "symbol": "__CTORS_ORG",
+    "address_hex": "0x80010000",
+    "observations": 4,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP",
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/GRAPHICS/FLAME/MAIN.MAP"
+    ],
+    "address_histogram": "0x80010000(4)",
+    "categories": [
+      "audio",
+      "graphics"
+    ]
+  },
+  {
+    "symbol": "__CTORS_ORGEND",
+    "address_hex": "0x80010000",
+    "observations": 4,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP",
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/GRAPHICS/FLAME/MAIN.MAP"
+    ],
+    "address_histogram": "0x80010000(4)",
+    "categories": [
+      "audio",
+      "graphics"
+    ]
+  },
+  {
+    "symbol": "__DTORS_OBJ",
+    "address_hex": "0x80010000",
+    "observations": 4,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP",
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/GRAPHICS/FLAME/MAIN.MAP"
+    ],
+    "address_histogram": "0x80010000(4)",
+    "categories": [
+      "audio",
+      "graphics"
+    ]
+  },
+  {
+    "symbol": "__DTORS_OBJEND",
+    "address_hex": "0x80010000",
+    "observations": 4,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP",
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/GRAPHICS/FLAME/MAIN.MAP"
+    ],
+    "address_histogram": "0x80010000(4)",
+    "categories": [
+      "audio",
+      "graphics"
+    ]
+  },
+  {
+    "symbol": "__DTORS_ORG",
+    "address_hex": "0x80010000",
+    "observations": 4,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP",
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/GRAPHICS/FLAME/MAIN.MAP"
+    ],
+    "address_histogram": "0x80010000(4)",
+    "categories": [
+      "audio",
+      "graphics"
+    ]
+  },
+  {
+    "symbol": "__DTORS_ORGEND",
+    "address_hex": "0x80010000",
+    "observations": 4,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP",
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/GRAPHICS/FLAME/MAIN.MAP"
+    ],
+    "address_histogram": "0x80010000(4)",
+    "categories": [
+      "audio",
+      "graphics"
+    ]
+  },
+  {
+    "symbol": "VBDATA",
+    "address_hex": "0x80010C20",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80010C20(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "srand",
+    "address_hex": "0x80012318",
+    "observations": 4,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/addons/sound/STREAM/TUTO1.MAP",
+      "assets/PSYQ_SDK/psyq/psx/sample/sound/STREAM/TUTO1.MAP"
+    ],
+    "address_histogram": "0x80012318(4)",
+    "categories": [
+      "audio",
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "DsStartCallback",
+    "address_hex": "0x800204E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/sound/STREAM/TUTO2.MAP"
+    ],
+    "address_histogram": "0x800204E0(2)",
+    "categories": [
+      "audio",
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "XMDATA",
+    "address_hex": "0x80069E30",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80069E30(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "_DATASECTION_OBJEND",
+    "address_hex": "0x800809DE",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800809DE(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "_DATASECTION_ORGEND",
+    "address_hex": "0x800809DE",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800809DE(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "DRAWBAR",
+    "address_hex": "0x80081794",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80081794(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "DISPLAYINFO",
+    "address_hex": "0x80081884",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80081884(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "INITSPUHARDWARE",
+    "address_hex": "0x80081A38",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80081A38(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "LOAD_TEXTURE",
+    "address_hex": "0x80081BFC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80081BFC(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SETINITPADFLAG",
+    "address_hex": "0x80082C38",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80082C38(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "READINITPADFLAG",
+    "address_hex": "0x80082C44",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80082C44(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "STOPPAD",
+    "address_hex": "0x80082DB4",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80082DB4(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "STOPPAD2",
+    "address_hex": "0x80082F68",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80082F68(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SYSENQINTRP",
+    "address_hex": "0x80082F88",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80082F88(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SYSDEQINTRP",
+    "address_hex": "0x80082F98",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80082F98(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "ENABLEPAD",
+    "address_hex": "0x80082FA8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80082FA8(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "DISABLEPAD",
+    "address_hex": "0x80082FBC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80082FBC(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "_SENDPAD",
+    "address_hex": "0x80083058",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80083058(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "_SEND_PAD",
+    "address_hex": "0x80083084",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80083084(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "_REMOVE_CHGCLRPAD",
+    "address_hex": "0x80083128",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80083128(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SETDRAWSTP",
+    "address_hex": "0x800858BC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800858BC(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "LOADIMAGE2",
+    "address_hex": "0x80087238",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80087238(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "STOREIMAGE2",
+    "address_hex": "0x80087324",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80087324(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "MOVEIMAGE2",
+    "address_hex": "0x80087410",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80087410(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "DRAWOTAG2",
+    "address_hex": "0x80087554",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80087554(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "_SPU_FR_",
+    "address_hex": "0x80087E44",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80087E44(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "_SPU_FW",
+    "address_hex": "0x8008816C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008816C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "_SPU_FR",
+    "address_hex": "0x800881F0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800881F0(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "_SPU_FW1TS",
+    "address_hex": "0x80088420",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80088420(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SPUSETCOMMONMASTERVOLUME",
+    "address_hex": "0x80088528",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80088528(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "MALLOC",
+    "address_hex": "0x800885A8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800885A8(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "FREE",
+    "address_hex": "0x800885B8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800885B8(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "INTERPOLATE",
+    "address_hex": "0x800885D8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800885D8(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "GETLOGPERIOD",
+    "address_hex": "0x8008865C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008865C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "JPGETPERIOD",
+    "address_hex": "0x800886F4",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800886F4(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "GETPERIOD",
+    "address_hex": "0x80088728",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80088728(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_VABINIT",
+    "address_hex": "0x8008877C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008877C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_EXIT",
+    "address_hex": "0x800887BC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800887BC(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_CLOSEVAB",
+    "address_hex": "0x80088830",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80088830(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_CLOSEVAB2",
+    "address_hex": "0x80088884",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80088884(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_UPDATE",
+    "address_hex": "0x800888F4",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800888F4(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_PLAYSTART",
+    "address_hex": "0x80088950",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80088950(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_PLAYSTOP",
+    "address_hex": "0x800889A4",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800889A4(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "INITXMDATA",
+    "address_hex": "0x80088A0C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80088A0C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "GETWORD",
+    "address_hex": "0x80088CA8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80088CA8(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "GETSWORD",
+    "address_hex": "0x80088CBC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80088CBC(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "GETLONG",
+    "address_hex": "0x80088CD8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80088CD8(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_ONCEOFFINIT",
+    "address_hex": "0x80088D04",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80088D04(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_INIT",
+    "address_hex": "0x80088D48",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80088D48(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "JPLAYNOTE",
+    "address_hex": "0x80089228",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80089228(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "JPLAYEFFECTS",
+    "address_hex": "0x80089484",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80089484(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SPE",
+    "address_hex": "0x800896B8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800896B8(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "DOEEFFECTS",
+    "address_hex": "0x80089B6C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80089B6C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SETNOTE",
+    "address_hex": "0x80089F4C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80089F4C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SETINSTR",
+    "address_hex": "0x8008A020",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008A020(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SETPER",
+    "address_hex": "0x8008A11C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008A11C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "ARPEGGIO",
+    "address_hex": "0x8008A304",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008A304(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "DOVOLSLIDE",
+    "address_hex": "0x8008A3D4",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008A3D4(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "DOXMPANSLIDE",
+    "address_hex": "0x8008A46C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008A46C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "DOS3MRETRIG",
+    "address_hex": "0x8008A50C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008A50C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "DOTONESLIDE",
+    "address_hex": "0x8008A764",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008A764(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "DOVIBRATO",
+    "address_hex": "0x8008A7D4",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008A7D4(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "DOTREMOLO",
+    "address_hex": "0x8008A900",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008A900(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "DOPAN",
+    "address_hex": "0x8008AA78",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008AA78(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "DOVOL",
+    "address_hex": "0x8008AACC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008AACC(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "UPDATEXMDATA",
+    "address_hex": "0x8008AAF4",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008AAF4(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "UPDATEWITHTIMER",
+    "address_hex": "0x8008ABBC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008ABBC(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_DOFULLUPDATE",
+    "address_hex": "0x8008ACB0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008ACB0(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "UPDATEPATTERNDATA",
+    "address_hex": "0x8008AD78",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008AD78(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "CALCPLAYPOS",
+    "address_hex": "0x8008B2B8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008B2B8(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "PACKEDCALCPLAYPOS",
+    "address_hex": "0x8008B3A4",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008B3A4(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "JCALCPAT",
+    "address_hex": "0x8008B474",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008B474(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "APPLYEFFS",
+    "address_hex": "0x8008B4E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008B4E0(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "UPDATEEFFS",
+    "address_hex": "0x8008B834",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008B834(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "DODOLBYSS",
+    "address_hex": "0x8008B908",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008B908(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "UPDATEHARDWARE",
+    "address_hex": "0x8008BA18",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008BA18(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "INTVOLS",
+    "address_hex": "0x8008BDB4",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008BDB4(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "GETFREQ2",
+    "address_hex": "0x8008BDE8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008BDE8(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "PROCESSENVELOPE",
+    "address_hex": "0x8008BE44",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008BE44(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "PROCESSPANENVELOPE",
+    "address_hex": "0x8008C058",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008C058(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_SETSONGPOS",
+    "address_hex": "0x8008C26C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008C26C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_GETFEEDBACK",
+    "address_hex": "0x8008C368",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008C368(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_GETHEADERINFO",
+    "address_hex": "0x8008C470",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008C470(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_SETCHVOLUME",
+    "address_hex": "0x8008C4A8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008C4A8(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_GETCHVOLUME",
+    "address_hex": "0x8008C514",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008C514(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "INITMUSICSYSTEM",
+    "address_hex": "0x8008C57C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008C57C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SENDVAGSTORAM",
+    "address_hex": "0x8008C584",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008C584(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_SENDVAGTOSRAM",
+    "address_hex": "0x8008C6E8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008C6E8(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_SENDVAGTOSRAM_NOWAIT",
+    "address_hex": "0x8008C778",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008C778(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "PLAYSFX",
+    "address_hex": "0x8008C800",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008C800(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "INITSPUCHANNEL",
+    "address_hex": "0x8008C898",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008C898(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "CURRENTKEYSTAT",
+    "address_hex": "0x8008C900",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008C900(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "STPCH",
+    "address_hex": "0x8008C9BC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008C9BC(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SETVOL",
+    "address_hex": "0x8008C9E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008C9E0(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SETFRQ",
+    "address_hex": "0x8008CA0C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008CA0C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SILENCEXM",
+    "address_hex": "0x8008CA2C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008CA2C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_PAUSE",
+    "address_hex": "0x8008CB34",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008CB34(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_PAUSEALL",
+    "address_hex": "0x8008CC40",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008CC40(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_RESTARTALL",
+    "address_hex": "0x8008CC98",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008CC98(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_RESTART",
+    "address_hex": "0x8008CCF0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008CCF0(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_PLAYNEXT",
+    "address_hex": "0x8008CE10",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008CE10(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_CPLAYNEXT",
+    "address_hex": "0x8008CE54",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008CE54(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_SETMASTERVOL",
+    "address_hex": "0x8008CE98",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008CE98(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_SETMASTERPAN",
+    "address_hex": "0x8008CEEC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008CEEC(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "CLEARSPU",
+    "address_hex": "0x8008CF30",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008CF30(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_FREEVAG",
+    "address_hex": "0x8008CFBC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008CFBC(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "GETFREESONGID",
+    "address_hex": "0x8008CFDC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008CFDC(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_QUIT",
+    "address_hex": "0x8008D034",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008D034(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "JPCLEARSPUFLAGS",
+    "address_hex": "0x8008D07C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008D07C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_SETSFXRANGE",
+    "address_hex": "0x8008D0B4",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008D0B4(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_CLEARSFXRANGE",
+    "address_hex": "0x8008D10C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008D10C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_GETSAMPLEADDRESS",
+    "address_hex": "0x8008D138",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008D138(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_PLAYSAMPLE",
+    "address_hex": "0x8008D184",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008D184(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_STOPSAMPLE",
+    "address_hex": "0x8008D214",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008D214(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_GETFREEVAB",
+    "address_hex": "0x8008D23C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008D23C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_SETVAGADDRESS",
+    "address_hex": "0x8008D278",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008D278(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_GETVABSAMPLEINFO",
+    "address_hex": "0x8008D2B0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008D2B0(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_GETSONGSIZE",
+    "address_hex": "0x8008D32C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008D32C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_SETSONGADDRESS",
+    "address_hex": "0x8008D334",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008D334(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_FREESONGID",
+    "address_hex": "0x8008D37C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008D37C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_FREEALLSONGIDS",
+    "address_hex": "0x8008D3A0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008D3A0(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_GETFILEHEADERSIZE",
+    "address_hex": "0x8008D3AC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008D3AC(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_SETFILEHEADERADDRESS",
+    "address_hex": "0x8008D3B4",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008D3B4(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_FREEFILEHEADERID",
+    "address_hex": "0x8008D3EC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008D3EC(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_FREEALLFILEHEADERIDS",
+    "address_hex": "0x8008D40C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008D40C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_SETBPM",
+    "address_hex": "0x8008D418",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008D418(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_SETSPEED",
+    "address_hex": "0x8008D43C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008D43C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_SETMONO",
+    "address_hex": "0x8008D460",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008D460(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_SETSTEREO",
+    "address_hex": "0x8008D46C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008D46C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SPUFREE",
+    "address_hex": "0x8008DA4C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008DA4C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SPUFLUSH",
+    "address_hex": "0x8008DACC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008DACC(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SPUSETKEY",
+    "address_hex": "0x8008DCCC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008DCCC(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SPURGETALLKEYSSTATUS",
+    "address_hex": "0x8008E03C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008E03C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SPUGETALLKEYSSTATUS",
+    "address_hex": "0x8008E110",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008E110(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SPUSETVOICEVOLUME",
+    "address_hex": "0x8008E19C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008E19C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SPUSETVOICEPITCH",
+    "address_hex": "0x8008E21C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008E21C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SPUSETVOICEATTR",
+    "address_hex": "0x8008E28C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008E28C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "_SPU_2PITCH",
+    "address_hex": "0x8008E88C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008E88C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "_SPU_NOTE2PITCH",
+    "address_hex": "0x8008E918",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008E918(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "_SPU_PITCH2NOTE",
+    "address_hex": "0x8008EA50",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008EA50(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "KEY_LL",
+    "address_hex": "0x8008EB7C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008EB7C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "KEY_LR",
+    "address_hex": "0x8008EB7D",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008EB7D(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "KEY_LU",
+    "address_hex": "0x8008EB7E",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008EB7E(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "KEY_LD",
+    "address_hex": "0x8008EB7F",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008EB7F(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "KEY_RD",
+    "address_hex": "0x8008EB80",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008EB80(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "KEY_RU",
+    "address_hex": "0x8008EB81",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008EB81(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "KEY_RL",
+    "address_hex": "0x8008EB82",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008EB82(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "KEY_RR",
+    "address_hex": "0x8008EB83",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008EB83(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "LKEY_LD",
+    "address_hex": "0x8008EB84",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008EB84(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "LKEY_LU",
+    "address_hex": "0x8008EB85",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008EB85(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "LKEY_LL",
+    "address_hex": "0x8008EB86",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008EB86(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "LKEY_LR",
+    "address_hex": "0x8008EB87",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008EB87(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "LKEY_RD",
+    "address_hex": "0x8008EB88",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008EB88(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "LKEY_RU",
+    "address_hex": "0x8008EB89",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008EB89(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "LKEY_RL",
+    "address_hex": "0x8008EB8A",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008EB8A(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "LKEY_RR",
+    "address_hex": "0x8008EB8B",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008EB8B(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SONG_ID1",
+    "address_hex": "0x8008EB8C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008EB8C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "S3M_MODE",
+    "address_hex": "0x8008EB90",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8008EB90(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "GENV",
+    "address_hex": "0x80090950",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80090950(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_SCAN",
+    "address_hex": "0x80091260",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80091260(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "JPERROR",
+    "address_hex": "0x80091264",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80091264(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "MONOMODE",
+    "address_hex": "0x80091268",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80091268(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_NSA",
+    "address_hex": "0x8009126C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8009126C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_HA",
+    "address_hex": "0x80091270",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80091270(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "IVABID",
+    "address_hex": "0x80091274",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80091274(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XMSONGIDS",
+    "address_hex": "0x80091284",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80091284(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XMSPU_SFX",
+    "address_hex": "0x800912B4",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800912B4(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "LINTAB",
+    "address_hex": "0x800912E4",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800912E4(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "LOGTAB",
+    "address_hex": "0x800918E4",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800918E4(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "JPPER",
+    "address_hex": "0x800919D4",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800919D4(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XMTIME1",
+    "address_hex": "0x80095FB8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80095FB8(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XMTIME2",
+    "address_hex": "0x80095FBC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80095FBC(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XMTIME3",
+    "address_hex": "0x80095FC0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80095FC0(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "JP_DO_NOTHING",
+    "address_hex": "0x80095FC4",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80095FC4(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "PALTYPE",
+    "address_hex": "0x80095FC8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80095FC8(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "FEEDBACK",
+    "address_hex": "0x80095FD0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80095FD0(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "SPU_MALLOC_REC",
+    "address_hex": "0x80095FF0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80095FF0(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "BPMLIMIT",
+    "address_hex": "0x80096414",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80096414(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "FB",
+    "address_hex": "0x8009E4F8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8009E4F8(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "MH",
+    "address_hex": "0x8009E4FC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8009E4FC(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "MS",
+    "address_hex": "0x8009E500",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8009E500(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "MU",
+    "address_hex": "0x8009E504",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8009E504(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "CURRENTCH",
+    "address_hex": "0x8009E508",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8009E508(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_HEADERADDRESS",
+    "address_hex": "0x8009E510",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8009E510(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "INF",
+    "address_hex": "0x8009E534",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8009E534(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "DVL",
+    "address_hex": "0x8009E538",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8009E538(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XMC",
+    "address_hex": "0x8009E53C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8009E53C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "MHU",
+    "address_hex": "0x8009E540",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8009E540(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "DVR",
+    "address_hex": "0x8009E544",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8009E544(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_R_ATTR",
+    "address_hex": "0x8009E548",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8009E548(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "VINF",
+    "address_hex": "0x8009E55C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8009E55C(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "VABID",
+    "address_hex": "0x8009FD60",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8009FD60(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_L_VAG_SPU_ADDR",
+    "address_hex": "0x8009FD80",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8009FD80(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "HINFO",
+    "address_hex": "0x800A0D80",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800A0D80(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "VINFO",
+    "address_hex": "0x800A0D88",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800A0D88(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_G_S_ATTR",
+    "address_hex": "0x800A0D90",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800A0D90(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "UXM_G_S_ATTR",
+    "address_hex": "0x800A0E20",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800A0E20(2)",
+    "categories": [
+      "audio"
+    ]
+  },
+  {
+    "symbol": "XM_SNGADDRESS",
+    "address_hex": "0x800A0E60",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/bin/XMplay2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800A0E60(2)",
+    "categories": [
+      "audio"
+    ]
+  }
+]

@@ -1,0 +1,2186 @@
+[
+  {
+    "symbol": "_SsContExpression",
+    "address_hex": "0x80014510",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80014510(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "SpuVmDamperOff",
+    "address_hex": "0x80018338",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/addons/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80018338(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "SpuVmDamperOn",
+    "address_hex": "0x80018348",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/addons/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80018348(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_spu_setReverbAttr",
+    "address_hex": "0x80018578",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80018578(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "SpuVmKeyOn",
+    "address_hex": "0x80018CE8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/addons/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80018CE8(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmDamperOff",
+    "address_hex": "0x80019048",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80019048(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmDamperOn",
+    "address_hex": "0x80019058",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80019058(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmFlush",
+    "address_hex": "0x8001906C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001906C(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "SpuVmKeyOff",
+    "address_hex": "0x8001923C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/addons/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001923C(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "SpuVmSeKeyOn",
+    "address_hex": "0x80019388",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/addons/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80019388(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "SpuVmSeKeyOff",
+    "address_hex": "0x80019474",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/addons/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80019474(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "SpuVmAlloc",
+    "address_hex": "0x800194B0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/addons/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800194B0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "SpuVmDoAllocate",
+    "address_hex": "0x80019718",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/addons/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80019718(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "SpuSetReverbVoice",
+    "address_hex": "0x80019794",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80019794(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "SpuGetVoiceEnvelope",
+    "address_hex": "0x800199B4",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800199B4(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmInit",
+    "address_hex": "0x800199D0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800199D0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmKeyOn",
+    "address_hex": "0x80019D88",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80019D88(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "SpuVmKeyOnNow",
+    "address_hex": "0x8001A0C4",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/addons/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001A0C4(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmKeyOff",
+    "address_hex": "0x8001A30C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001A30C(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmSeKeyOn",
+    "address_hex": "0x8001A458",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001A458(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmSeKeyOff",
+    "address_hex": "0x8001A544",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001A544(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmAlloc",
+    "address_hex": "0x8001A580",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001A580(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "SpuVmPBVoice",
+    "address_hex": "0x8001A5A8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/addons/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001A5A8(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "SpuVmPitchBend",
+    "address_hex": "0x8001A7AC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/addons/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001A7AC(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmDoAllocate",
+    "address_hex": "0x8001A80C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001A80C(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "SpuVmSelectToneAndVag",
+    "address_hex": "0x8001AF6C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/addons/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001AF6C(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "SpuVmSetVol",
+    "address_hex": "0x8001B020",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/addons/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001B020(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "SpuSetNoiseClock",
+    "address_hex": "0x8001B0B8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001B0B8(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmKeyOffNow",
+    "address_hex": "0x8001B160",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001B160(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmKeyOnNow",
+    "address_hex": "0x8001B230",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001B230(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "SpuVmVSetUp",
+    "address_hex": "0x8001B598",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/addons/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001B598(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmPBVoice",
+    "address_hex": "0x8001B6FC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001B6FC(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmPitchBend",
+    "address_hex": "0x8001B8FC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001B8FC(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmSetProgVol",
+    "address_hex": "0x8001B9EC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001B9EC(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmGetProgVol",
+    "address_hex": "0x8001BA60",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001BA60(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmSetProgPan",
+    "address_hex": "0x8001BAB4",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001BAB4(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmGetProgPan",
+    "address_hex": "0x8001BB28",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001BB28(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmSetSeqVol",
+    "address_hex": "0x8001BB7C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001BB7C(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmGetSeqVol",
+    "address_hex": "0x8001C0B8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001C0B8(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmGetSeqLVol",
+    "address_hex": "0x8001C11C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001C11C(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmGetSeqRVol",
+    "address_hex": "0x8001C164",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001C164(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmSeqKeyOff",
+    "address_hex": "0x8001C1AC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001C1AC(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmSelectToneAndVag",
+    "address_hex": "0x8001C248",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001C248(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmSetVol",
+    "address_hex": "0x8001C2FC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001C2FC(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmVSetUp",
+    "address_hex": "0x8001C878",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8001C878(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "GsSetNearClip",
+    "address_hex": "0x8002283C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/addons/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8002283C(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "GsLSMATRIX",
+    "address_hex": "0x80062568",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/addons/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80062568(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_SsVmMaxVoice",
+    "address_hex": "0x80064ABC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80064ABC(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_obj",
+    "address_hex": "0x80066F40",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F40(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_org",
+    "address_hex": "0x80066F40",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F40(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_rdata_obj",
+    "address_hex": "0x80066F40",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F40(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_rdata_org",
+    "address_hex": "0x80066F40",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F40(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_obj",
+    "address_hex": "0x80066F40",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F40(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_org",
+    "address_hex": "0x80066F40",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F40(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_rdata_obj",
+    "address_hex": "0x80066F40",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F40(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_rdata_org",
+    "address_hex": "0x80066F40",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F40(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_obj",
+    "address_hex": "0x80066F40",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F40(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_org",
+    "address_hex": "0x80066F40",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F40(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_rdata_obj",
+    "address_hex": "0x80066F40",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F40(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_rdata_org",
+    "address_hex": "0x80066F40",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F40(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_rdata_objend",
+    "address_hex": "0x80066F70",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F70(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_rdata_orgend",
+    "address_hex": "0x80066F70",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F70(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_text_obj",
+    "address_hex": "0x80066F70",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F70(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_text_org",
+    "address_hex": "0x80066F70",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F70(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_rdata_objend",
+    "address_hex": "0x80066F76",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F76(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_rdata_orgend",
+    "address_hex": "0x80066F76",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F76(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_rdata_objend",
+    "address_hex": "0x80066F78",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F78(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_rdata_orgend",
+    "address_hex": "0x80066F78",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F78(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_text_obj",
+    "address_hex": "0x80066F78",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F78(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_text_org",
+    "address_hex": "0x80066F78",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F78(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_text_obj",
+    "address_hex": "0x80066F78",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F78(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_text_org",
+    "address_hex": "0x80066F78",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80066F78(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_data_obj",
+    "address_hex": "0x80067520",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80067520(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_data_org",
+    "address_hex": "0x80067520",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80067520(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_text_objend",
+    "address_hex": "0x80067520",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80067520(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_text_orgend",
+    "address_hex": "0x80067520",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80067520(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_data_obj",
+    "address_hex": "0x80067670",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80067670(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_data_org",
+    "address_hex": "0x80067670",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80067670(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_text_objend",
+    "address_hex": "0x80067670",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80067670(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_text_orgend",
+    "address_hex": "0x80067670",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80067670(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_bss_obj",
+    "address_hex": "0x80067678",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80067678(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_bss_org",
+    "address_hex": "0x80067678",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80067678(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_data_objend",
+    "address_hex": "0x80067678",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80067678(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_data_orgend",
+    "address_hex": "0x80067678",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80067678(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_sbss_obj",
+    "address_hex": "0x80067678",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80067678(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_sbss_objend",
+    "address_hex": "0x80067678",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80067678(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_sbss_org",
+    "address_hex": "0x80067678",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80067678(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_sbss_orgend",
+    "address_hex": "0x80067678",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80067678(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_sdata_obj",
+    "address_hex": "0x80067678",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80067678(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_sdata_objend",
+    "address_hex": "0x80067678",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80067678(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_sdata_org",
+    "address_hex": "0x80067678",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80067678(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_sdata_orgend",
+    "address_hex": "0x80067678",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80067678(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_bss_obj",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_bss_objend",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_bss_org",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_bss_orgend",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_ctors_obj",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_ctors_objend",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_ctors_org",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_ctors_orgend",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_data_objend",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_data_orgend",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_dtors_obj",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_dtors_objend",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_dtors_org",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_dtors_orgend",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_objend",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_orgend",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_sbss_obj",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_sbss_objend",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_sbss_org",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_sbss_orgend",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_sdata_obj",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_sdata_objend",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_sdata_org",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_balls_sdata_orgend",
+    "address_hex": "0x800679E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800679E0(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_data_obj",
+    "address_hex": "0x80068178",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80068178(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_data_org",
+    "address_hex": "0x80068178",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80068178(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_text_objend",
+    "address_hex": "0x80068178",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80068178(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_text_orgend",
+    "address_hex": "0x80068178",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80068178(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_bss_obj",
+    "address_hex": "0x800684E8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800684E8(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_bss_org",
+    "address_hex": "0x800684E8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800684E8(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_data_objend",
+    "address_hex": "0x800684E8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800684E8(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_data_orgend",
+    "address_hex": "0x800684E8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800684E8(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_sbss_obj",
+    "address_hex": "0x800684E8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800684E8(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_sbss_objend",
+    "address_hex": "0x800684E8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800684E8(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_sbss_org",
+    "address_hex": "0x800684E8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800684E8(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_sbss_orgend",
+    "address_hex": "0x800684E8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800684E8(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_sdata_obj",
+    "address_hex": "0x800684E8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800684E8(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_sdata_objend",
+    "address_hex": "0x800684E8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800684E8(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_sdata_org",
+    "address_hex": "0x800684E8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800684E8(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_sdata_orgend",
+    "address_hex": "0x800684E8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800684E8(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_bss_objend",
+    "address_hex": "0x8008966C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8008966C(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_bss_orgend",
+    "address_hex": "0x8008966C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x8008966C(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_ctors_obj",
+    "address_hex": "0x80089670",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80089670(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_ctors_objend",
+    "address_hex": "0x80089670",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80089670(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_ctors_org",
+    "address_hex": "0x80089670",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80089670(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_ctors_orgend",
+    "address_hex": "0x80089670",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80089670(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_dtors_obj",
+    "address_hex": "0x80089670",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80089670(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_dtors_objend",
+    "address_hex": "0x80089670",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80089670(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_dtors_org",
+    "address_hex": "0x80089670",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80089670(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_dtors_orgend",
+    "address_hex": "0x80089670",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80089670(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_objend",
+    "address_hex": "0x80089670",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80089670(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_rcube_orgend",
+    "address_hex": "0x80089670",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x80089670(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_bss_objend",
+    "address_hex": "0x800CD0BC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800CD0BC(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_bss_orgend",
+    "address_hex": "0x800CD0BC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800CD0BC(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_ctors_obj",
+    "address_hex": "0x800CD0BC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800CD0BC(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_ctors_objend",
+    "address_hex": "0x800CD0BC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800CD0BC(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_ctors_org",
+    "address_hex": "0x800CD0BC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800CD0BC(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_ctors_orgend",
+    "address_hex": "0x800CD0BC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800CD0BC(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_dtors_obj",
+    "address_hex": "0x800CD0BC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800CD0BC(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_dtors_objend",
+    "address_hex": "0x800CD0BC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800CD0BC(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_dtors_org",
+    "address_hex": "0x800CD0BC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800CD0BC(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_dtors_orgend",
+    "address_hex": "0x800CD0BC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800CD0BC(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_objend",
+    "address_hex": "0x800CD0BC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800CD0BC(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  },
+  {
+    "symbol": "_anim_orgend",
+    "address_hex": "0x800CD0BC",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/module/OVERMENU/MENU.MAP"
+    ],
+    "address_histogram": "0x800CD0BC(2)",
+    "categories": [
+      "module",
+      "ui"
+    ]
+  }
+]

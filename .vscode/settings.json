@@ -1,8 +1,10 @@
 {
     "files.associations": {
-        "*.ejs": "html",
-        "MAIN.C": "cpp"
-  },
+      "*.ejs": "html",
+      "MAIN.C": "cpp",
+      "DYNAM.C": "cpp",
+      "CONTROL.C": "cpp"
+    },
 
     // A. Stop “Allow?” popups for tools in THIS workspace
   // (experimental but documented)

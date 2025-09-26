@@ -12,6 +12,24 @@ CURATED = {
         'FUN_00014f80': 'spu_apply_channel_params',
         'FUN_000090e0': 'main_update',
         'FUN_0001cc38': 'sync_wait'
+    },
+    'GAME.BIN': {
+        # Integrator ∩ Orientation (direct Z pos writes) — ranked in Q12 overlay
+        'FUN_00022e5c': 'phys_integrate_pos_z_step1',
+        'FUN_00023000': 'phys_integrate_pos_z_step2',
+        'FUN_00023210': 'phys_integrate_pos_z_step3',
+
+        # Additional direct Z writers in the same cluster
+        'FUN_00023110': 'phys_integrate_pos_z_step4',
+        'FUN_00023180': 'phys_integrate_pos_z_step5',
+        'FUN_00022dc8': 'phys_integrate_pos_z_entry',
+
+        # Basis/normalization chain
+        'FUN_00044f80': 'orient_normalize_basis',
+        'FUN_00044a14': 'orient_recompute_basis_cross',
+
+        # Initializer for the 0x128–0x18C actor block
+        'FUN_00032c18': 'actor_config_block_init'
     }
 }
 

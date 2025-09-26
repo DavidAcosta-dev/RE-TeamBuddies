@@ -1,0 +1,74 @@
+WATCOM C32 Optimizing Compiler  Version 10.0a
+Copyright by WATCOM International Corp. 1984, 1994. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+pmint09.c: 113 lines, included 738, 0 warnings, 0 errors
+Code size: 545
+WATCOM C32 Optimizing Compiler  Version 10.0a
+Copyright by WATCOM International Corp. 1984, 1994. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+padinit.c: 42 lines, included 738, 0 warnings, 0 errors
+Code size: 136
+WATCOM C32 Optimizing Compiler  Version 10.0a
+Copyright by WATCOM International Corp. 1984, 1994. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+padread.c: 10 lines, included 343, 0 warnings, 0 errors
+Code size: 50
+WATCOM C32 Optimizing Compiler  Version 10.0a
+Copyright by WATCOM International Corp. 1984, 1994. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+padstat.c: 7 lines, included 343, 0 warnings, 0 errors
+Code size: 46
+WATCOM C32 Optimizing Compiler  Version 10.0a
+Copyright by WATCOM International Corp. 1984, 1994. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+etc.c(49): Error! E1011: Symbol 'pmmouse' has not been declared
+etc.c(74): Error! E1063: Missing operand
+etc.c(74): Warning! W102: Type mismatch
+etc.c(112): Error! E1011: Symbol 'etc_JoypadConfig' has not been declared
+etc.c(112): Error! E1045: Subscript on non-array
+etc.c(146): Error! E1011: Symbol 'etc_JoypadConfig' has not been declared
+etc.c(146): Error! E1045: Subscript on non-array
+etc.c(147): Error! E1045: Subscript on non-array
+etc.c(148): Error! E1045: Subscript on non-array
+etc.c(149): Error! E1045: Subscript on non-array
+etc.c(154): Error! E1011: Symbol 'etc_JoypadConfig' has not been declared
+etc.c(154): Error! E1045: Subscript on non-array
+etc.c(155): Error! E1045: Subscript on non-array
+etc.c(156): Error! E1045: Subscript on non-array
+etc.c(157): Error! E1045: Subscript on non-array
+etc.c: 182 lines, included 1158, 1 warnings, 14 errors
+WATCOM Library Manager Version 3.0
+Copyright by WATCOM International Corp. 1988, 1994. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+Error! Could not open file 'etc.obj'.
+WATCOM C/C++32 Compile and Link Utility Version 10.0
+Copyright by WATCOM International Corp. 1988, 1994. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+       wcc386 TEST.C  /d2
+WATCOM C32 Optimizing Compiler  Version 10.0a
+Copyright by WATCOM International Corp. 1984, 1994. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+TEST.C(5): Error! E1055: Unable to open 'common.h'
+TEST.C(7): Error! E1055: Unable to open 'var.h'
+TEST.C(8): Error! E1055: Unable to open 'sys\file.h'
+TEST.C(9): Error! E1055: Unable to open 'asm.h'
+TEST.C(10): Error! E1055: Unable to open 'kernel.h'
+TEST.C(20): Error! E1011: Symbol 'FALSE' has not been declared
+TEST.C(23): Error! E1011: Symbol 'job_cnt' has not been declared
+TEST.C(29): Error! E1011: Symbol 'job' has not been declared
+TEST.C(29): Error! E1011: Symbol 'JOB_TEST' has not been declared
+TEST.C(45): Error! E1011: Symbol 'NULL' has not been declared
+TEST.C(45): Error! E1054: Expression must be constant
+TEST.C(49): Error! E1011: Symbol 'job' has not been declared
+TEST.C(49): Error! E1011: Symbol 'JOB_TITLE0' has not been declared
+TEST.C(55): Error! E1011: Symbol 'WHITE' has not been declared
+TEST.C(58): Error! E1011: Symbol 'job_cnt' has not been declared
+TEST.C(58): Error! E1011: Symbol 'WHITE' has not been declared
+TEST.C(58): Error! E1011: Symbol 'RED' has not been declared
+TEST.C(63): Error! E1011: Symbol 'pad_info' has not been declared
+TEST.C(63): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+TEST.C(63): Error! E1011: Symbol 'PAD_A' has not been declared
+TEST.C(66): Error! E1147: Too many errors: compilation aborted
+TEST.C: 66 lines, 0 warnings, 20 errors
+Error: Compiler returned a bad status compiling 'TEST.C'
+

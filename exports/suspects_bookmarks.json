@@ -48,7 +48,8 @@
         "physics"
       ],
       "score": 43,
-      "new_name": "phys_FUN_00040a98"
+      "new_name": "phys_FUN_00040a98",
+      "suggested_name": "orientation_update_candidate"
     },
     {
       "name": "FUN_00040a98",
@@ -58,7 +59,8 @@
         "physics"
       ],
       "score": 43,
-      "new_name": "phys_FUN_00040a98"
+      "new_name": "phys_FUN_00040a98",
+      "suggested_name": "orientation_update_candidate"
     },
     {
       "name": "FUN_000406ac",
@@ -108,7 +110,8 @@
         "physics"
       ],
       "score": 46,
-      "new_name": "phys_FUN_000475dc"
+      "new_name": "phys_FUN_000475dc",
+      "suggested_name": "orient_recompute_basis_candidate"
     },
     {
       "name": "FUN_000475dc",
@@ -118,7 +121,8 @@
         "physics"
       ],
       "score": 46,
-      "new_name": "phys_FUN_000475dc"
+      "new_name": "phys_FUN_000475dc",
+      "suggested_name": "orient_recompute_basis_candidate"
     },
     {
       "name": "FUN_00048150",
@@ -128,7 +132,8 @@
         "physics"
       ],
       "score": 33,
-      "new_name": "phys_FUN_00048150"
+      "new_name": "phys_FUN_00048150",
+      "suggested_name": "orient_recompute_basis_candidate"
     },
     {
       "name": "FUN_00048150",
@@ -138,7 +143,8 @@
         "physics"
       ],
       "score": 33,
-      "new_name": "phys_FUN_00048150"
+      "new_name": "phys_FUN_00048150",
+      "suggested_name": "orient_recompute_basis_candidate"
     },
     {
       "name": "FUN_0000f8e4",
@@ -168,7 +174,8 @@
         "physics"
       ],
       "score": 32,
-      "new_name": "phys_FUN_00032c18"
+      "new_name": "actor_config_block_init",
+      "suggested_name": "orientation_update_candidate"
     },
     {
       "name": "FUN_00032c18",
@@ -178,7 +185,8 @@
         "physics"
       ],
       "score": 32,
-      "new_name": "phys_FUN_00032c18"
+      "new_name": "actor_config_block_init",
+      "suggested_name": "orientation_update_candidate"
     },
     {
       "name": "FUN_0001ec7c",
@@ -188,7 +196,8 @@
         "physics"
       ],
       "score": 24,
-      "new_name": "phys_FUN_0001ec7c"
+      "new_name": "phys_FUN_0001ec7c",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_0001ec7c",
@@ -198,7 +207,8 @@
         "physics"
       ],
       "score": 24,
-      "new_name": "phys_FUN_0001ec7c"
+      "new_name": "phys_FUN_0001ec7c",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_000496b8",
@@ -668,7 +678,8 @@
         "physics"
       ],
       "score": 11,
-      "new_name": "phys_FUN_00040a4c"
+      "new_name": "phys_FUN_00040a4c",
+      "suggested_name": "orientation_update_candidate"
     },
     {
       "name": "FUN_00040a4c",
@@ -678,7 +689,8 @@
         "physics"
       ],
       "score": 11,
-      "new_name": "phys_FUN_00040a4c"
+      "new_name": "phys_FUN_00040a4c",
+      "suggested_name": "orientation_update_candidate"
     },
     {
       "name": "FUN_000209dc",
@@ -699,18 +711,20 @@
     {
       "name": "FUN_00022e5c",
       "ea": 142940,
-      "category": null,
+      "category": "naming",
       "tags": [],
       "score": 27,
-      "new_name": "suspect_FUN_00022e5c"
+      "new_name": "phys_integrate_pos_z_step1",
+      "suggested_name": "phys_integrate_pos_z_candidate"
     },
     {
       "name": "FUN_00022e5c",
       "ea": 142940,
-      "category": null,
+      "category": "naming",
       "tags": [],
       "score": 27,
-      "new_name": "suspect_FUN_00022e5c"
+      "new_name": "phys_integrate_pos_z_step1",
+      "suggested_name": "phys_integrate_pos_z_candidate"
     },
     {
       "name": "FUN_0003d44c",
@@ -731,34 +745,38 @@
     {
       "name": "FUN_00023000",
       "ea": 143360,
-      "category": null,
+      "category": "naming",
       "tags": [],
       "score": 20,
-      "new_name": "suspect_FUN_00023000"
+      "new_name": "phys_integrate_pos_z_step2",
+      "suggested_name": "phys_integrate_pos_z_candidate"
     },
     {
       "name": "FUN_00023000",
       "ea": 143360,
-      "category": null,
+      "category": "naming",
       "tags": [],
       "score": 20,
-      "new_name": "suspect_FUN_00023000"
+      "new_name": "phys_integrate_pos_z_step2",
+      "suggested_name": "phys_integrate_pos_z_candidate"
     },
     {
       "name": "FUN_00023180",
       "ea": 143744,
-      "category": null,
+      "category": "naming",
       "tags": [],
       "score": 17,
-      "new_name": "suspect_FUN_00023180"
+      "new_name": "phys_integrate_pos_z_step5",
+      "suggested_name": "phys_integrate_pos_z_candidate"
     },
     {
       "name": "FUN_00023180",
       "ea": 143744,
-      "category": null,
+      "category": "naming",
       "tags": [],
       "score": 17,
-      "new_name": "suspect_FUN_00023180"
+      "new_name": "phys_integrate_pos_z_step5",
+      "suggested_name": "phys_integrate_pos_z_candidate"
     },
     {
       "name": "FUN_0003e4b4",
@@ -811,18 +829,20 @@
     {
       "name": "FUN_00023110",
       "ea": 143632,
-      "category": null,
+      "category": "naming",
       "tags": [],
       "score": 8,
-      "new_name": "suspect_FUN_00023110"
+      "new_name": "phys_integrate_pos_z_step4",
+      "suggested_name": "phys_integrate_pos_z_candidate"
     },
     {
       "name": "FUN_00023110",
       "ea": 143632,
-      "category": null,
+      "category": "naming",
       "tags": [],
       "score": 8,
-      "new_name": "suspect_FUN_00023110"
+      "new_name": "phys_integrate_pos_z_step4",
+      "suggested_name": "phys_integrate_pos_z_candidate"
     },
     {
       "name": "FUN_00022c7c",
@@ -875,18 +895,20 @@
     {
       "name": "FUN_00023210",
       "ea": 143888,
-      "category": null,
+      "category": "naming",
       "tags": [],
       "score": 7,
-      "new_name": "suspect_FUN_00023210"
+      "new_name": "phys_integrate_pos_z_step3",
+      "suggested_name": "phys_integrate_pos_z_candidate"
     },
     {
       "name": "FUN_00023210",
       "ea": 143888,
-      "category": null,
+      "category": "naming",
       "tags": [],
       "score": 7,
-      "new_name": "suspect_FUN_00023210"
+      "new_name": "phys_integrate_pos_z_step3",
+      "suggested_name": "phys_integrate_pos_z_candidate"
     },
     {
       "name": "FUN_000232e8",
@@ -946,7 +968,8 @@
         "physics"
       ],
       "score": 36,
-      "new_name": "phys_FUN_000145c8"
+      "new_name": "phys_FUN_000145c8",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_000145c8",
@@ -956,7 +979,8 @@
         "physics"
       ],
       "score": 36,
-      "new_name": "phys_FUN_000145c8"
+      "new_name": "phys_FUN_000145c8",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00009e3c",
@@ -964,7 +988,8 @@
       "category": null,
       "tags": [],
       "score": 46,
-      "new_name": "suspect_FUN_00009e3c"
+      "new_name": "suspect_FUN_00009e3c",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00009e3c",
@@ -972,7 +997,8 @@
       "category": null,
       "tags": [],
       "score": 46,
-      "new_name": "suspect_FUN_00009e3c"
+      "new_name": "suspect_FUN_00009e3c",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00016a1c",
@@ -1012,7 +1038,8 @@
       "category": null,
       "tags": [],
       "score": 25,
-      "new_name": "suspect_FUN_00007ae8"
+      "new_name": "suspect_FUN_00007ae8",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00007ae8",
@@ -1020,7 +1047,8 @@
       "category": null,
       "tags": [],
       "score": 25,
-      "new_name": "suspect_FUN_00007ae8"
+      "new_name": "suspect_FUN_00007ae8",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_0000dfb8",
@@ -1540,7 +1568,8 @@
       "category": null,
       "tags": [],
       "score": 7,
-      "new_name": "suspect_FUN_00005dac"
+      "new_name": "suspect_FUN_00005dac",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00005dac",
@@ -1548,7 +1577,8 @@
       "category": null,
       "tags": [],
       "score": 7,
-      "new_name": "suspect_FUN_00005dac"
+      "new_name": "suspect_FUN_00005dac",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00005f10",
@@ -1636,7 +1666,8 @@
       "category": null,
       "tags": [],
       "score": 6,
-      "new_name": "suspect_FUN_00009544"
+      "new_name": "suspect_FUN_00009544",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_0000b7dc",
@@ -1652,7 +1683,8 @@
       "category": null,
       "tags": [],
       "score": 6,
-      "new_name": "suspect_FUN_00009544"
+      "new_name": "suspect_FUN_00009544",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_0000b7dc",
@@ -1772,7 +1804,8 @@
         "physics"
       ],
       "score": 41,
-      "new_name": "phys_FUN_00014f80"
+      "new_name": "spu_apply_channel_params",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00021c64",
@@ -1962,7 +1995,8 @@
         "physics"
       ],
       "score": 14,
-      "new_name": "phys_FUN_0000edc8"
+      "new_name": "phys_FUN_0000edc8",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_0001f344",
@@ -2052,7 +2086,8 @@
         "physics"
       ],
       "score": 36,
-      "new_name": "phys_FUN_00014f80"
+      "new_name": "spu_apply_channel_params",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00021878",
@@ -2082,7 +2117,8 @@
         "physics"
       ],
       "score": 13,
-      "new_name": "phys_FUN_0000edc8"
+      "new_name": "phys_FUN_0000edc8",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_0001f344",
@@ -2147,42 +2183,45 @@
     {
       "name": "FUN_0001cc58",
       "ea": 117848,
-      "category": null,
+      "category": "naming",
       "tags": [],
       "score": 51,
-      "new_name": "suspect_FUN_0001cc58"
+      "new_name": "stub_return_zero"
     },
     {
       "name": "FUN_0001cc58",
       "ea": 117848,
-      "category": null,
+      "category": "naming",
       "tags": [],
       "score": 51,
-      "new_name": "suspect_FUN_0001cc58"
+      "new_name": "stub_return_zero"
     },
     {
       "name": "thunk_FUN_0001f5d4",
       "ea": 128448,
-      "category": null,
+      "category": "naming",
       "tags": [],
       "score": 32,
-      "new_name": "suspect_thunk_FUN_0001f5d4"
+      "new_name": "alloc_mem_thunk",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "thunk_FUN_0001f5d4",
       "ea": 128448,
-      "category": null,
+      "category": "naming",
       "tags": [],
       "score": 32,
-      "new_name": "suspect_thunk_FUN_0001f5d4"
+      "new_name": "alloc_mem_thunk",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_000090e0",
       "ea": 37088,
-      "category": null,
+      "category": "naming",
       "tags": [],
       "score": 53,
-      "new_name": "suspect_FUN_000090e0"
+      "new_name": "main_update",
+      "suggested_name": "orient_recompute_basis_candidate"
     },
     {
       "name": "FUN_0001f5e8",
@@ -2190,7 +2229,8 @@
       "category": null,
       "tags": [],
       "score": 22,
-      "new_name": "suspect_FUN_0001f5e8"
+      "new_name": "suspect_FUN_0001f5e8",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_0001f5e8",
@@ -2198,7 +2238,8 @@
       "category": null,
       "tags": [],
       "score": 22,
-      "new_name": "suspect_FUN_0001f5e8"
+      "new_name": "suspect_FUN_0001f5e8",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_0001d600",
@@ -2214,7 +2255,8 @@
       "category": null,
       "tags": [],
       "score": 55,
-      "new_name": "suspect_FUN_00008528"
+      "new_name": "suspect_FUN_00008528",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_0001d600",
@@ -2238,7 +2280,8 @@
       "category": null,
       "tags": [],
       "score": 23,
-      "new_name": "suspect_FUN_0000a944"
+      "new_name": "suspect_FUN_0000a944",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_0000af3c",
@@ -2246,7 +2289,8 @@
       "category": null,
       "tags": [],
       "score": 74,
-      "new_name": "suspect_FUN_0000af3c"
+      "new_name": "suspect_FUN_0000af3c",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00018a0c",
@@ -2334,7 +2378,8 @@
       "category": null,
       "tags": [],
       "score": 19,
-      "new_name": "suspect_FUN_00019ec0"
+      "new_name": "suspect_FUN_00019ec0",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_0000d208",
@@ -2390,7 +2435,8 @@
       "category": null,
       "tags": [],
       "score": 36,
-      "new_name": "suspect_FUN_0001003c"
+      "new_name": "suspect_FUN_0001003c",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_0001fab8",
@@ -2414,7 +2460,8 @@
       "category": null,
       "tags": [],
       "score": 23,
-      "new_name": "suspect_FUN_0000c490"
+      "new_name": "suspect_FUN_0000c490",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_0000e820",
@@ -2712,7 +2759,8 @@
       "category": null,
       "tags": [],
       "score": 83,
-      "new_name": "suspect_FUN_00004328"
+      "new_name": "suspect_FUN_00004328",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00004328",
@@ -2720,7 +2768,8 @@
       "category": null,
       "tags": [],
       "score": 83,
-      "new_name": "suspect_FUN_00004328"
+      "new_name": "suspect_FUN_00004328",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00005954",
@@ -2776,7 +2825,8 @@
       "category": null,
       "tags": [],
       "score": 31,
-      "new_name": "suspect_FUN_0000a654"
+      "new_name": "suspect_FUN_0000a654",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_0000a654",
@@ -2784,7 +2834,8 @@
       "category": null,
       "tags": [],
       "score": 31,
-      "new_name": "suspect_FUN_0000a654"
+      "new_name": "suspect_FUN_0000a654",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_0000293c",
@@ -2856,7 +2907,8 @@
       "category": null,
       "tags": [],
       "score": 16,
-      "new_name": "suspect_FUN_00000428"
+      "new_name": "suspect_FUN_00000428",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00000428",
@@ -2864,7 +2916,8 @@
       "category": null,
       "tags": [],
       "score": 16,
-      "new_name": "suspect_FUN_00000428"
+      "new_name": "suspect_FUN_00000428",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00005448",
@@ -3176,7 +3229,8 @@
       "category": null,
       "tags": [],
       "score": 5,
-      "new_name": "suspect_FUN_00000ca4"
+      "new_name": "suspect_FUN_00000ca4",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00000ca4",
@@ -3184,7 +3238,8 @@
       "category": null,
       "tags": [],
       "score": 5,
-      "new_name": "suspect_FUN_00000ca4"
+      "new_name": "suspect_FUN_00000ca4",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00006f28",
@@ -3660,7 +3715,8 @@
       "category": null,
       "tags": [],
       "score": 7,
-      "new_name": "suspect_FUN_00001cf4"
+      "new_name": "suspect_FUN_00001cf4",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00001cf4",
@@ -3668,7 +3724,8 @@
       "category": null,
       "tags": [],
       "score": 7,
-      "new_name": "suspect_FUN_00001cf4"
+      "new_name": "suspect_FUN_00001cf4",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00003b00",
@@ -4244,7 +4301,8 @@
         "physics"
       ],
       "score": 19,
-      "new_name": "phys_FUN_00001ad4"
+      "new_name": "phys_FUN_00001ad4",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00001ad4",
@@ -4254,7 +4312,8 @@
         "physics"
       ],
       "score": 19,
-      "new_name": "phys_FUN_00001ad4"
+      "new_name": "phys_FUN_00001ad4",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00007034",
@@ -4342,7 +4401,8 @@
       "category": null,
       "tags": [],
       "score": 64,
-      "new_name": "suspect_FUN_00002724"
+      "new_name": "suspect_FUN_00002724",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00002724",
@@ -4350,7 +4410,8 @@
       "category": null,
       "tags": [],
       "score": 64,
-      "new_name": "suspect_FUN_00002724"
+      "new_name": "suspect_FUN_00002724",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00001650",
@@ -4358,7 +4419,8 @@
       "category": null,
       "tags": [],
       "score": 23,
-      "new_name": "suspect_FUN_00001650"
+      "new_name": "suspect_FUN_00001650",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00001650",
@@ -4366,7 +4428,8 @@
       "category": null,
       "tags": [],
       "score": 23,
-      "new_name": "suspect_FUN_00001650"
+      "new_name": "suspect_FUN_00001650",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00008198",
@@ -4390,7 +4453,8 @@
       "category": null,
       "tags": [],
       "score": 20,
-      "new_name": "suspect_FUN_00000e04"
+      "new_name": "suspect_FUN_00000e04",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00000e04",
@@ -4398,7 +4462,8 @@
       "category": null,
       "tags": [],
       "score": 20,
-      "new_name": "suspect_FUN_00000e04"
+      "new_name": "suspect_FUN_00000e04",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00007bb8",
@@ -4454,7 +4519,8 @@
       "category": null,
       "tags": [],
       "score": 16,
-      "new_name": "suspect_FUN_000097f8"
+      "new_name": "suspect_FUN_000097f8",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_000097f8",
@@ -4462,7 +4528,8 @@
       "category": null,
       "tags": [],
       "score": 16,
-      "new_name": "suspect_FUN_000097f8"
+      "new_name": "suspect_FUN_000097f8",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00008824",
@@ -4550,7 +4617,8 @@
       "category": null,
       "tags": [],
       "score": 12,
-      "new_name": "suspect_FUN_00004a70"
+      "new_name": "suspect_FUN_00004a70",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00004a70",
@@ -4558,7 +4626,8 @@
       "category": null,
       "tags": [],
       "score": 12,
-      "new_name": "suspect_FUN_00004a70"
+      "new_name": "suspect_FUN_00004a70",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_0000451c",
@@ -4598,7 +4667,8 @@
       "category": null,
       "tags": [],
       "score": 11,
-      "new_name": "suspect_FUN_00001288"
+      "new_name": "suspect_FUN_00001288",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00001288",
@@ -4606,7 +4676,8 @@
       "category": null,
       "tags": [],
       "score": 11,
-      "new_name": "suspect_FUN_00001288"
+      "new_name": "suspect_FUN_00001288",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_000034dc",
@@ -4646,7 +4717,8 @@
       "category": null,
       "tags": [],
       "score": 10,
-      "new_name": "suspect_FUN_000042f8"
+      "new_name": "suspect_FUN_000042f8",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_000042f8",
@@ -4654,7 +4726,8 @@
       "category": null,
       "tags": [],
       "score": 10,
-      "new_name": "suspect_FUN_000042f8"
+      "new_name": "suspect_FUN_000042f8",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00007f90",
@@ -4694,7 +4767,8 @@
       "category": null,
       "tags": [],
       "score": 9,
-      "new_name": "suspect_FUN_000057cc"
+      "new_name": "suspect_FUN_000057cc",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_000057cc",
@@ -4702,7 +4776,8 @@
       "category": null,
       "tags": [],
       "score": 9,
-      "new_name": "suspect_FUN_000057cc"
+      "new_name": "suspect_FUN_000057cc",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_000093fc",
@@ -4758,7 +4833,8 @@
       "category": null,
       "tags": [],
       "score": 8,
-      "new_name": "suspect_FUN_000048c8"
+      "new_name": "suspect_FUN_000048c8",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_000072b4",
@@ -4774,7 +4850,8 @@
       "category": null,
       "tags": [],
       "score": 8,
-      "new_name": "suspect_FUN_000048c8"
+      "new_name": "suspect_FUN_000048c8",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_000072b4",
@@ -4902,7 +4979,8 @@
       "category": null,
       "tags": [],
       "score": 7,
-      "new_name": "suspect_FUN_000063c4"
+      "new_name": "suspect_FUN_000063c4",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_000063c4",
@@ -4910,7 +4988,8 @@
       "category": null,
       "tags": [],
       "score": 7,
-      "new_name": "suspect_FUN_000063c4"
+      "new_name": "suspect_FUN_000063c4",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00004ccc",
@@ -4918,7 +4997,8 @@
       "category": null,
       "tags": [],
       "score": 6,
-      "new_name": "suspect_FUN_00004ccc"
+      "new_name": "suspect_FUN_00004ccc",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00004ccc",
@@ -4926,7 +5006,8 @@
       "category": null,
       "tags": [],
       "score": 6,
-      "new_name": "suspect_FUN_00004ccc"
+      "new_name": "suspect_FUN_00004ccc",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_0000867c",
@@ -4950,7 +5031,8 @@
       "category": null,
       "tags": [],
       "score": 6,
-      "new_name": "suspect_FUN_000025ec"
+      "new_name": "suspect_FUN_000025ec",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00005c9c",
@@ -4974,7 +5056,8 @@
       "category": null,
       "tags": [],
       "score": 6,
-      "new_name": "suspect_FUN_000025ec"
+      "new_name": "suspect_FUN_000025ec",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00005c9c",
@@ -4998,7 +5081,8 @@
       "category": null,
       "tags": [],
       "score": 5,
-      "new_name": "suspect_FUN_0000a074"
+      "new_name": "suspect_FUN_0000a074",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_0000a074",
@@ -5006,7 +5090,8 @@
       "category": null,
       "tags": [],
       "score": 5,
-      "new_name": "suspect_FUN_0000a074"
+      "new_name": "suspect_FUN_0000a074",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00007ab4",
@@ -5128,7 +5213,8 @@
       "category": null,
       "tags": [],
       "score": 38,
-      "new_name": "suspect_FUN_00009510"
+      "new_name": "suspect_FUN_00009510",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00009510",
@@ -5136,7 +5222,8 @@
       "category": null,
       "tags": [],
       "score": 38,
-      "new_name": "suspect_FUN_00009510"
+      "new_name": "suspect_FUN_00009510",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00007c64",
@@ -5192,7 +5279,8 @@
       "category": null,
       "tags": [],
       "score": 18,
-      "new_name": "suspect_FUN_0000a2b8"
+      "new_name": "suspect_FUN_0000a2b8",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_0000a2b8",
@@ -5200,7 +5288,8 @@
       "category": null,
       "tags": [],
       "score": 18,
-      "new_name": "suspect_FUN_0000a2b8"
+      "new_name": "suspect_FUN_0000a2b8",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00008d48",
@@ -5232,7 +5321,8 @@
       "category": null,
       "tags": [],
       "score": 15,
-      "new_name": "suspect_FUN_00006f74"
+      "new_name": "suspect_FUN_00006f74",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_00002258",
@@ -5248,7 +5338,8 @@
       "category": null,
       "tags": [],
       "score": 15,
-      "new_name": "suspect_FUN_00006f74"
+      "new_name": "suspect_FUN_00006f74",
+      "suggested_name": "q12_candidate"
     },
     {
       "name": "FUN_000088b8",
@@ -5866,7 +5957,8 @@
       "category": null,
       "tags": [],
       "score": 136,
-      "new_name": "suspect_FUN_00001c84"
+      "new_name": "suspect_FUN_00001c84",
+      "suggested_name": "orientation_update_candidate"
     },
     {
       "name": "FUN_00001c84",
@@ -5874,7 +5966,8 @@
       "category": null,
       "tags": [],
       "score": 136,
-      "new_name": "suspect_FUN_00001c84"
+      "new_name": "suspect_FUN_00001c84",
+      "suggested_name": "orientation_update_candidate"
     },
     {
       "name": "FUN_000010b8",

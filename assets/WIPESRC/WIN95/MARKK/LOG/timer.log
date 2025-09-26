@@ -1,0 +1,5 @@
+WATCOM C32 Optimizing Compiler  Version 10.6 
+Copyright by WATCOM International Corp. 1984, 1996. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+timer.c(10): Error! E1011: Symbol 'pmtimer' has not been declared
+timer.c: 20 lines, included 902, 0 warnings, 1 errors

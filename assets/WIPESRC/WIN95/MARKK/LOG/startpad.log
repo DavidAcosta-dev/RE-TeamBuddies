@@ -1,0 +1,6 @@
+WATCOM C32 Optimizing Compiler  Version 10.6 
+Copyright by WATCOM International Corp. 1984, 1996. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+..\markk\libapi.h(116): Error! E1009: Expecting ',' but found 'KeyUp'
+..\markk\libapi.h(116): Error! E1116: An id list not allowed except for function definition
+startpad.c: 90 lines, included 469, 0 warnings, 2 errors

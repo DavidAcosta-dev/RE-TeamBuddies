@@ -1,0 +1,666 @@
+{
+  "functions": [
+    {
+      "name": "FUN_00015064",
+      "binary": "GAME.BIN",
+      "ea": 86116,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_0001cbb4",
+      "binary": "GAME.BIN",
+      "ea": 117684,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00020284",
+      "binary": "GAME.BIN",
+      "ea": 131716,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00025c18",
+      "binary": "GAME.BIN",
+      "ea": 154648,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00025eb0",
+      "binary": "GAME.BIN",
+      "ea": 155312,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_0002ffac",
+      "binary": "GAME.BIN",
+      "ea": 196524,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00032c18",
+      "binary": "GAME.BIN",
+      "ea": 207896,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_0003339c",
+      "binary": "GAME.BIN",
+      "ea": 209820,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_000337f0",
+      "binary": "GAME.BIN",
+      "ea": 210928,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00033f50",
+      "binary": "GAME.BIN",
+      "ea": 212816,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00034a08",
+      "binary": "GAME.BIN",
+      "ea": 215560,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00034d8c",
+      "binary": "GAME.BIN",
+      "ea": 216460,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00035088",
+      "binary": "GAME.BIN",
+      "ea": 217224,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_000352ac",
+      "binary": "GAME.BIN",
+      "ea": 217772,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_000356ac",
+      "binary": "GAME.BIN",
+      "ea": 218796,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00036900",
+      "binary": "GAME.BIN",
+      "ea": 223488,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00036c34",
+      "binary": "GAME.BIN",
+      "ea": 224308,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00037824",
+      "binary": "GAME.BIN",
+      "ea": 227364,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00037d1c",
+      "binary": "GAME.BIN",
+      "ea": 228636,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_000384e0",
+      "binary": "GAME.BIN",
+      "ea": 230624,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00038748",
+      "binary": "GAME.BIN",
+      "ea": 231240,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_000390c8",
+      "binary": "GAME.BIN",
+      "ea": 233672,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_000396b4",
+      "binary": "GAME.BIN",
+      "ea": 235188,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_0003a014",
+      "binary": "GAME.BIN",
+      "ea": 237588,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_0003b8ac",
+      "binary": "GAME.BIN",
+      "ea": 243884,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_0003baf8",
+      "binary": "GAME.BIN",
+      "ea": 244472,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_0003c74c",
+      "binary": "GAME.BIN",
+      "ea": 247628,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_0003df28",
+      "binary": "GAME.BIN",
+      "ea": 253736,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_0003e494",
+      "binary": "GAME.BIN",
+      "ea": 255124,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_0003e4b4",
+      "binary": "GAME.BIN",
+      "ea": 255156,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_0003ea40",
+      "binary": "GAME.BIN",
+      "ea": 256576,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00042904",
+      "binary": "GAME.BIN",
+      "ea": 272644,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00043348",
+      "binary": "GAME.BIN",
+      "ea": 275272,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {
+        "13": 4,
+        "38": 4,
+        "1": 4
+      },
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00044754",
+      "binary": "GAME.BIN",
+      "ea": 280404,
+      "and_masks": {
+        "184": 4,
+        "38": 4,
+        "4095": 4,
+        "2147397986": 4,
+        "4": 4
+      },
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00046024",
+      "binary": "GAME.BIN",
+      "ea": 286756,
+      "and_masks": {
+        "26": 4,
+        "38": 4,
+        "0": 8
+      },
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {
+        "26": 4,
+        "38": 4,
+        "0": 8
+      },
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00048150",
+      "binary": "GAME.BIN",
+      "ea": 295248,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00003cf0",
+      "binary": "MAIN.EXE",
+      "ea": 15600,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_0000cf48",
+      "binary": "MAIN.EXE",
+      "ea": 53064,
+      "and_masks": {
+        "32": 4,
+        "38": 4,
+        "0": 8
+      },
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {
+        "32": 4,
+        "38": 4,
+        "0": 8
+      },
+      "not_count": 0
+    },
+    {
+      "name": "FUN_000114a4",
+      "binary": "MAIN.EXE",
+      "ea": 70820,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {
+        "2147127136": 4,
+        "38": 4
+      },
+      "not_count": 0
+    },
+    {
+      "name": "FUN_0001e1f4",
+      "binary": "MAIN.EXE",
+      "ea": 123380,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_0001e674",
+      "binary": "MAIN.EXE",
+      "ea": 124532,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00001b68",
+      "binary": "MNU.BIN",
+      "ea": 7016,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00002160",
+      "binary": "MNU.BIN",
+      "ea": 8544,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {
+        "38": 4,
+        "65536": 4,
+        "16": 4
+      },
+      "not_count": 0
+    },
+    {
+      "name": "FUN_0000293c",
+      "binary": "MNU.BIN",
+      "ea": 10556,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_000031d8",
+      "binary": "MNU.BIN",
+      "ea": 12760,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00003dc0",
+      "binary": "MNU.BIN",
+      "ea": 15808,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00004328",
+      "binary": "MNU.BIN",
+      "ea": 17192,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00007420",
+      "binary": "MNU.BIN",
+      "ea": 29728,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00008a1c",
+      "binary": "MNU.BIN",
+      "ea": 35356,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00000a30",
+      "binary": "ROT.BIN",
+      "ea": 2608,
+      "and_masks": {
+        "38": 4,
+        "20": 4,
+        "31": 4,
+        "1": 4
+      },
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {
+        "38": 4,
+        "20": 4,
+        "31": 4,
+        "1": 4
+      },
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00000a64",
+      "binary": "ROT.BIN",
+      "ea": 2660,
+      "and_masks": {
+        "38": 8,
+        "31": 4,
+        "1": 4
+      },
+      "or_masks": {
+        "38": 8,
+        "31": 4,
+        "1": 4
+      },
+      "xor_masks": {},
+      "cmp_masks": {
+        "38": 8,
+        "31": 4,
+        "1": 4
+      },
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00000e04",
+      "binary": "ROT.BIN",
+      "ea": 3588,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00003b84",
+      "binary": "ROT.BIN",
+      "ea": 15236,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_000042f8",
+      "binary": "ROT.BIN",
+      "ea": 17144,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00009178",
+      "binary": "ROT.BIN",
+      "ea": 37240,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_000093fc",
+      "binary": "ROT.BIN",
+      "ea": 37884,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00001998",
+      "binary": "SYS.BIN",
+      "ea": 6552,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_00000408",
+      "binary": "TUTO.BIN",
+      "ea": 1032,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    },
+    {
+      "name": "FUN_000010b8",
+      "binary": "TUTO.BIN",
+      "ea": 4280,
+      "and_masks": {},
+      "or_masks": {},
+      "xor_masks": {},
+      "cmp_masks": {},
+      "not_count": 0
+    }
+  ],
+  "global_mask_counts": {
+    "13": 4,
+    "38": 64,
+    "1": 24,
+    "184": 4,
+    "4095": 4,
+    "2147397986": 4,
+    "4": 4,
+    "26": 8,
+    "0": 32,
+    "32": 8,
+    "2147127136": 4,
+    "65536": 4,
+    "16": 4,
+    "20": 8,
+    "31": 20
+  }
+}

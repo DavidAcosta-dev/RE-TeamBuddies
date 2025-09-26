@@ -1,0 +1,14 @@
+comp.c(17): Error! E1055: Unable to open 'ati3dcif.h'
+comp.c(27): Error! E1011: Symbol 'C3D_TMAP' has not been declared
+comp.c(27): Error! E1009: Expecting ';' but found 'TMap'
+comp.c(28): Error! E1077: Missing '}'
+comp.c(28): Warning! W107: Missing return value for function 'WinMain'
+comp.c(29): Error! E1022: Missing or misspelled data type near 'C3D_EC'
+comp.c(33): Error! E1022: Missing or misspelled data type near 'C3D_UINT32'
+comp.c(36): Error! E1022: Missing or misspelled data type near 'C3D_UINT32'
+comp.c(37): Error! E1022: Missing or misspelled data type near 'C3D_UINT8'
+comp.c(38): Error! E1022: Missing or misspelled data type near 'C3D_UINT16'
+comp.c(44): Error! E1054: Expression must be constant
+comp.c(48): Error! E1129: Type does not agree with previous definition of 'hTexFile'
+comp.c(50): Error! E1054: Expression must be constant
+comp.c(50): Error! E1012: Exp

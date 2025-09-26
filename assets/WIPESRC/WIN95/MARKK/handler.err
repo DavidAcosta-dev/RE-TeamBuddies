@@ -1,0 +1,1 @@
+handler.c(8): Error! E1062: Inconsistent return type for function 'InstallProtectedModeKeyboardHandler'

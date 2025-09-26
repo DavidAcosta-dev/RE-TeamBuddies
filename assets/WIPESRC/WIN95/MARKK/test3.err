@@ -1,0 +1,78 @@
+WATCOM C32 Optimizing Compiler  Version 10.6 
+Copyright by WATCOM International Corp. 1984, 1996. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+etcvars.c: 147 lines, included 906, 0 warnings, 0 errors
+Code size: 0
+WATCOM C32 Optimizing Compiler  Version 10.6 
+Copyright by WATCOM International Corp. 1984, 1996. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+pmkey.c: 146 lines, included 906, 0 warnings, 0 errors
+Code size: 480
+WATCOM C32 Optimizing Compiler  Version 10.6 
+Copyright by WATCOM International Corp. 1984, 1996. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+pmjoy.c: 176 lines, included 906, 0 warnings, 0 errors
+Code size: 435
+WATCOM C32 Optimizing Compiler  Version 10.6 
+Copyright by WATCOM International Corp. 1984, 1996. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+pmmouse.c: 137 lines, included 1533, 0 warnings, 0 errors
+Code size: 994
+WATCOM C32 Optimizing Compiler  Version 10.6 
+Copyright by WATCOM International Corp. 1984, 1996. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+..\markk\libapi.h(116): Error! E1009: Expecting ',' but found 'KeyUp'
+..\markk\libapi.h(116): Error! E1116: An id list not allowed except for function definition
+initpad.c: 26 lines, included 469, 0 warnings, 2 errors
+WATCOM C32 Optimizing Compiler  Version 10.6 
+Copyright by WATCOM International Corp. 1984, 1996. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+..\markk\libapi.h(116): Error! E1009: Expecting ',' but found 'KeyUp'
+..\markk\libapi.h(116): Error! E1116: An id list not allowed except for function definition
+startpad.c: 90 lines, included 469, 0 warnings, 2 errors
+WATCOM C32 Optimizing Compiler  Version 10.6 
+Copyright by WATCOM International Corp. 1984, 1996. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+..\markk\libapi.h(116): Error! E1009: Expecting ',' but found 'KeyUp'
+..\markk\libapi.h(116): Error! E1116: An id list not allowed except for function definition
+stoppad.c: 56 lines, included 469, 0 warnings, 2 errors
+WATCOM C32 Optimizing Compiler  Version 10.6 
+Copyright by WATCOM International Corp. 1984, 1996. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+handler.c(8): Error! E1062: Inconsistent return type for function 'InstallProtectedModeKeyboardHandler'
+handler.c: 97 lines, included 1307, 0 warnings, 1 errors
+WATCOM C32 Optimizing Compiler  Version 10.6 
+Copyright by WATCOM International Corp. 1984, 1996. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+config.c: 165 lines, included 906, 0 warnings, 0 errors
+Code size: 1199
+WATCOM C32 Optimizing Compiler  Version 10.6 
+Copyright by WATCOM International Corp. 1984, 1996. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+timer.c(10): Error! E1011: Symbol 'pmtimer' has not been declared
+timer.c: 20 lines, included 902, 0 warnings, 1 errors
+WATCOM C32 Optimizing Compiler  Version 10.6 
+Copyright by WATCOM International Corp. 1984, 1996. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+pmtimer.c: 22 lines, included 1188, 0 warnings, 0 errors
+Code size: 85
+WATCOM C/C++32 Compile and Link Utility Version 10.6
+Copyright by WATCOM International Corp. 1988, 1996. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+       wcc386 TEST3.C  /s /d2
+WATCOM C32 Optimizing Compiler  Version 10.6 
+Copyright by WATCOM International Corp. 1984, 1996. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+TEST3.C: 62 lines, included 1250, 0 warnings, 0 errors
+Code size: 218
+
+WATCOM Linker Version 10.6
+Copyright by WATCOM International Corp. 1985, 1996. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+loading object files
+searching libraries
+Warning(1028): SetCursorPosition_ is an undefined reference
+creating a DOS/4G executable
+file TEST3.obj(D:\WIPESRC\WIN95\MARKK\TEST3.C): undefined symbol SetCursorPosition_
+Error: Linker returned a bad status
+

@@ -1,0 +1,370 @@
+--------------------Configuration: Wipeout98 - Win32 Debug--------------------
+Begining build with project "D:\WIPESRC\Wipeout98\Wipeout98.dsp", at root.
+Active configuration is Win32 (x86) Application (based on Win32 (x86) Application)
+
+Project's tools are:
+			"32-bit C/C++ Compiler for 80x86" with flags "/nologo /MLd /W3 /Gm /GX /Zi /Od /D "_DEBUG" /D "WIN32" /D "_WINDOWS" /D "USE_ATI" /Fp".\Debug/Wipeout98.pch" /YX /Fo".\Debug/" /Fd".\Debug/" /FD /c "
+			"OLE Type Library Maker" with flags "/nologo /D "_DEBUG" /mktyplib203 /win32 "
+			"Win32 Resource Compiler" with flags "/l 0x409 /d "_DEBUG" "
+			"Browser Database Maker" with flags "/nologo /o".\Debug/Wipeout98.bsc" "
+			"COFF Linker for 80x86" with flags "kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:".\Debug/Wipeout98.pdb" /debug /machine:I386 /out:".\Debug/Wipeout98.exe" "
+			"Custom Build" with flags ""
+			"<Component 0xa>" with flags ""
+
+Creating temp file "f:\RSP1271.TMP" with contents <kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:".\Debug/Wipeout98.pdb" /debug /machine:I386 /out:".\Debug/Wipeout98.exe" 
+.\Debug\Win.obj
+.\Debug\Wincd.obj
+.\Debug\Winsnd.obj
+.\Debug\Wave.obj
+.\Debug\Winclip.obj
+.\Debug\regread.obj
+.\Debug\Wintime.obj
+.\Debug\Wtl.obj
+.\Debug\Main.obj
+.\Debug\Track.obj
+.\Debug\Global.obj
+.\Debug\Utils.obj
+.\Debug\Control.obj
+.\Debug\Draw.obj
+.\Debug\Ships.obj
+.\Debug\Ttf.obj
+.\Debug\Camera.obj
+.\Debug\Search.obj
+.\Debug\Hud.obj
+.\Debug\Dynam.obj
+.\Debug\Weapon.obj
+.\Debug\Collide.obj
+.\Debug\Sound.obj
+.\Debug\Ayrace.obj
+.\Debug\Racectrl.obj
+.\Debug\Init.obj
+.\Debug\Options.obj
+.\Debug\Grabber.obj
+.\Debug\Radtrk.obj
+.\Debug\Radscn.obj
+.\Debug\Editor.obj>
+Creating command line "link.exe @f:\RSP1271.TMP" 
+Linking...
+Win.obj : error LNK2001: unresolved external symbol _fiforead
+Win.obj : error LNK2001: unresolved external symbol _ATI3DCIF_TextureUnreg@4
+Win.obj : error LNK2001: unresolved external symbol _EndOTag
+Win.obj : error LNK2001: unresolved external symbol _rendering
+Win.obj : error LNK2001: unresolved external symbol _Swap
+Main.obj : error LNK2001: unresolved external symbol _Swap
+Ayrace.obj : error LNK2001: unresolved external symbol _Swap
+Racectrl.obj : error LNK2001: unresolved external symbol _Swap
+Win.obj : error LNK2001: unresolved external symbol _LoadPilotIntoVram
+Hud.obj : error LNK2001: unresolved external symbol _LoadPilotIntoVram
+Win.obj : error LNK2001: unresolved external symbol _reloadScr
+Win.obj : error LNK2001: unresolved external symbol _RemoveTimer
+Main.obj : error LNK2001: unresolved external symbol _RemoveTimer
+Win.obj : error LNK2001: unresolved external symbol _startFireText
+Ayrace.obj : error LNK2001: unresolved external symbol _startFireText
+Win.obj : error LNK2001: unresolved external symbol _startIceText
+Ayrace.obj : error LNK2001: unresolved external symbol _startIceText
+Win.obj : error LNK2001: unresolved external symbol _InstallTimer
+Main.obj : error LNK2001: unresolved external symbol _InstallTimer
+Win.obj : error LNK2001: unresolved external symbol _pmkey
+Win.obj : error LNK2001: unresolved external symbol _etc_Mouse1Config
+Win.obj : error LNK2001: unresolved external symbol _etc_Mouse1
+Control.obj : error LNK2001: unresolved external symbol _etc_Mouse1
+Win.obj : error LNK2001: unresolved external symbol _mouse_sensitivity
+Win.obj : error LNK2001: unresolved external symbol _etc_Mouse1Switch
+Win.obj : error LNK2001: unresolved external symbol _etc_Mouse1Register
+Win.obj : error LNK2001: unresolved external symbol _etc_TransferBuffer1
+Win.obj : error LNK2001: unresolved external symbol _etc_Joy1Config
+Win.obj : error LNK2001: unresolved external symbol _etc_Joystick1Register
+Win.obj : error LNK2001: unresolved external symbol _etc_Joy1
+Control.obj : error LNK2001: unresolved external symbol _etc_Joy1
+Win.obj : error LNK2001: unresolved external symbol _etc_Joystick1Switch
+Win.obj : error LNK2001: unresolved external symbol _LoadVRam
+Main.obj : error LNK2001: unresolved external symbol _LoadVRam
+Win.obj : error LNK2001: unresolved external symbol _ShellSetPrefs
+Win.obj : error LNK2001: unresolved external symbol _ATI3DCIF_ContextSetState@12
+Win.obj : error LNK2001: unresolved external symbol _ATI3DCIF_GetInfo@4
+Win.obj : error LNK2001: unresolved external symbol __imp__joyReleaseCapture@4
+Win.obj : error LNK2001: unresolved external symbol _ShellGetMovieDirectory
+Win.obj : error LNK2001: unresolved external symbol _ShellGetDataDirectory
+Win.obj : error LNK2001: unresolved external symbol _ShellGetGameDirectory
+Win.obj : error LNK2001: unresolved external symbol _DirectDrawCreate@12
+Win.obj : error LNK2001: unresolved external symbol _CurBufferJ
+Win.obj : error LNK2001: unresolved external symbol _CurBuffer
+Win.obj : error LNK2001: unresolved external symbol _ResetPitch
+Win.obj : error LNK2001: unresolved external symbol _ATI3DCIF_Term@0
+Win.obj : error LNK2001: unresolved external symbol _ATI3DCIF_ContextDestroy@4
+Win.obj : error LNK2001: unresolved external symbol _ATI3DCIF_ContextCreate@0
+Win.obj : error LNK2001: unresolved external symbol _ATI3DCIF_Init@0
+Win.obj : error LNK2001: unresolved external symbol _ATI3DCIF_RenderBegin@4
+Win.obj : error LNK2001: unresolved external symbol _ATI3DCIF_RenderEnd@0
+Win.obj : error LNK2001: unresolved external symbol _ATI3DCIF_RenderPrimList@8
+Win.obj : error LNK2001: unresolved external symbol _JJSTextureTable
+Win.obj : error LNK2001: unresolved external symbol _JJSTextureMenuTable
+Win.obj : error LNK2001: unresolved external symbol _DepthFadeTble
+Dynam.obj : error LNK2001: unresolved external symbol _DepthFadeTble
+Weapon.obj : error LNK2001: unresolved external symbol _DepthFadeTble
+Win.obj : error LNK2001: unresolved external symbol _screenZ
+Win.obj : error LNK2001: unresolved external symbol _ATI3DCIF_TextureReg@8
+Win.obj : error LNK2001: unresolved external symbol _stuffem256
+Win.obj : error LNK2001: unresolved external symbol _winLoseIn
+Ayrace.obj : error LNK2001: unresolved external symbol _winLoseIn
+Win.obj : error LNK2001: unresolved external symbol _sleep
+Win.obj : error LNK2001: unresolved external symbol __imp__mciSendCommandA@16
+Wincd.obj : error LNK2001: unresolved external symbol __imp__mciSendCommandA@16
+Win.obj : error LNK2001: unresolved external symbol _MCIWndCreateA
+Win.obj : error LNK2001: unresolved external symbol __imp__joyGetPos@8
+Win.obj : error LNK2001: unresolved external symbol __imp__joySetCapture@16
+Win.obj : error LNK2001: unresolved external symbol __imp__joySetThreshold@8
+Win.obj : error LNK2001: unresolved external symbol __imp__joyGetDevCapsA@12
+Win.obj : error LNK2001: unresolved external symbol _JJSReadTIM
+Racectrl.obj : error LNK2001: unresolved external symbol _DAlloc
+Init.obj : error LNK2001: unresolved external symbol _DAlloc
+Radscn.obj : error LNK2001: unresolved external symbol _DAlloc
+Win.obj : error LNK2001: unresolved external symbol _DAlloc
+Track.obj : error LNK2001: unresolved external symbol _DAlloc
+Ttf.obj : error LNK2001: unresolved external symbol _DAlloc
+Weapon.obj : error LNK2001: unresolved external symbol _DAlloc
+Wincd.obj : error LNK2001: unresolved external symbol __imp__auxGetDevCapsA@12
+Wincd.obj : error LNK2001: unresolved external symbol __imp__auxGetNumDevs@0
+Winsnd.obj : error LNK2001: unresolved external symbol _DirectSoundCreate@12
+Winsnd.obj : error LNK2001: unresolved external symbol _globalvol
+Wave.obj : error LNK2001: unresolved external symbol __imp__mmioClose@8
+Wave.obj : error LNK2001: unresolved external symbol __imp__mmioAscend@12
+Wave.obj : error LNK2001: unresolved external symbol __imp__mmioRead@12
+Wave.obj : error LNK2001: unresolved external symbol __imp__mmioDescend@16
+Wave.obj : error LNK2001: unresolved external symbol __imp__mmioOpenA@12
+Wave.obj : error LNK2001: unresolved external symbol _AssertFail
+Wave.obj : error LNK2001: unresolved external symbol __imp__mmioSeek@12
+Wave.obj : error LNK2001: unresolved external symbol __imp__mmioSetInfo@12
+Wave.obj : error LNK2001: unresolved external symbol __imp__mmioAdvance@12
+Wave.obj : error LNK2001: unresolved external symbol __imp__mmioGetInfo@12
+Wave.obj : error LNK2001: unresolved external symbol __imp__mmioWrite@12
+Wave.obj : error LNK2001: unresolved external symbol __imp__mmioCreateChunk@12
+Winclip.obj : error LNK2001: unresolved external symbol _SetPolyF3
+Winclip.obj : error LNK2001: unresolved external symbol _AddPrim
+Hud.obj : error LNK2001: unresolved external symbol _AddPrim
+Weapon.obj : error LNK2001: unresolved external symbol _AddPrim
+Options.obj : error LNK2001: unresolved external symbol _AddPrim
+Winclip.obj : error LNK2001: unresolved external symbol _SetPolyG3
+Winclip.obj : error LNK2001: unresolved external symbol _SetPolyFT3
+Winclip.obj : error LNK2001: unresolved external symbol _SetPolyGT3
+Wintime.obj : error LNK2001: unresolved external symbol __imp__timeBeginPeriod@4
+Wintime.obj : error LNK2001: unresolved external symbol __imp__timeGetDevCaps@8
+Wintime.obj : error LNK2001: unresolved external symbol __imp__timeEndPeriod@4
+Wintime.obj : error LNK2001: unresolved external symbol __imp__timeSetEvent@20
+Wintime.obj : error LNK2001: unresolved external symbol __imp__timeKillEvent@4
+Wintime.obj : error LNK2001: unresolved external symbol __imp__timeGetTime@0
+Main.obj : error LNK2001: unresolved external symbol _InitAJSVSync
+Ayrace.obj : error LNK2001: unresolved external symbol _InitAJSVSync
+Racectrl.obj : error LNK2001: unresolved external symbol _InitAJSVSync
+Main.obj : error LNK2001: unresolved external symbol _ClearOTagR
+Ayrace.obj : error LNK2001: unresolved external symbol _ClearOTagR
+Racectrl.obj : error LNK2001: unresolved external symbol _ClearOTagR
+Racectrl.obj : error LNK2001: unresolved external symbol _CurrentScreen
+Options.obj : error LNK2001: unresolved external symbol _CurrentScreen
+Main.obj : error LNK2001: unresolved external symbol _CurrentScreen
+Hud.obj : error LNK2001: unresolved external symbol _CurrentScreen
+Weapon.obj : error LNK2001: unresolved external symbol _CurrentScreen
+Ayrace.obj : error LNK2001: unresolved external symbol _CurrentScreen
+Main.obj : error LNK2001: unresolved external symbol _shield_palette
+Main.obj : error LNK2001: unresolved external symbol _andybodge
+Main.obj : error LNK2001: unresolved external symbol _MenuControl
+Main.obj : error LNK2001: unresolved external symbol _SetDrawDistance
+Control.obj : error LNK2001: unresolved external symbol _SetDrawDistance
+Main.obj : error LNK2001: unresolved external symbol _Resolution
+Control.obj : error LNK2001: unresolved external symbol _Resolution
+Main.obj : error LNK2001: unresolved external symbol _GetMenuKey
+Racectrl.obj : error LNK2001: unresolved external symbol _GetMenuKey
+Main.obj : error LNK2001: unresolved external symbol _InitChampionship
+Racectrl.obj : error LNK2001: unresolved external symbol _InitChampionship
+Main.obj : error LNK2001: unresolved external symbol _InitPadSettings
+Main.obj : error LNK2001: unresolved external symbol _LoadCardData
+Main.obj : error LNK2001: unresolved external symbol _MostRecentSaveFile
+Main.obj : error LNK2001: unresolved external symbol _InitGameData
+Main.obj : error LNK2001: unresolved external symbol _HighScore
+Main.obj : error LNK2001: unresolved external symbol _InitGameDisplay
+Main.obj : error LNK2001: unresolved external symbol _StartPAD
+Control.obj : error LNK2001: unresolved external symbol _StartPAD
+Main.obj : error LNK2001: unresolved external symbol _ShellGetPrefs
+Main.obj : error LNK2001: unresolved external symbol _InitSonyDisplay
+Main.obj : error LNK2001: unresolved external symbol _InitialiseLightMatrix
+Main.obj : error LNK2001: unresolved external symbol _InitialiseColourMatrix
+Main.obj : error LNK2001: unresolved external symbol _InitialiseAmbientColour
+Main.obj : error LNK2001: unresolved external symbol _InitSystem
+Main.obj : error LNK2001: unresolved external symbol _ResetCallback
+Main.obj : error LNK2001: unresolved external symbol _init3d
+Main.obj : error LNK2001: unresolved external symbol _Set_Device
+Main.obj : error LNK2001: unresolved external symbol _etc_InputDeviceSelect
+Control.obj : error LNK2001: unresolved external symbol _etc_InputDeviceSelect
+Main.obj : error LNK2001: unresolved external symbol _make_data_cache
+Main.obj : error LNK2001: unresolved external symbol _CreateSineTable
+Main.obj : error LNK2001: unresolved external symbol _InitDynamicMem
+Main.obj : error LNK2001: unresolved external symbol _DFree
+Ttf.obj : error LNK2001: unresolved external symbol _DFree
+Init.obj : error LNK2001: unresolved external symbol _DFree
+Radscn.obj : error LNK2001: unresolved external symbol _DFree
+Main.obj : error LNK2001: unresolved external symbol _DrawSync
+Init.obj : error LNK2001: unresolved external symbol _DrawSync
+Main.obj : error LNK2001: unresolved external symbol _DrawPrim
+Hud.obj : error LNK2001: unresolved external symbol _DrawPrim
+Main.obj : error LNK2001: unresolved external symbol _BlockFill
+Racectrl.obj : error LNK2001: unresolved external symbol _BlockFill
+Main.obj : error LNK2001: unresolved external symbol _ResetVMode
+Track.obj : error LNK2001: unresolved external symbol _IntelLong
+Track.obj : error LNK2001: unresolved external symbol _IntelShort
+Radscn.obj : error LNK2001: unresolved external symbol _Error
+Track.obj : error LNK2001: unresolved external symbol _Error
+Ttf.obj : error LNK2001: unresolved external symbol _Error
+Init.obj : error LNK2001: unresolved external symbol _Error
+Radtrk.obj : error LNK2001: unresolved external symbol _Error
+Track.obj : error LNK2001: unresolved external symbol _LoadFile
+Ttf.obj : error LNK2001: unresolved external symbol _LoadFile
+Init.obj : error LNK2001: unresolved external symbol _LoadFile
+Track.obj : error LNK2001: unresolved external symbol _FileLength
+Ttf.obj : error LNK2001: unresolved external symbol _FileLength
+Weapon.obj : error LNK2001: unresolved external symbol _FileLength
+Init.obj : error LNK2001: unresolved external symbol _FileLength
+Track.obj : error LNK2001: unresolved external symbol _FindNearestColourIndex
+Racectrl.obj : error LNK2001: unresolved external symbol _FindNearestColourIndex
+Track.obj : error LNK2001: unresolved external symbol _AsmTransformTrackHi
+Track.obj : error LNK2001: unresolved external symbol _AsmTransformTrackMed
+Track.obj : error LNK2001: unresolved external symbol _AsmTransformTrackLo
+Track.obj : error LNK2001: unresolved external symbol _AsmNextFrame
+Weapon.obj : error LNK2001: unresolved external symbol _SquareRoot0
+Collide.obj : error LNK2001: unresolved external symbol _SquareRoot0
+Radtrk.obj : error LNK2001: unresolved external symbol _SquareRoot0
+Radscn.obj : error LNK2001: unresolved external symbol _SquareRoot0
+Utils.obj : error LNK2001: unresolved external symbol _SquareRoot0
+Control.obj : error LNK2001: unresolved external symbol _SquareRoot0
+Camera.obj : error LNK2001: unresolved external symbol _SquareRoot0
+Search.obj : error LNK2001: unresolved external symbol _SquareRoot0
+Weapon.obj : error LNK2001: unresolved external symbol _rcos
+Control.obj : error LNK2001: unresolved external symbol _rcos
+Camera.obj : error LNK2001: unresolved external symbol _rcos
+Hud.obj : error LNK2001: unresolved external symbol _rcos
+Dynam.obj : error LNK2001: unresolved external symbol _rcos
+Control.obj : error LNK2001: unresolved external symbol _rsin
+Camera.obj : error LNK2001: unresolved external symbol _rsin
+Dynam.obj : error LNK2001: unresolved external symbol _rsin
+Weapon.obj : error LNK2001: unresolved external symbol _rsin
+Control.obj : error LNK2001: unresolved external symbol _InitPAD
+Control.obj : error LNK2001: unresolved external symbol _ColourStartBoom
+Control.obj : error LNK2001: unresolved external symbol _SpuSetVoiceAttr
+Weapon.obj : error LNK2001: unresolved external symbol _SpuSetVoiceAttr
+Control.obj : error LNK2001: unresolved external symbol _SetView
+Control.obj : error LNK2001: unresolved external symbol _SetBrake
+Control.obj : error LNK2001: unresolved external symbol _SetFire
+Control.obj : error LNK2001: unresolved external symbol _SetShake
+Weapon.obj : error LNK2001: unresolved external symbol _SetShake
+Control.obj : error LNK2001: unresolved external symbol _FntPrint
+Dynam.obj : error LNK2001: unresolved external symbol _FntPrint
+Collide.obj : error LNK2001: unresolved external symbol _FntPrint
+Weapon.obj : error LNK2001: unresolved external symbol _ratan2
+Sound.obj : error LNK2001: unresolved external symbol _ratan2
+Radtrk.obj : error LNK2001: unresolved external symbol _ratan2
+Control.obj : error LNK2001: unresolved external symbol _ratan2
+Draw.obj : error LNK2001: unresolved external symbol _ratan2
+Ships.obj : error LNK2001: unresolved external symbol _ratan2
+Camera.obj : error LNK2001: unresolved external symbol _ratan2
+Control.obj : error LNK2001: unresolved external symbol _JoyMinY
+Control.obj : error LNK2001: unresolved external symbol _JoyMaxY
+Control.obj : error LNK2001: unresolved external symbol _JoyMinX
+Control.obj : error LNK2001: unresolved external symbol _JoyMaxX
+Draw.obj : error LNK2001: unresolved external symbol _DrawObjectAsm
+Ships.obj : error LNK2001: unresolved external symbol _DrawObjectAsm
+Draw.obj : error LNK2001: unresolved external symbol _RotTrans
+Ships.obj : error LNK2001: unresolved external symbol _RotTrans
+Dynam.obj : error LNK2001: unresolved external symbol _RotTrans
+Draw.obj : error LNK2001: unresolved external symbol _SetSkeletonTransform
+Ships.obj : error LNK2001: unresolved external symbol _SetSkeletonTransform
+Dynam.obj : error LNK2001: unresolved external symbol _SetSkeletonTransform
+Weapon.obj : error LNK2001: unresolved external symbol _SetSkeletonTransform
+Racectrl.obj : error LNK2001: unresolved external symbol _SetSkeletonPosition
+Init.obj : error LNK2001: unresolved external symbol _SetSkeletonPosition
+Ships.obj : error LNK2001: unresolved external symbol _SetSkeletonPosition
+Camera.obj : error LNK2001: unresolved external symbol _SetSkeletonPosition
+Weapon.obj : error LNK2001: unresolved external symbol _SetSkeletonPosition
+Ayrace.obj : error LNK2001: unresolved external symbol _SetSkeletonPosition
+Ships.obj : error LNK2001: unresolved external symbol _LoadPrm
+Weapon.obj : error LNK2001: unresolved external symbol _LoadPrm
+Racectrl.obj : error LNK2001: unresolved external symbol _LoadPrm
+Init.obj : error LNK2001: unresolved external symbol _LoadPrm
+Camera.obj : error LNK2001: unresolved external symbol _SetSkeletonDirection
+Racectrl.obj : error LNK2001: unresolved external symbol _SetSkeletonDirection
+Hud.obj : error LNK2001: unresolved external symbol _SetSprt
+Hud.obj : error LNK2001: unresolved external symbol _SetDrawMode
+Weapon.obj : error LNK2001: unresolved external symbol _SetDrawMode
+Options.obj : error LNK2001: unresolved external symbol _SetDrawMode
+Hud.obj : error LNK2001: unresolved external symbol _LoadTexture
+Weapon.obj : error LNK2001: unresolved external symbol _LoadTexture
+Hud.obj : error LNK2001: unresolved external symbol _winTable
+Hud.obj : error LNK2001: unresolved external symbol _CheckLapRecord
+Hud.obj : error LNK2001: unresolved external symbol _GetTPage
+Weapon.obj : error LNK2001: unresolved external symbol _GetTPage
+Hud.obj : error LNK2001: unresolved external symbol _SetPolyFT4
+Weapon.obj : error LNK2001: unresolved external symbol _SetPolyFT4
+Hud.obj : error LNK2001: unresolved external symbol _SetSemiTrans
+Weapon.obj : error LNK2001: unresolved external symbol _SetSemiTrans
+Options.obj : error LNK2001: unresolved external symbol _SetSemiTrans
+Hud.obj : error LNK2001: unresolved external symbol _SetPolyF4
+Options.obj : error LNK2001: unresolved external symbol _SetPolyF4
+Hud.obj : error LNK2001: unresolved external symbol _scoreTable
+Hud.obj : error LNK2001: unresolved external symbol _CheckHiScore
+Racectrl.obj : error LNK2001: unresolved external symbol _CheckHiScore
+Dynam.obj : error LNK2001: unresolved external symbol _UpdateRescueDroid
+Weapon.obj : error LNK2001: unresolved external symbol _TransformStaticObject
+Ayrace.obj : error LNK2001: unresolved external symbol _TransformStaticObject
+Weapon.obj : error LNK2001: unresolved external symbol _TransformStaticObjectBodge
+Weapon.obj : error LNK2001: unresolved external symbol _RotTransPers
+Ayrace.obj : error LNK2001: unresolved external symbol _DrawWeaponSprtIcons
+Ayrace.obj : error LNK2001: unresolved external symbol _ShowFireCongratulations
+Ayrace.obj : error LNK2001: unresolved external symbol _ShowIceCongratulations
+Ayrace.obj : error LNK2001: unresolved external symbol _RestartGameConfirm
+Ayrace.obj : error LNK2001: unresolved external symbol _ContinueGameConfirm
+Ayrace.obj : error LNK2001: unresolved external symbol _NewHighScoreDraw
+Ayrace.obj : error LNK2001: unresolved external symbol _setWinLose
+Ayrace.obj : error LNK2001: unresolved external symbol _DrawObjectFixedAsm
+Ayrace.obj : error LNK2001: unresolved external symbol _DrawShadow
+Ayrace.obj : error LNK2001: unresolved external symbol _DrawEffects
+Ayrace.obj : error LNK2001: unresolved external symbol _AddEffects
+Ayrace.obj : error LNK2001: unresolved external symbol _MoveDonkey
+Ayrace.obj : error LNK2001: unresolved external symbol _ColourRedLight
+Ayrace.obj : error LNK2001: unresolved external symbol _ShowCredits
+Ayrace.obj : error LNK2001: unresolved external symbol _SpuSetCommonAttr
+Ayrace.obj : error LNK2001: unresolved external symbol _UpdateEffects
+Racectrl.obj : error LNK2001: unresolved external symbol _UpdateEffects
+Ayrace.obj : error LNK2001: unresolved external symbol _SpuSetReverbDepth
+Ayrace.obj : error LNK2001: unresolved external symbol _ResetStartBoom
+Ayrace.obj : error LNK2001: unresolved external symbol _InitRescueDroid
+Racectrl.obj : error LNK2001: unresolved external symbol _InitRescueDroid
+Racectrl.obj : error LNK2001: unresolved external symbol _main_palette
+Racectrl.obj : error LNK2001: unresolved external symbol _InitFireCongratulations
+Racectrl.obj : error LNK2001: unresolved external symbol _InitIceCongratulations
+Racectrl.obj : error LNK2001: unresolved external symbol _AsmGenerateTiles
+Racectrl.obj : error LNK2001: unresolved external symbol _SetNormPadPresets
+Racectrl.obj : error LNK2001: unresolved external symbol _SetNegconPresets
+Racectrl.obj : error LNK2001: unresolved external symbol _InitCone
+Racectrl.obj : error LNK2001: unresolved external symbol _InitHiScoreData
+Racectrl.obj : error LNK2001: unresolved external symbol _InitEffects
+Racectrl.obj : error LNK2001: unresolved external symbol _InitWeaponSprtIcons
+Racectrl.obj : error LNK2001: unresolved external symbol _InitAuroraBorialis
+Racectrl.obj : error LNK2001: unresolved external symbol _InitShadow
+Racectrl.obj : error LNK2001: unresolved external symbol _InitDonkey
+Racectrl.obj : error LNK2001: unresolved external symbol _InitRedLight
+Racectrl.obj : error LNK2001: unresolved external symbol _InitStartBoom
+Racectrl.obj : error LNK2001: unresolved external symbol _NewSkeleton
+Racectrl.obj : error LNK2001: unresolved external symbol _InitCredits
+Racectrl.obj : error LNK2001: unresolved external symbol _UpdateCameraExtroAttract
+Racectrl.obj : error LNK2001: unresolved external symbol _NewHighScore
+Racectrl.obj : error LNK2001: unresolved external symbol _ShakeScreen
+Racectrl.obj : error LNK2001: unresolved external symbol _UpdateCone
+Init.obj : error LNK2001: unresolved external symbol _LoadImage8
+Init.obj : error LNK2001: unresolved external symbol _LoadClut8
+Init.obj : error LNK2001: unresolved external symbol _LoadImage4
+Init.obj : error LNK2001: unresolved external symbol _LoadClut4
+Init.obj : error LNK2001: unresolved external symbol _ExpandData
+.\Debug/Wipeout98.exe : fatal error LNK1120: 211 unresolved externals
+Error executing link.exe.
+
+
+
+Wipeout98.exe - 318 error(s), 0 warning(s)

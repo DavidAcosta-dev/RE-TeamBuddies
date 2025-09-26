@@ -1,0 +1,11 @@
+WATCOM C32 Optimizing Compiler  Version 10.6 
+Copyright by WATCOM International Corp. 1984, 1996. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+handler.c(8): Error! E1062: Inconsistent return type for function 'InstallProtectedModeKeyboardHandler'
+handler.c: 97 lines, included 1307, 0 warnings, 1 errors
+WATCOM C32 Optimizing Compiler  Version 10.6 
+Copyright by WATCOM International Corp. 1984, 1996. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+config.c: 165 lines, included 906, 0 warnings, 0 errors
+Code size: 1199
+

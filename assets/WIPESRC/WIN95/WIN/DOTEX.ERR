@@ -1,0 +1,22 @@
+dotex.c(9): Error! E1022: Missing or misspelled data type near 'TEXTURE'
+dotex.c(100): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+dotex.c(100): Error! E1012: Expression is not a function
+dotex.c(100): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+dotex.c(111): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+dotex.c(111): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+dotex.c(112): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+dotex.c(112): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+dotex.c(114): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+dotex.c(114): Error! E1012: Expression is not a function
+dotex.c(114): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+dotex.c(116): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+dotex.c(117): Error! E1011: Symbol 'DDLOCK_SURFACEMEMORYPTR' has not been declared
+dotex.c(117): Error! E1011: Symbol 'DDLOCK_WAIT' has not been declared
+dotex.c(119): Error! E1011: Symbol 'DDERR_SURFACELOST' has not been declared
+dotex.c(119): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+dotex.c(119): Error! E1012: Expression is not a function
+dotex.c(119): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+dotex.c(120): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+dotex.c(120): Warning! W102: Type mismatch
+dotex.c(149): Error! E1032: Expression for '.' must be a 'structure' or 'union'
+dotex.c(149): Error! E1147: Too many errors: compilation aborted

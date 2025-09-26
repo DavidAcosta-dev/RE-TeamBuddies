@@ -9,7 +9,10 @@
     "string_hits": 1,
     "indirect_slots": 2,
     "neg_mut": 3,
-    "has_state_machine": 1
+    "has_state_machine": 1,
+    "crate_signature_rows": 9220,
+    "crate_signature_report_lines": 76,
+    "crate_signature_followup_lines": 29
   },
   "score_items": [
     {
@@ -67,13 +70,27 @@
       "note": "crate_string_hits.md present"
     },
     {
+      "item": "Signature candidates triaged",
+      "present": true,
+      "weight": 10,
+      "note": "crate_signature_report.md present with data"
+    },
+    {
+      "item": "Follow-up note drafted",
+      "present": true,
+      "weight": 5,
+      "note": "notes/crate_signature_followup.md generated"
+    },
+    {
       "item": "Timing constants captured",
       "present": true,
       "weight": 5,
       "note": "placeholder until a dedicated timing extractor is added"
     }
   ],
-  "completion_pct": 85,
+  "completion_pct": 87,
+  "completed_weight": 100,
+  "total_weight": 115,
   "next_steps": [
     "Extract and normalize timing constants (pickup wind-up, throw cooldown, carry decay)",
     "Link input bits to pickup/drop transitions across all relevant hubs",

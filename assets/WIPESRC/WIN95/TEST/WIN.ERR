@@ -1,0 +1,2 @@
+win.c(274): Warning! W202: Symbol 'phase' has been defined, but not referenced
+win.c(275): Warning! W202: Symbol 'hdc' has been defined, but not referenced

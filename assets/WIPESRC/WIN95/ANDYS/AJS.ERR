@@ -1,0 +1,21 @@
+ajs.c(13): Error! E1055: Unable to open 'libgte.h'
+ajs.c(32): Error! E1022: Missing or misspelled data type near 'CVECTOR'
+ajs.c(49): Error! E1055: Unable to open 'libgpu.h'
+ajs.c(60): Error! E1022: Missing or misspelled data type near 'u_long'
+ajs.c(64): Error! E1022: Missing or misspelled data type near 'DISPENV'
+ajs.c(68): Error! E1022: Missing or misspelled data type near 'DRAWENV'
+ajs.c(119): Error! E1009: Expecting ',' but found '*'
+ajs.c(126): Error! E1011: Symbol 'p0' has not been declared
+ajs.c(128): Error! E1011: Symbol 'rtn' has not been declared
+ajs.c(128): Error! E1045: Subscript on non-array
+ajs.c(128): Error! E1011: Symbol 'in2' has not been declared
+ajs.c(128): Error! E1045: Subscript on non-array
+ajs.c(128): Error! E1011: Symbol 'in1' has not been declared
+ajs.c(128): Error! E1045: Subscript on non-array
+ajs.c(128): Error! E1045: Subscript on non-array
+ajs.c(129): Error! E1045: Subscript on non-array
+ajs.c(129): Error! E1045: Subscript on non-array
+ajs.c(129): Error! E1045: Subscript on non-array
+ajs.c(129): Error! E1045: Subscript on non-array
+ajs.c(163): Error! E1009: Expecting ',' but found '*'
+ajs.c(165): Error! E1147: Too many errors: compilation aborted

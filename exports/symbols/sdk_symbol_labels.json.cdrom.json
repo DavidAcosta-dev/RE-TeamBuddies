@@ -1,0 +1,317 @@
+[
+  {
+    "symbol": "srand",
+    "address_hex": "0x80012318",
+    "observations": 4,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/addons/sound/STREAM/TUTO1.MAP",
+      "assets/PSYQ_SDK/psyq/psx/sample/sound/STREAM/TUTO1.MAP"
+    ],
+    "address_histogram": "0x80012318(4)",
+    "categories": [
+      "audio",
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "PlayStream",
+    "address_hex": "0x80019440",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/CD/MOVIE2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80019440(2)",
+    "categories": [
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "InitControllers",
+    "address_hex": "0x8001A0B8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/CD/MOVIE2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8001A0B8(2)",
+    "categories": [
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "StopControllers",
+    "address_hex": "0x8001A108",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/CD/MOVIE2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8001A108(2)",
+    "categories": [
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "CheckControllers",
+    "address_hex": "0x8001A130",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/CD/MOVIE2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8001A130(2)",
+    "categories": [
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "Pressed",
+    "address_hex": "0x8001A21C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/CD/MOVIE2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8001A21C(2)",
+    "categories": [
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "DsStartCallback",
+    "address_hex": "0x800204E0",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/sound/STREAM/TUTO2.MAP"
+    ],
+    "address_histogram": "0x800204E0(2)",
+    "categories": [
+      "audio",
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "MDEC_vlc_brk",
+    "address_hex": "0x80023EB8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/CD/MOVIE2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80023EB8(2)",
+    "categories": [
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "MDEC_vlc",
+    "address_hex": "0x80023EE8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/CD/MOVIE2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80023EE8(2)",
+    "categories": [
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "MDEC_vlc2",
+    "address_hex": "0x8002421C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/CD/MOVIE2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8002421C(2)",
+    "categories": [
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "ivlc_dct_dc_size",
+    "address_hex": "0x800245F8",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/CD/MOVIE2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800245F8(2)",
+    "categories": [
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "SpuWrite0",
+    "address_hex": "0x80025620",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/CD/MOVIE2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80025620(2)",
+    "categories": [
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "SsGetSerialVol",
+    "address_hex": "0x800258A4",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/CD/MOVIE2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800258A4(2)",
+    "categories": [
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "SpuGetCommonAttr",
+    "address_hex": "0x80025978",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/CD/MOVIE2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80025978(2)",
+    "categories": [
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "SsSetSerialAttr",
+    "address_hex": "0x80025D94",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/CD/MOVIE2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80025D94(2)",
+    "categories": [
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "SsSetSerialVol",
+    "address_hex": "0x80027918",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/CD/MOVIE2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80027918(2)",
+    "categories": [
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "fIdA",
+    "address_hex": "0x8003EC9C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/CD/MOVIE2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8003EC9C(2)",
+    "categories": [
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "dc_cr",
+    "address_hex": "0x80045764",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/CD/MOVIE2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80045764(2)",
+    "categories": [
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "dec_pt",
+    "address_hex": "0x80045D28",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/CD/MOVIE2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80045D28(2)",
+    "categories": [
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "dc_type",
+    "address_hex": "0x80045F04",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/CD/MOVIE2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80045F04(2)",
+    "categories": [
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "bs_curt",
+    "address_hex": "0x80045F14",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/CD/MOVIE2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80045F14(2)",
+    "categories": [
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "dec_used",
+    "address_hex": "0x80045F28",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/CD/MOVIE2/MAIN.MAP"
+    ],
+    "address_histogram": "0x80045F28(2)",
+    "categories": [
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "dc_y",
+    "address_hex": "0x800460F4",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/CD/MOVIE2/MAIN.MAP"
+    ],
+    "address_histogram": "0x800460F4(2)",
+    "categories": [
+      "cdrom"
+    ]
+  },
+  {
+    "symbol": "dc_cb",
+    "address_hex": "0x8004822C",
+    "observations": 2,
+    "distinct_addresses": 1,
+    "map_files": [
+      "assets/PSYQ_SDK/psyq/psx/sample/scee/CD/MOVIE2/MAIN.MAP"
+    ],
+    "address_histogram": "0x8004822C(2)",
+    "categories": [
+      "cdrom"
+    ]
+  }
+]

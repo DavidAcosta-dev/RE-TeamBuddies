@@ -1,0 +1,19 @@
+WATCOM C/C++32 Compile and Link Utility Version 10.6
+Copyright by WATCOM International Corp. 1988, 1996. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+       wcc386 TEST3.C  /s /d2
+WATCOM C32 Optimizing Compiler  Version 10.6 
+Copyright by WATCOM International Corp. 1984, 1996. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+TEST3.C: 62 lines, included 1250, 0 warnings, 0 errors
+Code size: 218
+
+WATCOM Linker Version 10.6
+Copyright by WATCOM International Corp. 1985, 1996. All rights reserved.
+WATCOM is a trademark of WATCOM International Corp.
+loading object files
+searching libraries
+Warning(1028): SetCursorPosition_ is an undefined reference
+creating a DOS/4G executable
+file TEST3.obj(D:\WIPESRC\WIN95\MARKK\TEST3.C): undefined symbol SetCursorPosition_
+Error: Linker returned a bad status
