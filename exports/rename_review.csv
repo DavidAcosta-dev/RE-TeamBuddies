@@ -47,3 +47,8 @@ SYS.BIN,FUN_00006f74,0x6F74,suspect_FUN_00006f74,q12_candidate,,0,8,0,0,0,0,,0,0
 SYS.BIN,FUN_00009510,0x9510,suspect_FUN_00009510,q12_candidate,"WScore=12, Pxyz=12, Ang=0, BD=0, BS=0, Spd=0",12,0,0,0,0,0,,0,0
 SYS.BIN,FUN_0000a2b8,0xA2B8,suspect_FUN_0000a2b8,q12_candidate,"WScore=8, Pxyz=0, Ang=0, BD=0, BS=0, Spd=0",0,0,0,0,0,0,,0,0
 TUTO.BIN,FUN_00001c84,0x1C84,suspect_FUN_00001c84,orientation_update_candidate,"angles+Q12 heavy; WScore=60, Ang=4",68,0,0,0,0,0,,0,0
+MAIN.EXE,FUN_0001e404,0x1E404,phys_angle_update_recompute,FUN_0001e404,"updates angle fields (0x31/0x2/0x4/0x3A) and calls phys_recompute_basis; caller phys_FUN_0000af3c",0,0,0,0,0,0,,0,1
+MAIN.EXE,FUN_0001e2d4,0x1E2D4,phys_angle_window_config_scaled,FUN_0001e2d4,"sets 0x2 via left-shift of param_2[2] by (2 - scale); copies param_2[3] to 0x4; writes 0x38/0x3C via trig stubs; likely angle window config",0,0,0,0,0,0,,0,1
+MAIN.EXE,FUN_0001e314,0x1E314,phys_angle_window_config,FUN_0001e314,"similar to 0x1E2D4; sets shifted angle field and 0x38/0x3C from short pair; callers FUN_00020a54, suspect_FUN_00020c14; likely angle window partial config",0,0,0,0,0,0,,0,1
+MAIN.EXE,stub_ret0_FUN_0001c7fc,0x1C7FC,,suspect_trig_LUT_A,"trig-like LUT helper: called with (scale, x, y), returns short used at 0x38/0x3A/0x224; appears with phys_angle_window_config/_scaled and q12 math sites; keep apply=0 pending BIOS/cross-binary confirmation",0,0,0,0,0,0,,0,0
+MAIN.EXE,stub_ret0_FUN_0001c83c,0x1C83C,,suspect_trig_LUT_B,"paired with 0x1C7FC; returns short stored at 0x3C/0x226 using (x, y); appears across orientation and vector-normalization sites; keep apply=0 pending confirmation",0,0,0,0,0,0,,0,0
