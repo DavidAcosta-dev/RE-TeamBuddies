@@ -48,19 +48,34 @@ def load_bundle(bundle_path: Path) -> List[Dict[str, Any]]:
 
 
 def extract_name(obj: Dict[str, Any]) -> str:
+    # Prefer nested function.name if present
+    fn = obj.get("function")
+    if isinstance(fn, dict):
+        v = fn.get("name")
+        if isinstance(v, str) and v:
+            return v
+    # Fallback: top-level name variations
     for key in ("name", "func_name", "symbol", "id"):
         v = obj.get(key)
         if isinstance(v, str) and v:
             return v
     # Last resort: build from EA
     ea = normalize_ea(obj.get("ea"))
+    if ea is None and isinstance(fn, dict):
+        ea = normalize_ea(fn.get("ea"))
     if ea is not None:
         return f"FUN_{ea:08x}"
     return "<unknown>"
 
 
 def extract_ea(obj: Dict[str, Any]) -> Optional[int]:
-    return normalize_ea(obj.get("ea"))
+    ea = normalize_ea(obj.get("ea"))
+    if ea is not None:
+        return ea
+    fn = obj.get("function")
+    if isinstance(fn, dict):
+        return normalize_ea(fn.get("ea"))
+    return None
 
 
 def extract_callees(obj: Dict[str, Any]) -> Set[str]:
@@ -121,7 +136,38 @@ def summarize(program: str, bundle_path: Path, out_path: Path):
     lines.append(f"# Trig helper summary for {program}")
     lines.append("")
     if not targets:
-        lines.append("No suspected trig helper targets found.")
+        lines.append("No suspected trig helper function entries found in bundle.")
+        lines.append("")
+    # Always include callers-of-target-names section to aid review
+    # Find callers of any of the target names even if the target isn't exported
+    all_callers: Dict[str, List[Tuple[str, Optional[int]]]] = {}
+    for obj in items:
+        src_nm = extract_name(obj)
+        src_ea = extract_ea(obj)
+        callees = extract_callees(obj)
+        for tgt in sorted(TARGET_NAMES):
+            if tgt in callees:
+                all_callers.setdefault(tgt, []).append((src_nm, src_ea))
+    if all_callers:
+        lines.append("## Callers of suspected trig helpers")
+        lines.append("")
+        for tgt, lst in sorted(all_callers.items()):
+            lines.append(f"### {tgt}")
+            lines.append("")
+            lines.append(f"- callers: {len(lst)}")
+            for src_nm, src_ea in lst[:40]:
+                ea_s = f"0x{src_ea:X}" if src_ea is not None else "?"
+                # Anchor tags (does caller also call anchors?)
+                src_obj = by_name.get(src_nm)
+                anchor_tags: List[str] = []
+                if src_obj is not None:
+                    src_callees = extract_callees(src_obj)
+                    for a in sorted(ANCHORS):
+                        if a in src_callees:
+                            anchor_tags.append(a)
+                tag = f" [{', '.join(anchor_tags)}]" if anchor_tags else ""
+                lines.append(f"- {src_nm} ({ea_s}){tag}")
+            lines.append("")
     for nm, obj in targets:
         ea = extract_ea(obj)
         ea_s = f"0x{ea:X}" if ea is not None else "?"
@@ -146,7 +192,7 @@ def summarize(program: str, bundle_path: Path, out_path: Path):
                 tag = f" [{', '.join(anchor_tags)}]" if anchor_tags else ""
                 lines.append(f"- {src_nm} ({src_ea_s}){tag}")
         # Include decomp snippet if present
-        decomp = obj.get("decomp") or obj.get("decompile") or obj.get("decompiled")
+        decomp = obj.get("decomp") or obj.get("decompile") or obj.get("decompiled") or obj.get("decompilation")
         if isinstance(decomp, str) and decomp.strip():
             lines.append("")
             lines.append("Decomp (truncated):")
