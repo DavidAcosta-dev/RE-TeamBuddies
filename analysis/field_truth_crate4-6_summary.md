@@ -23,6 +23,19 @@ loop that underpins combat encounters.
 
 _All ten hits share identical provenance across every log. Focus tokens (“libgte/libgpu combat loops”) correlate with the physics/GPU tag cluster shown in the call-map exports above._
 
+## Call-map Cross References
+
+- `FUN_000006dc` (`0x000006dc`): `exports/mapping_ROT.BIN.md` · Top hubs (degree-ranked); tags `physics, gpu`; attrs `degree=0, in=0, out=0, size=476`.
+- `FUN_00000900` (`0x00000900`): `exports/mapping_ROT.BIN.md` · Seed neighborhoods (2 hops) / `FUN_00000900`; tags `physics, gpu`; attrs `degree=0, in=0, out=0, size=96`.
+- `FUN_00001868` (`0x00001868`): `exports/mapping_MNU.BIN.md` · Seed neighborhoods (2 hops) / `FUN_00001868`; tags `physics, gpu`; attrs `degree=0, in=0, out=0, size=96`.
+- `FUN_00001948` (`0x00001948`): `exports/mapping_MNU.BIN.md` · Top hubs (degree-ranked); tags `physics, gpu`; attrs `degree=0, in=0, out=0, size=344`.
+- `FUN_00001ad4` (`0x00001ad4`): `exports/mapping_ROT.BIN.md` · Top hubs (degree-ranked); tags `physics, gpu`; attrs `degree=0, in=0, out=0, size=460`.
+- `FUN_0000276c` (`0x0000276c`): `exports/mapping_SYS.BIN.md` · Top hubs (degree-ranked); tags `physics, gpu`; attrs `degree=0, in=0, out=0, size=400`.
+- `FUN_00002b10` (`0x00002b10`): `exports/mapping_SYS.BIN.md` · Top hubs (degree-ranked); tags `physics, gpu`; attrs `degree=0, in=0, out=0, size=1004`.
+- `FUN_000031d8` (`0x000031d8`): `exports/mapping_MNU.BIN.md` · Top hubs (degree-ranked); tags `physics, gpu`; attrs `degree=0, in=0, out=0, size=2492`.
+- `FUN_0000377c` (`0x0000377c`): `exports/mapping_SYS.BIN.md` · Top hubs (degree-ranked); tags `physics, gpu`; attrs `degree=0, in=0, out=0, size=616`.
+- `FUN_000053dc` (`0x000053dc`): `exports/mapping_ROT.BIN.md` · Seed neighborhoods (2 hops) / `FUN_000053dc`; tags `physics, gpu`; attrs `degree=0, in=0, out=0, size=156`.
+
 ## Fallback Sample
 
 | Symbol | Address | Stub Path | Origin |
