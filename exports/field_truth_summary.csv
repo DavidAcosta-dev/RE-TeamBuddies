@@ -1,0 +1,2 @@
+crate_index,crate_label,slot,priority,focus_score,focus_hint,domains,matches,fallback_count,fallback_scanned_functions,fallback_scanned_symbols,fallback_scanned_instructions,fallback_reference_total,fallback_memory_blocks,log_name
+4,ICE_AREA,0,high,1023,libgpu geometry + libgte transforms + libgte/libgpu combat loops,"ai,engine",0,0,0,0,0,0,0,crate4_slot0_focus1023.log

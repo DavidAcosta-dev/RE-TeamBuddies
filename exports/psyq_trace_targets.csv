@@ -1,0 +1,42 @@
+crate_index,crate_label,priority,score,domain_span,domain_ai,domain_combat,domain_engine,domain_render,domain_support,combined_total,dominant_domain,dominant_domain_hint,psyq_focus_hint
+4,ICE_AREA,high,102.32,4,9,11,3,11,0,3095,ai,AI behaviour (libgte-assisted decision data),libgpu geometry + libgte transforms + libgte/libgpu combat loops
+5,ORIENTAL_AREA,high,98.32,5,8,33,1,1,11,571,ai,AI behaviour (libgte-assisted decision data),libgte/libgpu combat loops + libspu/libpad support systems
+6,JUNGLE_AREA,high,96.02,4,8,34,0,1,11,712,ai,AI behaviour (libgte-assisted decision data),libgte/libgpu combat loops + libspu/libpad support systems
+3,WOODS_AREA,high,90.35,4,7,34,2,0,11,408,ai,AI behaviour (libgte-assisted decision data),libgte/libgpu combat loops + libspu/libpad support systems
+14,ALL_HEAVY_WEAPONS_1,high,76.87,4,3,28,8,1,0,604,ai,AI behaviour (libgte-assisted decision data),libgte/libgpu combat loops + state-machine scheduler
+32,INDEX_32,second,76.82,4,9,1,3,1,0,2603,ai,AI behaviour (libgte-assisted decision data),libgte vector routines + state-machine scheduler
+0,PARK_AREA,second,69.87,4,9,1,3,1,0,2083,ai,AI behaviour (libgte-assisted decision data),libgte vector routines + state-machine scheduler
+1,PLAINS_AREA,second,69.87,4,9,1,3,1,0,2083,ai,AI behaviour (libgte-assisted decision data),libgte vector routines + state-machine scheduler
+33,INDEX_33,second,69.87,4,9,1,3,1,0,2083,ai,AI behaviour (libgte-assisted decision data),libgte vector routines + state-machine scheduler
+35,INDEX_35,second,69.87,4,9,1,3,1,0,2083,ai,AI behaviour (libgte-assisted decision data),libgte vector routines + state-machine scheduler
+36,INDEX_36,watch,69.87,4,9,1,3,1,0,2083,ai,AI behaviour (libgte-assisted decision data),libgte vector routines + state-machine scheduler
+37,INDEX_37,watch,69.87,4,9,1,3,1,0,2083,ai,AI behaviour (libgte-assisted decision data),libgte vector routines + state-machine scheduler
+38,INDEX_38,watch,69.87,4,9,1,3,1,0,2083,ai,AI behaviour (libgte-assisted decision data),libgte vector routines + state-machine scheduler
+39,INDEX_39,watch,69.87,4,9,1,3,1,0,2083,ai,AI behaviour (libgte-assisted decision data),libgte vector routines + state-machine scheduler
+40,INDEX_40,watch,69.87,4,9,1,3,1,0,2083,ai,AI behaviour (libgte-assisted decision data),libgte vector routines + state-machine scheduler
+34,INDEX_34,watch,60.78,3,10,3,0,3,0,1628,ai,AI behaviour (libgte-assisted decision data),libgte vector routines + libgpu geometry + libgte transforms
+16,ALL_ROCKET_WEAPONS,watch,57.32,4,8,5,2,9,0,526,ai,AI behaviour (libgte-assisted decision data),libgpu geometry + libgte transforms + libgte vector routines
+18,ALL_SPECIAL_WEAPONS,watch,55.83,4,8,6,2,8,0,440,ai,AI behaviour (libgte-assisted decision data),libgpu geometry + libgte transforms + libgte vector routines
+17,ALL_MISSILE_WEAPONS,watch,54.32,4,8,5,2,9,0,346,ai,AI behaviour (libgte-assisted decision data),libgpu geometry + libgte transforms + libgte vector routines
+15,ALL_HEAVY_WEAPONS_2,watch,54.30,4,8,5,2,9,0,345,ai,AI behaviour (libgte-assisted decision data),libgpu geometry + libgte transforms + libgte vector routines
+7,MOON_AREA,watch,54.03,4,7,11,3,1,0,515,ai,AI behaviour (libgte-assisted decision data),libgte/libgpu combat loops + libgte vector routines
+2,DESERT_AREA,watch,52.55,4,9,1,3,1,0,1044,ai,AI behaviour (libgte-assisted decision data),libgte vector routines + state-machine scheduler
+27,INDEX_27,watch,52.55,4,9,1,3,1,0,1044,ai,AI behaviour (libgte-assisted decision data),libgte vector routines + state-machine scheduler
+8,INDEX_08,watch,50.28,3,7,12,3,0,0,593,ai,AI behaviour (libgte-assisted decision data),libgte/libgpu combat loops + libgte vector routines
+9,INDEX_09,watch,49.98,4,6,12,3,1,0,263,ai,AI behaviour (libgte-assisted decision data),libgte/libgpu combat loops + libgte vector routines
+11,LIGHTNING_WEAPONS,watch,49.92,4,9,6,2,1,0,565,ai,AI behaviour (libgte-assisted decision data),libgte vector routines + libgte/libgpu combat loops
+24,STEALTH_2,watch,48.58,3,8,8,4,0,0,671,ai,AI behaviour (libgte-assisted decision data),libgte/libgpu combat loops + libgte vector routines
+28,INDEX_28,watch,48.27,4,11,1,5,3,0,391,ai,AI behaviour (libgte-assisted decision data),libgte vector routines + state-machine scheduler
+30,INDEX_30,watch,47.00,4,7,1,9,3,0,363,ai,AI behaviour (libgte-assisted decision data),state-machine scheduler + libgte vector routines
+31,INDEX_31,watch,46.28,4,10,1,5,4,0,260,ai,AI behaviour (libgte-assisted decision data),libgte vector routines + state-machine scheduler
+26,BIKES,watch,45.85,4,6,7,5,2,0,204,ai,AI behaviour (libgte-assisted decision data),libgte/libgpu combat loops + libgte vector routines
+12,ALL_GRENADES_1,watch,45.83,4,7,7,3,1,0,323,ai,AI behaviour (libgte-assisted decision data),libgte/libgpu combat loops + libgte vector routines
+29,INDEX_29,watch,45.77,4,10,1,6,3,0,253,ai,AI behaviour (libgte-assisted decision data),libgte vector routines + state-machine scheduler
+10,ALL_FLAME_WEAPONS,watch,45.45,3,4,12,6,0,0,339,ai,AI behaviour (libgte-assisted decision data),libgte/libgpu combat loops + state-machine scheduler
+23,STEALTH_1,watch,45.07,4,7,7,5,1,0,169,ai,AI behaviour (libgte-assisted decision data),libgte/libgpu combat loops + libgte vector routines
+25,SPACE,watch,44.98,3,9,7,4,0,0,464,ai,AI behaviour (libgte-assisted decision data),libgte vector routines + libgte/libgpu combat loops
+21,FLYING_3,watch,42.03,4,6,2,5,1,0,428,ai,AI behaviour (libgte-assisted decision data),libgte vector routines + state-machine scheduler
+20,FLYING_2,watch,40.78,4,4,3,5,2,0,332,ai,AI behaviour (libgte-assisted decision data),state-machine scheduler + libgte vector routines
+13,ALL_GRENADES_2,watch,40.77,3,8,7,3,0,0,331,ai,AI behaviour (libgte-assisted decision data),libgte vector routines + libgte/libgpu combat loops
+19,FLYING_1,watch,40.53,4,5,3,4,2,0,305,ai,AI behaviour (libgte-assisted decision data),libgte vector routines + state-machine scheduler
+22,FLYING_4,watch,38.98,4,3,3,7,1,0,260,ai,AI behaviour (libgte-assisted decision data),state-machine scheduler + libgte/libgpu combat loops

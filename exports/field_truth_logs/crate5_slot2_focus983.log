@@ -1,0 +1,15 @@
+Field Truth Trace Log
+crate=5, slot=2, priority=high, focus_score=983
+focus_hint=libgte/libgpu combat loops + libspu/libpad support systems
+domains=ai,ai
+keywords=libgte,libgpu,combat,loops,libspu,libpad,support,systems,ai
+matches=0
+fallback_limit=5
+fallback_scanned_functions=0
+fallback_scanned_symbols=0
+fallback_scanned_instructions=0
+fallback_reference_total=0
+fallback_memory_blocks=0
+fallback_count=0
+
+No keyword matches found.

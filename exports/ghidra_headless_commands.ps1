@@ -1,0 +1,4 @@
+# Auto-generated headless commands
+# Update --program-pattern if needed; run with PowerShell
+
+$env:FT_CRATE='4'; $env:FT_SLOT='0'; $env:FT_PRIORITY='high'; $env:FT_FOCUS_SCORE='1023'; $env:FT_FOCUS='libgpu geometry + libgte transforms + libgte/libgpu combat loops'; $env:FT_DOMAINS='ai,engine'; $env:FT_ENABLE_LOGGING='1'; & 'C:\Users\Acost\tb-re\ghidra_11.4.2_PUBLIC\support\analyzeHeadless.bat' 'C:\Users\Acost\tb-re\ghidra_proj' 'TBProject' '-process' 'SCES_019.23' '-scriptPath' 'C:\Users\Acost\tb-re\ghidra_scripts' '-postScript' 'FieldTruthTracer.py' '--crate' '4' '--slot' '0' '--priority' 'high' '--focusScore' '1023' '--focus' 'libgpu geometry + libgte transforms + libgte/libgpu combat loops' '--domains' 'ai,engine' '--enable-logging'; Remove-Item Env:FT_CRATE,Env:FT_SLOT,Env:FT_PRIORITY,Env:FT_FOCUS_SCORE,Env:FT_FOCUS,Env:FT_DOMAINS,Env:FT_ENABLE_LOGGING

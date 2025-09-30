@@ -1,0 +1,43 @@
+Check.txt
+
+The final checklist for when you need to send your demo segment
+to SCEE for inclusion on the OPSM (Official PlayStation Magazine)
+demo disc.
+
+Please make sure to provide the following information and discs.
+
+1.	Name of the game.
+2.	Product code of game (not the demo product code).
+3.	Name of publisher.
+4.	Name of developer and contact details for the producer.
+5.	Control codes (button codes) for playing the game.
+6.	Issue date you want the demo to appear on (for instance)
+	May issue out in April.
+7.	OPSM discs it is not allowed to appear on:
+	Euro
+	France
+	Germany
+8.	Gold disc containing bootable version.
+9.	Gold disc containing raw data and CCS file.
+
+
+Submission requirements summary.
+
+The technical and submission requirements for OPSM demos (demo segments)
+and publishers' own demos are different. Here are the important points of difference.
+
+OPSM Demos					
+Demo disc is produced by SCEE.		
+Product code application is made by SCEE internally.	
+A SCED code is assigned to the disc.
+Demo programming must follow the TSfEDDS (Technical Specification for European Demo Disc Segments).		
+Only 2 gold discs are required in the submission pack.
+The submission goes to Davinder Jalaf of 3rd Party Relations Group.
+
+Publisher Demos
+Demo disc is produced by Publisher's developer.
+Product code application is made by Publisher.
+A SLED code is assigned to Publisher for the demo disc.
+Demo programming can follow the TSfEDDS or publisher's own system.
+The standard 8 gold disc submission is required.
+Submission goes to 3rd Party Relations Department.

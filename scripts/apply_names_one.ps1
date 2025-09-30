@@ -14,6 +14,7 @@ $Headless = Join-Path $RepoRoot 'ghidra_11.4.2_PUBLIC/support/analyzeHeadless.ba
 $ProjectDir = Join-Path $RepoRoot 'ghidra_proj'
 $ProjectName = 'TBProject'
 $ScriptPath = Join-Path $RepoRoot 'ghidra_scripts/ApplyNamesFromCSV.py'
+$PreScriptPath = Join-Path $RepoRoot 'ghidra_scripts/EnsureRetainReleaseFunctions.py'
 $CsvPath = if ([System.IO.Path]::IsPathRooted($Csv)) { $Csv } else { Join-Path $RepoRoot $Csv }
 $LogDir = Join-Path $RepoRoot 'exports'
 $null = New-Item -ItemType Directory -Force -Path $LogDir | Out-Null
@@ -28,12 +29,22 @@ if (-not (Test-Path $ProjectDir)) { throw "Project dir not found: $ProjectDir" }
 if (-not (Test-Path $ScriptPath)) { throw "Ghidra script not found: $ScriptPath" }
 if (-not (Test-Path $CsvPath)) { throw "CSV not found: $CsvPath" }
 
-& $Headless `
-    $ProjectDir `
-    $ProjectName `
-    -process $Program `
-    -postScript $ScriptPath $CsvPath `
-    -scriptlog $LogPath
+$arguments = @(
+    $ProjectDir,
+    $ProjectName
+)
+
+if (Test-Path $PreScriptPath) {
+    $arguments += @('-preScript', $PreScriptPath)
+}
+
+$arguments += @(
+    '-process', $Program,
+    '-postScript', $ScriptPath, $CsvPath,
+    '-scriptlog', $LogPath
+)
+
+& $Headless @arguments
 
 if ($LASTEXITCODE -ne 0) {
     Write-Error "Headless apply exited with code $LASTEXITCODE. See log: $LogPath"

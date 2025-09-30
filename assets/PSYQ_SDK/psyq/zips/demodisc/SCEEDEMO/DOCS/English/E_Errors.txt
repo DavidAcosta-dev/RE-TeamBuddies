@@ -1,0 +1,96 @@
+E_Errors.txt
+
+Common Errors in demo segment submissions.
+
+This list has been compiled from our experience of three years of demo disc production.
+Please note that errors specified in notes 1 to 9 are automatic failure bugs. Errors
+specified in notes 10 to 15 are not automatic failure bugs but may delay or prevent a
+demo being used.
+
+
+1. Demo is not a bootstrap segment.
+In other words, it was created without reference to the technical spec.
+These cases are hopeless. There is nothing we can do with them. The 'Technical
+Specification for European Demo Disc Segments' is available in English and Japanese.
+All licensed developers have access to it from their developer CD-Roms. They can also
+download copies from the Developer Support web-site.
+
+
+2. Incorrect or no quit method.
+This is a common flaw in Japanese demos since the Japanese spec requires a different
+quit method in which the demo code soft resets the console.
+
+
+3. Demo is not contained in its own directory.
+This makes it more difficult to set up our final disc and may cause the disc to exceed
+the PS limit of 40 directories or files in the root.
+
+
+4. No time-out to bootstrap and/or rolling mode.
+This prevents the demo from being used in the attract mode of the demo disc.
+
+
+5. DA and/or str files have been interlaced, and no PC format source disc is provided.
+Stream and music files on PS format discs are interleaved and can't be copied off the CD.
+
+
+6. Technical Reference Checklist bugs (Standards violations).
+All demos must obey the same TRC list of correct names and logo usage, the same as any
+other PlayStation software.
+
+
+7. TRC bugs. (Functionality violations).
+A common one is the use of memory card. You are not allowed to include fucntioning memory
+card code in a demo. Another common one is to provide Dual Shock support with no way of
+switching it off.
+
+
+8. The music track is fixed (usually to track 2).
+We need to be able to set the music track for each demo on our final disc. We have received
+some segments where the argument to allow us to set the music track is present but inactive.
+Sometimes the demo will play one track higher than the track it is set to; e.g. we set the
+demo to play track 2 but it plays track 3. This is annoying and wastes time and test discs.
+
+
+9. The music track is not set via the correct variable.
+This usually causes the demo to seek for the first XA track on the CD and play this and
+subsequent tracks. In other words it hijacks other publishers' music tracks. This may causes
+annoyance to the other publishers.
+Details on how to set the XA track variable are in the technical specification.
+
+
+10. American style demo.
+American style demos are often set to work using particular sectors of the CD. Not only is
+this difficult for our programmer to find out if there are no specific instructions with the
+demo, but also if there are two such demos on the same disc, they may overlap.
+
+
+11. No set-up information (e.g. CCS file) provided.
+It should be obvious that this makes it harder or impossible for our programmer to work out
+how the demo is supposed to be set up for our multiple-title CD.
+
+
+12. Too big.
+40MB is the advised limit. Demos larger than this are less likely to be fitted on to cover
+discs, especially if they are really big. Please ask if you want more space. The same limit
+applies to video clips (allow 22MB per minute of compressed stream video).
+
+
+13. Demo is sent to the 3rd Party Relations Department as a demo submission.
+Two different sections within SCEE Internal Development deal with demo submissions. The Special
+Projects section deals with Official PlayStation Magazine (OPSM) demo discs. The 3rd Party
+Relations Department deals with publishers' own demo disc submissions. If demos intended for
+use on the OPSM are sent to the 3rd Party Relations in the correct manner for a publisher's
+demo submission - i.e. they have a demo product code, 8 gold discs and the Demo Submission
+form - they are dealt with as stand-alone demo submissions, because there is no way to tell
+that they aren't.
+All demos for the OPSM should be sent to Davinder Jalaf, marked OPSM Demo, using the submission
+guidelines found in the Technical Specification for European Demo Disc Segments.
+
+
+14. No button codes (control codes) information supplied.
+This makes it more difficult to test a demo properly.
+
+
+15. No producer contact details supplied.
+This makes it more difficult to get bugs fixed if there are any.

@@ -1,0 +1,72 @@
+Policy.txt
+
+SCEE's OPSM Department Policies
+
+Please take note of the following policies we follow in dealing with publishers' OPSM demos.
+
+
+Production of demo discs for 3rd parties.
+
+SCEE does not produce demos for 3rd parties.
+Publishers and developers are welcome to make their own discs using the demo bootstrap
+(supplied to all licensed developers) and their own menu system. If they are not
+capable of doing this work in house, they are advised to contact Chester Square of Bristol,
+which offers a commercial demo disc building service.
+
+
+Copying of demo segment code.
+
+Upon written request Special Projects will copy a publisher's demo code held by us
+and forward it by overnight courier. The cost of this service is £250 per item (separate demo).
+It will be charged to the 3rd party's DADC account to save on paperwork. If there are
+schedule conflicts between 1st or 2nd party work and this service, the 1st/2nd party work
+will take precedence.
+Publishers and Developers are reminded that they are required by their licence agreements
+to keep back-up copies of all code submitted to SCEE.
+
+
+Withholding demos from particular countries.
+
+Publishers sometimes request us to inform them which discs we plan to put their demos on.
+Our standard policy is that publishers must assume we will put their demo on every available
+disc, unless we are informed otherwise. We are happy to accept written notification in
+advance of discs which publishers do not want demos to be placed on.
+Publishers are always welcome to contact their account managers for information on use of
+their demo segments.
+Please note that demo discs produced for Future Publishing are also distributed in Greece,
+Italy, Spain, Norway, Belgium, Russia, Australia and other countries, therefore a demo
+which must be withheld from one of these countries must also be withheld from the UK.
+
+
+Testing demo segments
+
+Monthly deadlines included in this information pack indicate when clean code is required
+to be included on each month's discs. The first set of code is often buggy and requires
+corrections, so please allow extra time in your development schedule to account for demo
+production. Please note that, due to variation of operational loads, we cannot guarantee
+to test demo segments within any specified time, though we will of course do our best.
+
+
+Demo test approval
+
+Demo segments have to be tested separately by QA and by Special Projects.
+Approval from one group or the other does not constitute final approval of the demo.
+You can get information from your account manager about the progress of your demo through
+our test procedures.
+
+
+Demo disc track lists
+
+Due to the variation of operational loads, we cannot guarantee to place segments on the
+desired discs, although we of course do our best to satisfy publishers' requirements.
+We cannot guarantee the exact track list of a demo disc until final approval is received
+from QA.
+
+
+Product Code Requirement
+
+We are only allowed to publish demos of games which have received approval for publication
+from our 3rd Party Relations Department. These games have product codes. We therefore request
+developers/publishers to inform us of the product code for their game when sending in the demo.
+The reason for this rule is that we do not want to mislead consumers by publishing details
+of products which may not be released in Europe.

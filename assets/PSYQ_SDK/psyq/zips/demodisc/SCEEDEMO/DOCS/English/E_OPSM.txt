@@ -1,0 +1,150 @@
+Summary of OPSM demo disc publication
+
+SCEE maintains a Special Projects department which produces all the demo discs cover-mounted
+on Official PlayStation Magazine (OPSM) titles throughout the PAL territories.
+
+Special Projects is separate from the 3rd Party Relations group, and does not have any
+dealings with publishers' own demo discs (these are stand-alone or multiple demo discs with
+SLED product codes).
+
+Here is an overview of the OPSM family of cover-mount demo discs produced by
+SCEE Special Projects.
+
+Official PlayStation Magazine Cover Discs
+Future/Euro (distributed in UK, Italy, Spain, Russia, Australia, Greece, Norway, Benelux)
+	Official PlayStation Magazine	13 issues per year
+Future Special Editions (UK only)
+	Essential PlayStation	4 issues per year
+	OPSM Special (Racing, Football, etc.)	3 issues per year
+Germany (distributed in Germany, Austria and Switzerland)
+	Offizielle PlayStation Magazin	12 issues per year
+	OPSM Spezial (Strategie, RPG, etc)	6 issues per year
+France
+	Officiale PlayStation Magazine	11 issues per year
+
+The total production of OPSM demo discs is over 1,350,000 units per month.
+
+The UK is the largest single territory with a print run of 550,000 per issue.
+The disc produced for the UK is also supplied to other countries such as Greece,
+Italy and Spain.
+
+Separate demo discs are produced for France and Germany.
+
+It costs nothing for a publisher's demo to be featured in these discs, but,
+a publisher's demo can only be used if it has been coded and submitted to the correct
+specification (Technical Specification for European Demo Disc Segments).
+
+Scheduling demo production
+This information pack includes a monthly schedule of deadline dates for demos to be
+submitted for OPSM cover discs. This will allow you to judge when your demo will be released
+relative to your game's retail release.
+The time required to produce a demo segment can obviously vary depending on the nature of the
+game code, so we advise developers to plan at least a week into their production schedule.
+Careful attention to the technical specification for demos, and the TRC requirements, will benefit
+your work by reducing easily avoidable bugs.
+
+1999 Schedule
+Please note: The month listed is the month of publication of the OPSM.
+In the UK and Germany, magazines are published in the month preceding their cover date.
+The monthly deadline is roughly 14 weeks prior to publication of the magazine carrying
+the cover disc. The deadline is the day we start building the first disc of the month.
+These schedules are subject to ammendation.
+
+January	Deadline: 23rd Oct 98
+Future 42
+France 27
+Germany 2/99
+Essential PlayStation 11
+
+February	Deadline: 13th Nov 98
+Future 43
+France 28
+Germany 2/99
+German Racing Spezial 99
+Video IDU 3E
+Reg User 6
+
+March	Deadline: 13th Dec 98
+Danone Special
+Future 44
+France 28
+Germany 3/99
+German Undefined Spezial 99
+MIP Demo 4
+Essential PlayStation 11
+Collector's Edition
+
+April	Deadline: 21st Jan 98
+Future 45
+France 30
+Germany 4/99
+Collector's Edition
+Sony Music Collaboration
+
+May	Deadline: 19th Feb 99
+Future 46
+France 31
+Germany 5/99
+German Undefined Spezial 99
+Reg User 7
+Collector's Edition
+
+June	Deadline: 17th Mar 99
+Future 47
+France 32
+Germany 6/99
+Collector's Edition
+
+July	Deadline: 22nd April 99
+Future 48
+France 33
+Germany 7/99
+German Undefined Spezial 99
+MIP Demo 5
+Video IDU 4E
+Collector's Edition
+
+August	Deadline: 24th May
+Future 49
+Germany 8/99
+Reg User 8
+Demo 1 v7
+Collector's Edition
+
+September	Deadline: 21st June
+Future 50
+France 34
+Germany 9/99
+Winter Releases 99
+German Undefined Spezial 99
+Essential PlayStation 11
+Collector's Edition
+
+October	Deadline: 21st July
+Future 51
+France 35
+Germany 10/99
+Video IDU 5E
+Collector's Edition
+
+November	Deadline: 13th Aug
+Future 52
+France 36
+Germany 12/99
+MIP Demo 6
+German Katalog Spezial 99
+Essential PlayStation 11
+Reg User 9
+Collector's Edition
+
+December	Deadline: 20th Sep
+Future 53
+France 37
+Germany 12/99
+Collector's Edition
+Future 54 - Christmas issue (UK only): 10th Sep
+
+January 2000	Deadline: 8th Oct 99
+Future 55
+France 38
+Germany 1/00

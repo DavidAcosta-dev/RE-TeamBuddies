@@ -1,0 +1,15 @@
+Field Truth Trace Log
+crate=0, slot=0, priority=second, focus_score=698
+focus_hint=libgte vector routines + state-machine scheduler
+domains=ai,render
+keywords=libgte,vector,routines,state,machine,scheduler,ai,render
+matches=0
+fallback_limit=5
+fallback_scanned_functions=0
+fallback_scanned_symbols=0
+fallback_scanned_instructions=0
+fallback_reference_total=0
+fallback_memory_blocks=0
+fallback_count=0
+
+No keyword matches found.

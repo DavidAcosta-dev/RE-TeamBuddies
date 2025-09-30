@@ -1,0 +1,50 @@
+This file describes the locations and contents of the other documents contained in
+the SCEEOPSM.ZIP archive.
+
+
+In Main Directory
+
+E_Index.txt	This file, English language version.
+		All English language files in this ZIP have the prefix 'E_' in their filename.
+		The Japanese language files have 'J_' prefix. French versions have 'F_' prefix.
+
+E_Read.txt	Main ReadMe for the SCEEOPSM.ZIP.
+
+
+In 'Docs' Directory
+
+E_OPSM.txt	Describes the European distribution of OPSM (Official PlayStation Magazine)
+		and its accompanying cover mount demo disc.
+
+E_Intro.txt	An outline for programmers about building demos for the OPSM disc.
+
+E_Demo.txt	The full Technical Specification for European Demo Disc Segments.
+
+E_FAQ.txt	Most common questions from developers and publishers.
+
+E_Errors.txt	The most common mistakes in demo segments submitted for OPSM discs.
+
+E_Check.txt	A basic check list for OPSM demo submissions.
+
+E_Policy.txt	Various SCEE policies of the Demo Disc (Special Projects) department.
+
+
+Other Directories
+
+Bs	
+E_BSREAD.txt	Readme file for the BS code.
+
+Example
+E_READ_X.txt	Readme file for the Example code.
+
+None2
+E_READ_N.txt	Readme file for the None2 code.
+
+Setsp
+E_READ_S.txt	Readme file for the Setsp.exe and Dump.exe utilities.
+
+
+
+Within CodWarEx.Zip
+E_Read.txt	Readme file for the CodeWarrior development environment example
+		of building and testing a demo segment.

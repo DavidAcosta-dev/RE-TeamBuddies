@@ -1,0 +1,106 @@
+value,kind,total_hits,dominant_domain,dominant_domain_hint,crate_slot_count,crate_slots,domain_ai,domain_combat,domain_engine,domain_other,domain_render,domain_support,table_ACTION.BIN,table_ATTITUDE.BIN,table_BUDDIES.BIN,table_PERCEPT.BIN,table_POWERUP.BIN,table_PROJECTILES.BIN,table_STATICS.BIN,table_TOYS.BIN,table_VEHICLES.BIN,table_WEAPONS.BIN
+2,value_a+value_b,1062,ai,AI behaviour (libgte vectors),12,0:PARK_AREA:5 | 1:PLAINS_AREA:5 | 32:INDEX_32:5 | 33:INDEX_33:5 | 34:INDEX_34:5 | 35:INDEX_35:5 | 36:INDEX_36:5 | 37:INDEX_37:5 | 38:INDEX_38:5 | 39:INDEX_39:5 | 40:INDEX_40:5 | 4:ICE_AREA:5,499,22,203,0,274,64,203,82,42,375,,64,71,64,139,22
+3,value_a+value_b,542,ai,AI behaviour (libgte vectors),11,0:PARK_AREA:5 | 1:PLAINS_AREA:5 | 27:INDEX_27:5 | 2:DESERT_AREA:5 | 33:INDEX_33:5 | 35:INDEX_35:5 | 36:INDEX_36:5 | 37:INDEX_37:5 | 38:INDEX_38:5 | 39:INDEX_39:5 | 40:INDEX_40:5,284,29,94,0,111,24,94,26,9,249,,24,55,24,32,29
+4,value_b,296,render,Rendering & geometry (libgpu/libgte),2,5:ORIENTAL_AREA:5 | 6:JUNGLE_AREA:5,101,19,52,0,118,6,52,18,8,75,,51,46,6,21,19
+5,value_a+value_b,225,ai,AI behaviour (libgte vectors),3,34:INDEX_34:5 | 7:MOON_AREA:5 | 8:INDEX_08:5,130,17,30,0,42,6,30,83,8,39,,9,20,6,13,17
+7,value_a+value_b,191,ai,AI behaviour (libgte vectors),2,11:LIGHTNING_WEAPONS:5 | 24:STEALTH_2:5,117,9,41,0,11,13,41,7,66,44,,5,2,13,4,9
+10,value_b,181,ai,AI behaviour (libgte vectors),1,24:STEALTH_2:5,93,24,4,0,52,8,4,,60,33,4,21,27,4,4,24
+12,value_a,54,ai,AI behaviour (libgte vectors),1,11:LIGHTNING_WEAPONS:5,19,10,8,0,13,4,8,1,4,14,,2,3,4,8,10
+14,value_a,38,combat,Combat runtime (libgte/libgpu),1,17:ALL_MISSILE_WEAPONS:5,11,18,4,0,1,4,4,5,1,5,,,,4,1,18
+15,value_a,84,render,Rendering & geometry (libgpu/libgte),1,4:ICE_AREA:1,26,3,5,0,35,15,5,1,4,21,11,18,16,4,1,3
+16,value_a+value_b,34,ai,AI behaviour (libgte vectors),1,30:INDEX_30:5,20,2,4,0,4,4,4,1,1,18,,2,1,4,1,2
+18,value_a,61,ai,AI behaviour (libgte vectors),1,21:FLYING_3:5,33,2,2,0,20,4,2,,24,9,,19,,4,1,2
+19,value_b,54,engine,Core state machines,1,21:FLYING_3:5,4,2,41,0,3,4,41,,2,2,,1,1,4,1,2
+22,value_b,63,ai,AI behaviour (libgte vectors),1,7:MOON_AREA:5,39,8,2,0,10,4,2,1,26,12,,6,,4,4,8
+26,value_a,45,ai,AI behaviour (libgte vectors),3,28:INDEX_28:5 | 29:INDEX_29:5 | 31:INDEX_31:5,31,6,2,0,4,2,2,,17,14,,1,,2,3,6
+28,value_a,35,ai,AI behaviour (libgte vectors),17,0:PARK_AREA:2 | 1:PLAINS_AREA:2 | 27:INDEX_27:2 | 2:DESERT_AREA:2 | 32:INDEX_32:2 | 33:INDEX_33:2 | 35:INDEX_35:2 | 36:INDEX_36:2 | 37:INDEX_37:2 | 38:INDEX_38:2 | 39:INDEX_39:2 | 40:INDEX_40:2 | 5:ORIENTAL_AREA:2 | 6:JUNGLE_AREA:2 | 7:MOON_AREA:2 | 8:INDEX_08:2 | 9:INDEX_09:2,18,8,2,0,5,2,2,,1,17,,1,,2,4,8
+29,value_a,15,ai,AI behaviour (libgte vectors),5,15:ALL_HEAVY_WEAPONS_2:4 | 16:ALL_ROCKET_WEAPONS:4 | 20:FLYING_2:4 | 21:FLYING_3:2 | 26:BIKES:2,7,3,2,0,1,2,2,,4,3,,1,,2,,3
+30,value_a+value_b,165,ai,AI behaviour (libgte vectors),32,0:PARK_AREA:4 | 10:ALL_FLAME_WEAPONS:2 | 11:LIGHTNING_WEAPONS:2 | 12:ALL_GRENADES_1:2 | 13:ALL_GRENADES_2:2 | 14:ALL_HEAVY_WEAPONS_1:2 | 14:ALL_HEAVY_WEAPONS_1:4 | 14:ALL_HEAVY_WEAPONS_1:5 | 16:ALL_ROCKET_WEAPONS:2 | 18:ALL_SPECIAL_WEAPONS:2 | 19:FLYING_1:2 | 1:PLAINS_AREA:4 | 20:FLYING_2:2 | 22:FLYING_4:2 | 24:STEALTH_2:2 | 25:SPACE:2 | 27:INDEX_27:4 | 2:DESERT_AREA:4 | 30:INDEX_30:2 | 32:INDEX_32:4 | 33:INDEX_33:4 | 35:INDEX_35:4 | 36:INDEX_36:4 | 37:INDEX_37:4 | 38:INDEX_38:4 | 39:INDEX_39:4 | 3:WOODS_AREA:2 | 40:INDEX_40:4 | 4:ICE_AREA:2 | 4:ICE_AREA:4 | 6:JUNGLE_AREA:4 | 8:INDEX_08:4,83,7,1,0,70,4,1,11,61,11,2,14,22,2,34,7
+32,value_a,31,ai,AI behaviour (libgte vectors),8,11:LIGHTNING_WEAPONS:4 | 15:ALL_HEAVY_WEAPONS_2:2 | 17:ALL_MISSILE_WEAPONS:4 | 19:FLYING_1:4 | 31:INDEX_31:2 | 34:INDEX_34:2 | 7:MOON_AREA:4 | 9:INDEX_09:4,20,4,2,0,3,2,2,1,10,9,,1,1,2,1,4
+33,value_a,23,ai,AI behaviour (libgte vectors),10,12:ALL_GRENADES_1:4 | 13:ALL_GRENADES_2:4 | 18:ALL_SPECIAL_WEAPONS:4 | 23:STEALTH_1:4 | 24:STEALTH_2:4 | 26:BIKES:4 | 28:INDEX_28:2 | 29:INDEX_29:4 | 31:INDEX_31:4 | 34:INDEX_34:4,12,3,1,0,4,3,1,1,4,7,,1,1,3,2,3
+34,value_a,14,ai,AI behaviour (libgte vectors),6,10:ALL_FLAME_WEAPONS:4 | 17:ALL_MISSILE_WEAPONS:2 | 23:STEALTH_1:2 | 29:INDEX_29:2 | 3:WOODS_AREA:4 | 5:ORIENTAL_AREA:4,5,2,3,0,2,2,3,,,5,,1,1,2,,2
+35,value_a,167,ai,AI behaviour (libgte vectors),3,21:FLYING_3:4 | 25:SPACE:4 | 28:INDEX_28:4,129,26,3,0,7,2,3,109,12,8,,2,3,2,2,26
+37,value_a,28,ai,AI behaviour (libgte vectors),4,34:INDEX_34:1 | 3:WOODS_AREA:0 | 5:ORIENTAL_AREA:0 | 6:JUNGLE_AREA:0,17,2,4,0,0,5,4,,8,9,,,,5,,2
+38,value_a,25,ai,AI behaviour (libgte vectors),13,0:PARK_AREA:0 | 1:PLAINS_AREA:0 | 27:INDEX_27:0 | 2:DESERT_AREA:0 | 32:INDEX_32:0 | 33:INDEX_33:0 | 34:INDEX_34:0 | 35:INDEX_35:0 | 36:INDEX_36:0 | 37:INDEX_37:0 | 38:INDEX_38:0 | 39:INDEX_39:0 | 40:INDEX_40:0,14,2,2,0,3,4,2,2,1,11,,2,1,4,,2
+39,value_a,44,ai,AI behaviour (libgte vectors),12,0:PARK_AREA:1 | 1:PLAINS_AREA:1 | 27:INDEX_27:1 | 2:DESERT_AREA:1 | 32:INDEX_32:1 | 33:INDEX_33:1 | 35:INDEX_35:1 | 36:INDEX_36:1 | 37:INDEX_37:1 | 38:INDEX_38:1 | 39:INDEX_39:1 | 40:INDEX_40:1,27,3,3,0,8,3,3,1,14,12,,,,3,8,3
+40,value_a,139,ai,AI behaviour (libgte vectors),14,0:PARK_AREA:3 | 1:PLAINS_AREA:3 | 27:INDEX_27:3 | 2:DESERT_AREA:3 | 32:INDEX_32:3 | 33:INDEX_33:3 | 34:INDEX_34:3 | 35:INDEX_35:3 | 36:INDEX_36:3 | 37:INDEX_37:3 | 38:INDEX_38:3 | 39:INDEX_39:3 | 40:INDEX_40:3 | 4:ICE_AREA:0,63,14,2,0,55,5,2,44,16,3,1,9,34,4,12,14
+42,value_a,43,ai,AI behaviour (libgte vectors),5,23:STEALTH_1:0 | 24:STEALTH_2:0 | 25:SPACE:0 | 26:BIKES:0 | 4:ICE_AREA:3,17,13,6,0,2,5,6,1,4,12,,,1,5,1,13
+43,value_a,20,support,Support systems (libspu/libpad),3,3:WOODS_AREA:3 | 5:ORIENTAL_AREA:3 | 6:JUNGLE_AREA:3,5,2,3,0,4,6,3,1,,4,,,,6,4,2
+46,value_a+value_b,50,ai,AI behaviour (libgte vectors),4,11:LIGHTNING_WEAPONS:0 | 12:ALL_GRENADES_1:0 | 13:ALL_GRENADES_2:0 | 34:INDEX_34:1,28,2,15,0,3,2,15,1,19,8,,,1,2,2,2
+47,value_a,26,engine,Core state machines,4,10:ALL_FLAME_WEAPONS:3 | 7:MOON_AREA:3 | 8:INDEX_08:3 | 9:INDEX_09:3,10,2,10,0,2,2,10,1,6,3,,,2,2,,2
+48,value_a,37,combat,Combat runtime (libgte/libgpu),3,3:WOODS_AREA:1 | 5:ORIENTAL_AREA:1 | 6:JUNGLE_AREA:1,10,12,7,0,5,3,7,1,3,6,,3,,3,2,12
+52,value_a,39,ai,AI behaviour (libgte vectors),4,28:INDEX_28:0 | 29:INDEX_29:0 | 30:INDEX_30:0 | 31:INDEX_31:0,13,4,6,0,12,4,6,6,,7,,11,1,4,,4
+53,value_a,36,ai,AI behaviour (libgte vectors),4,28:INDEX_28:3 | 29:INDEX_29:3 | 30:INDEX_30:3 | 31:INDEX_31:3,17,2,4,0,7,6,4,,14,3,,,,6,7,2
+54,value_a,23,ai,AI behaviour (libgte vectors),3,28:INDEX_28:1 | 29:INDEX_29:1 | 31:INDEX_31:1,7,6,6,0,0,4,6,1,,6,,,,4,,6
+56,value_a,24,ai,AI behaviour (libgte vectors),4,15:ALL_HEAVY_WEAPONS_2:0 | 16:ALL_ROCKET_WEAPONS:0 | 17:ALL_MISSILE_WEAPONS:0 | 18:ALL_SPECIAL_WEAPONS:0,10,4,7,0,0,3,7,3,2,5,,,,3,,4
+57,value_a,20,ai,AI behaviour (libgte vectors),4,19:FLYING_1:3 | 20:FLYING_2:3 | 21:FLYING_3:3 | 22:FLYING_4:3,13,1,1,0,1,4,1,3,5,5,,,1,4,,1
+58,value_a,34,engine,Core state machines,3,19:FLYING_1:0 | 20:FLYING_2:0 | 21:FLYING_3:0,10,2,17,0,1,4,17,3,,7,,,1,4,,2
+59,value_a,24,ai,AI behaviour (libgte vectors),4,23:STEALTH_1:3 | 24:STEALTH_2:3 | 25:SPACE:3 | 26:BIKES:3,13,2,4,0,1,4,4,2,2,9,,,1,4,,2
+60,value_a,140,ai,AI behaviour (libgte vectors),4,15:ALL_HEAVY_WEAPONS_2:3 | 16:ALL_ROCKET_WEAPONS:3 | 17:ALL_MISSILE_WEAPONS:3 | 18:ALL_SPECIAL_WEAPONS:3,76,27,15,0,19,3,15,54,8,14,,3,1,3,15,27
+104,value_b,28,ai,AI behaviour (libgte vectors),17,0:PARK_AREA:2 | 1:PLAINS_AREA:2 | 27:INDEX_27:2 | 2:DESERT_AREA:2 | 32:INDEX_32:2 | 33:INDEX_33:2 | 35:INDEX_35:2 | 36:INDEX_36:2 | 37:INDEX_37:2 | 38:INDEX_38:2 | 39:INDEX_39:2 | 40:INDEX_40:2 | 5:ORIENTAL_AREA:2 | 6:JUNGLE_AREA:2 | 7:MOON_AREA:2 | 8:INDEX_08:2 | 9:INDEX_09:2,13,0,7,0,8,0,7,,12,1,,7,1,,,
+105,value_b,20,engine,Core state machines,6,10:ALL_FLAME_WEAPONS:4 | 17:ALL_MISSILE_WEAPONS:2 | 23:STEALTH_1:2 | 29:INDEX_29:2 | 3:WOODS_AREA:4 | 5:ORIENTAL_AREA:4,2,0,15,0,3,0,15,1,,1,,3,,,,
+106,value_a+value_b,10,combat,Combat runtime (libgte/libgpu),30,0:PARK_AREA:4 | 10:ALL_FLAME_WEAPONS:2 | 11:LIGHTNING_WEAPONS:2 | 12:ALL_GRENADES_1:2 | 13:ALL_GRENADES_2:2 | 14:ALL_HEAVY_WEAPONS_1:2 | 14:ALL_HEAVY_WEAPONS_1:4 | 16:ALL_ROCKET_WEAPONS:2 | 18:ALL_SPECIAL_WEAPONS:2 | 19:FLYING_1:2 | 1:PLAINS_AREA:4 | 20:FLYING_2:2 | 22:FLYING_4:2 | 22:FLYING_4:4 | 24:STEALTH_2:2 | 25:SPACE:2 | 27:INDEX_27:4 | 2:DESERT_AREA:4 | 30:INDEX_30:2 | 32:INDEX_32:4 | 33:INDEX_33:4 | 35:INDEX_35:4 | 36:INDEX_36:4 | 37:INDEX_37:4 | 38:INDEX_38:4 | 39:INDEX_39:4 | 3:WOODS_AREA:2 | 40:INDEX_40:4 | 6:JUNGLE_AREA:4 | 8:INDEX_08:4,0,5,3,0,2,0,3,,,,,1,1,,,5
+107,value_b,10,render,Rendering & geometry (libgpu/libgte),9,11:LIGHTNING_WEAPONS:4 | 15:ALL_HEAVY_WEAPONS_2:2 | 17:ALL_MISSILE_WEAPONS:4 | 19:FLYING_1:4 | 31:INDEX_31:2 | 34:INDEX_34:2 | 34:INDEX_34:4 | 7:MOON_AREA:4 | 9:INDEX_09:4,2,0,2,0,6,0,2,,,2,,,6,,,
+108,value_b,9,combat,Combat runtime (libgte/libgpu),9,12:ALL_GRENADES_1:4 | 13:ALL_GRENADES_2:4 | 18:ALL_SPECIAL_WEAPONS:4 | 23:STEALTH_1:4 | 24:STEALTH_2:4 | 26:BIKES:4 | 28:INDEX_28:2 | 29:INDEX_29:4 | 31:INDEX_31:4,2,4,2,0,1,0,2,1,,1,,,1,,,4
+109,value_b,5,ai,AI behaviour (libgte vectors),3,21:FLYING_3:4 | 25:SPACE:4 | 28:INDEX_28:4,3,0,2,0,0,0,2,1,,2,,,,,,
+110,value_b,45,engine,Core state machines,5,15:ALL_HEAVY_WEAPONS_2:4 | 16:ALL_ROCKET_WEAPONS:4 | 20:FLYING_2:4 | 21:FLYING_3:2 | 26:BIKES:2,9,10,13,0,13,0,13,1,7,1,,,2,,11,10
+112,value_b,18,render,Rendering & geometry (libgpu/libgte),13,0:PARK_AREA:0 | 1:PLAINS_AREA:0 | 27:INDEX_27:0 | 2:DESERT_AREA:0 | 32:INDEX_32:0 | 33:INDEX_33:0 | 34:INDEX_34:0 | 35:INDEX_35:0 | 36:INDEX_36:0 | 37:INDEX_37:0 | 38:INDEX_38:0 | 39:INDEX_39:0 | 40:INDEX_40:0,0,1,3,0,14,0,3,,,,,,8,,6,1
+113,value_b,6,engine,Core state machines,12,0:PARK_AREA:1 | 1:PLAINS_AREA:1 | 27:INDEX_27:1 | 2:DESERT_AREA:1 | 32:INDEX_32:1 | 33:INDEX_33:1 | 35:INDEX_35:1 | 36:INDEX_36:1 | 37:INDEX_37:1 | 38:INDEX_38:1 | 39:INDEX_39:1 | 40:INDEX_40:1,0,1,5,0,0,0,5,,,,,,,,,1
+114,value_a+value_b,9,engine,Core state machines,15,0:PARK_AREA:3 | 14:ALL_HEAVY_WEAPONS_1:1 | 1:PLAINS_AREA:3 | 22:FLYING_4:0 | 27:INDEX_27:3 | 2:DESERT_AREA:3 | 32:INDEX_32:3 | 33:INDEX_33:3 | 35:INDEX_35:3 | 36:INDEX_36:3 | 37:INDEX_37:3 | 38:INDEX_38:3 | 39:INDEX_39:3 | 40:INDEX_40:3 | 4:ICE_AREA:0,1,2,3,0,3,0,3,,,1,,,3,,,2
+115,value_b,28,ai,AI behaviour (libgte vectors),3,3:WOODS_AREA:0 | 5:ORIENTAL_AREA:0 | 6:JUNGLE_AREA:0,12,2,7,0,7,0,7,1,10,1,,,7,,,2
+116,value_b,16,combat,Combat runtime (libgte/libgpu),3,3:WOODS_AREA:1 | 5:ORIENTAL_AREA:1 | 6:JUNGLE_AREA:1,2,11,2,0,1,0,2,1,,1,,,1,,,11
+117,value_a+value_b,26,combat,Combat runtime (libgte/libgpu),5,14:ALL_HEAVY_WEAPONS_1:3 | 3:WOODS_AREA:3 | 4:ICE_AREA:1 | 5:ORIENTAL_AREA:3 | 6:JUNGLE_AREA:3,7,11,8,0,0,0,8,1,3,3,,,,,,11
+118,value_a,8,combat,Combat runtime (libgte/libgpu),4,10:ALL_FLAME_WEAPONS:0 | 7:MOON_AREA:0 | 8:INDEX_08:0 | 9:INDEX_09:0,1,4,2,0,1,0,2,1,,,,,1,,,4
+119,value_b,11,combat,Combat runtime (libgte/libgpu),4,10:ALL_FLAME_WEAPONS:0 | 7:MOON_AREA:0 | 8:INDEX_08:0 | 9:INDEX_09:0,2,5,3,0,1,0,3,1,,1,,,1,,,5
+120,value_a,58,ai,AI behaviour (libgte vectors),4,10:ALL_FLAME_WEAPONS:1 | 7:MOON_AREA:1 | 8:INDEX_08:1 | 9:INDEX_09:1,26,10,1,0,21,0,1,18,6,2,,4,,,17,10
+121,value_b,14,ai,AI behaviour (libgte vectors),4,10:ALL_FLAME_WEAPONS:1 | 7:MOON_AREA:1 | 8:INDEX_08:1 | 9:INDEX_09:1,8,0,2,0,4,0,2,,1,7,,3,1,,,
+122,value_b,6,combat,Combat runtime (libgte/libgpu),4,10:ALL_FLAME_WEAPONS:3 | 7:MOON_AREA:3 | 8:INDEX_08:3 | 9:INDEX_09:3,1,3,1,0,1,0,1,,,1,,,1,,,3
+123,value_b,7,combat,Combat runtime (libgte/libgpu),4,11:LIGHTNING_WEAPONS:0 | 12:ALL_GRENADES_1:0 | 13:ALL_GRENADES_2:0 | 34:INDEX_34:3,1,3,1,0,2,0,1,,,1,,2,,,,3
+124,value_a,7,engine,Core state machines,4,11:LIGHTNING_WEAPONS:1 | 12:ALL_GRENADES_1:1 | 13:ALL_GRENADES_2:1 | 14:ALL_HEAVY_WEAPONS_1:0,2,2,2,0,1,0,2,1,,1,,1,,,,2
+125,value_b,10,ai,AI behaviour (libgte vectors),3,11:LIGHTNING_WEAPONS:1 | 12:ALL_GRENADES_1:1 | 13:ALL_GRENADES_2:1,4,2,1,0,3,0,1,1,2,1,,,1,,2,2
+126,value_a,7,combat,Combat runtime (libgte/libgpu),3,11:LIGHTNING_WEAPONS:3 | 12:ALL_GRENADES_1:3 | 13:ALL_GRENADES_2:3,2,3,1,0,1,0,1,1,,1,,,1,,,3
+127,value_b,23,combat,Combat runtime (libgte/libgpu),3,11:LIGHTNING_WEAPONS:3 | 12:ALL_GRENADES_1:3 | 13:ALL_GRENADES_2:3,3,19,1,0,0,0,1,1,,2,,,,,,19
+128,value_b,22,ai,AI behaviour (libgte vectors),4,15:ALL_HEAVY_WEAPONS_2:0 | 16:ALL_ROCKET_WEAPONS:0 | 17:ALL_MISSILE_WEAPONS:0 | 18:ALL_SPECIAL_WEAPONS:0,9,5,1,0,7,0,1,,9,,,5,,,2,5
+129,value_a,13,render,Rendering & geometry (libgpu/libgte),4,15:ALL_HEAVY_WEAPONS_2:1 | 16:ALL_ROCKET_WEAPONS:1 | 17:ALL_MISSILE_WEAPONS:1 | 18:ALL_SPECIAL_WEAPONS:1,1,1,1,0,10,0,1,,,1,,,10,,,1
+130,value_b,19,render,Rendering & geometry (libgpu/libgte),4,15:ALL_HEAVY_WEAPONS_2:1 | 16:ALL_ROCKET_WEAPONS:1 | 17:ALL_MISSILE_WEAPONS:1 | 18:ALL_SPECIAL_WEAPONS:1,1,4,5,0,9,0,5,,1,,,,1,,8,4
+131,value_b,7,combat,Combat runtime (libgte/libgpu),5,14:ALL_HEAVY_WEAPONS_1:0 | 15:ALL_HEAVY_WEAPONS_2:3 | 16:ALL_ROCKET_WEAPONS:3 | 17:ALL_MISSILE_WEAPONS:3 | 18:ALL_SPECIAL_WEAPONS:3,1,4,2,0,0,0,2,,,1,,,,,,4
+132,value_b,7,combat,Combat runtime (libgte/libgpu),3,19:FLYING_1:0 | 20:FLYING_2:0 | 21:FLYING_3:0,2,4,1,0,0,0,1,1,,1,,,,,,4
+133,value_a,5,ai,AI behaviour (libgte vectors),4,19:FLYING_1:1 | 20:FLYING_2:1 | 21:FLYING_3:1 | 22:FLYING_4:1,2,2,1,0,0,0,1,1,,1,,,,,,2
+134,value_b,3,engine,Core state machines,3,19:FLYING_1:1 | 21:FLYING_3:1 | 22:FLYING_4:1,1,0,1,0,1,0,1,1,,,,,1,,,
+135,value_b,12,render,Rendering & geometry (libgpu/libgte),5,19:FLYING_1:3 | 20:FLYING_2:1 | 20:FLYING_2:3 | 21:FLYING_3:3 | 22:FLYING_4:3,2,0,2,0,8,0,2,1,1,,,,,,8,
+136,value_a+value_b,10,engine,Core state machines,6,22:FLYING_4:0 | 23:STEALTH_1:0 | 24:STEALTH_2:0 | 25:SPACE:0 | 26:BIKES:0 | 4:ICE_AREA:3,4,0,4,0,2,0,4,,3,1,,2,,,,
+137,value_a,3,engine,Core state machines,4,23:STEALTH_1:1 | 24:STEALTH_2:1 | 25:SPACE:1 | 26:BIKES:1,1,0,2,0,0,0,2,,,1,,,,,,
+138,value_b,6,combat,Combat runtime (libgte/libgpu),4,23:STEALTH_1:1 | 24:STEALTH_2:1 | 25:SPACE:1 | 26:BIKES:1,1,3,1,0,1,0,1,,,1,,,1,,,3
+139,value_b,6,combat,Combat runtime (libgte/libgpu),4,23:STEALTH_1:3 | 24:STEALTH_2:3 | 25:SPACE:3 | 26:BIKES:3,1,3,2,0,0,0,2,1,,,,,,,,3
+140,value_b,23,render,Rendering & geometry (libgpu/libgte),4,28:INDEX_28:3 | 29:INDEX_29:3 | 30:INDEX_30:3 | 31:INDEX_31:3,4,3,3,0,13,0,3,1,3,,,2,1,,10,3
+141,value_b,8,engine,Core state machines,4,28:INDEX_28:1 | 29:INDEX_29:1 | 30:INDEX_30:1 | 31:INDEX_31:1,2,3,3,0,0,0,3,1,,1,,,,,,3
+142,value_b,8,engine,Core state machines,4,28:INDEX_28:0 | 29:INDEX_29:0 | 30:INDEX_30:0 | 31:INDEX_31:0,3,0,3,0,2,0,3,1,,2,,,2,,,
+144,value_a+value_b,23,ai,AI behaviour (libgte vectors),5,27:INDEX_27:5 | 2:DESERT_AREA:5 | 3:WOODS_AREA:5 | 5:ORIENTAL_AREA:5 | 6:JUNGLE_AREA:5,19,1,3,0,0,0,3,,,19,,,,,,1
+145,value_b,21,engine,Core state machines,1,3:WOODS_AREA:5,0,1,16,0,4,0,16,,,,,,1,,3,1
+146,value_a,3,engine,Core state machines,1,18:ALL_SPECIAL_WEAPONS:5,0,1,2,0,0,0,2,,,,,,,,,1
+149,value_a,14,combat,Combat runtime (libgte/libgpu),1,15:ALL_HEAVY_WEAPONS_2:5,3,9,2,0,0,0,2,1,,2,,,,,,9
+150,value_a,58,render,Rendering & geometry (libgpu/libgte),1,16:ALL_ROCKET_WEAPONS:5,11,1,1,0,45,0,1,3,7,1,,3,22,,20,1
+151,value_a,7,ai,AI behaviour (libgte vectors),1,19:FLYING_1:5,4,0,2,0,1,0,2,1,,3,,,1,,,
+152,value_a,2,engine,Core state machines,1,20:FLYING_2:5,0,0,2,0,0,0,2,,,,,,,,,
+153,value_b,21,ai,AI behaviour (libgte vectors),1,9:INDEX_09:5,16,1,4,0,0,0,4,,15,1,,,,,,1
+154,value_b,8,engine,Core state machines,1,16:ALL_ROCKET_WEAPONS:5,2,0,5,0,1,0,5,,,2,,,1,,,
+155,value_b,5,engine,Core state machines,1,10:ALL_FLAME_WEAPONS:5,2,0,3,0,0,0,3,1,,1,,,,,,
+156,value_b,8,engine,Core state machines,1,17:ALL_MISSILE_WEAPONS:5,1,0,7,0,0,0,7,1,,,,,,,,
+157,value_b,5,engine,Core state machines,2,15:ALL_HEAVY_WEAPONS_2:5 | 18:ALL_SPECIAL_WEAPONS:5,2,0,3,0,0,0,3,1,,1,,,,,,
+158,value_b,7,ai,AI behaviour (libgte vectors),1,8:INDEX_08:5,4,0,2,0,1,0,2,1,,3,,,1,,,
+159,value_a,2,engine,Core state machines,1,10:ALL_FLAME_WEAPONS:5,1,0,1,0,0,0,1,,,1,,,,,,
+160,value_a,15,combat,Combat runtime (libgte/libgpu),1,9:INDEX_09:5,3,7,2,0,3,0,2,,2,1,,,,,3,7
+161,value_b,1,engine,Core state machines,1,19:FLYING_1:5,0,0,1,0,0,0,1,,,,,,,,,
+162,value_b,5,engine,Core state machines,1,20:FLYING_2:5,0,0,4,0,1,0,4,,,,,,1,,,
+163,value_b,6,render,Rendering & geometry (libgpu/libgte),1,26:BIKES:5,2,0,1,0,3,0,1,1,,1,,,,,3,
+164,value_b,4,ai,AI behaviour (libgte vectors),1,23:STEALTH_1:5,2,0,1,0,1,0,1,1,,1,,,1,,,
+165,value_b,10,ai,AI behaviour (libgte vectors),1,25:SPACE:5,4,2,3,0,1,0,3,1,,3,,,,,1,2
+166,value_a,5,engine,Core state machines,1,12:ALL_GRENADES_1:5,2,0,3,0,0,0,3,1,,1,,,,,,
+167,value_a,5,engine,Core state machines,1,13:ALL_GRENADES_2:5,1,0,2,0,2,0,2,,,1,,,2,,,
+168,value_a+value_b,7,render,Rendering & geometry (libgpu/libgte),2,12:ALL_GRENADES_1:5 | 23:STEALTH_1:5,2,0,2,0,3,0,2,,,2,,,,,3,
+169,value_a+value_b,15,ai,AI behaviour (libgte vectors),2,13:ALL_GRENADES_2:5 | 25:SPACE:5,11,0,4,0,0,0,4,,,11,,,,,,
+170,value_a,14,render,Rendering & geometry (libgpu/libgte),1,26:BIKES:5,1,3,3,0,7,0,3,,,1,,6,1,,,3
+174,value_a+value_b,3,engine,Core state machines,1,22:FLYING_4:5,1,0,2,0,0,0,2,,,1,,,,,,
+177,value_a,5,render,Rendering & geometry (libgpu/libgte),1,14:ALL_HEAVY_WEAPONS_1:5,1,0,1,0,3,0,1,,,1,,3,,,,
+178,value_a+value_b,2,engine,Core state machines,2,30:INDEX_30:1 | 30:INDEX_30:4,0,0,1,0,1,0,1,,,,,1,,,,
+179,value_b,5,engine,Core state machines,3,28:INDEX_28:5 | 29:INDEX_29:5 | 31:INDEX_31:5,1,0,2,0,2,0,2,1,,,,1,1,,,

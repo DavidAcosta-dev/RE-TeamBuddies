@@ -1,0 +1,50 @@
+E_FAQ.txt
+
+Frequently Asked Questions
+
+These are the questions we are most often asked by developers preparing a demo segment
+for OPSM submission.
+
+1. What size can I make my demo?
+I recommend 40MB maximum - this should include any music or SFX held as XA or CD-DA.
+The reason for this is that the demo disc holds a maximum of 600MB or data (taking into
+account our own requirements). We usually put a maximum of 12 items on it;
+12*40 = 480MB, apparently no problem BUT lots of publishers want to use larger demos.
+I therefore advise people that they can go above 40MB but it may prevent us from using
+their demo depending on the other content of the disc. As we make a variety of discs with
+different combinations of demos on them, we are unable to say in advance how full a
+particular disc may be.
+
+2. How long can I make my video clips?
+40MB corresponds to a bit under 2 minutes after the movie has been compressed using MovConv
+(compression software for PlayStation). I recommend 100 seconds as a suitable time limit.
+As with demo size limits, you can go above this but the larger you go the greater the chance
+of not being able to fit the demo on a particular disc.
+
+3. What format should I use for video clips?
+As a developer, you have access to MovConv and can produce Stream files, therefore we prefer
+to receive these on gold CDs. Please note that you should provide a non-interleaved data disc
+as well as a bootable disc.
+
+4. What is the best resolution for video on PlayStation?
+320*256 pixels, 25 fps, 24-bit colour, 44KHz 16-bit audio will provide the best quality when
+compressing for PlayStation. Lower resolutions can be used depending on the subject matter.
+
+5. Why do I have to supply a bootable disc?
+Firstly, this is a check that your demo is compatible with the OPSM bootstrap code.
+Secondly, the disc will be sent to QA for immediate test, and bugs will be sent back to you.
+
+6. Why do I have to provide a PC format data disc? (Non-interleaved disc)
+There are two reasons. The main one is that PS discs have video and audio interleaved in
+the XA format. Since PCs cannot read XA, it is impossible to copy the data off the PS disc
+and use it to assemble a different disc. The second reason is that it gives us a back-up
+archive of the demo for possible future use. Demo segments are frequently used on several
+different discs.
+
+7. How do I make a PC format data disc?
+Simply use the same CCS file that was used to create the PS disc but set the data type of
+any XA files to be not XA.
+
+8. I need a product code for my game. How can I get one?
+Product codes are assigned by the 3rd Party Relations department when a product proposal is
+approved for publication. Only licensed publishers can make product publication proposals.

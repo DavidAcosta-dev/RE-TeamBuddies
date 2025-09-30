@@ -15,3 +15,4 @@
 *.PCM filter=lfs diff=lfs merge=lfs -text
 *.ECM filter=lfs diff=lfs merge=lfs -text
 *.CUE filter=lfs diff=lfs merge=lfs -text
+assets/TeamBuddiesGameFiles/TeamBuddies.iso filter=lfs diff=lfs merge=lfs -text

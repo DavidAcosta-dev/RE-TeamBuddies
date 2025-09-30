@@ -1,0 +1,77 @@
+Welcome to the SCEE OPSM (Official PlayStation Magazine) Demo Disc Programme.
+
+The directories you have de-archived from SCEEOPME.ZIP include the technical
+specifications and software you will need to rebuild your program for use in
+the OPSM demo disc.
+
+Experience shows that this can usually be accomplished
+in one man-week, and is not very difficult. However, if you have problems,
+please contact SCEE Developer Support through email, phone or the website.
+
+
+Index of the Technical Specification.
+
+There are 6 directories within Demo:
+
+Docs:		Documents in MS Word 97 (.doc) and Text (.txt) format
+		describing how and why the playable game segments should be
+		constructed and submitted to SCEE.
+
+		These documents will be made available in the following languages:
+		English		Files marked with prefix 'E_'
+		Japanese	Files marked with prefix 'J_'
+		French		Files marked with prefix 'F_'
+
+		OPSM.txt: 	Information on the OPSM demo discs produced by SCEE.
+
+		Intro.txt: 	A short introduction to the preparation of
+				demo segments for OPSM demo discs.
+		
+		Demo.txt	Full technical specification for SCEE's 
+				OPSM demo disc segments.
+		
+		FAQ.txt: 	Answers to the questions most frequently asked by
+				developers and publishers.
+		
+		Errors.txt: 	The most common mistakes made by developers and
+				publishers in their demo submissions.
+
+		Check.txt	Submission checklist for when you need to send your
+				demo segment to SCEE.
+
+Bs:             Bootstrap program source, and a readme. 
+                This boots the machine, and will load and run your program 
+                under the conditions it will have on the demo disk.
+
+None2:          This directory contains a reworking of the SCEI none2.obj,
+                which is a replacement for libsn.lib, allowing your program
+                to return to the calling program (ie bs.exe) properly.
+                This version includes the libsn variables __heapbase et al.
+
+Setsp:          This directory contains 2 PC utilities for working with
+                PlayStation .EXE files - dumpexe, which dumps the information
+                from the XF_HDR info at the start of an EXE file, and setsp,
+                which can be used to set the correct stack pointer in a
+                PlayStation .EXE file (as the cpe2x converter does not, and
+                the demo disk needs to know where the stack goes).
+
+Example:        This directory has an example program which runs under bs.exe,
+                and shows how to retrieve arguments from the parent, and set
+                up and close down the various subsystems without breaking
+                anything.
+
+CodeWar.zip	This archive holds an example of a bootstrap demo built using
+		CodeWarrior for Macintosh.
+
+IMPORTANT:
+----------
+1: Please make sure you are using the latest version of the specification.
+
+2: Read the Intro.txt for a short explanation of the reasoning behind this
+method of building demo segments.
+
+3: The FAQ.txt and Errors.txt contain useful information on common problems
+in demo segment preparation and submission.
+
+This ZIP was updated by Richard Milner, producer of special projects,
+on 22nd Dec 1998. Previously updated by Alan Murphy in 1995 and Vince Diesi in 1996.

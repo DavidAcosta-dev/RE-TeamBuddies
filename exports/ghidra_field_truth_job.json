@@ -1,0 +1,22 @@
+{
+  "project_path": "C:\\Users\\Acost\\tb-re\\ghidra_proj\\TBProject",
+  "headless_path": "C:\\Users\\Acost\\tb-re\\ghidra_11.4.2_PUBLIC\\support\\analyzeHeadless.bat",
+  "script_path": "C:\\Users\\Acost\\tb-re\\ghidra_scripts\\FieldTruthTracer.py",
+  "additional_args": [
+    "--enable-logging"
+  ],
+  "targets": [
+    {
+      "crate_index": 4,
+      "crate_label": "ICE_AREA",
+      "slot": 0,
+      "priority": "high",
+      "focus_hint": "libgpu geometry + libgte transforms + libgte/libgpu combat loops",
+      "domains": [
+        "ai",
+        "engine"
+      ],
+      "focus_score": 1023
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[Params]
+        WndTitle   = CD-ROM Generator Setup
+        WndMess    = Initializing Setup...
+        TmpDirSize = 700
+        TmpDirName = ~msstfqf.t
+        CmdLine    = _mstest cdcrinst.mst /C "/S %s %s"
+        DrvModName = DSHELL
+
+[Files]
+        cdcrinst.ms_  = cdcrinst.mst
+        setup.in_ = setup.inf
+        setupapi.in_ = setupapi.inc
+        msdetect.in_ = msdetect.inc
+        mscomstf.dl_ = mscomstf.dll
+        msinsstf.dl_ = msinsstf.dll
+        msuilstf.dl_ = msuilstf.dll
+        msshlstf.dl_ = msshlstf.dll
+        mscuistf.dl_ = mscuistf.dll
+        msdetstf.dl_ = msdetstf.dll
+        _mstest.ex_  = _mstest.exe
+        _mssetup.ex_ = _mssetup.exe
+        readme.txt   = readme.txt
+        cdgen.ex_ = cdgen.exe
+        cdrec.ex_ = cdrec.exe
+        cdgen.hl_ = cdgen.hlp      
+
