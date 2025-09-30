@@ -53,6 +53,174 @@
         "engine"
       ],
       "focus_score": 1023
+    },
+    {
+      "crate_index": 4,
+      "crate_label": "ICE_AREA",
+      "slot": 4,
+      "priority": "high",
+      "focus_hint": "libgpu geometry + libgte transforms + libgte/libgpu combat loops",
+      "domains": [
+        "ai",
+        "ai"
+      ],
+      "focus_score": 1023
+    },
+    {
+      "crate_index": 4,
+      "crate_label": "ICE_AREA",
+      "slot": 5,
+      "priority": "high",
+      "focus_hint": "libgpu geometry + libgte transforms + libgte/libgpu combat loops",
+      "domains": [
+        "ai",
+        "ai"
+      ],
+      "focus_score": 1023
+    },
+    {
+      "crate_index": 5,
+      "crate_label": "ORIENTAL_AREA",
+      "slot": 0,
+      "priority": "high",
+      "focus_hint": "libgte/libgpu combat loops + libspu/libpad support systems",
+      "domains": [
+        "ai",
+        "ai"
+      ],
+      "focus_score": 983
+    },
+    {
+      "crate_index": 5,
+      "crate_label": "ORIENTAL_AREA",
+      "slot": 1,
+      "priority": "high",
+      "focus_hint": "libgte/libgpu combat loops + libspu/libpad support systems",
+      "domains": [
+        "combat",
+        "combat"
+      ],
+      "focus_score": 983
+    },
+    {
+      "crate_index": 5,
+      "crate_label": "ORIENTAL_AREA",
+      "slot": 2,
+      "priority": "high",
+      "focus_hint": "libgte/libgpu combat loops + libspu/libpad support systems",
+      "domains": [
+        "ai",
+        "ai"
+      ],
+      "focus_score": 983
+    },
+    {
+      "crate_index": 5,
+      "crate_label": "ORIENTAL_AREA",
+      "slot": 3,
+      "priority": "high",
+      "focus_hint": "libgte/libgpu combat loops + libspu/libpad support systems",
+      "domains": [
+        "support",
+        "combat"
+      ],
+      "focus_score": 983
+    },
+    {
+      "crate_index": 5,
+      "crate_label": "ORIENTAL_AREA",
+      "slot": 4,
+      "priority": "high",
+      "focus_hint": "libgte/libgpu combat loops + libspu/libpad support systems",
+      "domains": [
+        "ai",
+        "engine"
+      ],
+      "focus_score": 983
+    },
+    {
+      "crate_index": 5,
+      "crate_label": "ORIENTAL_AREA",
+      "slot": 5,
+      "priority": "high",
+      "focus_hint": "libgte/libgpu combat loops + libspu/libpad support systems",
+      "domains": [
+        "ai",
+        "render"
+      ],
+      "focus_score": 983
+    },
+    {
+      "crate_index": 6,
+      "crate_label": "JUNGLE_AREA",
+      "slot": 0,
+      "priority": "high",
+      "focus_hint": "libgte/libgpu combat loops + libspu/libpad support systems",
+      "domains": [
+        "ai",
+        "ai"
+      ],
+      "focus_score": 960
+    },
+    {
+      "crate_index": 6,
+      "crate_label": "JUNGLE_AREA",
+      "slot": 1,
+      "priority": "high",
+      "focus_hint": "libgte/libgpu combat loops + libspu/libpad support systems",
+      "domains": [
+        "combat",
+        "combat"
+      ],
+      "focus_score": 960
+    },
+    {
+      "crate_index": 6,
+      "crate_label": "JUNGLE_AREA",
+      "slot": 2,
+      "priority": "high",
+      "focus_hint": "libgte/libgpu combat loops + libspu/libpad support systems",
+      "domains": [
+        "ai",
+        "ai"
+      ],
+      "focus_score": 960
+    },
+    {
+      "crate_index": 6,
+      "crate_label": "JUNGLE_AREA",
+      "slot": 3,
+      "priority": "high",
+      "focus_hint": "libgte/libgpu combat loops + libspu/libpad support systems",
+      "domains": [
+        "support",
+        "combat"
+      ],
+      "focus_score": 960
+    },
+    {
+      "crate_index": 6,
+      "crate_label": "JUNGLE_AREA",
+      "slot": 4,
+      "priority": "high",
+      "focus_hint": "libgte/libgpu combat loops + libspu/libpad support systems",
+      "domains": [
+        "ai",
+        "combat"
+      ],
+      "focus_score": 960
+    },
+    {
+      "crate_index": 6,
+      "crate_label": "JUNGLE_AREA",
+      "slot": 5,
+      "priority": "high",
+      "focus_hint": "libgte/libgpu combat loops + libspu/libpad support systems",
+      "domains": [
+        "ai",
+        "render"
+      ],
+      "focus_score": 960
     }
   ]
 }

@@ -3,3 +3,17 @@ crate_index,crate_label,slot,priority,focus_score,focus_hint,domains,matches,fal
 4,ICE_AREA,1,high,1023,libgpu geometry + libgte transforms + libgte/libgpu combat loops,"render,combat",10,1,0,0,0,0,1,crate4_slot1_focus1023.log
 4,ICE_AREA,2,high,1023,libgpu geometry + libgte transforms + libgte/libgpu combat loops,"ai,ai",10,1,0,0,0,0,1,crate4_slot2_focus1023.log
 4,ICE_AREA,3,high,1023,libgpu geometry + libgte transforms + libgte/libgpu combat loops,"ai,engine",10,1,0,0,0,0,1,crate4_slot3_focus1023.log
+4,ICE_AREA,4,high,1023,libgpu geometry + libgte transforms + libgte/libgpu combat loops,"ai,ai",10,1,0,0,0,0,1,crate4_slot4_focus1023.log
+4,ICE_AREA,5,high,1023,libgpu geometry + libgte transforms + libgte/libgpu combat loops,"ai,ai",10,1,0,0,0,0,1,crate4_slot5_focus1023.log
+5,ORIENTAL_AREA,0,high,983,libgte/libgpu combat loops + libspu/libpad support systems,"ai,ai",10,1,0,0,0,0,1,crate5_slot0_focus983.log
+5,ORIENTAL_AREA,1,high,983,libgte/libgpu combat loops + libspu/libpad support systems,"combat,combat",10,1,0,0,0,0,1,crate5_slot1_focus983.log
+5,ORIENTAL_AREA,2,high,983,libgte/libgpu combat loops + libspu/libpad support systems,"ai,ai",10,1,0,0,0,0,1,crate5_slot2_focus983.log
+5,ORIENTAL_AREA,3,high,983,libgte/libgpu combat loops + libspu/libpad support systems,"support,combat",10,1,0,0,0,0,1,crate5_slot3_focus983.log
+5,ORIENTAL_AREA,4,high,983,libgte/libgpu combat loops + libspu/libpad support systems,"ai,engine",10,1,0,0,0,0,1,crate5_slot4_focus983.log
+5,ORIENTAL_AREA,5,high,983,libgte/libgpu combat loops + libspu/libpad support systems,"ai,render",10,1,0,0,0,0,1,crate5_slot5_focus983.log
+6,JUNGLE_AREA,0,high,960,libgte/libgpu combat loops + libspu/libpad support systems,"ai,ai",10,1,0,0,0,0,1,crate6_slot0_focus960.log
+6,JUNGLE_AREA,1,high,960,libgte/libgpu combat loops + libspu/libpad support systems,"combat,combat",10,1,0,0,0,0,1,crate6_slot1_focus960.log
+6,JUNGLE_AREA,2,high,960,libgte/libgpu combat loops + libspu/libpad support systems,"ai,ai",10,1,0,0,0,0,1,crate6_slot2_focus960.log
+6,JUNGLE_AREA,3,high,960,libgte/libgpu combat loops + libspu/libpad support systems,"support,combat",10,1,0,0,0,0,1,crate6_slot3_focus960.log
+6,JUNGLE_AREA,4,high,960,libgte/libgpu combat loops + libspu/libpad support systems,"ai,combat",10,1,0,0,0,0,1,crate6_slot4_focus960.log
+6,JUNGLE_AREA,5,high,960,libgte/libgpu combat loops + libspu/libpad support systems,"ai,render",10,1,0,0,0,0,1,crate6_slot5_focus960.log

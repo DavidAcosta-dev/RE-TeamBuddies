@@ -1,8 +1,9 @@
 Field Truth Trace Log
 crate=4, slot=3, priority=high, focus_score=1023
+crate_label=ICE_AREA
 focus_hint=libgpu geometry + libgte transforms + libgte/libgpu combat loops
 domains=ai,engine
-keywords=libgpu,geometry,libgte,transforms,combat,loops,ai,engine,geom,geo,transform,trans,fight,battle,enemy,render,update,libspu,libpad,gte,gpu,spu,pad,matrix,mat,vector,vec,anim,animation,frame,weapon,projectile,project,state,draw,physics,phys,collide,collision,input,sound,audio,buddy,team,crate,pickup
+keywords=libgpu,geometry,libgte,transforms,combat,loops,ai,engine,ice_area,geom,geo,transform,trans,fight,battle,enemy,render,update,libspu,libpad,gte,gpu,spu,pad,matrix,mat,vector,vec,anim,animation,frame,weapon,projectile,project,state,draw,physics,phys,collide,collision,input,sound,audio,buddy,team,crate,pickup
 matches=10
 fallback_limit=5
 fallback_scanned_functions=0
@@ -12,16 +13,16 @@ fallback_reference_total=0
 fallback_memory_blocks=1
 fallback_count=1
 
-FUN_000006dc @ 000006dc :: refs=0 :: origin=CallMap/mapping/mapping_ROT.BIN.md
-FUN_00000900 @ 00000900 :: refs=0 :: origin=CallMap/mapping/mapping_ROT.BIN.md
-FUN_00001868 @ 00001868 :: refs=0 :: origin=CallMap/mapping/mapping_MNU.BIN.md
-FUN_00001948 @ 00001948 :: refs=0 :: origin=CallMap/mapping/mapping_MNU.BIN.md
-FUN_00001ad4 @ 00001ad4 :: refs=0 :: origin=CallMap/mapping/mapping_ROT.BIN.md
-FUN_0000276c @ 0000276c :: refs=0 :: origin=CallMap/mapping/mapping_SYS.BIN.md
-FUN_00002b10 @ 00002b10 :: refs=0 :: origin=CallMap/mapping/mapping_SYS.BIN.md
-FUN_000031d8 @ 000031d8 :: refs=0 :: origin=CallMap/mapping/mapping_MNU.BIN.md
-FUN_0000377c @ 0000377c :: refs=0 :: origin=CallMap/mapping/mapping_SYS.BIN.md
-FUN_000053dc @ 000053dc :: refs=0 :: origin=CallMap/mapping/mapping_ROT.BIN.md
+FUN_000006dc @ 000006dc :: refs=0 :: origin=CallMap/mapping/mapping_ROT.BIN.md/score=2
+FUN_00000900 @ 00000900 :: refs=0 :: origin=CallMap/mapping/mapping_ROT.BIN.md/score=2
+FUN_00001868 @ 00001868 :: refs=0 :: origin=CallMap/mapping/mapping_MNU.BIN.md/score=2
+FUN_00001948 @ 00001948 :: refs=0 :: origin=CallMap/mapping/mapping_MNU.BIN.md/score=2
+FUN_00001ad4 @ 00001ad4 :: refs=0 :: origin=CallMap/mapping/mapping_ROT.BIN.md/score=2
+FUN_0000276c @ 0000276c :: refs=0 :: origin=CallMap/mapping/mapping_SYS.BIN.md/score=2
+FUN_00002b10 @ 00002b10 :: refs=0 :: origin=CallMap/mapping/mapping_SYS.BIN.md/score=2
+FUN_000031d8 @ 000031d8 :: refs=0 :: origin=CallMap/mapping/mapping_MNU.BIN.md/score=2
+FUN_0000377c @ 0000377c :: refs=0 :: origin=CallMap/mapping/mapping_SYS.BIN.md/score=2
+FUN_000053dc @ 000053dc :: refs=0 :: origin=CallMap/mapping/mapping_ROT.BIN.md/score=2
 
 Top referenced symbols (limit=5):
 ram (00000000) @ 00000000 :: refs=0 :: origin=MemoryBlock

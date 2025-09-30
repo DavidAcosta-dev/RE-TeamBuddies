@@ -1,15 +1,28 @@
 Field Truth Trace Log
 crate=6, slot=0, priority=high, focus_score=960
+crate_label=JUNGLE_AREA
 focus_hint=libgte/libgpu combat loops + libspu/libpad support systems
 domains=ai,ai
-keywords=libgte,libgpu,combat,loops,libspu,libpad,support,systems,ai
-matches=0
+keywords=libgte,libgpu,combat,loops,libspu,libpad,support,systems,ai,jungle_area,fight,battle,enemy,gte,gpu,spu,pad,matrix,mat,vector,vec,transform,trans,geometry,geo,anim,animation,frame,weapon,projectile,project,engine,state,update,render,draw,physics,phys,collide,collision,input,sound,audio,buddy,team,crate,pickup
+matches=10
 fallback_limit=5
 fallback_scanned_functions=0
 fallback_scanned_symbols=0
 fallback_scanned_instructions=0
 fallback_reference_total=0
-fallback_memory_blocks=0
-fallback_count=0
+fallback_memory_blocks=1
+fallback_count=1
 
-No keyword matches found.
+FUN_000006dc @ 000006dc :: refs=0 :: origin=CallMap/mapping/mapping_ROT.BIN.md/score=2
+FUN_00000900 @ 00000900 :: refs=0 :: origin=CallMap/mapping/mapping_ROT.BIN.md/score=2
+FUN_00001868 @ 00001868 :: refs=0 :: origin=CallMap/mapping/mapping_MNU.BIN.md/score=2
+FUN_00001948 @ 00001948 :: refs=0 :: origin=CallMap/mapping/mapping_MNU.BIN.md/score=2
+FUN_00001ad4 @ 00001ad4 :: refs=0 :: origin=CallMap/mapping/mapping_ROT.BIN.md/score=2
+FUN_0000276c @ 0000276c :: refs=0 :: origin=CallMap/mapping/mapping_SYS.BIN.md/score=2
+FUN_00002b10 @ 00002b10 :: refs=0 :: origin=CallMap/mapping/mapping_SYS.BIN.md/score=2
+FUN_000031d8 @ 000031d8 :: refs=0 :: origin=CallMap/mapping/mapping_MNU.BIN.md/score=2
+FUN_0000377c @ 0000377c :: refs=0 :: origin=CallMap/mapping/mapping_SYS.BIN.md/score=2
+FUN_000053dc @ 000053dc :: refs=0 :: origin=CallMap/mapping/mapping_ROT.BIN.md/score=2
+
+Top referenced symbols (limit=5):
+ram (00000000) @ 00000000 :: refs=0 :: origin=MemoryBlock
