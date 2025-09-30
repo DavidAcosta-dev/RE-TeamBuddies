@@ -24,6 +24,8 @@ PS1 Binaries → Ghidra Project (TBProject) → Headless Analysis → FieldTruth
 
 - `scripts/generate_workspace_inventory.py`: produces a CSV, Markdown, and optional JSON index covering **every file** in both the `tb-re` and Unity `TeamBuddies` workspaces.
 - `scripts/emit_ghidra_headless_commands.py`: emits ready-to-run headless commands, inserting the required `--` separator and provisioning `FT_*` environment variables automatically.
+- `scripts/build_call_map_index.py`: consolidates function evidence from vertical/secondary notes and mapping exports into a searchable index.
+- `scripts/generate_field_truth_stubs.py`: turns FieldTruth log hits into starter translation units under `reconstructed_src/field_truth/`.
 - `ghidra_scripts/`: Jython utilities for headless diagnostics (`FieldTruthTracer.py`, `ListLoaders.py`, `EchoArgs.py`).
 - `.venv/`: Python environment housing dependencies for all automation scripts.
 
@@ -51,6 +53,6 @@ The sibling `TeamBuddies/` project is a standard Unity project used to validate 
 
 ## Next Steps
 
-- Integrate CLI argument passing into headless command generation, eliminating reliance on environment fallbacks.
-- Continue populating `reconstructed_src/` with validated translations and unit tests.
-- Cross-link research notes with inventory entries to accelerate lookup of supporting evidence.
+- Prioritise function mapping: expand the existing `secondary_*` and `vertical_*` note sets into a consolidated call-map index that tracks offsets, callers, and inferred responsibilities.
+- Tighten decompilation workflow: script the round-trip from `FieldTruthTracer` results into stubbed C-like pseudocode stored under `reconstructed_src/`, keeping Unity integration out of the critical path until translations are validated.
+- Enrich trace evidence: link each reconstructed routine back to the relevant headless logs, binary offsets, and data tables so future automation can spot regressions or ambiguities quickly.

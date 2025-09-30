@@ -28,13 +28,19 @@ def _quote_sh(arg: str) -> str:
     return shlex.quote(arg)
 
 
-def _env_map_for_target(target: dict, extra_args: Sequence[str]) -> Dict[str, str]:
+def _env_map_for_target(
+    target: dict,
+    extra_args: Sequence[str],
+    program_path: str | None,
+) -> Dict[str, str]:
     env: Dict[str, str] = {
         "FT_CRATE": str(target.get("crate_index")),
         "FT_SLOT": str(target.get("slot")),
         "FT_PRIORITY": target.get("priority", ""),
         "FT_FOCUS_SCORE": str(target.get("focus_score", "")),
     }
+    if target.get("crate_label"):
+        env["FT_CRATE_LABEL"] = target["crate_label"]
     if target.get("focus_hint"):
         env["FT_FOCUS"] = target["focus_hint"]
     domains = target.get("domains") or []
@@ -42,6 +48,8 @@ def _env_map_for_target(target: dict, extra_args: Sequence[str]) -> Dict[str, st
         env["FT_DOMAINS"] = ",".join(domains)
     if any(arg == "--enable-logging" for arg in extra_args):
         env["FT_ENABLE_LOGGING"] = "1"
+    if program_path:
+        env["FT_PROGRAM_PATH"] = program_path
     return {k: v for k, v in env.items() if v}
 
 
@@ -68,6 +76,8 @@ def build_command(
         "--slot",
         str(target.get("slot")),
     ]
+    if target.get("crate_label"):
+        script_args.extend(["--crateLabel", target["crate_label"]])
     if target.get("priority"):
         script_args.extend(["--priority", target["priority"]])
     if target.get("focus_score") is not None and target.get("focus_score") != "":
@@ -77,13 +87,15 @@ def build_command(
     if domains:
         script_args.extend(["--domains", ",".join(domains)])
     script_args.extend(extra_args)
+    if "--programPath" not in extra_args and program_pattern:
+        script_args.extend(["--programPath", program_pattern])
 
     headless_args.extend(script_args)
 
     if shell == "powershell":
         quote = _quote_ps
         quoted_args = " ".join(quote(arg) for arg in headless_args)
-        env_map = _env_map_for_target(target, extra_args)
+        env_map = _env_map_for_target(target, extra_args, program_pattern)
         segments: List[str] = []
         if env_map:
             assignments = "; ".join(f"$env:{key}={quote(value)}" for key, value in env_map.items())
@@ -96,7 +108,7 @@ def build_command(
     if shell == "bash":
         quote = _quote_sh
         quoted_args = " ".join(quote(arg) for arg in headless_args)
-        env_map = _env_map_for_target(target, extra_args)
+        env_map = _env_map_for_target(target, extra_args, program_pattern)
         if env_map:
             exports = " ".join(f"{key}={quote(value)}" for key, value in env_map.items())
             return f"{exports} {quoted_args}"

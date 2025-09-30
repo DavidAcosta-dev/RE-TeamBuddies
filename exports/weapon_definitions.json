@@ -1,0 +1,3646 @@
+{
+  "generatedAt": "2025-09-30T16:48:28.112435+00:00",
+  "sourceCsv": "exports\\crate_weapon_projectile_matrix.csv",
+  "weaponCount": 32,
+  "weapons": [
+    {
+      "weaponId": "weapon-0",
+      "weaponProjectileIndex": 0,
+      "weaponIndex": 1,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 2,
+      "weaponUpgradeId": 115,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 25,
+      "weaponCameraKick": 21,
+      "weaponResource0": 256,
+      "weaponResource1": 2048,
+      "weaponResource2": 1870,
+      "weaponResource3": 550,
+      "weaponResource4": 126,
+      "projectileIndex": 0,
+      "projectileArchetypeId": 15,
+      "projectileDamage": 0,
+      "projectileBurstCount": 1,
+      "projectileCollisionMask": 3,
+      "projectileVelocityX": 0,
+      "projectileVelocityY": 0,
+      "projectileVelocityZ": 0,
+      "projectileFuseFrames": 10,
+      "projectileSpawnInterval": 1,
+      "projectileResourceA": 65535,
+      "projectileResourceB": 0,
+      "projectileResourceC": 10,
+      "sources": [
+        {
+          "crateIndex": 0,
+          "crateLabel": "PARK_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 1
+        },
+        {
+          "crateIndex": 1,
+          "crateLabel": "PLAINS_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 1
+        },
+        {
+          "crateIndex": 2,
+          "crateLabel": "DESERT_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 1
+        },
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 1
+        },
+        {
+          "crateIndex": 4,
+          "crateLabel": "ICE_AREA",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 1
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 1
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 1
+        },
+        {
+          "crateIndex": 14,
+          "crateLabel": "ALL_HEAVY_WEAPONS_1",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 1
+        },
+        {
+          "crateIndex": 22,
+          "crateLabel": "FLYING_4",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 1
+        },
+        {
+          "crateIndex": 27,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 1
+        },
+        {
+          "crateIndex": 32,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 1
+        },
+        {
+          "crateIndex": 33,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 1
+        },
+        {
+          "crateIndex": 35,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 1
+        },
+        {
+          "crateIndex": 36,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 1
+        },
+        {
+          "crateIndex": 37,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 1
+        },
+        {
+          "crateIndex": 38,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 1
+        },
+        {
+          "crateIndex": 39,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 1
+        },
+        {
+          "crateIndex": 40,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 1
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-1",
+      "weaponProjectileIndex": 1,
+      "weaponIndex": 30,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 4,
+      "weaponUpgradeId": 131,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 50,
+      "weaponCameraKick": 0,
+      "weaponResource0": 256,
+      "weaponResource1": 3840,
+      "weaponResource2": 0,
+      "weaponResource3": 3960,
+      "weaponResource4": 42,
+      "projectileIndex": 1,
+      "projectileArchetypeId": 0,
+      "projectileDamage": 3,
+      "projectileBurstCount": 0,
+      "projectileCollisionMask": 65506,
+      "projectileVelocityX": 0,
+      "projectileVelocityY": 1,
+      "projectileVelocityZ": 30,
+      "projectileFuseFrames": 1,
+      "projectileSpawnInterval": 50,
+      "projectileResourceA": 1,
+      "projectileResourceB": 3,
+      "projectileResourceC": 0,
+      "sources": [
+        {
+          "crateIndex": 14,
+          "crateLabel": "ALL_HEAVY_WEAPONS_1",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 30
+        },
+        {
+          "crateIndex": 14,
+          "crateLabel": "ALL_HEAVY_WEAPONS_1",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 49
+        },
+        {
+          "crateIndex": 15,
+          "crateLabel": "ALL_HEAVY_WEAPONS_2",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 30
+        },
+        {
+          "crateIndex": 15,
+          "crateLabel": "ALL_HEAVY_WEAPONS_2",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 49
+        },
+        {
+          "crateIndex": 15,
+          "crateLabel": "ALL_HEAVY_WEAPONS_2",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 30
+        },
+        {
+          "crateIndex": 15,
+          "crateLabel": "ALL_HEAVY_WEAPONS_2",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 49
+        },
+        {
+          "crateIndex": 16,
+          "crateLabel": "ALL_ROCKET_WEAPONS",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 30
+        },
+        {
+          "crateIndex": 16,
+          "crateLabel": "ALL_ROCKET_WEAPONS",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 49
+        },
+        {
+          "crateIndex": 16,
+          "crateLabel": "ALL_ROCKET_WEAPONS",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 30
+        },
+        {
+          "crateIndex": 16,
+          "crateLabel": "ALL_ROCKET_WEAPONS",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 49
+        },
+        {
+          "crateIndex": 17,
+          "crateLabel": "ALL_MISSILE_WEAPONS",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 30
+        },
+        {
+          "crateIndex": 17,
+          "crateLabel": "ALL_MISSILE_WEAPONS",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 49
+        },
+        {
+          "crateIndex": 17,
+          "crateLabel": "ALL_MISSILE_WEAPONS",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 30
+        },
+        {
+          "crateIndex": 17,
+          "crateLabel": "ALL_MISSILE_WEAPONS",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 49
+        },
+        {
+          "crateIndex": 18,
+          "crateLabel": "ALL_SPECIAL_WEAPONS",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 30
+        },
+        {
+          "crateIndex": 18,
+          "crateLabel": "ALL_SPECIAL_WEAPONS",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 49
+        },
+        {
+          "crateIndex": 18,
+          "crateLabel": "ALL_SPECIAL_WEAPONS",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 30
+        },
+        {
+          "crateIndex": 18,
+          "crateLabel": "ALL_SPECIAL_WEAPONS",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 49
+        }
+      ],
+      "conflictingValues": [
+        {
+          "field": "weaponIndex",
+          "values": [
+            30,
+            49
+          ]
+        },
+        {
+          "field": "weaponRangeA",
+          "values": [
+            243,
+            48
+          ]
+        },
+        {
+          "field": "weaponResource0",
+          "values": [
+            256,
+            512
+          ]
+        },
+        {
+          "field": "weaponResource1",
+          "values": [
+            3840,
+            3584
+          ]
+        },
+        {
+          "field": "weaponResource2",
+          "values": [
+            0,
+            660
+          ]
+        },
+        {
+          "field": "weaponResource3",
+          "values": [
+            3960,
+            1870
+          ]
+        },
+        {
+          "field": "weaponResource4",
+          "values": [
+            42,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-2",
+      "weaponProjectileIndex": 2,
+      "weaponIndex": 2,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 11,
+      "weaponUpgradeId": 117,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 40,
+      "weaponCameraKick": 0,
+      "weaponResource0": 256,
+      "weaponResource1": 3584,
+      "weaponResource2": 0,
+      "weaponResource3": 550,
+      "weaponResource4": 60,
+      "projectileIndex": 2,
+      "projectileArchetypeId": 0,
+      "projectileDamage": 15,
+      "projectileBurstCount": 20,
+      "projectileCollisionMask": 896,
+      "projectileVelocityX": 1,
+      "projectileVelocityY": 52,
+      "projectileVelocityZ": 1,
+      "projectileFuseFrames": 240,
+      "projectileSpawnInterval": 65535,
+      "projectileResourceA": 17,
+      "projectileResourceB": 0,
+      "projectileResourceC": 40,
+      "sources": [
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 2
+        },
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 2
+        },
+        {
+          "crateIndex": 4,
+          "crateLabel": "ICE_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 2
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 2
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 2
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 2
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 2
+        },
+        {
+          "crateIndex": 14,
+          "crateLabel": "ALL_HEAVY_WEAPONS_1",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 2
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-3",
+      "weaponProjectileIndex": 3,
+      "weaponIndex": 5,
+      "weaponRoles": [
+        "upgrade"
+      ],
+      "weaponMatches": 2,
+      "weaponUpgradeId": 125,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 45,
+      "weaponCameraKick": 21,
+      "weaponResource0": 128,
+      "weaponResource1": 4096,
+      "weaponResource2": 0,
+      "weaponResource3": 550,
+      "weaponResource4": 48,
+      "projectileIndex": 3,
+      "projectileArchetypeId": 0,
+      "projectileDamage": 1280,
+      "projectileBurstCount": 36,
+      "projectileCollisionMask": 0,
+      "projectileVelocityX": 80,
+      "projectileVelocityY": 1,
+      "projectileVelocityZ": 500,
+      "projectileFuseFrames": 65535,
+      "projectileSpawnInterval": 0,
+      "projectileResourceA": 1,
+      "projectileResourceB": 0,
+      "projectileResourceC": 0,
+      "sources": [
+        {
+          "crateIndex": 11,
+          "crateLabel": "LIGHTNING_WEAPONS",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 5
+        },
+        {
+          "crateIndex": 12,
+          "crateLabel": "ALL_GRENADES_1",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 5
+        },
+        {
+          "crateIndex": 13,
+          "crateLabel": "ALL_GRENADES_2",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 5
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-5",
+      "weaponProjectileIndex": 5,
+      "weaponIndex": 8,
+      "weaponRoles": [
+        "primary"
+      ],
+      "weaponMatches": 2,
+      "weaponUpgradeId": 133,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 65,
+      "weaponCameraKick": 6,
+      "weaponResource0": 384,
+      "weaponResource1": 2688,
+      "weaponResource2": 1320,
+      "weaponResource3": 550,
+      "weaponResource4": 76,
+      "projectileIndex": 5,
+      "projectileArchetypeId": 0,
+      "projectileDamage": 0,
+      "projectileBurstCount": 1920,
+      "projectileCollisionMask": 0,
+      "projectileVelocityX": 10,
+      "projectileVelocityY": -1,
+      "projectileVelocityZ": 0,
+      "projectileFuseFrames": 4,
+      "projectileSpawnInterval": 3,
+      "projectileResourceA": 0,
+      "projectileResourceB": 0,
+      "projectileResourceC": 29,
+      "sources": [
+        {
+          "crateIndex": 19,
+          "crateLabel": "FLYING_1",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 8
+        },
+        {
+          "crateIndex": 20,
+          "crateLabel": "FLYING_2",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 8
+        },
+        {
+          "crateIndex": 21,
+          "crateLabel": "FLYING_3",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 8
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-7",
+      "weaponProjectileIndex": 7,
+      "weaponIndex": 11,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 1,
+      "weaponUpgradeId": 145,
+      "weaponRangeA": 3,
+      "weaponRangeB": 1,
+      "weaponCooldown": 100,
+      "weaponCameraKick": 0,
+      "weaponResource0": 0,
+      "weaponResource1": 0,
+      "weaponResource2": 0,
+      "weaponResource3": 0,
+      "weaponResource4": 0,
+      "projectileIndex": 7,
+      "projectileArchetypeId": 0,
+      "projectileDamage": 0,
+      "projectileBurstCount": 0,
+      "projectileCollisionMask": 227,
+      "projectileVelocityX": 0,
+      "projectileVelocityY": 0,
+      "projectileVelocityZ": 9,
+      "projectileFuseFrames": 0,
+      "projectileSpawnInterval": 0,
+      "projectileResourceA": 91,
+      "projectileResourceB": 0,
+      "projectileResourceC": 0,
+      "sources": [
+        {
+          "crateIndex": 2,
+          "crateLabel": "DESERT_AREA",
+          "slot": 5,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 11
+        },
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 5,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 11
+        },
+        {
+          "crateIndex": 27,
+          "crateLabel": "",
+          "slot": 5,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 11
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-10",
+      "weaponProjectileIndex": 10,
+      "weaponIndex": 9,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 3,
+      "weaponUpgradeId": 139,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 50,
+      "weaponCameraKick": 17,
+      "weaponResource0": 256,
+      "weaponResource1": 1536,
+      "weaponResource2": 1870,
+      "weaponResource3": 704,
+      "weaponResource4": 108,
+      "projectileIndex": 10,
+      "projectileArchetypeId": 192,
+      "projectileDamage": 383,
+      "projectileBurstCount": 224,
+      "projectileCollisionMask": 1,
+      "projectileVelocityX": 0,
+      "projectileVelocityY": 0,
+      "projectileVelocityZ": 0,
+      "projectileFuseFrames": 0,
+      "projectileSpawnInterval": 0,
+      "projectileResourceA": 3,
+      "projectileResourceB": 65506,
+      "projectileResourceC": 0,
+      "sources": [
+        {
+          "crateIndex": 23,
+          "crateLabel": "STEALTH_1",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 9
+        },
+        {
+          "crateIndex": 23,
+          "crateLabel": "STEALTH_1",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 47
+        },
+        {
+          "crateIndex": 23,
+          "crateLabel": "STEALTH_1",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 9
+        },
+        {
+          "crateIndex": 23,
+          "crateLabel": "STEALTH_1",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 47
+        },
+        {
+          "crateIndex": 24,
+          "crateLabel": "STEALTH_2",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 9
+        },
+        {
+          "crateIndex": 24,
+          "crateLabel": "STEALTH_2",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 47
+        },
+        {
+          "crateIndex": 24,
+          "crateLabel": "STEALTH_2",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 9
+        },
+        {
+          "crateIndex": 24,
+          "crateLabel": "STEALTH_2",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 47
+        },
+        {
+          "crateIndex": 25,
+          "crateLabel": "SPACE",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 9
+        },
+        {
+          "crateIndex": 25,
+          "crateLabel": "SPACE",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 47
+        },
+        {
+          "crateIndex": 25,
+          "crateLabel": "SPACE",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 9
+        },
+        {
+          "crateIndex": 25,
+          "crateLabel": "SPACE",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 47
+        },
+        {
+          "crateIndex": 26,
+          "crateLabel": "BIKES",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 9
+        },
+        {
+          "crateIndex": 26,
+          "crateLabel": "BIKES",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 47
+        },
+        {
+          "crateIndex": 26,
+          "crateLabel": "BIKES",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 9
+        },
+        {
+          "crateIndex": 26,
+          "crateLabel": "BIKES",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 47
+        }
+      ],
+      "conflictingValues": [
+        {
+          "field": "weaponIndex",
+          "values": [
+            9,
+            47
+          ]
+        },
+        {
+          "field": "weaponRangeA",
+          "values": [
+            243,
+            51
+          ]
+        },
+        {
+          "field": "weaponCooldown",
+          "values": [
+            50,
+            40
+          ]
+        },
+        {
+          "field": "weaponCameraKick",
+          "values": [
+            17,
+            0
+          ]
+        },
+        {
+          "field": "weaponResource1",
+          "values": [
+            1536,
+            3584
+          ]
+        },
+        {
+          "field": "weaponResource3",
+          "values": [
+            704,
+            550
+          ]
+        },
+        {
+          "field": "weaponResource4",
+          "values": [
+            108,
+            90
+          ]
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-12",
+      "weaponProjectileIndex": 12,
+      "weaponIndex": 10,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 3,
+      "weaponUpgradeId": 141,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 35,
+      "weaponCameraKick": 6,
+      "weaponResource0": 256,
+      "weaponResource1": 1536,
+      "weaponResource2": 1320,
+      "weaponResource3": 550,
+      "weaponResource4": 76,
+      "projectileIndex": 12,
+      "projectileArchetypeId": 0,
+      "projectileDamage": 1,
+      "projectileBurstCount": 0,
+      "projectileCollisionMask": 0,
+      "projectileVelocityX": 8,
+      "projectileVelocityY": 77,
+      "projectileVelocityZ": 0,
+      "projectileFuseFrames": 0,
+      "projectileSpawnInterval": 15,
+      "projectileResourceA": 640,
+      "projectileResourceB": 9600,
+      "projectileResourceC": 2240,
+      "sources": [
+        {
+          "crateIndex": 28,
+          "crateLabel": "",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 10
+        },
+        {
+          "crateIndex": 28,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 10
+        },
+        {
+          "crateIndex": 29,
+          "crateLabel": "",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 10
+        },
+        {
+          "crateIndex": 29,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 10
+        },
+        {
+          "crateIndex": 30,
+          "crateLabel": "",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 10
+        },
+        {
+          "crateIndex": 30,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 10
+        },
+        {
+          "crateIndex": 31,
+          "crateLabel": "",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 10
+        },
+        {
+          "crateIndex": 31,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 10
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-13",
+      "weaponProjectileIndex": 13,
+      "weaponIndex": 3,
+      "weaponRoles": [
+        "upgrade"
+      ],
+      "weaponMatches": 4,
+      "weaponUpgradeId": 119,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 75,
+      "weaponCameraKick": 63,
+      "weaponResource0": 256,
+      "weaponResource1": 4096,
+      "weaponResource2": 1870,
+      "weaponResource3": 550,
+      "weaponResource4": 90,
+      "projectileIndex": 13,
+      "projectileArchetypeId": 495,
+      "projectileDamage": 0,
+      "projectileBurstCount": 0,
+      "projectileCollisionMask": 1,
+      "projectileVelocityX": 0,
+      "projectileVelocityY": 1,
+      "projectileVelocityZ": 0,
+      "projectileFuseFrames": 5,
+      "projectileSpawnInterval": 65506,
+      "projectileResourceA": 1536,
+      "projectileResourceB": 0,
+      "projectileResourceC": 0,
+      "sources": [
+        {
+          "crateIndex": 7,
+          "crateLabel": "MOON_AREA",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 3
+        },
+        {
+          "crateIndex": 8,
+          "crateLabel": "",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 3
+        },
+        {
+          "crateIndex": 9,
+          "crateLabel": "",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 3
+        },
+        {
+          "crateIndex": 10,
+          "crateLabel": "ALL_FLAME_WEAPONS",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 3
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-14",
+      "weaponProjectileIndex": 14,
+      "weaponIndex": 4,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 3,
+      "weaponUpgradeId": 123,
+      "weaponRangeA": 243,
+      "weaponRangeB": 2,
+      "weaponCooldown": 25,
+      "weaponCameraKick": 127,
+      "weaponResource0": 256,
+      "weaponResource1": 2048,
+      "weaponResource2": 1870,
+      "weaponResource3": 550,
+      "weaponResource4": 90,
+      "projectileIndex": 14,
+      "projectileArchetypeId": 0,
+      "projectileDamage": 1,
+      "projectileBurstCount": 0,
+      "projectileCollisionMask": 38,
+      "projectileVelocityX": 1,
+      "projectileVelocityY": 0,
+      "projectileVelocityZ": 4,
+      "projectileFuseFrames": 65506,
+      "projectileSpawnInterval": 128,
+      "projectileResourceA": 0,
+      "projectileResourceB": 0,
+      "projectileResourceC": 0,
+      "sources": [
+        {
+          "crateIndex": 7,
+          "crateLabel": "MOON_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 4
+        },
+        {
+          "crateIndex": 7,
+          "crateLabel": "MOON_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 38
+        },
+        {
+          "crateIndex": 7,
+          "crateLabel": "MOON_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 53
+        },
+        {
+          "crateIndex": 8,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 4
+        },
+        {
+          "crateIndex": 8,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 38
+        },
+        {
+          "crateIndex": 8,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 53
+        },
+        {
+          "crateIndex": 9,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 4
+        },
+        {
+          "crateIndex": 9,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 38
+        },
+        {
+          "crateIndex": 9,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 53
+        },
+        {
+          "crateIndex": 10,
+          "crateLabel": "ALL_FLAME_WEAPONS",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 4
+        },
+        {
+          "crateIndex": 10,
+          "crateLabel": "ALL_FLAME_WEAPONS",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 38
+        },
+        {
+          "crateIndex": 10,
+          "crateLabel": "ALL_FLAME_WEAPONS",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 53
+        },
+        {
+          "crateIndex": 11,
+          "crateLabel": "LIGHTNING_WEAPONS",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 4
+        },
+        {
+          "crateIndex": 11,
+          "crateLabel": "LIGHTNING_WEAPONS",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 38
+        },
+        {
+          "crateIndex": 11,
+          "crateLabel": "LIGHTNING_WEAPONS",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 53
+        },
+        {
+          "crateIndex": 12,
+          "crateLabel": "ALL_GRENADES_1",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 4
+        },
+        {
+          "crateIndex": 12,
+          "crateLabel": "ALL_GRENADES_1",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 38
+        },
+        {
+          "crateIndex": 12,
+          "crateLabel": "ALL_GRENADES_1",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 53
+        },
+        {
+          "crateIndex": 13,
+          "crateLabel": "ALL_GRENADES_2",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 4
+        },
+        {
+          "crateIndex": 13,
+          "crateLabel": "ALL_GRENADES_2",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 38
+        },
+        {
+          "crateIndex": 13,
+          "crateLabel": "ALL_GRENADES_2",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 53
+        },
+        {
+          "crateIndex": 34,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 4
+        },
+        {
+          "crateIndex": 34,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 38
+        },
+        {
+          "crateIndex": 34,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 53
+        }
+      ],
+      "conflictingValues": [
+        {
+          "field": "weaponIndex",
+          "values": [
+            4,
+            38,
+            53
+          ]
+        },
+        {
+          "field": "weaponRangeB",
+          "values": [
+            2,
+            1,
+            4
+          ]
+        },
+        {
+          "field": "weaponCooldown",
+          "values": [
+            25,
+            35
+          ]
+        },
+        {
+          "field": "weaponCameraKick",
+          "values": [
+            127,
+            95
+          ]
+        },
+        {
+          "field": "weaponResource1",
+          "values": [
+            2048,
+            2560
+          ]
+        },
+        {
+          "field": "weaponResource4",
+          "values": [
+            90,
+            60
+          ]
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-15",
+      "weaponProjectileIndex": 15,
+      "weaponIndex": 50,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 2,
+      "weaponUpgradeId": 115,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 35,
+      "weaponCameraKick": 63,
+      "weaponResource0": 256,
+      "weaponResource1": 2048,
+      "weaponResource2": 1870,
+      "weaponResource3": 550,
+      "weaponResource4": 126,
+      "projectileIndex": 15,
+      "projectileArchetypeId": 182,
+      "projectileDamage": 20,
+      "projectileBurstCount": 1,
+      "projectileCollisionMask": 1,
+      "projectileVelocityX": 0,
+      "projectileVelocityY": 3,
+      "projectileVelocityZ": -30,
+      "projectileFuseFrames": 128,
+      "projectileSpawnInterval": 2560,
+      "projectileResourceA": 0,
+      "projectileResourceB": 0,
+      "projectileResourceC": 184,
+      "sources": [
+        {
+          "crateIndex": 0,
+          "crateLabel": "PARK_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 50
+        },
+        {
+          "crateIndex": 1,
+          "crateLabel": "PLAINS_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 50
+        },
+        {
+          "crateIndex": 2,
+          "crateLabel": "DESERT_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 50
+        },
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 50
+        },
+        {
+          "crateIndex": 4,
+          "crateLabel": "ICE_AREA",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 50
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 50
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 50
+        },
+        {
+          "crateIndex": 14,
+          "crateLabel": "ALL_HEAVY_WEAPONS_1",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 50
+        },
+        {
+          "crateIndex": 22,
+          "crateLabel": "FLYING_4",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 50
+        },
+        {
+          "crateIndex": 27,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 50
+        },
+        {
+          "crateIndex": 32,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 50
+        },
+        {
+          "crateIndex": 33,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 50
+        },
+        {
+          "crateIndex": 35,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 50
+        },
+        {
+          "crateIndex": 36,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 50
+        },
+        {
+          "crateIndex": 37,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 50
+        },
+        {
+          "crateIndex": 38,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 50
+        },
+        {
+          "crateIndex": 39,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 50
+        },
+        {
+          "crateIndex": 40,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 50
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-16",
+      "weaponProjectileIndex": 16,
+      "weaponIndex": 7,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 4,
+      "weaponUpgradeId": 131,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 65,
+      "weaponCameraKick": 17,
+      "weaponResource0": 512,
+      "weaponResource1": 2816,
+      "weaponResource2": 1870,
+      "weaponResource3": 550,
+      "weaponResource4": 81,
+      "projectileIndex": 16,
+      "projectileArchetypeId": 185,
+      "projectileDamage": 1,
+      "projectileBurstCount": 30,
+      "projectileCollisionMask": 50,
+      "projectileVelocityX": 1,
+      "projectileVelocityY": -30,
+      "projectileVelocityZ": 192,
+      "projectileFuseFrames": 1536,
+      "projectileSpawnInterval": 0,
+      "projectileResourceA": 0,
+      "projectileResourceB": 217,
+      "projectileResourceC": 218,
+      "sources": [
+        {
+          "crateIndex": 14,
+          "crateLabel": "ALL_HEAVY_WEAPONS_1",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 7
+        },
+        {
+          "crateIndex": 15,
+          "crateLabel": "ALL_HEAVY_WEAPONS_2",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 7
+        },
+        {
+          "crateIndex": 15,
+          "crateLabel": "ALL_HEAVY_WEAPONS_2",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 7
+        },
+        {
+          "crateIndex": 16,
+          "crateLabel": "ALL_ROCKET_WEAPONS",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 7
+        },
+        {
+          "crateIndex": 16,
+          "crateLabel": "ALL_ROCKET_WEAPONS",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 7
+        },
+        {
+          "crateIndex": 17,
+          "crateLabel": "ALL_MISSILE_WEAPONS",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 7
+        },
+        {
+          "crateIndex": 17,
+          "crateLabel": "ALL_MISSILE_WEAPONS",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 7
+        },
+        {
+          "crateIndex": 18,
+          "crateLabel": "ALL_SPECIAL_WEAPONS",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 7
+        },
+        {
+          "crateIndex": 18,
+          "crateLabel": "ALL_SPECIAL_WEAPONS",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 7
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-24",
+      "weaponProjectileIndex": 24,
+      "weaponIndex": 6,
+      "weaponRoles": [
+        "primary"
+      ],
+      "weaponMatches": 1,
+      "weaponUpgradeId": 129,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 70,
+      "weaponCameraKick": 63,
+      "weaponResource0": 256,
+      "weaponResource1": 4608,
+      "weaponResource2": 1870,
+      "weaponResource3": 550,
+      "weaponResource4": 54,
+      "projectileIndex": 24,
+      "projectileArchetypeId": 300,
+      "projectileDamage": 0,
+      "projectileBurstCount": 0,
+      "projectileCollisionMask": 0,
+      "projectileVelocityX": 278,
+      "projectileVelocityY": 298,
+      "projectileVelocityZ": 96,
+      "projectileFuseFrames": 0,
+      "projectileSpawnInterval": 0,
+      "projectileResourceA": 40,
+      "projectileResourceB": 0,
+      "projectileResourceC": 300,
+      "sources": [
+        {
+          "crateIndex": 15,
+          "crateLabel": "ALL_HEAVY_WEAPONS_2",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 6
+        },
+        {
+          "crateIndex": 16,
+          "crateLabel": "ALL_ROCKET_WEAPONS",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 6
+        },
+        {
+          "crateIndex": 17,
+          "crateLabel": "ALL_MISSILE_WEAPONS",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 6
+        },
+        {
+          "crateIndex": 18,
+          "crateLabel": "ALL_SPECIAL_WEAPONS",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 6
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-31",
+      "weaponProjectileIndex": 31,
+      "weaponIndex": 73,
+      "weaponRoles": [
+        "upgrade"
+      ],
+      "weaponMatches": 4,
+      "weaponUpgradeId": 119,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 85,
+      "weaponCameraKick": 63,
+      "weaponResource0": 256,
+      "weaponResource1": 4096,
+      "weaponResource2": 1870,
+      "weaponResource3": 550,
+      "weaponResource4": 72,
+      "projectileIndex": 31,
+      "projectileArchetypeId": 0,
+      "projectileDamage": 3840,
+      "projectileBurstCount": 640,
+      "projectileCollisionMask": 0,
+      "projectileVelocityX": 0,
+      "projectileVelocityY": 300,
+      "projectileVelocityZ": -1,
+      "projectileFuseFrames": 4,
+      "projectileSpawnInterval": 6,
+      "projectileResourceA": 0,
+      "projectileResourceB": 0,
+      "projectileResourceC": 0,
+      "sources": [
+        {
+          "crateIndex": 7,
+          "crateLabel": "MOON_AREA",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 73
+        },
+        {
+          "crateIndex": 8,
+          "crateLabel": "",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 73
+        },
+        {
+          "crateIndex": 9,
+          "crateLabel": "",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 73
+        },
+        {
+          "crateIndex": 10,
+          "crateLabel": "ALL_FLAME_WEAPONS",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 73
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-41",
+      "weaponProjectileIndex": 41,
+      "weaponIndex": 80,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 3,
+      "weaponUpgradeId": 139,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 55,
+      "weaponCameraKick": 42,
+      "weaponResource0": 256,
+      "weaponResource1": 3072,
+      "weaponResource2": 1870,
+      "weaponResource3": 550,
+      "weaponResource4": 76,
+      "projectileIndex": 41,
+      "projectileArchetypeId": 150,
+      "projectileDamage": 1,
+      "projectileBurstCount": 0,
+      "projectileCollisionMask": 80,
+      "projectileVelocityX": 0,
+      "projectileVelocityY": 0,
+      "projectileVelocityZ": 10,
+      "projectileFuseFrames": 65506,
+      "projectileSpawnInterval": 512,
+      "projectileResourceA": 0,
+      "projectileResourceB": 0,
+      "projectileResourceC": 0,
+      "sources": [
+        {
+          "crateIndex": 23,
+          "crateLabel": "STEALTH_1",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 80
+        },
+        {
+          "crateIndex": 23,
+          "crateLabel": "STEALTH_1",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 80
+        },
+        {
+          "crateIndex": 24,
+          "crateLabel": "STEALTH_2",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 80
+        },
+        {
+          "crateIndex": 24,
+          "crateLabel": "STEALTH_2",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 80
+        },
+        {
+          "crateIndex": 25,
+          "crateLabel": "SPACE",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 80
+        },
+        {
+          "crateIndex": 25,
+          "crateLabel": "SPACE",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 80
+        },
+        {
+          "crateIndex": 26,
+          "crateLabel": "BIKES",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 80
+        },
+        {
+          "crateIndex": 26,
+          "crateLabel": "BIKES",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 80
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-48",
+      "weaponProjectileIndex": 48,
+      "weaponIndex": 46,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 3,
+      "weaponUpgradeId": 141,
+      "weaponRangeA": 51,
+      "weaponRangeB": 1,
+      "weaponCooldown": 40,
+      "weaponCameraKick": 0,
+      "weaponResource0": 256,
+      "weaponResource1": 2816,
+      "weaponResource2": 1870,
+      "weaponResource3": 550,
+      "weaponResource4": 45,
+      "projectileIndex": 48,
+      "projectileArchetypeId": 1,
+      "projectileDamage": 0,
+      "projectileBurstCount": 24,
+      "projectileCollisionMask": 0,
+      "projectileVelocityX": 0,
+      "projectileVelocityY": 0,
+      "projectileVelocityZ": 0,
+      "projectileFuseFrames": 0,
+      "projectileSpawnInterval": 2,
+      "projectileResourceA": 0,
+      "projectileResourceB": 0,
+      "projectileResourceC": 1,
+      "sources": [
+        {
+          "crateIndex": 28,
+          "crateLabel": "",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 46
+        },
+        {
+          "crateIndex": 28,
+          "crateLabel": "",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 66
+        },
+        {
+          "crateIndex": 28,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 46
+        },
+        {
+          "crateIndex": 28,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 66
+        },
+        {
+          "crateIndex": 29,
+          "crateLabel": "",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 46
+        },
+        {
+          "crateIndex": 29,
+          "crateLabel": "",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 66
+        },
+        {
+          "crateIndex": 29,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 46
+        },
+        {
+          "crateIndex": 29,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 66
+        },
+        {
+          "crateIndex": 30,
+          "crateLabel": "",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 46
+        },
+        {
+          "crateIndex": 30,
+          "crateLabel": "",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 66
+        },
+        {
+          "crateIndex": 30,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 46
+        },
+        {
+          "crateIndex": 30,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 66
+        },
+        {
+          "crateIndex": 31,
+          "crateLabel": "",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 46
+        },
+        {
+          "crateIndex": 31,
+          "crateLabel": "",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 66
+        },
+        {
+          "crateIndex": 31,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 46
+        },
+        {
+          "crateIndex": 31,
+          "crateLabel": "",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 66
+        }
+      ],
+      "conflictingValues": [
+        {
+          "field": "weaponIndex",
+          "values": [
+            46,
+            66
+          ]
+        },
+        {
+          "field": "weaponRangeA",
+          "values": [
+            51,
+            243
+          ]
+        },
+        {
+          "field": "weaponCooldown",
+          "values": [
+            40,
+            45
+          ]
+        },
+        {
+          "field": "weaponCameraKick",
+          "values": [
+            0,
+            10
+          ]
+        },
+        {
+          "field": "weaponResource2",
+          "values": [
+            1870,
+            1320
+          ]
+        },
+        {
+          "field": "weaponResource4",
+          "values": [
+            45,
+            76
+          ]
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-49",
+      "weaponProjectileIndex": 49,
+      "weaponIndex": 51,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 11,
+      "weaponUpgradeId": 117,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 50,
+      "weaponCameraKick": 0,
+      "weaponResource0": 256,
+      "weaponResource1": 3584,
+      "weaponResource2": 0,
+      "weaponResource3": 550,
+      "weaponResource4": 60,
+      "projectileIndex": 49,
+      "projectileArchetypeId": 100,
+      "projectileDamage": 0,
+      "projectileBurstCount": 0,
+      "projectileCollisionMask": 0,
+      "projectileVelocityX": 0,
+      "projectileVelocityY": 0,
+      "projectileVelocityZ": 0,
+      "projectileFuseFrames": 2,
+      "projectileSpawnInterval": 68,
+      "projectileResourceA": 0,
+      "projectileResourceB": 1,
+      "projectileResourceC": 100,
+      "sources": [
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 51
+        },
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 51
+        },
+        {
+          "crateIndex": 4,
+          "crateLabel": "ICE_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 51
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 51
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 51
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 51
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 51
+        },
+        {
+          "crateIndex": 14,
+          "crateLabel": "ALL_HEAVY_WEAPONS_1",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 51
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-50",
+      "weaponProjectileIndex": 50,
+      "weaponIndex": 58,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 11,
+      "weaponUpgradeId": 117,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 45,
+      "weaponCameraKick": 0,
+      "weaponResource0": 256,
+      "weaponResource1": 3584,
+      "weaponResource2": 0,
+      "weaponResource3": 550,
+      "weaponResource4": 60,
+      "projectileIndex": 50,
+      "projectileArchetypeId": 1,
+      "projectileDamage": 0,
+      "projectileBurstCount": 0,
+      "projectileCollisionMask": 0,
+      "projectileVelocityX": 0,
+      "projectileVelocityY": 0,
+      "projectileVelocityZ": 2,
+      "projectileFuseFrames": 100,
+      "projectileSpawnInterval": 0,
+      "projectileResourceA": 1,
+      "projectileResourceB": 1,
+      "projectileResourceC": 1,
+      "sources": [
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 58
+        },
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 58
+        },
+        {
+          "crateIndex": 4,
+          "crateLabel": "ICE_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 58
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 58
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 58
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 58
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 58
+        },
+        {
+          "crateIndex": 14,
+          "crateLabel": "ALL_HEAVY_WEAPONS_1",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 58
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-52",
+      "weaponProjectileIndex": 52,
+      "weaponIndex": 67,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 11,
+      "weaponUpgradeId": 117,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 50,
+      "weaponCameraKick": 0,
+      "weaponResource0": 256,
+      "weaponResource1": 3584,
+      "weaponResource2": 0,
+      "weaponResource3": 550,
+      "weaponResource4": 60,
+      "projectileIndex": 52,
+      "projectileArchetypeId": 75,
+      "projectileDamage": 0,
+      "projectileBurstCount": 0,
+      "projectileCollisionMask": 0,
+      "projectileVelocityX": 2,
+      "projectileVelocityY": 64,
+      "projectileVelocityZ": 0,
+      "projectileFuseFrames": 0,
+      "projectileSpawnInterval": 1,
+      "projectileResourceA": 0,
+      "projectileResourceB": 240,
+      "projectileResourceC": 76,
+      "sources": [
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 67
+        },
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 67
+        },
+        {
+          "crateIndex": 4,
+          "crateLabel": "ICE_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 67
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 67
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 67
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 67
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 67
+        },
+        {
+          "crateIndex": 14,
+          "crateLabel": "ALL_HEAVY_WEAPONS_1",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 67
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-53",
+      "weaponProjectileIndex": 53,
+      "weaponIndex": 68,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 11,
+      "weaponUpgradeId": 117,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 60,
+      "weaponCameraKick": 0,
+      "weaponResource0": 256,
+      "weaponResource1": 3584,
+      "weaponResource2": 0,
+      "weaponResource3": 550,
+      "weaponResource4": 60,
+      "projectileIndex": 53,
+      "projectileArchetypeId": 2,
+      "projectileDamage": 0,
+      "projectileBurstCount": 0,
+      "projectileCollisionMask": 1638,
+      "projectileVelocityX": 66,
+      "projectileVelocityY": 0,
+      "projectileVelocityZ": 0,
+      "projectileFuseFrames": 1,
+      "projectileSpawnInterval": 1,
+      "projectileResourceA": 240,
+      "projectileResourceB": 76,
+      "projectileResourceC": 2,
+      "sources": [
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 68
+        },
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 68
+        },
+        {
+          "crateIndex": 4,
+          "crateLabel": "ICE_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 68
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 68
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 68
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 68
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 68
+        },
+        {
+          "crateIndex": 14,
+          "crateLabel": "ALL_HEAVY_WEAPONS_1",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 68
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-54",
+      "weaponProjectileIndex": 54,
+      "weaponIndex": 75,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 11,
+      "weaponUpgradeId": 117,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 50,
+      "weaponCameraKick": 0,
+      "weaponResource0": 256,
+      "weaponResource1": 3584,
+      "weaponResource2": 0,
+      "weaponResource3": 550,
+      "weaponResource4": 60,
+      "projectileIndex": 54,
+      "projectileArchetypeId": 65535,
+      "projectileDamage": 0,
+      "projectileBurstCount": 1,
+      "projectileCollisionMask": 3,
+      "projectileVelocityX": 0,
+      "projectileVelocityY": 0,
+      "projectileVelocityZ": 1,
+      "projectileFuseFrames": 75,
+      "projectileSpawnInterval": 1,
+      "projectileResourceA": 65535,
+      "projectileResourceB": 0,
+      "projectileResourceC": 18,
+      "sources": [
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 75
+        },
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 75
+        },
+        {
+          "crateIndex": 4,
+          "crateLabel": "ICE_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 75
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 75
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 75
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 75
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 75
+        },
+        {
+          "crateIndex": 14,
+          "crateLabel": "ALL_HEAVY_WEAPONS_1",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 75
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-55",
+      "weaponProjectileIndex": 55,
+      "weaponIndex": 76,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 11,
+      "weaponUpgradeId": 117,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 55,
+      "weaponCameraKick": 0,
+      "weaponResource0": 256,
+      "weaponResource1": 3584,
+      "weaponResource2": 0,
+      "weaponResource3": 550,
+      "weaponResource4": 60,
+      "projectileIndex": 55,
+      "projectileArchetypeId": 0,
+      "projectileDamage": 0,
+      "projectileBurstCount": 0,
+      "projectileCollisionMask": 65506,
+      "projectileVelocityX": 0,
+      "projectileVelocityY": 1,
+      "projectileVelocityZ": 0,
+      "projectileFuseFrames": 0,
+      "projectileSpawnInterval": 400,
+      "projectileResourceA": 0,
+      "projectileResourceB": 18,
+      "projectileResourceC": 0,
+      "sources": [
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 76
+        },
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 76
+        },
+        {
+          "crateIndex": 4,
+          "crateLabel": "ICE_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 76
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 76
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 76
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 76
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 76
+        },
+        {
+          "crateIndex": 14,
+          "crateLabel": "ALL_HEAVY_WEAPONS_1",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 76
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-56",
+      "weaponProjectileIndex": 56,
+      "weaponIndex": 55,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 4,
+      "weaponUpgradeId": 131,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 75,
+      "weaponCameraKick": 17,
+      "weaponResource0": 512,
+      "weaponResource1": 2816,
+      "weaponResource2": 1870,
+      "weaponResource3": 550,
+      "weaponResource4": 81,
+      "projectileIndex": 56,
+      "projectileArchetypeId": 0,
+      "projectileDamage": 65506,
+      "projectileBurstCount": 0,
+      "projectileCollisionMask": 0,
+      "projectileVelocityX": 1,
+      "projectileVelocityY": 0,
+      "projectileVelocityZ": 0,
+      "projectileFuseFrames": 240,
+      "projectileSpawnInterval": 64,
+      "projectileResourceA": 22,
+      "projectileResourceB": 0,
+      "projectileResourceC": 0,
+      "sources": [
+        {
+          "crateIndex": 14,
+          "crateLabel": "ALL_HEAVY_WEAPONS_1",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 55
+        },
+        {
+          "crateIndex": 15,
+          "crateLabel": "ALL_HEAVY_WEAPONS_2",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 55
+        },
+        {
+          "crateIndex": 15,
+          "crateLabel": "ALL_HEAVY_WEAPONS_2",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 55
+        },
+        {
+          "crateIndex": 16,
+          "crateLabel": "ALL_ROCKET_WEAPONS",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 55
+        },
+        {
+          "crateIndex": 16,
+          "crateLabel": "ALL_ROCKET_WEAPONS",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 55
+        },
+        {
+          "crateIndex": 17,
+          "crateLabel": "ALL_MISSILE_WEAPONS",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 55
+        },
+        {
+          "crateIndex": 17,
+          "crateLabel": "ALL_MISSILE_WEAPONS",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 55
+        },
+        {
+          "crateIndex": 18,
+          "crateLabel": "ALL_SPECIAL_WEAPONS",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 55
+        },
+        {
+          "crateIndex": 18,
+          "crateLabel": "ALL_SPECIAL_WEAPONS",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 55
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-57",
+      "weaponProjectileIndex": 57,
+      "weaponIndex": 71,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 11,
+      "weaponUpgradeId": 117,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 55,
+      "weaponCameraKick": 0,
+      "weaponResource0": 256,
+      "weaponResource1": 3584,
+      "weaponResource2": 0,
+      "weaponResource3": 550,
+      "weaponResource4": 60,
+      "projectileIndex": 57,
+      "projectileArchetypeId": 0,
+      "projectileDamage": 896,
+      "projectileBurstCount": 65506,
+      "projectileCollisionMask": 3840,
+      "projectileVelocityX": 52,
+      "projectileVelocityY": 1,
+      "projectileVelocityZ": 240,
+      "projectileFuseFrames": 64,
+      "projectileSpawnInterval": 4,
+      "projectileResourceA": 0,
+      "projectileResourceB": 0,
+      "projectileResourceC": 0,
+      "sources": [
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 71
+        },
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 71
+        },
+        {
+          "crateIndex": 4,
+          "crateLabel": "ICE_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 71
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 71
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 71
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 71
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 71
+        },
+        {
+          "crateIndex": 14,
+          "crateLabel": "ALL_HEAVY_WEAPONS_1",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 71
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-58",
+      "weaponProjectileIndex": 58,
+      "weaponIndex": 72,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 11,
+      "weaponUpgradeId": 117,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 65,
+      "weaponCameraKick": 0,
+      "weaponResource0": 256,
+      "weaponResource1": 3584,
+      "weaponResource2": 0,
+      "weaponResource3": 550,
+      "weaponResource4": 60,
+      "projectileIndex": 58,
+      "projectileArchetypeId": 0,
+      "projectileDamage": 3840,
+      "projectileBurstCount": 896,
+      "projectileCollisionMask": 0,
+      "projectileVelocityX": 0,
+      "projectileVelocityY": 240,
+      "projectileVelocityZ": 64,
+      "projectileFuseFrames": 4,
+      "projectileSpawnInterval": 65535,
+      "projectileResourceA": 0,
+      "projectileResourceB": 0,
+      "projectileResourceC": 4,
+      "sources": [
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 72
+        },
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 72
+        },
+        {
+          "crateIndex": 4,
+          "crateLabel": "ICE_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 72
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 72
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 72
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 72
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 72
+        },
+        {
+          "crateIndex": 14,
+          "crateLabel": "ALL_HEAVY_WEAPONS_1",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 72
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-59",
+      "weaponProjectileIndex": 59,
+      "weaponIndex": 62,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 11,
+      "weaponUpgradeId": 117,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 45,
+      "weaponCameraKick": 0,
+      "weaponResource0": 256,
+      "weaponResource1": 3584,
+      "weaponResource2": 0,
+      "weaponResource3": 550,
+      "weaponResource4": 60,
+      "projectileIndex": 59,
+      "projectileArchetypeId": 44,
+      "projectileDamage": 3072,
+      "projectileBurstCount": 7168,
+      "projectileCollisionMask": 495,
+      "projectileVelocityX": 200,
+      "projectileVelocityY": -1,
+      "projectileVelocityZ": 0,
+      "projectileFuseFrames": 65535,
+      "projectileSpawnInterval": 0,
+      "projectileResourceA": 4096,
+      "projectileResourceB": 0,
+      "projectileResourceC": 0,
+      "sources": [
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 62
+        },
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 62
+        },
+        {
+          "crateIndex": 4,
+          "crateLabel": "ICE_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 62
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 62
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 62
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 62
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 62
+        },
+        {
+          "crateIndex": 14,
+          "crateLabel": "ALL_HEAVY_WEAPONS_1",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 62
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-60",
+      "weaponProjectileIndex": 60,
+      "weaponIndex": 63,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 11,
+      "weaponUpgradeId": 117,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 55,
+      "weaponCameraKick": 0,
+      "weaponResource0": 256,
+      "weaponResource1": 3584,
+      "weaponResource2": 0,
+      "weaponResource3": 550,
+      "weaponResource4": 60,
+      "projectileIndex": 60,
+      "projectileArchetypeId": 1,
+      "projectileDamage": 0,
+      "projectileBurstCount": 0,
+      "projectileCollisionMask": 0,
+      "projectileVelocityX": -1,
+      "projectileVelocityY": 0,
+      "projectileVelocityZ": -1,
+      "projectileFuseFrames": 13,
+      "projectileSpawnInterval": 0,
+      "projectileResourceA": 0,
+      "projectileResourceB": 0,
+      "projectileResourceC": 0,
+      "sources": [
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 63
+        },
+        {
+          "crateIndex": 3,
+          "crateLabel": "WOODS_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 63
+        },
+        {
+          "crateIndex": 4,
+          "crateLabel": "ICE_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 63
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 63
+        },
+        {
+          "crateIndex": 5,
+          "crateLabel": "ORIENTAL_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 63
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 63
+        },
+        {
+          "crateIndex": 6,
+          "crateLabel": "JUNGLE_AREA",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 63
+        },
+        {
+          "crateIndex": 14,
+          "crateLabel": "ALL_HEAVY_WEAPONS_1",
+          "slot": 3,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 63
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-62",
+      "weaponProjectileIndex": 62,
+      "weaponIndex": 60,
+      "weaponRoles": [
+        "primary"
+      ],
+      "weaponMatches": 2,
+      "weaponUpgradeId": 133,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 75,
+      "weaponCameraKick": 6,
+      "weaponResource0": 384,
+      "weaponResource1": 2688,
+      "weaponResource2": 1320,
+      "weaponResource3": 550,
+      "weaponResource4": 76,
+      "projectileIndex": 62,
+      "projectileArchetypeId": 10,
+      "projectileDamage": 176,
+      "projectileBurstCount": 0,
+      "projectileCollisionMask": 177,
+      "projectileVelocityX": 18,
+      "projectileVelocityY": 0,
+      "projectileVelocityZ": 40,
+      "projectileFuseFrames": 0,
+      "projectileSpawnInterval": 0,
+      "projectileResourceA": 0,
+      "projectileResourceB": 3276,
+      "projectileResourceC": 40,
+      "sources": [
+        {
+          "crateIndex": 19,
+          "crateLabel": "FLYING_1",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 60
+        },
+        {
+          "crateIndex": 20,
+          "crateLabel": "FLYING_2",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 60
+        },
+        {
+          "crateIndex": 21,
+          "crateLabel": "FLYING_3",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 60
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-65",
+      "weaponProjectileIndex": 65,
+      "weaponIndex": 54,
+      "weaponRoles": [
+        "upgrade"
+      ],
+      "weaponMatches": 2,
+      "weaponUpgradeId": 125,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 55,
+      "weaponCameraKick": 21,
+      "weaponResource0": 128,
+      "weaponResource1": 4096,
+      "weaponResource2": 0,
+      "weaponResource3": 550,
+      "weaponResource4": 48,
+      "projectileIndex": 65,
+      "projectileArchetypeId": 512,
+      "projectileDamage": 0,
+      "projectileBurstCount": 2184,
+      "projectileCollisionMask": 0,
+      "projectileVelocityX": 0,
+      "projectileVelocityY": 0,
+      "projectileVelocityZ": 0,
+      "projectileFuseFrames": 0,
+      "projectileSpawnInterval": 0,
+      "projectileResourceA": 65506,
+      "projectileResourceB": 0,
+      "projectileResourceC": 3072,
+      "sources": [
+        {
+          "crateIndex": 11,
+          "crateLabel": "LIGHTNING_WEAPONS",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 54
+        },
+        {
+          "crateIndex": 12,
+          "crateLabel": "ALL_GRENADES_1",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 54
+        },
+        {
+          "crateIndex": 13,
+          "crateLabel": "ALL_GRENADES_2",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 54
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-69",
+      "weaponProjectileIndex": 69,
+      "weaponIndex": 64,
+      "weaponRoles": [
+        "upgrade"
+      ],
+      "weaponMatches": 4,
+      "weaponUpgradeId": 119,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 55,
+      "weaponCameraKick": 63,
+      "weaponResource0": 256,
+      "weaponResource1": 4608,
+      "weaponResource2": 1870,
+      "weaponResource3": 550,
+      "weaponResource4": 90,
+      "projectileIndex": 69,
+      "projectileArchetypeId": 0,
+      "projectileDamage": 20,
+      "projectileBurstCount": 1,
+      "projectileCollisionMask": 1,
+      "projectileVelocityX": 0,
+      "projectileVelocityY": 0,
+      "projectileVelocityZ": 90,
+      "projectileFuseFrames": 640,
+      "projectileSpawnInterval": 512,
+      "projectileResourceA": 0,
+      "projectileResourceB": 0,
+      "projectileResourceC": 0,
+      "sources": [
+        {
+          "crateIndex": 7,
+          "crateLabel": "MOON_AREA",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 64
+        },
+        {
+          "crateIndex": 8,
+          "crateLabel": "",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 64
+        },
+        {
+          "crateIndex": 9,
+          "crateLabel": "",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 64
+        },
+        {
+          "crateIndex": 10,
+          "crateLabel": "ALL_FLAME_WEAPONS",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 64
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-70",
+      "weaponProjectileIndex": 70,
+      "weaponIndex": 65,
+      "weaponRoles": [
+        "upgrade"
+      ],
+      "weaponMatches": 4,
+      "weaponUpgradeId": 119,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 60,
+      "weaponCameraKick": 63,
+      "weaponResource0": 256,
+      "weaponResource1": 4608,
+      "weaponResource2": 1870,
+      "weaponResource3": 550,
+      "weaponResource4": 90,
+      "projectileIndex": 70,
+      "projectileArchetypeId": 0,
+      "projectileDamage": 0,
+      "projectileBurstCount": 85,
+      "projectileCollisionMask": 0,
+      "projectileVelocityX": 0,
+      "projectileVelocityY": 120,
+      "projectileVelocityZ": 640,
+      "projectileFuseFrames": 512,
+      "projectileSpawnInterval": 0,
+      "projectileResourceA": 0,
+      "projectileResourceB": 0,
+      "projectileResourceC": 0,
+      "sources": [
+        {
+          "crateIndex": 7,
+          "crateLabel": "MOON_AREA",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 65
+        },
+        {
+          "crateIndex": 8,
+          "crateLabel": "",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 65
+        },
+        {
+          "crateIndex": 9,
+          "crateLabel": "",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 65
+        },
+        {
+          "crateIndex": 10,
+          "crateLabel": "ALL_FLAME_WEAPONS",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 65
+        }
+      ]
+    },
+    {
+      "weaponId": "weapon-81",
+      "weaponProjectileIndex": 81,
+      "weaponIndex": 0,
+      "weaponRoles": [
+        "primary",
+        "upgrade"
+      ],
+      "weaponMatches": 1,
+      "weaponUpgradeId": 113,
+      "weaponRangeA": 243,
+      "weaponRangeB": 1,
+      "weaponCooldown": 6,
+      "weaponCameraKick": 10,
+      "weaponResource0": 256,
+      "weaponResource1": 1792,
+      "weaponResource2": 1320,
+      "weaponResource3": 550,
+      "weaponResource4": 76,
+      "projectileIndex": 81,
+      "projectileArchetypeId": 6,
+      "projectileDamage": 4,
+      "projectileBurstCount": 2,
+      "projectileCollisionMask": 1,
+      "projectileVelocityX": 7,
+      "projectileVelocityY": 7,
+      "projectileVelocityZ": 7,
+      "projectileFuseFrames": 1,
+      "projectileSpawnInterval": 1,
+      "projectileResourceA": 6,
+      "projectileResourceB": 2,
+      "projectileResourceC": 1,
+      "sources": [
+        {
+          "crateIndex": 0,
+          "crateLabel": "PARK_AREA",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 0,
+          "crateLabel": "PARK_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 1,
+          "crateLabel": "PLAINS_AREA",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 1,
+          "crateLabel": "PLAINS_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 2,
+          "crateLabel": "DESERT_AREA",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 2,
+          "crateLabel": "DESERT_AREA",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 27,
+          "crateLabel": "",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 27,
+          "crateLabel": "",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 32,
+          "crateLabel": "",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 32,
+          "crateLabel": "",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 33,
+          "crateLabel": "",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 33,
+          "crateLabel": "",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 34,
+          "crateLabel": "",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 35,
+          "crateLabel": "",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 35,
+          "crateLabel": "",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 36,
+          "crateLabel": "",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 36,
+          "crateLabel": "",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 37,
+          "crateLabel": "",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 37,
+          "crateLabel": "",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 38,
+          "crateLabel": "",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 38,
+          "crateLabel": "",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 39,
+          "crateLabel": "",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 39,
+          "crateLabel": "",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 40,
+          "crateLabel": "",
+          "slot": 0,
+          "priority": "",
+          "matchKind": "primary",
+          "weaponIndex": 0
+        },
+        {
+          "crateIndex": 40,
+          "crateLabel": "",
+          "slot": 1,
+          "priority": "",
+          "matchKind": "upgrade",
+          "weaponIndex": 0
+        }
+      ]
+    }
+  ]
+}

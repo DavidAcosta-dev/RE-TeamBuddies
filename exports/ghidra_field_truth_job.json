@@ -17,6 +17,42 @@
         "engine"
       ],
       "focus_score": 1023
+    },
+    {
+      "crate_index": 4,
+      "crate_label": "ICE_AREA",
+      "slot": 1,
+      "priority": "high",
+      "focus_hint": "libgpu geometry + libgte transforms + libgte/libgpu combat loops",
+      "domains": [
+        "render",
+        "combat"
+      ],
+      "focus_score": 1023
+    },
+    {
+      "crate_index": 4,
+      "crate_label": "ICE_AREA",
+      "slot": 2,
+      "priority": "high",
+      "focus_hint": "libgpu geometry + libgte transforms + libgte/libgpu combat loops",
+      "domains": [
+        "ai",
+        "ai"
+      ],
+      "focus_score": 1023
+    },
+    {
+      "crate_index": 4,
+      "crate_label": "ICE_AREA",
+      "slot": 3,
+      "priority": "high",
+      "focus_hint": "libgpu geometry + libgte transforms + libgte/libgpu combat loops",
+      "domains": [
+        "ai",
+        "engine"
+      ],
+      "focus_score": 1023
     }
   ]
 }
